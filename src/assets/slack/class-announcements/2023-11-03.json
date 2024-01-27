@@ -1,0 +1,322 @@
+[
+  {
+    "client_msg_id": "f8cd91a7-1ea7-4a75-9b90-9c1869355e2d",
+    "type": "message",
+    "user": "U050FPSA3DH",
+    "text": "Lecture slides are up!",
+    "ts": "1698970515.217879",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "clap::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U057T1QUHB3"
+        ]
+      },
+      {
+        "name": "clap",
+        "count": 1,
+        "users": [
+          "U057HMJ9QTB"
+        ]
+      },
+      {
+        "name": "raised_hands::skin-tone-5",
+        "count": 1,
+        "users": [
+          "U057SCV767K"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0578M93BPE"
+        ]
+      },
+      {
+        "name": "raised_hands::skin-tone-3",
+        "count": 2,
+        "users": [
+          "U057C70KL57",
+          "U056K1UHEGP"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/3D8i",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Lecture slides are up!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5250305694433_62d56e5a7ac1aa48f553_72.jpg",
+      "first_name": "Carrie",
+      "real_name": "Carrie Jones",
+      "display_name": "Lead Instructor - Carrie Jones",
+      "team": "T050CSX3EMT",
+      "name": "cjones.renaissancewom",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "19573fd5-f3f3-439d-b22c-bbbbd9e1b4dc",
+    "type": "message",
+    "user": "U050FPSA3DH",
+    "text": "Tonight's lecture recording is up. Melinda's presentation is processing and I'll post that link in a bit.",
+    "ts": "1698979742.830619",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands::skin-tone-6",
+        "count": 1,
+        "users": [
+          "U057KT5DSPK"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yMi73",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Tonight's lecture recording is up. Melinda's presentation is processing and I'll post that link in a bit."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5250305694433_62d56e5a7ac1aa48f553_72.jpg",
+      "first_name": "Carrie",
+      "real_name": "Carrie Jones",
+      "display_name": "Lead Instructor - Carrie Jones",
+      "team": "T050CSX3EMT",
+      "name": "cjones.renaissancewom",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a2536963-d89b-423c-bd76-0dc3ace3b939",
+    "type": "message",
+    "user": "U050FPSA3DH",
+    "text": "Here is the \u003chttps://youtu.be/nRZ_gsSM3bw|recording\u003e of Melinda's presentation. It is unlisted and you won't find it in one of the playlists, so save the link if you want to watch it later. :lc-rocket:",
+    "ts": "1698981186.523929",
+    "thread_ts": "1698981186.523929",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: Liftoff Presentation 2023-11-02",
+        "id": 1,
+        "author_name": "Code with Carrie",
+        "author_link": "https://www.youtube.com/@CodeWithCarrie",
+        "title": "Liftoff Presentation 2023-11-02",
+        "title_link": "https://youtu.be/nRZ_gsSM3bw",
+        "thumb_url": "https://i.ytimg.com/vi/nRZ_gsSM3bw/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://youtu.be/nRZ_gsSM3bw",
+        "original_url": "https://youtu.be/nRZ_gsSM3bw",
+        "blocks": null
+      }
+    ],
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0625KF6RLH",
+        "ts": "1699020947.913219"
+      }
+    ],
+    "latest_reply": "1699020947.913219",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-5",
+        "count": 1,
+        "users": [
+          "U057SCV767K"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0579KDG6A0"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U056K1UHEGP"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zvjLY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Here is the "
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/nRZ_gsSM3bw",
+                "text": "recording"
+              },
+              {
+                "type": "text",
+                "text": " of Melinda's presentation. It is unlisted and you won't find it in one of the playlists, so save the link if you want to watch it later. "
+              },
+              {
+                "type": "emoji",
+                "name": "lc-rocket",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5250305694433_62d56e5a7ac1aa48f553_72.jpg",
+      "first_name": "Carrie",
+      "real_name": "Carrie Jones",
+      "display_name": "Lead Instructor - Carrie Jones",
+      "team": "T050CSX3EMT",
+      "name": "cjones.renaissancewom",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0625KF6RLH"
+    ]
+  },
+  {
+    "client_msg_id": "38794094-0c1b-461a-94ff-4855dd6aa6a5",
+    "type": "message",
+    "user": "U0625KF6RLH",
+    "text": "Thanks Carrie!",
+    "ts": "1699020947.913219",
+    "thread_ts": "1698981186.523929",
+    "parent_user_id": "U050FPSA3DH",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U050FPSA3DH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/BXiB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks Carrie!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-19/6068347004260_cd7e855b65583e9c6d43_72.jpg",
+      "first_name": "Melinda",
+      "real_name": "Melinda Stitzel",
+      "display_name": "Liftoff Program Manager - Melinda (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "melinda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,3909 @@
+[
+  {
+    "client_msg_id": "7d2b2112-54a3-4591-8aa4-33adebe494c2",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "In GA#3, is the job_data.csv _supposed_ to have a null value for one of the object properties?",
+    "ts": "1698606453.299619",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wM6uj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "In GA#3, is the job_data.csv "
+              },
+              {
+                "type": "text",
+                "text": "supposed",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " to have a null value for one of the object properties?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cf9f625b-7063-4c58-a40c-0afb3c0756d8",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "where do you see it?",
+    "ts": "1698606536.871139",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fX3/X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "where do you see it?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "933fc3be-c8d2-4492-8897-7417a5f03c2e",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "If I directly inspect job_data.csv, I don't see any empty fields, nor any null ones.",
+    "ts": "1698606734.200529",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PDpse",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If I directly inspect job_data.csv, I don't see any empty fields, nor any null ones."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3a51bd05-2ca4-40fc-b527-4339a6669554",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "according to the error it's pointing to my data and it's tripping up my Task Two tests. I actually was able to pass these tests through task 4 but then when i checked again the task 2 tests started failing. but even when all the tests were passing it never looked like the example so i somehow borked the starter code somewhere down the line. i've reverted to a previous commit but still encountering issues",
+    "ts": "1698606834.471089",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uFyzx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "according to the error it's pointing to my data and it's tripping up my Task Two tests. I actually was able to pass these tests through task 4 but then when i checked again the task 2 tests started failing. but even when all the tests were passing it never looked like the example so i somehow borked the starter code somewhere down the line. i've reverted to a previous commit but still encountering issues"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "40b46070-99b9-4e33-87d3-67d3efdca6df",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Huh.",
+    "ts": "1698606845.622469",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KlJq2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Huh."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f0a96851-f9bc-4f3e-b69f-2ca7e1c7d40c",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "when i ran the test and had it print the output it only printed 3 jobs",
+    "ts": "1698606851.088819",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mQfq3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "when i ran the test and had it print the output it only printed 3 jobs"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c35bcaee-5b11-496b-bea5-8ba9cdccb852",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "now i'm even more confused",
+    "ts": "1698606858.057379",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Uv4L0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "now i'm even more confused"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "749ab8d3-2914-45da-886a-5bb704bcbbdf",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I haven't finished task 4, yet, but my task 2 and 3 are passing.",
+    "ts": "1698606859.668179",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ieOWW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I haven't finished task 4, yet, but my task 2 and 3 are passing."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "418b6507-caed-49e1-9360-060184cce187",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "lol",
+    "ts": "1698606860.678489",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y+M65",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "lol"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "219ce988-2147-4c69-a8ec-f73e7b1c945b",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Oddly enough, my task 3 tests are passing even though I haven't finished task 3.",
+    "ts": "1698606912.810589",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BIQpn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oddly enough, my task 3 tests are passing even though I haven't finished task 3."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ae9b936a-c58a-4b9f-9f72-2e896b35685b",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "So go figure.",
+    "ts": "1698606916.214169",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GDqEJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So go figure."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2f79288d-d51d-4791-bf69-b2ff7c538e70",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "yeah that happenned with me too. i was able to breeze past task4 tests too",
+    "ts": "1698606947.323309",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2PY79",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah that happenned with me too. i was able to breeze past task4 tests too"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b5ddd9cf-feb1-4efa-aed2-2d9321e09c98",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": ":face_with_rolling_eyes:",
+    "ts": "1698606953.729059",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vmdDe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "face_with_rolling_eyes",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6c3acbfb-5602-4b2f-9fde-c6e27754d145",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I'll be lucky if I don't end up bald before November 13th.",
+    "ts": "1698606993.786469",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y/psa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll be lucky if I don't end up bald before November 13th."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4AEB1F22-52B5-4C4F-AA46-D863F97C8928",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "I could run my page and the demo page side by side and they worked identically but some tests still wouldn’t pass. Some of the tests are really finicky.",
+    "ts": "1698607233.710419",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nJzbx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I could run my page and the demo page side by side and they worked identically but some tests still "
+              },
+              {
+                "type": "text",
+                "text": "wouldn’t"
+              },
+              {
+                "type": "text",
+                "text": " pass. Some of the tests are really finicky."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0e39ed1d-0d21-4e60-8ca6-a47e07e6db46",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yeah.",
+    "ts": "1698607246.951049",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ruddl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e21bd98b-1707-46c9-a3aa-656b866a1a95",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "yeah i'm less worried about passing all the test, but mine isn't functioning at all like the demo so i'm targeting the tests first",
+    "ts": "1698607617.597339",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NZBdj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah i'm less worried about passing all the test, but mine isn't functioning at all like the demo so i'm targeting the tests first"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "17d1a3cd-d7da-4716-9abf-2b757020424e",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yeah, I hear that. Unfortunately, my task 3 tests pass, but I'm nowhere near finished with task 3.",
+    "ts": "1698607727.179189",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KXeME",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, I hear that. Unfortunately, my task 3 tests pass, but I'm nowhere near finished with task 3."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "87034263-38fa-4a66-ad55-b6cc76c2b170",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Now all my tests are passing but none of the templates match the demo T_T",
+    "ts": "1698613326.837319",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "face_with_rolling_eyes",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BtWnW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Now all my tests are passing but none of the templates match the demo T_T"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5adb15bf-209c-48a0-b406-dd127993cf0f",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I feel your pain.",
+    "ts": "1698613350.431509",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hgJ/q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I feel your pain."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fdcc790f-3580-447b-9c91-0f8f86809491",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "i just lost all the work i did to pass those test through git fuckery",
+    "ts": "1698614314.037169",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "exploding_head",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "91zbZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i just lost all the work i did to pass those test through git fuckery"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "08e7bfa5-bbde-4622-92d3-dc7e42d8deee",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "i'm so incredibly frustrated",
+    "ts": "1698614322.519639",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o0Uet",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i'm so incredibly frustrated"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "599ed0b3-4355-4ecb-97ce-20c954323afb",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Oh, no!",
+    "ts": "1698614340.026089",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Akss0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh, no!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "694cfbda-b390-4e9a-8d6d-ef9407547a4c",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "No way to get it back?",
+    "ts": "1698614356.672039",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8jWKS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No way to get it back?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "09163628-bece-4aae-bb6b-41ed5e8e1762",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "You can roll back commits.",
+    "ts": "1698614376.990999",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2ZksM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You can roll back commits."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "75d6d9e9-f559-40fc-9c7c-f032c951d806",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "i was able to  find the commit ID it via git reflog and did a hard reset back to it",
+    "ts": "1698614643.189499",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "rocket",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6OTW7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i was able to  find the commit ID it via git reflog and did a hard reset back to it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e92237ec-99c9-4111-ac58-8bb4c07e640f",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "and i guess it's back on my main branch (which I was trying to move that commit to from a separate branch) and it is now pushed remote repo. sorry for the language yall",
+    "ts": "1698614814.488169",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "09Y/1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and i guess it's back on my main branch (which I was trying to move that commit to from a separate branch) and it is now pushed remote repo. sorry for the language yall"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "19583b2d-944b-4983-8e30-d50e305d9330",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I'm glad you figured it out!",
+    "ts": "1698614834.569129",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9KuvN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm glad you figured it out!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8a28f237-1dbd-4176-8f1b-5284c2619b14",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "git frustrates me so much at times, but i know it's essential if i wanna do this work",
+    "ts": "1698614843.060849",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jnD0l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "git frustrates me so much at times, but i know it's essential if i wanna do this work"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bbe271c9-1f39-478e-ae12-26a5718250ff",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "thank you",
+    "ts": "1698614845.715489",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oPGX0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a0a159d9-7dc9-4261-bed5-a5b6b32b1db2",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yeah, I told Mad I was thinking of making a repo just for experimenting with Git.",
+    "ts": "1698614874.771349",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Aweza",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, I told Mad I was thinking of making a repo just for experimenting with Git."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "740a005d-7d52-4439-85c4-c569970d92b2",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "you read my mind bc i JUST was thinking that",
+    "ts": "1698614891.744049",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wpKCH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you read my mind bc i JUST was thinking that"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a66818b3-c311-4f27-b942-7a2a83d1ab93",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Just so I don't screw up \"good\" repos.",
+    "ts": "1698614892.158859",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ndd2Z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just so I don't screw up \"good\" repos."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "779216c4-82f5-4dba-b0c0-927495b8d57f",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "LOL!",
+    "ts": "1698614896.635139",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xT6AL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "LOL!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f316cb75-3fb7-4184-8d8d-3f6e9588d935",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": ":rolling_on_the_floor_laughing:",
+    "ts": "1698614904.168219",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SElLO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0e0952ac-536b-4acc-a0bc-33b80e16239c",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "great minds",
+    "ts": "1698614907.183879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xEJMh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "great minds"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3e3f0138-2f9d-4a0c-9334-8a79daa09b9f",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I am SO stuck on the last bit of task 3.",
+    "ts": "1698614907.569239",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tJjtr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am SO stuck on the last bit of task 3."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c52511a8-e772-4569-b120-039b1f19286d",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "part 5 of task 3, to be specific. I think parts 6 and 7 are ok, but I can't for the life of me get part 5 to cooperate.",
+    "ts": "1698614976.218259",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XuqSA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "part 5 of task 3, to be specific. I think parts 6 and 7 are ok, but I can't for the life of me get part 5 to cooperate."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "53f91bef-e240-42d3-8f27-dde51901d544",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Or maybe it's not supposed to display anything when I search until I get task 4 finished?",
+    "ts": "1698615029.127329",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f4rHm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Or maybe it's not supposed to display anything when I search until I get task 4 finished?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "46d89c99-ed4b-4922-b8b6-5f6fef01611d",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "i'm taking a look now....",
+    "ts": "1698615122.636409",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9TKuu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i'm taking a look now...."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dd1d0a46-fa97-48ff-94e7-caf343d8f634",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Oh. My. GOD.",
+    "ts": "1698615354.876309",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/Q8Y7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh. My. GOD."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1aae94af-43e0-410a-8167-542d2ca94b7e",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "oh?????",
+    "ts": "1698615360.824809",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9tZam",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "oh?????"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "927d9bd5-725a-4b7d-9a62-5c8396d2385f",
+    "type": "message",
+    "user": "U056Q5F0LLX",
+    "text": "Carrie mentioned in the GA3 intro video that there is no way to test task 3 until you finish task 4",
+    "ts": "1698615362.145469",
+    "thread_ts": "1698615362.145469",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05724ACLVB",
+        "ts": "1698615383.175169"
+      }
+    ],
+    "latest_reply": "1698615383.175169",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      },
+      {
+        "name": "exploding_head",
+        "count": 1,
+        "users": [
+          "U057C70KL57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sDCPP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Carrie mentioned in the GA3 intro video that there is no way to test task 3 until you finish task 4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5262025549890_cc792b23f1201d62ef84_72.jpg",
+      "first_name": "Tammy",
+      "real_name": "Tammy Walls",
+      "display_name": "Tammy Walls",
+      "team": "T050CSX3EMT",
+      "name": "tammylwalls",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05724ACLVB"
+    ]
+  },
+  {
+    "client_msg_id": "6a17d7d9-350a-4342-881b-cdc13d1b9011",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I did part 4 and now it's working.",
+    "ts": "1698615366.422799",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 1,
+        "users": [
+          "U056Q5F0LLX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "coqxX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I did part 4 and now it's working."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7c934682-d4f5-4ccd-ac4e-2387a7596fa6",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "waaaaaaa",
+    "ts": "1698615376.138169",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wS3os",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "waaaaaaa"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "55c4e376-c46c-4a65-8578-180bae0c0e00",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "NOW I remember that, since you reminded me!",
+    "ts": "1698615383.175169",
+    "thread_ts": "1698615362.145469",
+    "parent_user_id": "U056Q5F0LLX",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BGCCr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "NOW I remember that, since you reminded me!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3e30e5d9-6209-4ed6-ac73-f92844005c60",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "i don't remember that but HOORAY",
+    "ts": "1698615387.654619",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2O7D8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i don't remember that but HOORAY"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3560a63d-5ba0-4be9-a3ef-68b6f75aabdd",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I can't BELIEVE I've been banging my head against a wall for HOURS on this.",
+    "ts": "1698615409.502449",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ia1Sb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can't BELIEVE I've been banging my head against a wall for HOURS on this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "df307559-e8bc-440a-a591-04e82150e38f",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "it happens to aaalllllll of us",
+    "ts": "1698615438.562769",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HobpF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it happens to aaalllllll of us"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "16c45d9d-a97c-4ed0-ac18-497fc9d8932d",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "but so glad you got it!!!!!",
+    "ts": "1698615445.436809",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yAzk7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but so glad you got it!!!!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6f9ad143-ea3f-4327-aaea-103e7fc5ec7d",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I know.",
+    "ts": "1698615447.139129",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NrhjP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I know."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "589123b6-0729-469d-9710-80433b065951",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "It's just so frustrating.",
+    "ts": "1698615456.533779",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U057C70KL57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Y7+gl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It's just so frustrating."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e18b466a-2d2f-490a-a7f3-b2a651f4707a",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Ok, running tests before I commit and push",
+    "ts": "1698615587.468199",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dUMIz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok, running tests before I commit and push"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f0018c24-3027-4444-98c6-0c293babdced",
+    "type": "message",
+    "user": "U056Q5F0LLX",
+    "text": "Anyone finish the videos for Monday's class? I'm stuck where Chris uses the eventCategoryRepository.findById(categoryId);   IntelliJ is saying the findById() requires a String, but our argument is an integer. Anyone have any idea what is going on here? In the video he has no trouble with using an Integer. I've even copy/pasted the code from the book to verify I've not got some unruly code in there...",
+    "ts": "1698615895.298109",
+    "thread_ts": "1698615895.298109",
+    "reply_count": 14,
+    "replies": [
+      {
+        "user": "U05724ACLVB",
+        "ts": "1698615918.221349"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1698621145.921999"
+      },
+      {
+        "user": "U056Q5F0LLX",
+        "ts": "1698621660.515499"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1698621868.450589"
+      },
+      {
+        "user": "U056Q5F0LLX",
+        "ts": "1698622486.369059"
+      },
+      {
+        "user": "U057ST09U6M",
+        "ts": "1698696368.672679"
+      },
+      {
+        "user": "U056Q5F0LLX",
+        "ts": "1698696622.618999"
+      },
+      {
+        "user": "U057ST09U6M",
+        "ts": "1698696697.060639"
+      },
+      {
+        "user": "U057ST09U6M",
+        "ts": "1698696830.904489"
+      },
+      {
+        "user": "U056Q5F0LLX",
+        "ts": "1698696968.316269"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1698697002.200809"
+      },
+      {
+        "user": "U057ST09U6M",
+        "ts": "1698697296.993279"
+      },
+      {
+        "user": "U057ST09U6M",
+        "ts": "1698697306.792589"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1698697323.282329"
+      }
+    ],
+    "latest_reply": "1698697323.282329",
+    "files": [
+      {
+        "id": "F063A9V3JN7",
+        "created": 1698615892,
+        "timestamp": 1698615892,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056Q5F0LLX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 134332,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F063A9V3JN7/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F063A9V3JN7/download/image.png",
+        "original_h": 415,
+        "original_w": 719,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F063A9V3JN7-b6d1785399/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F063A9V3JN7-b6d1785399/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F063A9V3JN7-b6d1785399/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F063A9V3JN7-b6d1785399/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 208,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F063A9V3JN7-b6d1785399/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 277,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056Q5F0LLX/F063A9V3JN7/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F063A9V3JN7-5e9fbfc244",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a3ews",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anyone finish the videos for Monday's class? I'm stuck where Chris uses the eventCategoryRepository.findById(categoryId);   IntelliJ is saying the findById() requires a String, but our argument is an integer. Anyone have any idea what is going on here? In the video he has no trouble with using an Integer. I've even copy/pasted the code from the book to verify I've not got some unruly code in there..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5262025549890_cc792b23f1201d62ef84_72.jpg",
+      "first_name": "Tammy",
+      "real_name": "Tammy Walls",
+      "display_name": "Tammy Walls",
+      "team": "T050CSX3EMT",
+      "name": "tammylwalls",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U056Q5F0LLX",
+      "U056Y707Y14",
+      "U05724ACLVB",
+      "U057ST09U6M"
+    ]
+  },
+  {
+    "client_msg_id": "cc63fa95-d1fa-4f11-b41c-c31604302518",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Haven't started on that, yet, but as soon as I push, I will.",
+    "ts": "1698615918.221349",
+    "thread_ts": "1698615895.298109",
+    "parent_user_id": "U056Q5F0LLX",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "slightly_smiling_face",
+        "count": 1,
+        "users": [
+          "U056Q5F0LLX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H9Uda",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Haven't started on that, yet, but as soon as I push, I will."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2072a778-491c-4ad8-8cd9-ae56be2edb6e",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "I am constantly having issues with my application not working right because of a missing backslash. My code matched the code at the start of the chapter exercises and I am following Chris's code but when displaying all events it is localhost:8080/events not localhost:8080/events/. It works fine until I try to add the query for a certain category. Why do I keep running into this issue?",
+    "ts": "1698619732.970589",
+    "thread_ts": "1698619732.970589",
+    "reply_count": 29,
+    "replies": [
+      {
+        "user": "U056Y707Y14",
+        "ts": "1698621375.316529"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698621803.189739"
+      },
+      {
+        "user": "U056Q5F0LLX",
+        "ts": "1698623725.345629"
+      },
+      {
+        "user": "U056WKJH4VB",
+        "ts": "1698681161.701679"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698712525.174729"
+      },
+      {
+        "user": "U056Q5F0LLX",
+        "ts": "1698712743.168609"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698712863.564949"
+      },
+      {
+        "user": "U056Q5F0LLX",
+        "ts": "1698712915.900409"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698712928.647449"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698712937.594019"
+      },
+      {
+        "user": "U056Q5F0LLX",
+        "ts": "1698713008.488599"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698713013.456089"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698713016.288919"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698713031.055479"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698713281.893149"
+      },
+      {
+        "user": "U056Q5F0LLX",
+        "ts": "1698713340.451029"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698713505.950549"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698713519.747969"
+      },
+      {
+        "user": "U056Q5F0LLX",
+        "ts": "1698713554.418749"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698713577.530759"
+      },
+      {
+        "user": "U056Q5F0LLX",
+        "ts": "1698713654.257599"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698713724.246379"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698713739.774779"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698713886.137199"
+      },
+      {
+        "user": "U056Q5F0LLX",
+        "ts": "1698713925.820779"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698713998.291939"
+      },
+      {
+        "user": "U056Q5F0LLX",
+        "ts": "1698714125.126419"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698714351.509169"
+      },
+      {
+        "user": "U056Q5F0LLX",
+        "ts": "1698714375.556559"
+      }
+    ],
+    "latest_reply": "1698714375.556559",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rwtTJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am constantly having issues with my application not working right because of a missing backslash. My code matched the code at the start of the chapter exercises and I am following Chris's code but when displaying all events it is localhost:8080/events not localhost:8080/events/. It works fine until I try to add the query for a certain category. Why do I keep running into this issue?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U056Q5F0LLX",
+      "U056Q9W022K",
+      "U056WKJH4VB",
+      "U056Y707Y14"
+    ]
+  },
+  {
+    "client_msg_id": "5d9d6bdb-eb5f-462e-b71d-d969087c1305",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "weird, I’m at the same part in the exercises and my code looks identical to yours as far as I can tell but I’m not getting that error. is it possible you imported the wrong version of Optional? or maybe there’s an issue with how eventCategory is set up?",
+    "ts": "1698621145.921999",
+    "thread_ts": "1698615895.298109",
+    "parent_user_id": "U056Q5F0LLX",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "38MUA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "weird, I’m at the same part in the exercises and my code looks identical to yours as far as I can tell but I’m not getting that error. is it possible you imported the wrong version of Optional? or maybe there’s an issue with how eventCategory is set up?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ecb30f44-5684-433b-8eb1-d7b08fb39b26",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "I have this same question! in case it helps mine is also missing a / but the queries are displaying at \u003chttp://localhost:8080/events?categoryId=1\u003e",
+    "ts": "1698621375.316529",
+    "thread_ts": "1698619732.970589",
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056SERBK2B"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lENGG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have this same question! in case it helps mine is also missing a / but the queries are displaying at "
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:8080/events?categoryId=1",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3ef32942-c170-4896-8320-649906a8de64",
+    "type": "message",
+    "user": "U056Q5F0LLX",
+    "text": "```import java.util.Optional;```\n",
+    "ts": "1698621660.515499",
+    "thread_ts": "1698615895.298109",
+    "parent_user_id": "U056Q5F0LLX",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v1Ptt",
+        "elements": [
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"import java.util.Optional;\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5262025549890_cc792b23f1201d62ef84_72.jpg",
+      "first_name": "Tammy",
+      "real_name": "Tammy Walls",
+      "display_name": "Tammy Walls",
+      "team": "T050CSX3EMT",
+      "name": "tammylwalls",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "BB78C082-F552-4924-AB24-280802221AB6",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I also have this question. ",
+    "ts": "1698621803.189739",
+    "thread_ts": "1698619732.970589",
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Wx5pb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I also have this question. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6bf36342-d428-43ae-be0a-5d9b61d91a46",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "yeah, that’s the same import I used. very weird, this all looks right to me :woman-shrugging:",
+    "ts": "1698621868.450589",
+    "thread_ts": "1698615895.298109",
+    "parent_user_id": "U056Q5F0LLX",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZUqJ3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah, that’s the same import I used. very weird, this all looks right to me "
+              },
+              {
+                "type": "emoji",
+                "name": "woman-shrugging",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "aab92095-43cb-472c-ba52-d2fe3af700ba",
+    "type": "message",
+    "user": "U056Q5F0LLX",
+    "text": "it was the EventCategoryRepository, i had it set to string!  Still having no luck getting the sorted results to display though..",
+    "ts": "1698622486.369059",
+    "thread_ts": "1698615895.298109",
+    "parent_user_id": "U056Q5F0LLX",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TljKP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it was the EventCategoryRepository, i had it set to string!  Still having no luck getting the sorted results to display though.."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5262025549890_cc792b23f1201d62ef84_72.jpg",
+      "first_name": "Tammy",
+      "real_name": "Tammy Walls",
+      "display_name": "Tammy Walls",
+      "team": "T050CSX3EMT",
+      "name": "tammylwalls",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "334ba0a4-6274-4385-b87a-0027b0afd2bb",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "For someone who's GA#3 assignment runs like the demo app, could you be so kind as to tell me what spring boot version they are running and thymeleaf configuration? i don't know if that counts as cheating but seems my issues are pointing to this and i have no idea how to check/fix it",
+    "ts": "1698622828.730019",
+    "thread_ts": "1698622828.730019",
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U05724ACLVB",
+        "ts": "1698622846.384169"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1698622849.320289"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1698622880.952599"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1698622905.282199"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1698622905.681279"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1698622985.365429"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1698623021.246069"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1698623159.679979"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1698623281.881539"
+      }
+    ],
+    "latest_reply": "1698623281.881539",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "orU50",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For someone who's GA#3 assignment runs like the demo app, could you be so kind as to tell me what spring boot version they are running and thymeleaf configuration? i don't know if that counts as cheating but seems my issues are pointing to this and i have no idea how to check/fix it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05724ACLVB",
+      "U057C70KL57"
+    ]
+  },
+  {
+    "client_msg_id": "6797f29a-7b96-45bf-adb5-06a4c0ce8e29",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I wouldn't think that would be cheating.",
+    "ts": "1698622846.384169",
+    "thread_ts": "1698622828.730019",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nnHAd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I wouldn't think that would be cheating."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b69345ec-7263-4246-b204-79eae07c4531",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Just a sec.",
+    "ts": "1698622849.320289",
+    "thread_ts": "1698622828.730019",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U057C70KL57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zmnME",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just a sec."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e6bcc110-8b2b-436e-9f27-2f2c492ca660",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Wait, didn't they set up the Spring Boot for us?",
+    "ts": "1698622880.952599",
+    "thread_ts": "1698622828.730019",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uc8UN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Wait, didn't they set up the Spring Boot for us?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2f65f5b0-5ad1-4250-8d24-ae74a78edc30",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "i assume, but every part of my code looks correct",
+    "ts": "1698622905.282199",
+    "thread_ts": "1698622828.730019",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3U/SE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i assume, but every part of my code looks correct"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e8af2202-1ecf-42e7-85fe-107070421b2e",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "```id 'org.springframework.boot' version '3.1.0'\nid 'io.spring.dependency-management' version '1.1.0'```\n",
+    "ts": "1698622905.681279",
+    "thread_ts": "1698622828.730019",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2WUQo",
+        "elements": [
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"id 'org.springframework.boot' version '3.1.0'\\nid 'io.spring.dependency-management' version '1.1.0'\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2312b670-a66f-46a6-8f44-586a4ecbf41c",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "That's what I get from build.gradle.",
+    "ts": "1698622985.365429",
+    "thread_ts": "1698622828.730019",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QmEd7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That's what I get from build.gradle."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0c5b849e-d0c1-48ab-9a13-b349eb5fd4c9",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Not really sure where to look for the Thymeleaf config.",
+    "ts": "1698623021.246069",
+    "thread_ts": "1698622828.730019",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oGLHQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Not really sure where to look for the Thymeleaf config."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2c8f451b-c500-421f-ab56-e37642d50e5c",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "does this part look the same to you?",
+    "ts": "1698623159.679979",
+    "thread_ts": "1698622828.730019",
+    "parent_user_id": "U057C70KL57",
+    "files": [
+      {
+        "id": "F0637KH12TF",
+        "created": 1698623157,
+        "timestamp": 1698623157,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057C70KL57",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 151319,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F0637KH12TF/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F0637KH12TF/download/image.png",
+        "original_h": 887,
+        "original_w": 956,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F0637KH12TF-a1972ebea3/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F0637KH12TF-a1972ebea3/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F0637KH12TF-a1972ebea3/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F0637KH12TF-a1972ebea3/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 334,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F0637KH12TF-a1972ebea3/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 445,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F0637KH12TF-a1972ebea3/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 668,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057C70KL57/F0637KH12TF/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F0637KH12TF-ef0638dabc",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Btpu1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "does this part look the same to you?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d5bdf4ae-223b-4dee-b641-6e7c83c764ef",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "yes",
+    "ts": "1698623281.881539",
+    "thread_ts": "1698622828.730019",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U057C70KL57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IB8ze",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4c00a3e1-8ff9-49e3-ae59-be9478a28f63",
+    "type": "message",
+    "user": "U056Q5F0LLX",
+    "text": "I had this same issue it worked @ \u003chttp://localhost:8080/events?categoryid=154\u003e",
+    "ts": "1698623725.345629",
+    "thread_ts": "1698619732.970589",
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056SERBK2B"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bOxGf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I had this same issue it worked @ "
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:8080/events?categoryid=154",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5262025549890_cc792b23f1201d62ef84_72.jpg",
+      "first_name": "Tammy",
+      "real_name": "Tammy Walls",
+      "display_name": "Tammy Walls",
+      "team": "T050CSX3EMT",
+      "name": "tammylwalls",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

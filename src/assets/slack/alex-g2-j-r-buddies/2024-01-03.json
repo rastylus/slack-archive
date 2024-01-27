@@ -1,0 +1,201 @@
+[
+  {
+    "client_msg_id": "37e19ebe-efec-4167-b035-1e8d4d8a0e29",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "\u003c@U05794241U4\u003e what do you need to finish the authentication?",
+    "ts": "1704245796.392729",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YOsnh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05794241U4"
+              },
+              {
+                "type": "text",
+                "text": " what do you need to finish the authentication?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4e1603a8-9dd6-44f3-a5c7-450910d12e2a",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "Is DisplayResults working on anyone else's machine? I know it was working but it is giving me an error.",
+    "ts": "1704305788.195699",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "s/1WK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is DisplayResults working on anyone else's machine? I know it was working but it is giving me an error."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ce540630-e932-4e6f-aedc-5f23f5b8eca5",
+    "type": "message",
+    "user": "U057HFYT7B3",
+    "text": "DisplayResults has been working for me. What exactly is the error you're getting?",
+    "ts": "1704323369.771809",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x9Spk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "DisplayResults has been working for me. What exactly is the error you're getting?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/7b50144ab2b43edd5307cd9670782471.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Martin",
+      "real_name": "Martin Yap",
+      "display_name": "Martin Yap",
+      "team": "T050CSX3EMT",
+      "name": "myap4133",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9893973a-ccbd-4663-beb3-cc7b9ef2d380",
+    "type": "message",
+    "user": "U057HFYT7B3",
+    "text": "Just tested DisplayResults again. Everything seems to be working fine. Just post a screenshot of the error you're receiving.",
+    "ts": "1704323917.997979",
+    "thread_ts": "1704323917.997979",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056SERBK2B",
+        "ts": "1704385444.780749"
+      }
+    ],
+    "latest_reply": "1704385444.780749",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "13gP1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just tested DisplayResults again. Everything seems to be working fine. Just post a screenshot of the error you're receiving."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/7b50144ab2b43edd5307cd9670782471.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Martin",
+      "real_name": "Martin Yap",
+      "display_name": "Martin Yap",
+      "team": "T050CSX3EMT",
+      "name": "myap4133",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056SERBK2B"
+    ]
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "client_msg_id": "ecbee6ba-59aa-4dd5-84b2-04eeb197b938",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "How did you guys format the SQL queries on assignment 4? I just put them under the commented out part number but the tests don't seem to like that...",
+    "ts": "1699890343.413049",
+    "thread_ts": "1699890343.413049",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U057UGWMN48",
+        "ts": "1699890922.417759"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1699892358.908289"
+      },
+      {
+        "user": "U057UGWMN48",
+        "ts": "1699892416.536129"
+      }
+    ],
+    "latest_reply": "1699892416.536129",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "45Tce",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How did you guys format the SQL queries on assignment 4? I just put them under the commented out part number but the tests don't seem to like that..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05768C2NP4",
+      "U057UGWMN48"
+    ]
+  },
+  {
+    "client_msg_id": "42d76cbb-42f1-4e11-9d86-8a1569e0dcca",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "The tests use regex patterns to parse the contents of the queries.sql file; so it's not so much where you place the queries, but more how they are formatted and what the tests are looking for.",
+    "ts": "1699890922.417759",
+    "thread_ts": "1699890343.413049",
+    "edited": {
+      "user": "U057UGWMN48",
+      "ts": "1699890946.000000"
+    },
+    "parent_user_id": "U05768C2NP4",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M33HY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The tests use regex patterns to parse the contents of the queries.sql file; so it's not so much where you place the queries, but more how they are formatted and what the tests are looking for."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d224a396-eb71-4c84-ad95-c02599e53aee",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Turns out I just forgot the semi colon at the end... smh... Thanks Alex!",
+    "ts": "1699892358.908289",
+    "thread_ts": "1699890343.413049",
+    "parent_user_id": "U05768C2NP4",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JkwLx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Turns out I just forgot the semi colon at the end... smh... Thanks Alex!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "765e6289-342f-4eb8-9a27-ec662ba711fc",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "Haha, I had that issue as well at one point. You're welcome! :blush:",
+    "ts": "1699892416.536129",
+    "thread_ts": "1699890343.413049",
+    "parent_user_id": "U05768C2NP4",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IQj/I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Haha, I had that issue as well at one point. You're welcome! "
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4c9cfe42-c643-4616-8511-c5df34824d34",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "\u003chttps://darknetdiaries.com/\u003e",
+    "ts": "1699918985.489639",
+    "attachments": [
+      {
+        "fallback": "Darknet Diaries – True stories from the dark side of the Internet.",
+        "id": 1,
+        "title": "Darknet Diaries – True stories from the dark side of the Internet.",
+        "title_link": "https://darknetdiaries.com/",
+        "text": "A podcast featuring true stories from the dark side of the Internet.",
+        "thumb_url": "https://darknetdiaries.com/imgs/darknet-diaries-sm.jpg",
+        "service_name": "darknetdiaries.com",
+        "service_icon": "https://darknetdiaries.com/imgs/favicon.png",
+        "from_url": "https://darknetdiaries.com/",
+        "original_url": "https://darknetdiaries.com/",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U0574GXK1A9",
+          "U05656EM4EM"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GmkzM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://darknetdiaries.com/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "44baa805-8ce0-4f0e-8f08-32e24d65165a",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "Connect with me on Linkedin!!!",
+    "ts": "1699919371.979419",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S/7Fl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Connect with me on Linkedin!!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d4f52dff-b17b-44cb-9b6c-42b33756e1cc",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "\u003chttps://www.linkedin.com/in/alex-merchant-41abb4169/\u003e",
+    "ts": "1699919374.103229",
+    "attachments": [
+      {
+        "fallback": "Alex Merchant | LinkedIn",
+        "id": 1,
+        "title": "Alex Merchant | LinkedIn",
+        "title_link": "https://www.linkedin.com/in/alex-merchant-41abb4169/",
+        "text": "View Alex Merchant’s profile on LinkedIn, the world’s largest professional community. Alex has 1 job listed on their profile. See the complete profile on LinkedIn and discover Alex’s connections and jobs at similar companies.",
+        "thumb_url": "https://media.licdn.com/dms/image/D4E03AQE3JGvzFDzdhw/profile-displayphoto-shrink_800_800/0/1698337295995?e=2147483647\u0026v=beta\u0026t=tiUhB4Sw404M1iW5UYsdaQC06OZpgV6GwWGhp1k5aHY",
+        "service_name": "linkedin.com",
+        "service_icon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "from_url": "https://www.linkedin.com/in/alex-merchant-41abb4169/",
+        "original_url": "https://www.linkedin.com/in/alex-merchant-41abb4169/",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xi/b2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/alex-merchant-41abb4169/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cf24d6c5-ecfe-4e29-bbf0-e58ecbed1dd4",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "Here's my LinkedIn: \u003chttp://www.linkedin.com/in/jen-d-46864929b/|www.linkedin.com/in/jen-d-46864929b/\u003e",
+    "ts": "1699919579.658059",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uOC6l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Here's my LinkedIn: "
+              },
+              {
+                "type": "link",
+                "url": "http://www.linkedin.com/in/jen-d-46864929b/",
+                "text": "www.linkedin.com/in/jen-d-46864929b/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

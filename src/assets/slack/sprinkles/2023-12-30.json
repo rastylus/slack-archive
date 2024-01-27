@@ -1,0 +1,190 @@
+[
+  {
+    "client_msg_id": "41c64c42-651c-4d69-a364-b57d9fc1b5b9",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Good morning sprinkles group! I added another recipe to our recipe list, so we now have 3 for each course. You guys can check it out whenever you got the time. Happy coding! :grin:",
+    "ts": "1703949802.966619",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SV8r7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good morning sprinkles group! I added another recipe to our recipe list, so we now have 3 for each course. You guys can check it out whenever you got the time. Happy coding! "
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "32beef71-003d-4b63-968a-ad4baefd8e7e",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Does anyone know the localhost address we should send fetch requests to? I know we set up the CORS to allow from a specific port, and was guessing we'll send the requests to wherever we run the Springboot App.",
+    "ts": "1703960555.625299",
+    "thread_ts": "1703960555.625299",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1704037315.898269"
+      },
+      {
+        "user": "U05777MT72P",
+        "ts": "1704053539.390269"
+      }
+    ],
+    "latest_reply": "1704053539.390269",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3befZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Does anyone know the localhost address we should send fetch requests to? I know we set up the CORS to allow from a specific port, and was guessing we'll send the requests to wherever we run the Springboot App."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05777MT72P",
+      "U057HGZ7W8Z"
+    ]
+  },
+  {
+    "client_msg_id": "d9111156-8628-4cd3-9d3e-5f9667f10afe",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "We needed a unit converter right? would this one work or is the the github account that didn't work anymore? \u003chttps://akshayanandraut.github.io/api-unit-converter/\u003e",
+    "ts": "1703962068.549899",
+    "thread_ts": "1703962068.549899",
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U05777MT72P",
+        "ts": "1704000393.073339"
+      },
+      {
+        "user": "U057WAMKE5N",
+        "ts": "1704031769.415369"
+      },
+      {
+        "user": "U057WAMKE5N",
+        "ts": "1704032651.554219"
+      },
+      {
+        "user": "U057WAMKE5N",
+        "ts": "1704032840.721689"
+      }
+    ],
+    "latest_reply": "1704032840.721689",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5w8Um",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We needed a unit converter right? would this one work or is the the github account that didn't work anymore? "
+              },
+              {
+                "type": "link",
+                "url": "https://akshayanandraut.github.io/api-unit-converter/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05777MT72P",
+      "U057WAMKE5N"
+    ]
+  }
+]

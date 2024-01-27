@@ -1,0 +1,221 @@
+[
+  {
+    "client_msg_id": "990db09b-85f8-4871-a664-c2fe2a069af9",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "\u003c!channel\u003e is 6pm ok today?",
+    "ts": "1702849083.930489",
+    "thread_ts": "1702849083.930489",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U057UDD3JV6",
+        "ts": "1702849331.774899"
+      },
+      {
+        "user": "U057A523Z6H",
+        "ts": "1702850273.909619"
+      },
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1702850408.363089"
+      }
+    ],
+    "latest_reply": "1702850408.363089",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pP+n6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " is 6pm ok today?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U0575DF8MA6",
+      "U057A523Z6H",
+      "U057UDD3JV6"
+    ]
+  },
+  {
+    "client_msg_id": "F6D74B84-80DC-48F5-9E5E-B63E505E4CEB",
+    "type": "message",
+    "user": "U057UDD3JV6",
+    "text": "that’s fine with me! ",
+    "ts": "1702849331.774899",
+    "thread_ts": "1702849083.930489",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jdpTd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that’s"
+              },
+              {
+                "type": "text",
+                "text": " fine with me! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2028ffbf42dbb4064be8191be47a86d2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Taylor",
+      "real_name": "Taylor Richmond",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "taylorr.016",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "66b97010-9d6a-4e66-999a-7d56b48b6f2b",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "fine by me as well",
+    "ts": "1702850273.909619",
+    "thread_ts": "1702849083.930489",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pmZ9N",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "fine by me as well"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d2e1c6a4-56ae-4b24-a0f5-67faff2d4fee",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "Ok for me too.",
+    "ts": "1702850408.363089",
+    "thread_ts": "1702849083.930489",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ufw6I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok for me too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "client_msg_id": "38a6722b-0384-4ec6-a6ad-98d3f9f25f87",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "I think you have to add \"export default App;\" back into the App,jsx file. I think we deleted when we were trying to get the merge conflicts to resolve but looks like we need it?",
+    "ts": "1704574653.068919",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4+pem",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think you have to add \"export default App;\" back into the App,jsx file. I think we deleted when we were trying to get the merge conflicts to resolve but looks like we need it?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f2b2cc53-8345-48dd-9ae7-20359da48785",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "At the end of the code",
+    "ts": "1704574660.979399",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GUp+O",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "At the end of the code"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f600e3c5-d839-4794-9762-bef4d5e9d99a",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "FYI I was able to edit the code to make sure our app is working and it looks like it is. I added \"- Updated!\" to it and it did change it the browser. So that's good at least?",
+    "ts": "1704577434.133449",
+    "files": [
+      {
+        "id": "F06CRFY864T",
+        "created": 1704577376,
+        "timestamp": 1704577376,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0577EKQS9Z",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 47557,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06CRFY864T/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06CRFY864T/download/image.png",
+        "original_h": 705,
+        "original_w": 928,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CRFY864T-38b29af68e/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CRFY864T-38b29af68e/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CRFY864T-38b29af68e/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CRFY864T-38b29af68e/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 273,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CRFY864T-38b29af68e/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 365,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CRFY864T-38b29af68e/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 547,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0577EKQS9Z/F06CRFY864T/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06CRFY864T-111905b90c",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nTVL3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "FYI I was able to edit the code to make sure our app is working and it looks like it is. I added \"- Updated!\" to it and it did change it the browser. So that's good at least?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

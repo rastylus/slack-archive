@@ -1,0 +1,670 @@
+[
+  {
+    "client_msg_id": "ffb20f45-37b1-4646-b4ef-f2c494956c6a",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I put in a new pull request for the backend CRUD but I’m at a loss with these .idea files. Maybe someone else wants to take a whack at the gitignore?",
+    "ts": "1702608499.312689",
+    "thread_ts": "1702608499.312689",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U05744248P7",
+        "ts": "1702609717.581859"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1702667471.514219"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702668037.495749"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702668055.405169"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1702668525.029359"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702676534.082979"
+      }
+    ],
+    "latest_reply": "1702676534.082979",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FKGXz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I put in a new pull request for the backend CRUD but I’m at a loss with these .idea files. Maybe someone else wants to take a whack at the gitignore?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05724ACLVB",
+      "U05744248P7"
+    ]
+  },
+  {
+    "client_msg_id": "12ec175a-a5f3-4dca-b729-cf6a272a6d11",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "I'm more than happy to take a whack at it tomorrow. Today has drained me mentally/physically.",
+    "ts": "1702609717.581859",
+    "thread_ts": "1702608499.312689",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Qnhel",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm more than happy to take a whack at it tomorrow. Today has drained me mentally/physically."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "19c77417-09eb-460b-a01c-752e64bdf479",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Note: Please make sure if you're working a while on something, to stash that changes before pulling to make sure you're up to date so that you have those changes saved just in case something goes horribly wrong\n\nSomething went horribly wrong so i spent probably 1.5 hours fixing something that originally took 30 minutes :)",
+    "ts": "1702617081.334569",
+    "thread_ts": "1702617081.334569",
+    "edited": {
+      "user": "U057P8PCXT2",
+      "ts": "1702617100.000000"
+    },
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702659337.094499"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702668075.838359"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702668111.966819"
+      }
+    ],
+    "latest_reply": "1702668111.966819",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05744248P7"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "00B/r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Note: Please make sure if you're working a while on something, to stash that changes before pulling to make sure you're up to date so that you have those changes saved just in case something goes horribly wrong\n\nSomething went horribly wrong so i spent probably 1.5 hours fixing something that originally took 30 minutes :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05724ACLVB",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "5afa3bf8-3323-49dd-8265-713548bb3eb9",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Created a PR adding some separation, navbar, and styling to the pages.",
+    "ts": "1702618787.587879",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YyhZj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Created a PR adding some separation, navbar, and styling to the pages."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dc73440f-1d2c-41ac-8b34-e8bc2ad1e125",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "“git fetch origin main” followed by “git merge origin/main” (while on my feature branch) merged _some_ changes successfully without losing any of my work. It didn’t work for the .gitignore file that I was attempting to fetch in the first place, but it did load your front end pages from main onto my back end feature branch I was working on without affecting my work.\n\nGithub has definitely been my biggest hurdle of this so far!",
+    "ts": "1702659337.094499",
+    "thread_ts": "1702617081.334569",
+    "edited": {
+      "user": "U057UFP7YLQ",
+      "ts": "1702670471.000000"
+    },
+    "parent_user_id": "U057P8PCXT2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yjMrl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "“git fetch origin main” followed by “git merge origin/main” (while on my feature branch) merged "
+              },
+              {
+                "type": "text",
+                "text": "some",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " changes successfully without losing any of my work. It didn’t work for the .gitignore file that I was attempting to fetch in the first place, but it did load your front end pages from main onto my back end feature branch I was working on without affecting my work.\n\nGithub has definitely been my biggest hurdle of this so far!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f753ce50-2869-4957-ad53-71bbd4bebb56",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Have we tried adding *.idea to .gitgnore? And are we concerned in any way about having shared intelliJ settings?",
+    "ts": "1702667471.514219",
+    "thread_ts": "1702608499.312689",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wHrcp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Have we tried adding *.idea to .gitgnore? And are we concerned in any way about having shared intelliJ settings?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9d16a35a-b1fa-46c0-bfd5-cb96f3b08846",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I don't know if we've tried that, but I think the location of the .gitignore file matters. There appear to be three. One in the root, one in the front end, and one in the back end.",
+    "ts": "1702668037.495749",
+    "thread_ts": "1702608499.312689",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/Jr2U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I don't know if we've tried that, but I think the location of the .gitignore file matters. There appear to be three. One in the root, one in the front end, and one in the back end."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3172d576-6799-47a6-88e8-6d29602c25db",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "My guess is that the .idea ignores need to go in the back end .gitignore.",
+    "ts": "1702668055.405169",
+    "thread_ts": "1702608499.312689",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VR01f",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My guess is that the .idea ignores need to go in the back end .gitignore."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8e627d7a-4d6e-471c-af01-36ee350f64cc",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Oh, no!",
+    "ts": "1702668075.838359",
+    "thread_ts": "1702617081.334569",
+    "parent_user_id": "U057P8PCXT2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Akss0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh, no!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "59205544-3f37-4d9d-a08a-7ec7c8db1028",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yeah, all the branching is confusing.",
+    "ts": "1702668111.966819",
+    "thread_ts": "1702617081.334569",
+    "parent_user_id": "U057P8PCXT2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UOk3f",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, all the branching is confusing."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "467309c3-8b48-45a5-9179-fedb5361fb69",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "From what I'm reading, you can use both folders, if wanting to have hands on control. It appears simplest approach would be adding to the root directory.",
+    "ts": "1702668525.029359",
+    "thread_ts": "1702608499.312689",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "51Wka",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "From what I'm reading, you can use both folders, if wanting to have hands on control. It appears simplest approach would be adding to the root directory."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4ea930f2-c579-4884-b22f-9a4806a03e10",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Go for it.",
+    "ts": "1702676534.082979",
+    "thread_ts": "1702608499.312689",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JHiNp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Go for it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

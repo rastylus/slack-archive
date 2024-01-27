@@ -1,0 +1,2671 @@
+[
+  {
+    "client_msg_id": "46af0af3-b62f-4969-947a-f9df659bcc4a",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Hey guys, I was told to reach out to our broader community- but has anyone else run into issues with cors? Specifically 403 errors when trying to hit springboot from react in the browser?",
+    "ts": "1705349614.968679",
+    "thread_ts": "1705349614.968679",
+    "reply_count": 46,
+    "replies": [
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705349839.223589"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705349857.466009"
+      },
+      {
+        "user": "U056K1UHEGP",
+        "ts": "1705350005.854109"
+      },
+      {
+        "user": "U056K1UHEGP",
+        "ts": "1705350028.028979"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705350037.002059"
+      },
+      {
+        "user": "U056K1UHEGP",
+        "ts": "1705350045.457499"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705350065.675769"
+      },
+      {
+        "user": "U057BAHNQAZ",
+        "ts": "1705350089.424189"
+      },
+      {
+        "user": "U056K1UHEGP",
+        "ts": "1705350089.465629"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705350091.147679"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705350096.653249"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705350124.886999"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705350173.359299"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705350279.859579"
+      },
+      {
+        "user": "U057BAHNQAZ",
+        "ts": "1705350730.603089"
+      },
+      {
+        "user": "U057BAHNQAZ",
+        "ts": "1705350805.637869"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705350981.400829"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705351699.323909"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705351737.732879"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705351746.339349"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705351777.841659"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705351839.102539"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705351862.147979"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705351886.657459"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705351915.219359"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705351961.368719"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705352055.632139"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705352077.422449"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705352204.338269"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705352297.676379"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705352346.246389"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705352372.309299"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705352424.885439"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705352431.279859"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705352447.431869"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705352453.798979"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705352486.052639"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705352507.489419"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705352538.060399"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705352556.601689"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705352583.632439"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705352588.936949"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1705352608.521349"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1705354666.284329"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705356133.917609"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1705356246.957739"
+      }
+    ],
+    "latest_reply": "1705356246.957739",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CiVBL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys, I was told to reach out to our broader community- but has anyone else run into issues with cors? Specifically 403 errors when trying to hit springboot from react in the browser?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U056K1UHEGP",
+      "U05750B4K1Q",
+      "U05756M4E1H",
+      "U057BAHNQAZ",
+      "U065L4THRPF"
+    ]
+  },
+  {
+    "client_msg_id": "9dad5454-87ab-493d-9d7a-dccd46727657",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "ross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at \u003chttp://localhost:8080/Register\u003e. (Reason: CORS header ‘Access-Control-Allow-Origin’ missing). Status code: 403.",
+    "ts": "1705349839.223589",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "INSkh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at "
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:8080/Register",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": ". (Reason: CORS header ‘Access-Control-Allow-Origin’ missing). Status code: 403."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c531b64a-898e-4f56-b20a-c298f947ecd0",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "But I have the Access Control Allow Origin header in my fetch request on the front end",
+    "ts": "1705349857.466009",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "09skA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "But I have the Access Control Allow Origin header in my fetch request on the front end"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "197C6577-CC12-4F76-A732-4392B87F57BB",
+    "type": "message",
+    "user": "U056K1UHEGP",
+    "text": "Does your controller have @restcontroller annotation ?!",
+    "ts": "1705350005.854109",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DeBAy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Does your controller have @restcontroller annotation ?!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/13e306b805121fa81ffc3395068bf579.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Sneha",
+      "real_name": "Sneha Chitre",
+      "display_name": "Sneha Chitre (KC)",
+      "team": "T050CSX3EMT",
+      "name": "sneha.chitre.usa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "51C003D9-5B39-4EB4-833B-D2DF94F36A78",
+    "type": "message",
+    "user": "U056K1UHEGP",
+    "text": "Sorry I meant @crossorigin annotation ",
+    "ts": "1705350028.028979",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YCA0v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry I meant @crossorigin annotation "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/13e306b805121fa81ffc3395068bf579.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Sneha",
+      "real_name": "Sneha Chitre",
+      "display_name": "Sneha Chitre (KC)",
+      "team": "T050CSX3EMT",
+      "name": "sneha.chitre.usa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dff970a2-5915-438d-a17d-ceb942319d3c",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Yeah, both",
+    "ts": "1705350037.002059",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "I4lB7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, both"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "BADD59C7-1504-4281-89CD-D9FFB90212DF",
+    "type": "message",
+    "user": "U056K1UHEGP",
+    "text": "Interesting ",
+    "ts": "1705350045.457499",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+TzDU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Interesting "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/13e306b805121fa81ffc3395068bf579.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Sneha",
+      "real_name": "Sneha Chitre",
+      "display_name": "Sneha Chitre (KC)",
+      "team": "T050CSX3EMT",
+      "name": "sneha.chitre.usa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1fd6559f-d125-44ba-8422-039e2883e3b4",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "CrossOrigin (origins= \"*\") and RestController",
+    "ts": "1705350065.675769",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "X1JDm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "CrossOrigin (origins= \"*\") and RestController"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eef47da6-b381-4c2e-9d38-5014a1211f0d",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "What does your request look like?",
+    "ts": "1705350089.424189",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rXuNI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What does your request look like?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3C174BBB-21BC-4EFD-8F80-5D3E5E45572D",
+    "type": "message",
+    "user": "U056K1UHEGP",
+    "text": "Try changing allowed hosts value to specific localhost like \u003chttp://localhost:5173/|http://localhost:5173/\u003e be *",
+    "ts": "1705350089.465629",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FCiQr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Try changing allowed hosts value to specific localhost like "
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:5173/",
+                "text": "http://localhost:5173/"
+              },
+              {
+                "type": "text",
+                "text": " be *"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/13e306b805121fa81ffc3395068bf579.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Sneha",
+      "real_name": "Sneha Chitre",
+      "display_name": "Sneha Chitre (KC)",
+      "team": "T050CSX3EMT",
+      "name": "sneha.chitre.usa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5027ccb8-c0bb-450b-a0c4-eba73d38cf0f",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "I'm looking up how to set up a proxy now",
+    "ts": "1705350091.147679",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G47rP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm looking up how to set up a proxy now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B34E916E-D8C0-4452-9339-FFED070CC680",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "Technically, if you’re getting a 403 back I don't think it's a CORS issue",
+    "ts": "1705350096.653249",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qkQRL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Technically, if you’re getting a 403 back I don't think it's a CORS issue"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8870EE07-F039-4D5C-A91D-6D393E535BF9",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "CORS would be under a different status code I believe. ",
+    "ts": "1705350124.886999",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9bYJB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "CORS would be under a different status code I believe. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3b276237-2287-460c-988e-c3dd09837598",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "\u003c@U057BAHNQAZ\u003e request looks like: try {\n      _const_ response = await fetch('\u003chttp://localhost:8080/Register\u003e', {\n        method: 'POST',\n        headers: { 'Content-Type': 'application/json',\n        'Access-Control-Allow-Origin': '*',\n        'Access-Control-Allow-Credentials': 'true',\n        //'Content-Type': 'multipart/form-data',\n        'Accept': '*/*',\n\n        'Host': 'localhost:8080',\n        'Accept-Encoding':'gzip, deflate, br',\n        'Connection': 'keep-alive',\n        'Content-Length': '172'\n        },\n        body: JSON.stringify(formData)\n      });\n\n      if (response.ok) {\n        setSuccessMessage('Registration successful!');\n      } else {\n        setError('Registration failed');\n      }\n    } catch (error) {\n      console.error('Error during registration:', error);\n      setError('Registration failed');\n    }\n  };",
+    "ts": "1705350173.359299",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Bpwpd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057BAHNQAZ"
+              },
+              {
+                "type": "text",
+                "text": " request looks like: try {\n      "
+              },
+              {
+                "type": "text",
+                "text": "const",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " response = await fetch('"
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:8080/Register",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "', {\n        method: 'POST',\n        headers: { 'Content-Type': 'application/json',\n        'Access-Control-Allow-Origin': '*',\n        'Access-Control-Allow-Credentials': 'true',\n        //'Content-Type': 'multipart/form-data',\n        'Accept': '*/*',\n\n        'Host': 'localhost:8080',\n        'Accept-Encoding':'gzip, deflate, br',\n        'Connection': 'keep-alive',\n        'Content-Length': '172'\n        },\n        body: JSON.stringify(formData)\n      });\n\n      if (response.ok) {\n        setSuccessMessage('Registration successful!');\n      } else {\n        setError('Registration failed');\n      }\n    } catch (error) {\n      console.error('Error during registration:', error);\n      setError('Registration failed');\n    }\n  };"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cc7df4ca-6e69-4539-b155-fb1da0e6fed2",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "\u003c@U065L4THRPF\u003e interesting, do you know why the error might be pointing to the cors header then?",
+    "ts": "1705350279.859579",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rK3xw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U065L4THRPF"
+              },
+              {
+                "type": "text",
+                "text": " interesting, do you know why the error might be pointing to the cors header then?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c88894e3-6b73-4eab-9b06-99be7eff4bdf",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "Try setting the header from \"*\" to the actual domain \"\u003chttp://localhost:3000/Register\u003e\" or whatever it might be",
+    "ts": "1705350730.603089",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "files": [
+      {
+        "id": "F06EC4YJF5X",
+        "created": 1705350698,
+        "timestamp": 1705350698,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057BAHNQAZ",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 37695,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06EC4YJF5X/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06EC4YJF5X/download/image.png",
+        "original_h": 290,
+        "original_w": 773,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EC4YJF5X-e6ae5605fb/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EC4YJF5X-e6ae5605fb/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EC4YJF5X-e6ae5605fb/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EC4YJF5X-e6ae5605fb/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 135,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EC4YJF5X-e6ae5605fb/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 180,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EC4YJF5X-e6ae5605fb/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 270,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057BAHNQAZ/F06EC4YJF5X/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06EC4YJF5X-d12543fc58",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+6SuB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Try setting the header from \"*\" to the actual domain \""
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:3000/Register",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\" or whatever it might be"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "88b7ba54-5aec-4467-9194-479843ca40b2",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "Eh maybe don't worry about the picture of the code in the screenshot, more of the paragraph above that code",
+    "ts": "1705350805.637869",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0n8dZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Eh maybe don't worry about the picture of the code in the screenshot, more of the paragraph above that code"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7959272e-5a2a-40e1-bcb9-c559d9e9bacf",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Yeah I've changed it from the wildcard to the domain and back again and it doesn't make a difference :disappointed:",
+    "ts": "1705350981.400829",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cvT9m",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah I've changed it from the wildcard to the domain and back again and it doesn't make a difference "
+              },
+              {
+                "type": "emoji",
+                "name": "disappointed",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f7354659-2eec-4968-b3c9-b2248f057d25",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "If anyone is curious, installing the proxy gave me a 404 error instead of a 403 error :sweat_smile:",
+    "ts": "1705351699.323909",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+XkoD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If anyone is curious, installing the proxy gave me a 404 error instead of a 403 error "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "FFB859DC-AA57-423D-BCDC-E81FA18331BD",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "That's great",
+    "ts": "1705351737.732879",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Sfj0W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That's great"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C37BF2AC-4480-474C-90BE-29223458AF12",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "That just means it can't find the route",
+    "ts": "1705351746.339349",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Hxquf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That just means it can't find the route"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F390E187-E752-4377-A1C1-0D8E58FB7C4D",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "So now whatever you alias your backend routes under, use that path in your form. ",
+    "ts": "1705351777.841659",
+    "thread_ts": "1705349614.968679",
+    "edited": {
+      "user": "U065L4THRPF",
+      "ts": "1705351868.000000"
+    },
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Y4bw3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So now whatever you alias your backend routes under, use that path in your form. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A742F6A1-7730-4B55-9515-3D15C6DB16E6",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "So instead of \u003chttp://localhost:8080|http://localhost:8080\u003e you would use the key name there, like ‘/api/register’ or /\u0026lt;key-name\u0026gt;/register",
+    "ts": "1705351839.102539",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OOl60",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So instead of "
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:8080",
+                "text": "http://localhost:8080"
+              },
+              {
+                "type": "text",
+                "text": " you would use the key name there, like ‘/api/register’ or /\u003ckey-name\u003e/register"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "889b1311-1304-4fb0-9587-22ef6dbd4952",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "So, the top part of my controller looks like this:\n```@RestController\n@CrossOrigin(origins = \"\u003chttp://localhost:3000\u003e\", allowCredentials = \"true\")\n@RequestMapping(\"/api/Register\")\npublic class RegistrationController {\n\n    @Autowired\n    private UserRepository userRepository;\n\n    @PostMapping(value = \"/api/Register\") //, produces = MediaType.APPLICATION_JSON_VALUE)\n    public ResponseEntity\u0026lt;String\u0026gt; registerUser(@RequestBody RegisterFormDTO registerFormDTO)```\n",
+    "ts": "1705351862.147979",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+CJAq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So, the top part of my controller looks like this:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"@RestController\\n@CrossOrigin(origins = \\\"\"},{\"type\":\"link\",\"url\":\"http:\\/\\/localhost:3000\"},{\"type\":\"text\",\"text\":\"\\\", allowCredentials = \\\"true\\\")\\n@RequestMapping(\\\"\\/api\\/Register\\\")\\npublic class RegistrationController {\\n\\n    @Autowired\\n    private UserRepository userRepository;\\n\\n    @PostMapping(value = \\\"\\/api\\/Register\\\") \\/\\/, produces = MediaType.APPLICATION_JSON_VALUE)\\n    public ResponseEntity\u003cString\u003e registerUser(@RequestBody RegisterFormDTO registerFormDTO)\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "17e04be0-2f9c-4225-9288-8b0d53e695d8",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "and my request in react looks like this:\n```try {\n  const response = await fetch('/api/Register', {\n    method: 'POST',\n    headers: { 'Content-Type': 'application/json',\n    'Access-Control-Allow-Origin': '*',\n    'Access-Control-Allow-Credentials': 'true',\n    //'Content-Type': 'multipart/form-data',\n    'Accept': '*/*',\n\n    'Host': 'localhost:8080',\n    'Accept-Encoding':'gzip, deflate, br',\n    'Connection': 'keep-alive',\n    'Content-Length': '172'\n    },\n    body: JSON.stringify(formData)\n  });```\n",
+    "ts": "1705351886.657459",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KeSZ4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and my request in react looks like this:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"try {\\n  const response = await fetch('\\/api\\/Register', {\\n    method: 'POST',\\n    headers: { 'Content-Type': 'application\\/json',\\n    'Access-Control-Allow-Origin': '*',\\n    'Access-Control-Allow-Credentials': 'true',\\n    \\/\\/'Content-Type': 'multipart\\/form-data',\\n    'Accept': '*\\/*',\\n\\n    'Host': 'localhost:8080',\\n    'Accept-Encoding':'gzip, deflate, br',\\n    'Connection': 'keep-alive',\\n    'Content-Length': '172'\\n    },\\n    body: JSON.stringify(formData)\\n  });\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "609F1A4E-E205-4EC4-A337-62F266429D5A",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "And what is the request path for the controller set to?",
+    "ts": "1705351915.219359",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zIIZC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And what is the request path for the controller set to?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "482D81AC-EED7-4B05-B5B7-AE8CCCEC551B",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "I believe the controller @path variable needs to be ‘api’ and then the method can stay as ‘register’",
+    "ts": "1705351961.368719",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nyhxs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I believe the controller @path variable needs to be ‘api’ and then the method can stay as ‘register’"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "512ba43c-521d-4748-b57a-b5b70563be87",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Hmmm, so like this?\n```@RestController\n@CrossOrigin(origins = \"\u003chttp://localhost:3000\u003e\", allowCredentials = \"true\")\n@RequestMapping(\"/Register\")\npublic class RegistrationController {\n\n    @Autowired\n    private UserRepository userRepository;\n\n    @PostMapping(value = \"/api\") //, produces = MediaType.APPLICATION_JSON_VALUE)\n    public ResponseEntity\u0026lt;String\u0026gt; registerUser(@RequestBody RegisterFormDTO registerFormDTO) ```\n",
+    "ts": "1705352055.632139",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6nyQR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hmmm, so like this?\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"@RestController\\n@CrossOrigin(origins = \\\"\"},{\"type\":\"link\",\"url\":\"http:\\/\\/localhost:3000\"},{\"type\":\"text\",\"text\":\"\\\", allowCredentials = \\\"true\\\")\\n@RequestMapping(\\\"\\/Register\\\")\\npublic class RegistrationController {\\n\\n    @Autowired\\n    private UserRepository userRepository;\\n\\n    @PostMapping(value = \\\"\\/api\\\") \\/\\/, produces = MediaType.APPLICATION_JSON_VALUE)\\n    public ResponseEntity\u003cString\u003e registerUser(@RequestBody RegisterFormDTO registerFormDTO) \"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0ad72e5f-e459-4730-9191-c6ba6685d737",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Nope, I flipped them didn't I.",
+    "ts": "1705352077.422449",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nBwTX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nope, I flipped them didn't I."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cccff7ed-062a-4d5c-bedd-f20d9da02bd3",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Annnnd still 404 error",
+    "ts": "1705352204.338269",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "604hC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Annnnd still 404 error"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "BAF5B93B-10B9-4A7E-BC7F-41EF6D542D3A",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "One sec. Let me double check something ",
+    "ts": "1705352297.676379",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sDzGg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "One sec. Let me double check something "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "29DC028A-994C-46CE-8937-0F1D9731A540",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "Can you look at the request and confirm its built correctly?",
+    "ts": "1705352346.246389",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CYwbL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can you look at the request and confirm its built correctly?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "70764458-BCE8-400A-85DD-E8F80355FD5C",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "It might just be a typo in the request path somewhere",
+    "ts": "1705352372.309299",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HpJIS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It might just be a typo in the request path somewhere"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6e0533a6-6d60-472a-ae0f-75a6cf342092",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Yeah that's very possible. It looks fine to me- but I'm new at this, lol",
+    "ts": "1705352424.885439",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xoxzu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah that's very possible. It looks fine to me- but I'm new at this, lol"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3909b52c-38a4-453a-881a-9ce4ec9ba800",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "```try {\n    const response = await fetch('/api/Register', {\n      method: 'POST',\n      headers: { 'Content-Type': 'application/json',\n      'Access-Control-Allow-Origin': '*',\n      'Access-Control-Allow-Credentials': 'true',\n      'Accept': '*/*',\n\n      'Host': 'localhost:8080',\n      'Accept-Encoding':'gzip, deflate, br',\n      'Connection': 'keep-alive',\n      'Content-Length': '172'\n      },\n      body: JSON.stringify(formData)\n    });\n\n    if (response.ok) {\n      setSuccessMessage('Registration successful!');\n    } else {\n      setError('Registration failed');\n    }\n  } catch (error) {\n    console.error('Error during registration:', error);\n    setError('Registration failed');\n  }\n};```\n",
+    "ts": "1705352431.279859",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rZ6p9",
+        "elements": [
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"try {\\n    const response = await fetch('\\/api\\/Register', {\\n      method: 'POST',\\n      headers: { 'Content-Type': 'application\\/json',\\n      'Access-Control-Allow-Origin': '*',\\n      'Access-Control-Allow-Credentials': 'true',\\n      'Accept': '*\\/*',\\n\\n      'Host': 'localhost:8080',\\n      'Accept-Encoding':'gzip, deflate, br',\\n      'Connection': 'keep-alive',\\n      'Content-Length': '172'\\n      },\\n      body: JSON.stringify(formData)\\n    });\\n\\n    if (response.ok) {\\n      setSuccessMessage('Registration successful!');\\n    } else {\\n      setError('Registration failed');\\n    }\\n  } catch (error) {\\n    console.error('Error during registration:', error);\\n    setError('Registration failed');\\n  }\\n};\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "FA33B8A2-5A69-4D59-9D52-C7D545B46D2A",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "No not that",
+    "ts": "1705352447.431869",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GVYg1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No not that"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DA0B4CD4-D101-439B-A622-61E7152503DC",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "In the browser",
+    "ts": "1705352453.798979",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ClFol",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "In the browser"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F33331CF-F1F3-446B-BE62-44BCDAB9F3D0",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "Open up the 404 response and check the path was sent to",
+    "ts": "1705352486.052639",
+    "thread_ts": "1705349614.968679",
+    "edited": {
+      "user": "U065L4THRPF",
+      "ts": "1705352506.000000"
+    },
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p+cdu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Open up the 404 response and check the path was sent to"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7b7a56fe-5e06-4247-9aec-0c4318be7bb2",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Status404\nNot FoundVersionHTTP/1.1\nTransferred545 B (152 B size)\nReferrer Policystrict-origin-when-cross-origin\nRequest PriorityHighest\nDNS ResolutionSystem\n• \n\nAccess-Control-Allow-Headers*\n\n\nAccess-Control-Allow-Methods*\nAccess-Control-Allow-Origin*\nConnectionkeep-alive\nContent-Length152\nContent-Security-Policydefault-src 'none'\nContent-Typetext/html; charset=utf-8\nDateMon, 15 Jan 2024 20:57:32 GMT\nKeep-Alivetimeout=5\nVaryAccept-Encoding\nX-Content-Type-Optionsnosniff\nX-Powered-ByExpress\n\n\n\nAccept*/*\nAccept-Encodinggzip, deflate, br\nAccept-Languageen-US,en;q=0.5\nAccess-Control-Allow-Credentialstrue\nAccess-Control-Allow-Origin*\nConnectionkeep-alive\nContent-Length38\nContent-Typeapplication/json\nHostlocalhost:3000\nOrigin\u003chttp://localhost:3000\u003e\nReferer\u003chttp://localhost:3000/Register\u003e\nSec-Fetch-Destempty\nSec-Fetch-Modecors\nSec-Fetch-Sitesame-origin\nUser-AgentMozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0\n\n``````\n``````\n",
+    "ts": "1705352507.489419",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2ccg1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Status404\nNot FoundVersionHTTP/1.1\nTransferred545 B (152 B size)\nReferrer Policystrict-origin-when-cross-origin\nRequest PriorityHighest\nDNS ResolutionSystem\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n\nAccess-Control-Allow-Headers*\n\n\nAccess-Control-Allow-Methods*\nAccess-Control-Allow-Origin*\nConnectionkeep-alive\nContent-Length152\nContent-Security-Policydefault-src 'none'\nContent-Typetext/html; charset=utf-8\nDateMon, 15 Jan 2024 20:57:32 GMT\nKeep-Alivetimeout=5\nVaryAccept-Encoding\nX-Content-Type-Optionsnosniff\nX-Powered-ByExpress\n\n\n\nAccept*/*\nAccept-Encodinggzip, deflate, br\nAccept-Languageen-US,en;q=0.5\nAccess-Control-Allow-Credentialstrue\nAccess-Control-Allow-Origin*\nConnectionkeep-alive\nContent-Length38\nContent-Typeapplication/json\nHostlocalhost:3000\nOrigin"
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:3000",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\nReferer"
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:3000/Register",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\nSec-Fetch-Destempty\nSec-Fetch-Modecors\nSec-Fetch-Sitesame-origin\nUser-AgentMozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f2aa7e1a-fbf7-4801-b32a-d9678eb87981",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "it says origin and referer are localhost: 3000, does that mean it's going to the wrong place?",
+    "ts": "1705352538.060399",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EZN4G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it says origin and referer are localhost: 3000, does that mean it's going to the wrong place?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "37E8B01C-BCEC-4140-BFCD-E782A1775A83",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "Yea",
+    "ts": "1705352556.601689",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/LcrB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yea"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1CA645BB-9AB8-4FB4-AD5A-6E35A9B5E318",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "Actually no",
+    "ts": "1705352583.632439",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NZC+J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Actually no"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6167E5DA-FE1C-4F95-B4DB-1C21DF503568",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "That's where it came from",
+    "ts": "1705352588.936949",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Bk4Hy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That's where it came from"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "00E6102E-789C-4E46-8B8C-F502E98A44B6",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "We want to know if it called sent a request to localhost:8080 or not",
+    "ts": "1705352608.521349",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9/xid",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We want to know if it called sent a request to localhost:8080 or not"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E6EFE879-C121-421A-994F-271BBF11C457",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "Do you use spring security in your project?",
+    "ts": "1705354666.284329",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g50Ua",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do you use spring security in your project?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "59078d4a-0343-4897-ba15-3ac3de6397ae",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Yeah, I'm looking up how to disable csrf now",
+    "ts": "1705356133.917609",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8eyPA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, I'm looking up how to disable csrf now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cfed77a7-f8bb-4731-a70d-28644094aca0",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "in your filter chain\n\nhttp.csrf(AbstractHttpConfigurer::disable)",
+    "ts": "1705356246.957739",
+    "thread_ts": "1705349614.968679",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ubSht",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "in your filter chain\n\nhttp.csrf(AbstractHttpConfigurer::disable)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

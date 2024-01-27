@@ -1,0 +1,112 @@
+[
+  {
+    "client_msg_id": "bfda47e6-b822-4840-9c8c-df6bc8ffb7df",
+    "type": "message",
+    "user": "U055B8PEEMV",
+    "text": "Reminder to all that:\n\nUser stories are due tonight :slightly_smiling_face:",
+    "ts": "1701741908.444709",
+    "thread_ts": "1701741908.444709",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0577402D4J",
+        "ts": "1701742198.368239"
+      }
+    ],
+    "latest_reply": "1701742198.368239",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IAGAQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Reminder to all that:\n\nUser stories are due tonight "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5204638969172_2d7d943d02d4d367275b_72.png",
+      "first_name": "TA",
+      "real_name": "TA - Jay",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jay.lingelbach",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0577402D4J"
+    ]
+  },
+  {
+    "client_msg_id": "bb49798d-d0e9-4501-967e-c644faebc12a",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "Are these submitted on our github repo or are submitted somewhere else?",
+    "ts": "1701742198.368239",
+    "thread_ts": "1701741908.444709",
+    "parent_user_id": "U055B8PEEMV",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FZ1M9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are these submitted on our github repo or are submitted somewhere else?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

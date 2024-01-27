@@ -1,0 +1,123 @@
+[
+  {
+    "client_msg_id": "a841a20d-c9f2-468e-baf9-c433b6b5407a",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "Just added a pull request for my custom event tracking branch for google analytics and don’t see any conflicts. i’ve added just one custom event to track when users save a plant to their garden, and confirmed it’s working on the GA side. I’ve also added file structure to add more custom events in the future. For tonight’s meeting NBVCXQ, I just want to make sure no one is encountering any issues in their local main branch that need resolving before demo tomorrow. We can talk more about demo tonight, but I can’t imagine that demos are going to take more than a couple minutes if we’re going to get through everyone tomorrow.",
+    "ts": "1705507875.078749",
+    "thread_ts": "1705507875.078749",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1705604417.171749"
+      }
+    ],
+    "latest_reply": "1705604417.171749",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VSsGu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just added a pull request for my custom event tracking branch for google analytics and don’t see any conflicts. i’ve added just one custom event to track when users save a plant to their garden, and confirmed it’s working on the GA side. I’ve also added file structure to add more custom events in the future. For tonight’s meeting NBVCXQ, I just want to make sure no one is encountering any issues in their local main branch that need resolving before demo tomorrow. We can talk more about demo tonight, but I can’t imagine that demos are going to take more than a couple minutes if we’re going to get through everyone tomorrow."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0575U6RCKC"
+    ]
+  },
+  {
+    "client_msg_id": "56149844-f7c2-4b41-9fb5-0b55cb08560b",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "\u003chttps://github.com/corypride/diamonddogs/pull/33\u003e",
+    "ts": "1705507908.617449",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "#33 Google analytics tracking",
+        "id": 1,
+        "title": "#33 Google analytics tracking",
+        "title_link": "https://github.com/corypride/diamonddogs/pull/33",
+        "text": "Added custom event tracking for Google analytics and file structure for adding more custom events for future development",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/corypride/diamonddogs|corypride/diamonddogs\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1705507011
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vJfXO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/corypride/diamonddogs/pull/33",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

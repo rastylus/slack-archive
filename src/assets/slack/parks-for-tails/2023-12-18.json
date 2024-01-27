@@ -1,0 +1,98 @@
+[
+  {
+    "client_msg_id": "c646eef0-756f-4a50-b9fb-100057ee7602",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "I think it's mainly our own contributions in detail. It seems like we need to have some idea of what else needs to be done but we generally know that. We need to complete all 4 required features and have a functioning front \u0026amp; back end connected through an API.",
+    "ts": "1702859056.090309",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0yO1g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think it's mainly our own contributions in detail. It seems like we need to have some idea of what else needs to be done but we generally know that. We need to complete all 4 required features and have a functioning front \u0026 back end connected through an API."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9b743270-4dec-4717-a3fb-de45b757961b",
+    "type": "message",
+    "user": "U056Z3RQFJT",
+    "text": "I m done with adding features to manage comments about parks and view detailed information. It looks like the classes I implemented are correct there is no error messages from intellij , but we of course will need to test it once we have an UI and some data in our database",
+    "ts": "1702861231.689289",
+    "edited": {
+      "user": "U056Z3RQFJT",
+      "ts": "1702945299.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FOFzV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I m done with adding features to manage comments about parks and view detailed information. It looks like the classes I implemented are correct there is no error messages from intellij , but we of course will need to test it once we have an UI and some data in our database"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5251578399251_476929090d178895b1c1_72.jpg",
+      "first_name": "Dimitri",
+      "real_name": "Dimitri   Torres",
+      "display_name": "Dimitri Torres",
+      "team": "T050CSX3EMT",
+      "name": "dimitritorres34",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

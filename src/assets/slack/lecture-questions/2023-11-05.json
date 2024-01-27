@@ -1,0 +1,59 @@
+[
+  {
+    "client_msg_id": "404FA4BC-9B74-4A06-9396-22324E6C28D7",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I also found truncating my table before trying to test this helped because I was getting some strange behavior prior to doing so (some ids loaded and some would not)",
+    "ts": "1699146459.981999",
+    "thread_ts": "1699128571.397289",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05743K5BHT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aG9HK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I also found truncating my table before trying to test this helped because I was getting some strange behavior prior to doing so (some ids loaded and some would not)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

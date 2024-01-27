@@ -1,0 +1,104 @@
+[
+  {
+    "client_msg_id": "9bcc0ca5-a947-4a7e-8f9f-47a94d33d801",
+    "type": "message",
+    "user": "U057GGXFWTE",
+    "text": "\u003chttps://docs.google.com/document/d/1p0miFGSJGzI9vBFej-C0GNbTDtTPob0cWkeUF9Zowe0/edit\u003e",
+    "ts": "1701996705.678139",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rjx8r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1p0miFGSJGzI9vBFej-C0GNbTDtTPob0cWkeUF9Zowe0/edit",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264721897761_757015677f309037d80e_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily Klein",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "emilykleinstl",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "693CF28C-971E-4BD9-9956-224C8B4CCEEE",
+    "type": "message",
+    "user": "U057BGQLMUM",
+    "text": "I should be able to pop on at 7:30!",
+    "ts": "1701998471.149939",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "coolblobrainbow",
+        "count": 1,
+        "users": [
+          "U057GGXFWTE"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XiqUk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I should be able to pop on at 7:30!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245988607846_a2df5430ad66387e392b_72.jpg",
+      "first_name": "Ellen",
+      "real_name": "Ellen Jardon",
+      "display_name": "Ellen",
+      "team": "T050CSX3EMT",
+      "name": "ellen.jardon",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

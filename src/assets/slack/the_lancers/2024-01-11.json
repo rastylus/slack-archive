@@ -1,0 +1,390 @@
+[
+  {
+    "client_msg_id": "3f650f35-05c1-4c8e-8af1-48de508d6ec4",
+    "type": "message",
+    "user": "U0574JUHBNH",
+    "text": "I AM BACK INTO THE PROGRAM, MYSQL IS WORKING!!!!!!!!!!",
+    "ts": "1704937488.128919",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 1,
+        "users": [
+          "U05768C2NP4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5Xlm9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I AM BACK INTO THE PROGRAM, MYSQL IS WORKING!!!!!!!!!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-01/6280497472354_b5d2d071c7d0de3339f3_72.png",
+      "first_name": "Leonard",
+      "real_name": "Leonard Stewart, Jr.",
+      "display_name": "Leonard Stewart, Jr.",
+      "team": "T050CSX3EMT",
+      "name": "leonardjr06",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "049e6b1a-50c7-4b58-bc9d-755ce1dff2cc",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "So, the issue with saving the api exercises is that mysql is only saving the initial 10 exercises that are auto populated if you just click search. I've been working on this all day and haven't gotten anywhere. I can push my api-workout branch to the repo so it's up to date if anyone else wants to take a look at it.\n\nI'm basically at a loss.",
+    "ts": "1704944757.095919",
+    "thread_ts": "1704944757.095919",
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U05768C2NP4",
+        "ts": "1704988861.774959"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1704992540.184109"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1704993175.621739"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1704993501.994799"
+      }
+    ],
+    "latest_reply": "1704993501.994799",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bA3D6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So, the issue with saving the api exercises is that mysql is only saving the initial 10 exercises that are auto populated if you just click search. I've been working on this all day and haven't gotten anywhere. I can push my api-workout branch to the repo so it's up to date if anyone else wants to take a look at it.\n\nI'm basically at a loss."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U0574FFA3L5",
+      "U05768C2NP4"
+    ]
+  },
+  {
+    "client_msg_id": "392D35BF-8EB5-41FD-9157-84A881CFB0D3",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "Okay, we can try and figure something out tmmrw, I was showing Leonard some of the features and I showed him the delete account feature and I deleted my account, now for the life of me I can’t seem to register a new account idk if something got changed or what but it’s driving me crazy :joy: ",
+    "ts": "1704961670.880939",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vHL5p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay, we can try and figure something out tmmrw, I was showing Leonard some of the features and I showed him the delete account feature and I deleted my account, now for the life of me I "
+              },
+              {
+                "type": "text",
+                "text": "can’t"
+              },
+              {
+                "type": "text",
+                "text": " seem to register a new account idk if something got changed or what but "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " driving me crazy "
+              },
+              {
+                "type": "emoji",
+                "name": "joy",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "da2d2e67-7932-4f36-bf01-f2fb7f00877f",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Yeah, that's pretty much how I felt the other day except I couldn't get anything passed to mysql. I am going to work on adding delete and update functions to the workouts, exercises, and records pages before class today. If I finish with that then I plan on doing a research on YouTube to see if anyone has a different way of doing it. I didn't pay too much attention to the API class, or how do use the Postman application... is Postman something you tried to apply?",
+    "ts": "1704988861.774959",
+    "thread_ts": "1704944757.095919",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kvQRg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, that's pretty much how I felt the other day except I couldn't get anything passed to mysql. I am going to work on adding delete and update functions to the workouts, exercises, and records pages before class today. If I finish with that then I plan on doing a research on YouTube to see if anyone has a different way of doing it. I didn't pay too much attention to the API class, or how do use the Postman application... is Postman something you tried to apply?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3622aef3-eaa2-40db-aa8f-f4682b5b2b7b",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "I haven't messed with postman at all. I'm going to see if I can't mess with the get and post mapping to see if that affects what exercises get saved.",
+    "ts": "1704992540.184109",
+    "thread_ts": "1704944757.095919",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "acA2z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I haven't messed with postman at all. I'm going to see if I can't mess with the get and post mapping to see if that affects what exercises get saved."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4b18d46f-4932-48e8-abad-f5a62f6af07e",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "My current idea is to use a non-persistent, primitive data layer to store the search responses and see if that works better.... did you try doing anything similar?",
+    "ts": "1704993175.621739",
+    "thread_ts": "1704944757.095919",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "upv5n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My current idea is to use a non-persistent, primitive data layer to store the search responses and see if that works better.... did you try doing anything similar?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b54ae158-3794-4a68-83ff-141934daf1fd",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "I haven't tried that. Once I got the default 10 to save, I've been trying to work around to get the searched results to save.",
+    "ts": "1704993501.994799",
+    "thread_ts": "1704944757.095919",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Sy/I5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I haven't tried that. Once I got the default 10 to save, I've been trying to work around to get the searched results to save."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,405 @@
+[
+  {
+    "client_msg_id": "A14BC2FB-8180-4592-BE04-8FCCD4D01F3D",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Should be good now! Last commit in development is accurate ",
+    "ts": "1705175253.467279",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e7T1T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Should be good now! Last commit in development is accurate "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "891bc33d-4f99-4976-bbdb-fa6c49c1a5e0",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "I see the post mapping for addToWorkout but not the get mapping,...?",
+    "ts": "1705175489.008859",
+    "thread_ts": "1705041121.733309",
+    "edited": {
+      "user": "U05768C2NP4",
+      "ts": "1705175507.000000"
+    },
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UiL/n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I see the post mapping for addToWorkout but not the get mapping,...?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "27ab3997-ad93-4e2d-b699-9c5c66a020d1",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "wait I think I figured it out, You have to go to /search first then the bottom part of that page is /exerciseList, and that takes you to /addToWorkout right?",
+    "ts": "1705175974.550389",
+    "thread_ts": "1705041121.733309",
+    "edited": {
+      "user": "U05768C2NP4",
+      "ts": "1705175996.000000"
+    },
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AiwO/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "wait I think I figured it out, You have to go to /search first then the bottom part of that page is /exerciseList, and that takes you to /addToWorkout right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d11d1934-9b2a-44e2-9d3e-4efb2b03139a",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Yea, the search page loads the results of the search. Checkbox the exercises you want. Click add to workout and it should populate the add to workout page with the selected exercises.",
+    "ts": "1705176554.740579",
+    "thread_ts": "1705041121.733309",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UjAnX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yea, the search page loads the results of the search. Checkbox the exercises you want. Click add to workout and it should populate the add to workout page with the selected exercises."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "70b458df-4fe9-4707-aace-13959e6842cc",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "\u003c@U0574FFA3L5\u003e I'm still trying to figure out git and I think I messed somethings up yesterday while trying to do a commit. The changes to you made to \"\u003chttps://github.com/TheLancers01/thelancers01/commit/30833cfa2715083982c7a325a29cb31e08b31480|Working on getting the selected api exercises to save to a view\u003e\" weren't showing up just now but I added them the best I could to the current commit on development. I apologize if I messed anything up on what you were working on and will do my best to help correct any damage I did! I see that the searched api exercises are transferring to /addToWorkout but they're showing up double when I run it. Is this where you left off?",
+    "ts": "1705177430.887119",
+    "thread_ts": "1705041121.733309",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6zLyn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0574FFA3L5"
+              },
+              {
+                "type": "text",
+                "text": " I'm still trying to figure out git and I think I messed somethings up yesterday while trying to do a commit. The changes to you made to \""
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/TheLancers01/thelancers01/commit/30833cfa2715083982c7a325a29cb31e08b31480",
+                "text": "Working on getting the selected api exercises to save to a view"
+              },
+              {
+                "type": "text",
+                "text": "\" weren't showing up just now but I added them the best I could to the current commit on development. I apologize if I messed anything up on what you were working on and will do my best to help correct any damage I did! I see that the searched api exercises are transferring to /addToWorkout but they're showing up double when I run it. Is this where you left off?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c5b9678a-e545-4a2d-9c8d-f26e70c93a84",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "I believe so. I can try pushing my stuff up in a bit. I did add logic that should keep it from saving duplicates. I can't remember if I merged the anti duplication logic or not yet.",
+    "ts": "1705177800.538649",
+    "thread_ts": "1705041121.733309",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rPErR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I believe so. I can try pushing my stuff up in a bit. I did add logic that should keep it from saving duplicates. I can't remember if I merged the anti duplication logic or not yet."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e5be4ce3-74f9-4b57-b5b0-a902e8ce7795",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "So yea development should have everything in it now as far as only saving one instance of the api exercises to the repository. Now we just gotta get the CRUD functionality going for the workouts and api exercises.\n\nWhat might be easiest, which I haven't had a chance to look at. is to basically save the selected exercises from the api search to the user exercises list and just run off your crud operations for the workouts.",
+    "ts": "1705181537.932609",
+    "thread_ts": "1705041121.733309",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Sdsr5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So yea development should have everything in it now as far as only saving one instance of the api exercises to the repository. Now we just gotta get the CRUD functionality going for the workouts and api exercises.\n\nWhat might be easiest, which I haven't had a chance to look at. is to basically save the selected exercises from the api search to the user exercises list and just run off your crud operations for the workouts."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6CE1C5E2-E339-4F72-BDB1-3237721574E3",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Yeah sounds good to me! ",
+    "ts": "1705188072.605699",
+    "thread_ts": "1705041121.733309",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tIIz5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah sounds good to me! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

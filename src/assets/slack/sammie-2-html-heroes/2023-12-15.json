@@ -1,0 +1,1514 @@
+[
+  {
+    "client_msg_id": "562c89f6-86a5-4bd4-ada6-6a9a5ab02166",
+    "type": "message",
+    "user": "U05656EM4EM",
+    "text": "\u003chttps://medium.com/@yash17ag/react-server-side-rendering-with-java-spring-boot-using-thymeleaf-8b53f621e23e\u003e",
+    "ts": "1702605947.513849",
+    "attachments": [
+      {
+        "fallback": "Medium: React Server Side rendering with Java Spring Boot Using Thymeleaf",
+        "id": 1,
+        "title": "React Server Side rendering with Java Spring Boot Using Thymeleaf",
+        "title_link": "https://medium.com/@yash17ag/react-server-side-rendering-with-java-spring-boot-using-thymeleaf-8b53f621e23e",
+        "text": "We all know the first thing comes up in mind on hearing UI is ReactJs. And for server side Java Spring framework is one of the top choices…",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*8w0mNsYoxlMRX4bV",
+        "service_name": "Medium",
+        "service_icon": "https://miro.medium.com/v2/resize:fill:152:152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "from_url": "https://medium.com/@yash17ag/react-server-side-rendering-with-java-spring-boot-using-thymeleaf-8b53f621e23e",
+        "original_url": "https://medium.com/@yash17ag/react-server-side-rendering-with-java-spring-boot-using-thymeleaf-8b53f621e23e",
+        "fields": [
+          {
+            "title": "Reading time",
+            "value": "4 min read",
+            "short": true
+          }
+        ],
+        "blocks": null,
+        "ts": 1595589080
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kNUQw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/@yash17ag/react-server-side-rendering-with-java-spring-boot-using-thymeleaf-8b53f621e23e",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-08/5546028551765_ef5cfd16f93e919dda43_72.jpg",
+      "first_name": "TA",
+      "real_name": "TA Sammie Mendez (she/her)",
+      "display_name": "TA - Sammie",
+      "team": "T050CSX3EMT",
+      "name": "sammierosado",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "140039d7-5931-4919-bd76-9c304976f461",
+    "type": "message",
+    "user": "U05656EM4EM",
+    "text": "1. Serve Initial Page with Thymeleaf\n• Your Java backend (e.g., a Spring Boot application) uses Thymeleaf to serve an initial HTML page. This page includes the necessary references to your React application's bundled JavaScript files.\n• For example, if your Thymeleaf template is `index.html`, it should contain a `\u0026lt;div id=\"root\"\u0026gt;\u0026lt;/div\u0026gt;` where your React app will attach itself.\n2. Linking to React Pages\n• In your Thymeleaf templates, you can create links that point to routes handled by your React application.\n• These links can be regular `\u0026lt;a\u0026gt;` tags with `href` attributes pointing to your React app's routes.\n• For example, `\u0026lt;a href=\"/app/dashboard\"\u0026gt;Go to Dashboard\u0026lt;/a\u0026gt;` could be a link in your Thymeleaf template that points to a React route.\n3. Handling Navigation in React\n• Once the user clicks a link and your React application is loaded, React Router (or any other client-side routing library you're using) takes over the routing.\n• The React Router defines routes that correspond to different components in your React app.\n4. Server Configuration\n• Ensure that your server is configured to handle URL requests appropriately.\nFor paths intended to be handled by React, the server should return the same initial HTML served by Thymeleaf. React Router will then parse the URL and render the correct component.",
+    "ts": "1702606303.227769",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U0574PXBWRG"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lKev/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "1. Serve Initial Page with Thymeleaf\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Your Java backend (e.g., a Spring Boot application) uses Thymeleaf to serve an initial HTML page. This page includes the necessary references to your React application's bundled JavaScript files.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"For example, if your Thymeleaf template is \"},{\"type\":\"text\",\"text\":\"index.html\",\"style\":{\"code\":true}},{\"type\":\"text\",\"text\":\", it should contain a \"},{\"type\":\"text\",\"text\":\"\u003cdiv id=\\\"root\\\"\u003e\u003c\\/div\u003e\",\"style\":{\"code\":true}},{\"type\":\"text\",\"text\":\" where your React app will attach itself.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "2. Linking to React Pages\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"In your Thymeleaf templates, you can create links that point to routes handled by your React application.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"These links can be regular \"},{\"type\":\"text\",\"text\":\"\u003ca\u003e\",\"style\":{\"code\":true}},{\"type\":\"text\",\"text\":\" tags with \"},{\"type\":\"text\",\"text\":\"href\",\"style\":{\"code\":true}},{\"type\":\"text\",\"text\":\" attributes pointing to your React app's routes.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"For example, \"},{\"type\":\"text\",\"text\":\"\u003ca href=\\\"\\/app\\/dashboard\\\"\u003eGo to Dashboard\u003c\\/a\u003e\",\"style\":{\"code\":true}},{\"type\":\"text\",\"text\":\" could be a link in your Thymeleaf template that points to a React route.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "3. Handling Navigation in React\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Once the user clicks a link and your React application is loaded, React Router (or any other client-side routing library you're using) takes over the routing.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"The React Router defines routes that correspond to different components in your React app.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "4. Server Configuration\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Ensure that your server is configured to handle URL requests appropriately.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For paths intended to be handled by React, the server should return the same initial HTML served by Thymeleaf. React Router will then parse the URL and render the correct component."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-08/5546028551765_ef5cfd16f93e919dda43_72.jpg",
+      "first_name": "TA",
+      "real_name": "TA Sammie Mendez (she/her)",
+      "display_name": "TA - Sammie",
+      "team": "T050CSX3EMT",
+      "name": "sammierosado",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5f492bba-e675-4d78-93e0-318b4da28a07",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "Thank you Sammie!:heart:.. will look into it!:slightly_smiling_face:",
+    "ts": "1702607451.759569",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05656EM4EM"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Gjwx0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you Sammie!"
+              },
+              {
+                "type": "emoji",
+                "name": "heart",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ".. will look into it!"
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "83fcb063-764f-4e85-8b15-cda72f18756b",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "hey all.. I tried adding \u0026lt;a href=\"\u003chttp://localhost:3000/\u003e\"\u0026gt;Go to homepage\u0026lt;/a\u0026gt; to my index.html page and it renders the react pages!",
+    "ts": "1702612808.959959",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RJo4j",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hey all.. I tried adding \u003ca href=\""
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:3000/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\"\u003eGo to homepage\u003c/a\u003e to my index.html page and it renders the react pages!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b6602078-61e4-45b8-b0ac-a7b8247c5524",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "i think we can make it work!!",
+    "ts": "1702612826.772229",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DF1FH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think we can make it work!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2eeadcff-a3bf-435f-95b5-3adb2dde871b",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "hi all.. I created delete itineraries feature and hence created a PR for that.. Please feel free to review it and approve!",
+    "ts": "1702655045.720559",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05656EM4EM"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7vu4s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hi all.. I created delete itineraries feature and hence created a PR for that.. Please feel free to review it and approve!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "165045db-1fcd-4b11-90c8-f37509576db2",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "Hey Cameron.. quick question.. Before running the react application, should we remove something like the react logo to see the home page? I am unsure on the steps that you do before starting the npm run.",
+    "ts": "1702672019.020009",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sGc8+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Cameron.. quick question.. Before running the react application, should we remove something like the react logo to see the home page? I am unsure on the steps that you do before starting the npm run."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "208f0be1-3996-4ed1-9e90-90656a2ea32b",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "What do you mean? \u003c@U0574PXBWRG\u003e Currently with how it is written the logo is still in",
+    "ts": "1702672491.830139",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0574PXBWRG"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AoIrr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What do you mean? "
+              },
+              {
+                "type": "user",
+                "user_id": "U0574PXBWRG"
+              },
+              {
+                "type": "text",
+                "text": " Currently with how it is written the logo is still in"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b4848415-667d-4a5f-a2dd-9220e218763c",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "Are you asking if generally we should remove the logo? Because we should in the future however I think at the moment the thought was to just add the nav bar",
+    "ts": "1702672541.351099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TKf0g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are you asking if generally we should remove the logo? Because we should in the future however I think at the moment the thought was to just add the nav bar"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2f336321-ea47-492e-b61f-33aa14a4bc83",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "okok.. got it..I thought we should follow few steps before running the react app that I might be missing!",
+    "ts": "1702672621.567189",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XA4Rp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okok.. got it..I thought we should follow few steps before running the react app that I might be missing!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c5d94c86-637f-42a8-8005-32b9284c17af",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "Nah the logo is still currently in!",
+    "ts": "1702672997.042539",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0574PXBWRG"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sgLhG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nah the logo is still currently in!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "754e0da8-7299-476e-b8e6-ca5b9fe8e5d2",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "And after a little bit of a battle",
+    "ts": "1702675067.828799",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KFtTQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And after a little bit of a battle"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "21286237-bf6e-4987-afb6-b9335e29cdcc",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "I have the linking from the homepage to the itineraries page done",
+    "ts": "1702675078.764469",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cFQoL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have the linking from the homepage to the itineraries page done"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "93ee5584-7db7-4c1c-bd34-4f4d59ca2c93",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "Great! Thats awesome Justin:+1:",
+    "ts": "1702675110.041459",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FzdxD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Great! Thats awesome Justin"
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c9e929bb-6cbe-4ae3-855c-047b8de8ec58",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "I am going to push it up!",
+    "ts": "1702675142.642719",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xpFMa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am going to push it up!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9536da68-09a7-42de-8e58-55959c7825be",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "I think you saw it earlier but just to let you know in case someone else hasn't a review is required to merge a PR into main \u003c@U05656EM4EM\u003e",
+    "ts": "1702675387.019709",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U05656EM4EM"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aYsJo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think you saw it earlier but just to let you know in case someone else hasn't a review is required to merge a PR into main "
+              },
+              {
+                "type": "user",
+                "user_id": "U05656EM4EM"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b45a4c8c-7169-4aa9-854c-b1eaa53bd5a5",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "Also, just created the PR for linking the home page itineraries to the thymeleaf itineraries!",
+    "ts": "1702675409.057569",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uSFx4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also, just created the PR for linking the home page itineraries to the thymeleaf itineraries!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9ce6df92-613b-443d-978b-c55805954bbb",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "If you dont mind, can you explain the procedure to do it?",
+    "ts": "1702675429.423859",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kgVbw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you dont mind, can you explain the procedure to do it?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cf2c11f0-9fab-4f78-a85c-457ee9af1d22",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "Like how I got the linking to work?",
+    "ts": "1702675452.606499",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UlMPf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Like how I got the linking to work?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6989f811-c86f-495e-b5a2-6c699f7e03bd",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "yes!",
+    "ts": "1702675459.463529",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "i0mZ0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "36142b41-621b-4802-92e3-d980d69ee3ab",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "Sure! Gimme a second to grab some stuff",
+    "ts": "1702675469.078659",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1qBgz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sure! Gimme a second to grab some stuff"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "354dd0ea-0a61-47cd-a515-64c9279a72e0",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "sure! take your time.",
+    "ts": "1702675484.206879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3a7ze",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sure! take your time."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7261dc3b-c11a-4136-9bf9-48c82676c079",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "So the only change I made was in NavigationBar.js and basically the \u0026lt;Link\u0026gt; element only appends to the current URL SO when in react your URL is \"localhost:3000\" and then when you click one of the \u0026lt;Link\u0026gt; elements it takes the \"to\" attribute and throws it onto the end of the URL, so if you click User Page it takes you to \"localhost:3000/userPage\", so I had to change from a \u0026lt;Link\u0026gt; to an \u0026lt;a\u0026gt; element and use the href to link it. I was really close to hitting the solution fast however I was \"href\" to \"\u003chttps://localhost:8080/itineraries\u003e\" and the \"s\" was giving me problems... after dropping the \"s\" and making it \"\u003chttp://localhost:8080/itineraries\u003e\" it worked!",
+    "ts": "1702675755.882689",
+    "files": [
+      {
+        "id": "F06AH92Q95J",
+        "created": 1702675743,
+        "timestamp": 1702675743,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057BAHNQAZ",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 58499,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06AH92Q95J/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06AH92Q95J/download/image.png",
+        "original_h": 664,
+        "original_w": 745,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AH92Q95J-7ac10ba616/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AH92Q95J-7ac10ba616/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AH92Q95J-7ac10ba616/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AH92Q95J-7ac10ba616/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 321,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AH92Q95J-7ac10ba616/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 428,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AH92Q95J-7ac10ba616/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 642,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057BAHNQAZ/F06AH92Q95J/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06AH92Q95J-e4ec06aa87",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0574PXBWRG"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lHq+H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So the only change I made was in NavigationBar.js and basically the \u003cLink\u003e element only appends to the current URL SO when in react your URL is \"localhost:3000\" and then when you click one of the \u003cLink\u003e elements it takes the \"to\" attribute and throws it onto the end of the URL, so if you click User Page it takes you to \"localhost:3000/userPage\", so I had to change from a \u003cLink\u003e to an \u003ca\u003e element and use the href to link it. I was really close to hitting the solution fast however I was \"href\" to \""
+              },
+              {
+                "type": "link",
+                "url": "https://localhost:8080/itineraries",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\" and the \"s\" was giving me problems... after dropping the \"s\" and making it \""
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:8080/itineraries",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\" it worked!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c0339333-87f9-4e17-8fbb-5cdabadadf62",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "Let me know if that makes sense! But basically I switched from \u0026lt;Link\u0026gt; to \u0026lt;a\u0026gt; and after some URL tweaking it worked!",
+    "ts": "1702675824.578529",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "53Btx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Let me know if that makes sense! But basically I switched from \u003cLink\u003e to \u003ca\u003e and after some URL tweaking it worked!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "103b2c67-cafa-400a-947a-0992b79b582c",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "Awesome!",
+    "ts": "1702675851.292419",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xl3Ae",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "33aa4f3d-6c86-41af-8146-2ad90d758458",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "That makes sense!",
+    "ts": "1702675860.959909",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iAlo1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That makes sense!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3e23931b-9863-4951-bd23-0e79fc65dd83",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "I would note however, that I think this would be a little... wonky when deploying to a live server... I am not 100% because I don't know how the linking would work regarding the URL but it works atleast here lol",
+    "ts": "1702676049.643769",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U0574PXBWRG",
+          "U05656EM4EM"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rp3fZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I would note however, that I think this would be a little... wonky when deploying to a live server... I am not 100% because I don't know how the linking would work regarding the URL but it works atleast here lol"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

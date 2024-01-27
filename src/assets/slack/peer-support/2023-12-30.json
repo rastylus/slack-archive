@@ -1,0 +1,130 @@
+[
+  {
+    "client_msg_id": "6F3EF899-4A89-4B71-A0A5-27CFD46914CB",
+    "type": "message",
+    "user": "U058FPAV532",
+    "text": "I am really struggling with connecting my login form code from my backend in intelli j to my front end in visual studio code does anyone have any suggestions?",
+    "ts": "1703965771.751669",
+    "thread_ts": "1703965771.751669",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U0571RPHQN9",
+        "ts": "1703971238.960539"
+      },
+      {
+        "user": "U058FPAV532",
+        "ts": "1703994150.965419"
+      }
+    ],
+    "latest_reply": "1703994150.965419",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0DYmj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am really struggling with connecting my login form code from my backend in intelli j to my front end in visual studio code does anyone have any suggestions?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5266667122900_4c371e493d3d45d4569b_72.png",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Hill (Philly)",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "hill.tiffany365",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U0571RPHQN9",
+      "U058FPAV532"
+    ]
+  },
+  {
+    "client_msg_id": "527A668E-99EA-4972-A43E-55F63C927A61",
+    "type": "message",
+    "user": "U0571RPHQN9",
+    "text": "Not sure of your code structure but I had forgotten to add @CrossOrigin in the controller with the url of my localhost. I hope that’s the issue. :smile: ",
+    "ts": "1703971238.960539",
+    "thread_ts": "1703965771.751669",
+    "parent_user_id": "U058FPAV532",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U058FPAV532"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "44b7y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Not sure of your code structure but I had forgotten to add @CrossOrigin in the controller with the url of my localhost. I hope that’s the issue. "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239873846917_0d708c72e3c408b436c1_72.png",
+      "first_name": "Dustin",
+      "real_name": "Dustin Friesen",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "dustinfriesen.dev",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

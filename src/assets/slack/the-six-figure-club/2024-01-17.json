@@ -1,0 +1,560 @@
+[
+  {
+    "client_msg_id": "99cd88ea-c3ab-41a5-9bc9-b6e020b40d98",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "Hi All!!! I just pushed the code, it works all are connected  you will see Task List from frontend, login/registration works now you can save user info in the database, some issues still have adding task from frontend. Please check the code and merge",
+    "ts": "1705482206.325599",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U05743K5BHT",
+          "U05775TUWQ4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3VW8L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi All!!! I just pushed the code, it works all are connected  you will see Task List from frontend, login/registration works now you can save user info in the database, some issues still have adding task from frontend. Please check the code and merge"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "582104F2-AF2E-499B-B4BE-E3B44E4C1152",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "What do you mean by login/registration works now? User account creation and management is my feature and I had it all working, tested and merged with backend connectivity and user info stored in the database. This was all completed before Christmas :sweat_smile: \n\nWere there changes made to it or did you guys redo it in your own way?",
+    "ts": "1705492945.757679",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RqOgm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What do you mean by login/registration works now? User account creation and management is my feature and I had it all working, tested and merged with backend connectivity and user info stored in the database. This was all completed before Christmas "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " \n\nWere there changes made to it or did you guys redo it in your own way?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4dafa81b-7f97-4b4f-83f0-3d8dc9547812",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "Wait, what's happening?",
+    "ts": "1705500925.783689",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qfeVD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Wait, what's happening?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f3b2bb87-27c7-42bd-9fd8-575f044ebf57",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "Do we have time for a meeting this evening?",
+    "ts": "1705500935.719649",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XFT4W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do we have time for a meeting this evening?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2DC5D44F-B3ED-49D0-B128-80BB31964DE5",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "I’m not really sure either. I assume that they met and worked through some stuff yesterday? I won’t be available to meet today unfortunately ",
+    "ts": "1705501025.904869",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WurL4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " not really sure either. I assume that they met and worked through some stuff yesterday? I "
+              },
+              {
+                "type": "text",
+                "text": "won’t"
+              },
+              {
+                "type": "text",
+                "text": " be available to meet today unfortunately "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D29823E9-C730-4BC5-A7D4-1227C2CC4EAF",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "I got the frontend functionality for my modal feature finished. I will push this branch later tonight when I get home for anyone to use that needs it! ",
+    "ts": "1705504687.116279",
+    "files": [
+      {
+        "id": "F06EZC9AHMW",
+        "created": 1705504464,
+        "timestamp": 1705504464,
+        "name": "Image from iOS.jpg",
+        "title": "Image from iOS",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U05743K5BHT",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 117968,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06EZC9AHMW/image_from_ios.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06EZC9AHMW/download/image_from_ios.jpg",
+        "original_h": 1098,
+        "original_w": 949,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EZC9AHMW-2d3b9dcfd0/image_from_ios_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EZC9AHMW-2d3b9dcfd0/image_from_ios_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EZC9AHMW-2d3b9dcfd0/image_from_ios_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EZC9AHMW-2d3b9dcfd0/image_from_ios_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 311,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EZC9AHMW-2d3b9dcfd0/image_from_ios_480.jpg",
+        "thumb_480_w": 415,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EZC9AHMW-2d3b9dcfd0/image_from_ios_720.jpg",
+        "thumb_720_w": 622,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EZC9AHMW-2d3b9dcfd0/image_from_ios_960.jpg",
+        "thumb_960_w": 830,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EZC9AHMW-2d3b9dcfd0/image_from_ios_1024.jpg",
+        "thumb_1024_w": 885,
+        "thumb_1024_h": 1024,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05743K5BHT/F06EZC9AHMW/image_from_ios.jpg",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06EZC9AHMW-f9c1731a42",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F06EP83AG73",
+        "created": 1705504486,
+        "timestamp": 1705504486,
+        "name": "Image from iOS.jpg",
+        "title": "Image from iOS",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U05743K5BHT",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 154262,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06EP83AG73/image_from_ios.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06EP83AG73/download/image_from_ios.jpg",
+        "original_h": 899,
+        "original_w": 1798,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EP83AG73-d0a4d6f50f/image_from_ios_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EP83AG73-d0a4d6f50f/image_from_ios_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EP83AG73-d0a4d6f50f/image_from_ios_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EP83AG73-d0a4d6f50f/image_from_ios_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 180,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EP83AG73-d0a4d6f50f/image_from_ios_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 240,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EP83AG73-d0a4d6f50f/image_from_ios_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 360,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EP83AG73-d0a4d6f50f/image_from_ios_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 480,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EP83AG73-d0a4d6f50f/image_from_ios_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 512,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05743K5BHT/F06EP83AG73/image_from_ios.jpg",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06EP83AG73-4e5a70ac28",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F06ED2TP7T6",
+        "created": 1705504504,
+        "timestamp": 1705504504,
+        "name": "Image from iOS.jpg",
+        "title": "Image from iOS",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U05743K5BHT",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 97833,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06ED2TP7T6/image_from_ios.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06ED2TP7T6/download/image_from_ios.jpg",
+        "original_h": 901,
+        "original_w": 1862,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ED2TP7T6-5597153fa3/image_from_ios_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ED2TP7T6-5597153fa3/image_from_ios_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ED2TP7T6-5597153fa3/image_from_ios_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ED2TP7T6-5597153fa3/image_from_ios_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 174,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ED2TP7T6-5597153fa3/image_from_ios_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 232,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ED2TP7T6-5597153fa3/image_from_ios_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 348,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ED2TP7T6-5597153fa3/image_from_ios_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 465,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ED2TP7T6-5597153fa3/image_from_ios_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 496,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05743K5BHT/F06ED2TP7T6/image_from_ios.jpg",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06ED2TP7T6-3cb7788471",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U05776GF9CL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "talDf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I got the frontend functionality for my modal feature finished. I will push this branch later tonight when I get home for anyone to use that needs it! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "314887e7-e596-4a7e-829f-446bfedac5ae",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "Thanks Jake!!  I finished my drag and drop functionalities too now I will test with other features then push it later",
+    "ts": "1705504964.500679",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05743K5BHT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cii4F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks Jake!!  I finished my drag and drop functionalities too now I will test with other features then push it later"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

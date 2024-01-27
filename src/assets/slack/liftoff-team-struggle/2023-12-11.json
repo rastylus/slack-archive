@@ -1,0 +1,261 @@
+[
+  {
+    "client_msg_id": "f5eb0a60-be4c-4d91-9f85-b320096a24a7",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "The API gives us unique IDs for the movies already, so I thought we could just use those directly! But yeah good idea, we may need a separate ID internally anyway",
+    "ts": "1702261025.826829",
+    "thread_ts": "1702238064.502549",
+    "parent_user_id": "U056ZJ34X42",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gH6SJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The API gives us unique IDs for the movies already, so I thought we could just use those directly! But yeah good idea, we may need a separate ID internally anyway"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eee41acf-a5fd-4a88-bdd1-2e62f01f40f0",
+    "type": "message",
+    "user": "U057J8HJZMF",
+    "text": "Hi! Just got home from work. I did all the code about login and register (authentication). but my IntelliJ does not add any of the imports :disappointed: maybe I missed some and need to install something again. Also, I implemented spring security into Gradle.",
+    "ts": "1702265939.100379",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yiHCP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi! Just got home from work. I did all the code about login and register (authentication). but my IntelliJ does not add any of the imports "
+              },
+              {
+                "type": "emoji",
+                "name": "disappointed",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " maybe I missed some and need to install something again. Also, I implemented spring security into Gradle."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240709602357_6b02a0957523bb9ba08f_72.jpg",
+      "first_name": "Nikolai",
+      "real_name": "Nikolai Ptukhin",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "nikolaiptukhin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2264698e-4ecf-419d-918a-74c586ce90f9",
+    "type": "message",
+    "user": "U057J8HJZMF",
+    "text": "And I am not pushing it coz I realized that I didn't change the branch and did everything in the main. If you know how can I change my local to a different branch let me know, otherwise, I will delete all changes and make it all over again.",
+    "ts": "1702266116.557559",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vo/FD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And I am not pushing it coz I realized that I didn't change the branch and did everything in the main. If you know how can I change my local to a different branch let me know, otherwise, I will delete all changes and make it all over again."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240709602357_6b02a0957523bb9ba08f_72.jpg",
+      "first_name": "Nikolai",
+      "real_name": "Nikolai Ptukhin",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "nikolaiptukhin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E8AB12FA-8035-472B-A764-97491E4F5DBD",
+    "type": "message",
+    "user": "U05777BLCPN",
+    "text": "look up git switch that should be the solution!",
+    "ts": "1702266187.202029",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057J8HJZMF"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ip6+o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "look up git switch that should be the solution!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-12/5255179561091_977940a39e063a34a12f_72.png",
+      "first_name": "Ami",
+      "real_name": "Ami Patel",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amitrpatel502",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0fb54b61-486f-4ab3-80c4-8aeed693ae79",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "added some endpoints for the API, but I think I need to do some more work to make it consumable by a front end still. pushed my code to the repo in the same branch named \"organize-file-structure\". tomorrow we can compare notes!",
+    "ts": "1702272730.897329",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057J8HJZMF"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z6Khk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "added some endpoints for the API, but I think I need to do some more work to make it consumable by a front end still. pushed my code to the repo in the same branch named \"organize-file-structure\". tomorrow we can compare notes!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

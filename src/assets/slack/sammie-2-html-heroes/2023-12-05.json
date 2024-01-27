@@ -1,0 +1,112 @@
+[
+  {
+    "client_msg_id": "f01fd64d-a671-4128-a2be-7eaeea94191b",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "\u003c@U05656EM4EM\u003e can you hop in here when you get the chance? :heart:",
+    "ts": "1701741306.944189",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DFsdj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05656EM4EM"
+              },
+              {
+                "type": "text",
+                "text": " can you hop in here when you get the chance? "
+              },
+              {
+                "type": "emoji",
+                "name": "heart",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "31b2eb75-ede1-4348-8a4c-485369f8e1b6",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "Hop in room 2 of the zoom sorry lol",
+    "ts": "1701741320.731419",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U05656EM4EM"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "33k8G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hop in room 2 of the zoom sorry lol"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

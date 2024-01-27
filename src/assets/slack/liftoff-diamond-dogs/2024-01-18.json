@@ -1,0 +1,1018 @@
+[
+  {
+    "client_msg_id": "D9B53B88-9720-4638-BAA9-E97FFD185500",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "Hi guys, sorry, can’t attend today ",
+    "ts": "1705539603.261439",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4hvHN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi guys, sorry, "
+              },
+              {
+                "type": "text",
+                "text": "can’t"
+              },
+              {
+                "type": "text",
+                "text": " attend today "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "50a3efde-8f9a-42a4-a94c-0536f1257f27",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "\u003chttps://us04web.zoom.us/j/71059210123?pwd=Wuh1ME5xObS1z0pGydgzl6KzleVkBA.1\u003e",
+    "ts": "1705539635.758809",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "D+cIY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://us04web.zoom.us/j/71059210123?pwd=Wuh1ME5xObS1z0pGydgzl6KzleVkBA.1",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "42642dd8-7aee-4d04-a281-7272ebda6b1b",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "\u003c@U056RCF9G87\u003e I was still able to change my profile name and photo on the most current version of main. I did have to logout and refresh to do it though. So try doing that a couple of times.",
+    "ts": "1705603623.051399",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o5z/C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056RCF9G87"
+              },
+              {
+                "type": "text",
+                "text": " I was still able to change my profile name and photo on the most current version of main. I did have to logout and refresh to do it though. So try doing that a couple of times."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0fce94a5-6a09-40df-843e-4d767f5a35a6",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I got the \"Google analytics tracking\" branch working but I had to run 'npm install react-icons' and 'npm install react-gtm-module'\n\nIf you run into issues during demo with an error on the react side, make sure to run these and it will fix your issues.\n\n\u003c@U05756M4E1H\u003e \u003c@U056RCF9G87\u003e \u003c@U057UNE3XPS\u003e",
+    "ts": "1705604304.746409",
+    "thread_ts": "1705604304.746409",
+    "last_read": "1705604304.746409",
+    "subscribed": true,
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05756M4E1H",
+        "ts": "1705620682.796669"
+      }
+    ],
+    "latest_reply": "1705620682.796669",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HX/pz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I got the \"Google analytics tracking\" branch working but I had to run 'npm install react-icons' and 'npm install react-gtm-module'\n\nIf you run into issues during demo with an error on the react side, make sure to run these and it will fix your issues.\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U05756M4E1H"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U056RCF9G87"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U057UNE3XPS"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05756M4E1H"
+    ]
+  },
+  {
+    "client_msg_id": "f2aa4cee-c51a-4287-afeb-4b251bc179bc",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I merged this branch into main.",
+    "ts": "1705604417.171749",
+    "thread_ts": "1705507875.078749",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pY7F6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I merged this branch into main."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "17de4067-3789-45f7-919f-0af5ca75404f",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "I'm trying to run main but its not working, can't change image",
+    "ts": "1705620682.796669",
+    "thread_ts": "1705604304.746409",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "I2N3t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm trying to run main but its not working, can't change image"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "345b4b94-c548-44bc-b66d-47edb2670ff7",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "any ideas what's broken?",
+    "ts": "1705621341.827439",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UblMI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "any ideas what's broken?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "08e6367b-28f3-4568-b9d5-02f922153519",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "are you encountering an issue?",
+    "ts": "1705621489.753499",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m+S9U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "are you encountering an issue?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7bd8fd21-7570-4566-9f8d-d87ae8c9ab2d",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "yes, I'm encountering an issue - I can't change username and image",
+    "ts": "1705621720.966149",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2Vomv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes, I'm encountering an issue - I can't change username and image"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "811f397c-0aa2-4f70-b8a7-6c3bb3768c4e",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "looks like i’m encountering the same issue, but I haven’t merged the latest from main, I’m still in a feature branch",
+    "ts": "1705621935.278099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6Uq/Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "looks like i’m encountering the same issue, but I haven’t merged the latest from main, I’m still in a feature branch"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ad4b467d-53c9-4b9c-a147-67ab4be3e810",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "might be something related to firebase",
+    "ts": "1705621961.413709",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EqirN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "might be something related to firebase"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6c257cb0-b90a-453e-bc69-67e52d7520d7",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "nice",
+    "ts": "1705621995.274249",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DMIg+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "nice"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2bb544fb-2eef-4f35-ace9-42ff201bd429",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "it’s two issues. the first error message i get says: Caused by: org.springframework.security.oauth2.jwt.BadJwtException: An error occurred while attempting to decode the Jwt: Signed JWT rejected: Another algorithm expected, or no matching key(s) found",
+    "ts": "1705622012.850729",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8z1dA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it’s two issues. the first error message i get says: Caused by: org.springframework.security.oauth2.jwt.BadJwtException: An error occurred while attempting to decode the Jwt: Signed JWT rejected: Another algorithm expected, or no matching key(s) found"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d8ef8693-a777-455e-932b-d952573ce2be",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I was able to change my photo and name. Gotta make sure it's all refreshed.",
+    "ts": "1705622030.763639",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wNoGb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was able to change my photo and name. Gotta make sure it's all refreshed."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0692a787-5b44-4e4c-8149-3cd282ed610b",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "The second says: Caused by: com.nimbusds.jose.proc.BadJOSEException: Signed JWT rejected: Another algorithm expected, or no matching key(s) found",
+    "ts": "1705622042.051359",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YWKbd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The second says: Caused by: com.nimbusds.jose.proc.BadJOSEException: Signed JWT rejected: Another algorithm expected, or no matching key(s) found"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fd2fcfc9-5470-455a-bc88-bd8c36f2f10d",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "we have one main, how it can work on one machine and not on other",
+    "ts": "1705622076.810899",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Our8p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we have one main, how it can work on one machine and not on other"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "339e7393-1748-4d49-8954-89ade45e98b3",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "No idea. All I know is I'm literally changing it right now and it works. It wasn't working until I logged out and refreshed everything. It then started working. I think it has to do with the token being expired.",
+    "ts": "1705622139.814389",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wvi1e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No idea. All I know is I'm literally changing it right now and it works. It wasn't working until I logged out and refreshed everything. It then started working. I think it has to do with the token being expired."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bdb3528b-9304-4b17-a8a1-945bb95c060c",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "now it’s working for me. i logged out and logged back in",
+    "ts": "1705622178.021559",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aaNMR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "now it’s working for me. i logged out and logged back in"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1bc3efe4-ea80-4f28-b7df-f5b4fb8609b8",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Yeah that's exactly what I did.",
+    "ts": "1705622189.297559",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FhrKD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah that's exactly what I did."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b46158c0-6888-497c-90ea-c292b84f869b",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "I've logged in and out few times and last time it worked",
+    "ts": "1705622303.749999",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9aR3i",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I've logged in and out few times and last time it worked"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2ebee180-f5a8-40f9-8331-cb2763c01a94",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "this is spitballing, but try stopping intellij and vs code, restart the program, then log out and log back in upon startup",
+    "ts": "1705622378.155289",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V6aZb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this is spitballing, but try stopping intellij and vs code, restart the program, then log out and log back in upon startup"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

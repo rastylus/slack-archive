@@ -1,0 +1,106 @@
+[
+  {
+    "client_msg_id": "2D9CCC44-33B7-4FA8-8E29-FE7B03EE33F9",
+    "type": "message",
+    "user": "U056Z4PDDFG",
+    "text": "My feature: employee can see his schedule, so I will start with UserController and template for view account page tomorrow. I can finish this part and create a pull request if you need to do your part with UserController.",
+    "ts": "1702389813.809769",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iKrFj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My feature: employee can see his schedule"
+              },
+              {
+                "type": "text",
+                "text": ","
+              },
+              {
+                "type": "text",
+                "text": " so I will start with UserController and template for view account page tomorrow. I can finish this part and create a pull request if you need to do your part with UserController."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243639057747_935971920daa171f0237_72.png",
+      "first_name": "Kate",
+      "real_name": "Kate Khusainova",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "katekhusainova8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "90C6F4EC-9DF3-4EA5-A6BD-3A6F9C5174D2",
+    "type": "message",
+    "user": "U056Z4PDDFG",
+    "text": "Also I think we need AdminController and maybe HomeController for home page with Sign up and Registration.",
+    "ts": "1702389926.432999",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m70Fu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also I think we need AdminController and maybe HomeController for home page with Sign up and Registration"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243639057747_935971920daa171f0237_72.png",
+      "first_name": "Kate",
+      "real_name": "Kate Khusainova",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "katekhusainova8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

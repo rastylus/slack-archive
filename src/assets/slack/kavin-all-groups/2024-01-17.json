@@ -1,0 +1,61 @@
+[
+  {
+    "client_msg_id": "4db65ca9-771b-4db4-8451-9136588bb56d",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "\u003c@U056FFS0C64\u003e gifcam worked perfectly, thanks for the recommendation",
+    "ts": "1705529171.560779",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "lc-gif",
+        "count": 1,
+        "users": [
+          "U056FFS0C64"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IB9Y7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056FFS0C64"
+              },
+              {
+                "type": "text",
+                "text": " gifcam worked perfectly, thanks for the recommendation"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

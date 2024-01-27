@@ -1,0 +1,293 @@
+[
+  {
+    "client_msg_id": "458ce325-e29b-4b36-b274-32470d1cc389",
+    "type": "message",
+    "user": "U056K1U9R1V",
+    "text": "On GA4, I am not getting past Task 4 test: testProcessAddJobFormHandlesSkillsProperly, lines 141-142. Anyone have a similar issue?",
+    "ts": "1699331806.687179",
+    "thread_ts": "1699331806.687179",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699361322.078759"
+      },
+      {
+        "user": "U056K1U9R1V",
+        "ts": "1699365607.631499"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699369488.528909"
+      }
+    ],
+    "latest_reply": "1699369488.528909",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a9q7d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "On GA4, I am not getting past Task 4 test: testProcessAddJobFormHandlesSkillsProperly, lines 141-142. Anyone have a similar issue?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-21/5298968476898_8771134baeb75bcab23b_72.jpg",
+      "first_name": "Sharion",
+      "real_name": "Sharion Cranston",
+      "display_name": "Sharion Cranston",
+      "team": "T050CSX3EMT",
+      "name": "sharion06",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056K1U9R1V",
+      "U05724ACLVB"
+    ]
+  },
+  {
+    "client_msg_id": "1b92d886-0fb3-489e-9645-3fc383a729db",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Have you checked the appropriate controller to see that the add job form handler accounts for skills?",
+    "ts": "1699361322.078759",
+    "thread_ts": "1699331806.687179",
+    "parent_user_id": "U056K1U9R1V",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-5",
+        "count": 1,
+        "users": [
+          "U056K1U9R1V"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PG++K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Have you checked the appropriate controller to see that the add job form handler accounts for skills?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "61274af3-8ca0-4cde-8185-5ce56b888ac5",
+    "type": "message",
+    "user": "U056K1U9R1V",
+    "text": "Isn't that part of the code that they provided? What am I missing?",
+    "ts": "1699365607.631499",
+    "thread_ts": "1699331806.687179",
+    "parent_user_id": "U056K1U9R1V",
+    "files": [
+      {
+        "id": "F065AD1ABCY",
+        "created": 1699365602,
+        "timestamp": 1699365602,
+        "name": "IMG_20231107_071459.jpg",
+        "title": "IMG_20231107_071459.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U056K1U9R1V",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 601628,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F065AD1ABCY/img_20231107_071459.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F065AD1ABCY/download/img_20231107_071459.jpg",
+        "original_h": 4000,
+        "original_w": 3000,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F065AD1ABCY-3b16251989/img_20231107_071459_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F065AD1ABCY-3b16251989/img_20231107_071459_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F065AD1ABCY-3b16251989/img_20231107_071459_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F065AD1ABCY-3b16251989/img_20231107_071459_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F065AD1ABCY-3b16251989/img_20231107_071459_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F065AD1ABCY-3b16251989/img_20231107_071459_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F065AD1ABCY-3b16251989/img_20231107_071459_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F065AD1ABCY-3b16251989/img_20231107_071459_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056K1U9R1V/F065AD1ABCY/img_20231107_071459.jpg",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F065AD1ABCY-213877afe0",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U056YJVMJ14"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A2JFY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Isn't that part of the code that they provided? What am I missing?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-21/5298968476898_8771134baeb75bcab23b_72.jpg",
+      "first_name": "Sharion",
+      "real_name": "Sharion Cranston",
+      "display_name": "Sharion Cranston",
+      "team": "T050CSX3EMT",
+      "name": "sharion06",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1c7e532d-8010-40aa-990e-0881e4c6dbcd",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I'm helping someone else at the moment, but I can help you dig into this later today, if you like.",
+    "ts": "1699369488.528909",
+    "thread_ts": "1699331806.687179",
+    "parent_user_id": "U056K1U9R1V",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YItg3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm helping someone else at the moment, but I can help you dig into this later today, if you like."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

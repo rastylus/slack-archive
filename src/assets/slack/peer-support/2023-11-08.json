@@ -1,0 +1,856 @@
+[
+  {
+    "client_msg_id": "2b4fbb5e-b829-4142-b09a-928c699e4e9b",
+    "type": "message",
+    "user": "U057C714BU1",
+    "text": "On GA4, is anyone experiencing issues with task 4 SQL query?",
+    "ts": "1699468488.304129",
+    "thread_ts": "1699468488.304129",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U057C714BU1",
+        "ts": "1699468871.042529"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1699470370.749219"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1699470516.282509"
+      },
+      {
+        "user": "U057C714BU1",
+        "ts": "1699471219.676919"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1699473114.937249"
+      }
+    ],
+    "latest_reply": "1699473114.937249",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7vJCB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "On GA4, is anyone experiencing issues with task 4 SQL query?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-25/5334493863681_4dbaa19f17f8ad07f215_72.jpg",
+      "first_name": "Anastasia",
+      "real_name": "Anastasia",
+      "display_name": "Anastasia",
+      "team": "T050CSX3EMT",
+      "name": "anamindful",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U057C714BU1"
+    ]
+  },
+  {
+    "client_msg_id": "0f724220-f1e6-4770-920d-bfe2340709e9",
+    "type": "message",
+    "user": "U057C714BU1",
+    "text": "What columns are expected in the skill table?",
+    "ts": "1699468871.042529",
+    "thread_ts": "1699468488.304129",
+    "parent_user_id": "U057C714BU1",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SN5JC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What columns are expected in the skill table?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-25/5334493863681_4dbaa19f17f8ad07f215_72.jpg",
+      "first_name": "Anastasia",
+      "real_name": "Anastasia",
+      "display_name": "Anastasia",
+      "team": "T050CSX3EMT",
+      "name": "anamindful",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "17BE8E9C-677C-4D72-A1F0-3C2B0A0D2E84",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Yes I did. I found looking at the test itself helpful in figuring out what the test didn’t like even though my query technically worked ",
+    "ts": "1699470370.749219",
+    "thread_ts": "1699468488.304129",
+    "parent_user_id": "U057C714BU1",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FE7a5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes I did. I found looking at the test itself helpful in figuring out what the test "
+              },
+              {
+                "type": "text",
+                "text": "didn’t"
+              },
+              {
+                "type": "text",
+                "text": " like even though my query technically worked "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "278A037A-9110-41B9-9B67-3B9D06A255D1",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I also found that the directions and the test didn’t seem to actually match (the columns shown were different) but I just made it so it passed. And talked about that in my demo. ",
+    "ts": "1699470516.282509",
+    "thread_ts": "1699468488.304129",
+    "parent_user_id": "U057C714BU1",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5H8UH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I also found that the directions and the test "
+              },
+              {
+                "type": "text",
+                "text": "didn’t"
+              },
+              {
+                "type": "text",
+                "text": " seem to actually match (the columns shown were different) but I just made it so it passed. And talked about that in my demo. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d972a13d-2838-4960-8d51-116c19dcc244",
+    "type": "message",
+    "user": "U056YJVMJ14",
+    "text": "Having issue in  TestTaskTwo receiving \"The value parameter for the routing annotation must be the empty string\"; It's expecting a \"/\" from the testEmployerControllerIndexMethodDefinition and testSkillControllerIndexMethodDefinition tests. Everything else is passing. Thanks",
+    "ts": "1699470568.660039",
+    "thread_ts": "1699470568.660039",
+    "reply_count": 8,
+    "replies": [
+      {
+        "user": "U056SERBK2B",
+        "ts": "1699471121.945589"
+      },
+      {
+        "user": "U056YJVMJ14",
+        "ts": "1699474719.579339"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1699474797.708279"
+      },
+      {
+        "user": "U056YJVMJ14",
+        "ts": "1699475126.790939"
+      },
+      {
+        "user": "U056YJVMJ14",
+        "ts": "1699475142.471899"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1699475319.129789"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1699475396.796079"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1699478293.285869"
+      }
+    ],
+    "latest_reply": "1699478293.285869",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "THZBv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Having issue in  TestTaskTwo receiving \"The value parameter for the routing annotation must be the empty string\"; It's expecting a \"/\" from the testEmployerControllerIndexMethodDefinition and testSkillControllerIndexMethodDefinition tests. Everything else is passing. Thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/d5ef8493c61cf75d77cef871965a1c84.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Tracy",
+      "real_name": "Tracy Novel",
+      "display_name": "Tracy Novel",
+      "team": "T050CSX3EMT",
+      "name": "tracy.novel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056SERBK2B",
+      "U056YJVMJ14"
+    ]
+  },
+  {
+    "client_msg_id": "8cfa5a2d-120a-4393-a453-61134057b14c",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "What path do you have for your index methods?",
+    "ts": "1699471121.945589",
+    "thread_ts": "1699470568.660039",
+    "parent_user_id": "U056YJVMJ14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AqiPw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What path do you have for your index methods?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5599bcbc-bcbf-4409-8b4a-50133540daa9",
+    "type": "message",
+    "user": "U057C714BU1",
+    "text": "Did you drop all your tables in MySQL like it talked about in the text?",
+    "ts": "1699471219.676919",
+    "thread_ts": "1699468488.304129",
+    "parent_user_id": "U057C714BU1",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TvfRY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Did you drop all your tables in MySQL like it talked about in the text?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-25/5334493863681_4dbaa19f17f8ad07f215_72.jpg",
+      "first_name": "Anastasia",
+      "real_name": "Anastasia",
+      "display_name": "Anastasia",
+      "team": "T050CSX3EMT",
+      "name": "anamindful",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D20442AA-8EE9-49CB-B676-D0EB20CEC97F",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Yes I did because as you refactor through tasks 2-4, you change what columns your tables have in many cases ",
+    "ts": "1699473114.937249",
+    "thread_ts": "1699468488.304129",
+    "parent_user_id": "U057C714BU1",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OEuiw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes I did because as you refactor through tasks 2-4, you change what columns your tables have in many cases "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2da19101-78ea-4a95-9145-c5a45896e562",
+    "type": "message",
+    "user": "U056YJVMJ14",
+    "text": "In the Controller.java  I do return \"/employers/index\";",
+    "ts": "1699474719.579339",
+    "thread_ts": "1699470568.660039",
+    "parent_user_id": "U056YJVMJ14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yCI6P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "In the Controller.java  I do return \"/employers/index\";"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/d5ef8493c61cf75d77cef871965a1c84.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Tracy",
+      "real_name": "Tracy Novel",
+      "display_name": "Tracy Novel",
+      "team": "T050CSX3EMT",
+      "name": "tracy.novel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8fb4faa3-da2b-4a8d-b282-cea6474de954",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "This is referring to your annotation path.",
+    "ts": "1699474797.708279",
+    "thread_ts": "1699470568.660039",
+    "parent_user_id": "U056YJVMJ14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FzwHo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is referring to your annotation path."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4f4ca278-ae82-40c8-8c8d-ce29e435852c",
+    "type": "message",
+    "user": "U056YJVMJ14",
+    "text": "Is This what you mean by annotation?",
+    "ts": "1699475126.790939",
+    "thread_ts": "1699470568.660039",
+    "parent_user_id": "U056YJVMJ14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "buFIT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is This what you mean by annotation?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/d5ef8493c61cf75d77cef871965a1c84.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Tracy",
+      "real_name": "Tracy Novel",
+      "display_name": "Tracy Novel",
+      "team": "T050CSX3EMT",
+      "name": "tracy.novel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ac124b60-1d7a-40ab-9a4d-67d32d405f5a",
+    "type": "message",
+    "user": "U056YJVMJ14",
+    "ts": "1699475142.471899",
+    "thread_ts": "1699470568.660039",
+    "parent_user_id": "U056YJVMJ14",
+    "files": [
+      {
+        "id": "F064Z98EUQL",
+        "created": 1699475138,
+        "timestamp": 1699475138,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056YJVMJ14",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 95791,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F064Z98EUQL/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F064Z98EUQL/download/image.png",
+        "original_h": 501,
+        "original_w": 1026,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F064Z98EUQL-c439741c2e/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F064Z98EUQL-c439741c2e/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F064Z98EUQL-c439741c2e/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F064Z98EUQL-c439741c2e/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 176,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F064Z98EUQL-c439741c2e/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 234,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F064Z98EUQL-c439741c2e/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 352,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F064Z98EUQL-c439741c2e/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 469,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F064Z98EUQL-c439741c2e/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 500,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056YJVMJ14/F064Z98EUQL/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F064Z98EUQL-7ada018850",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/d5ef8493c61cf75d77cef871965a1c84.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Tracy",
+      "real_name": "Tracy Novel",
+      "display_name": "Tracy Novel",
+      "team": "T050CSX3EMT",
+      "name": "tracy.novel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8c7bb211-0887-46dd-87bb-c8b6e4a96f5b",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "In this instance it is your mapping.",
+    "ts": "1699475319.129789",
+    "thread_ts": "1699470568.660039",
+    "parent_user_id": "U056YJVMJ14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QwSjp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "In this instance it is your mapping."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "78181b02-4d5a-4d41-8d35-2bbb383d9e64",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "t's expecting a \"/\" from the testEmployerControllerIndexMethodDefinition",
+    "ts": "1699475396.796079",
+    "thread_ts": "1699470568.660039",
+    "parent_user_id": "U056YJVMJ14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ubm2m",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "t's expecting a \"/\" from the testEmployerControllerIndexMethodDefinition"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "69D07001-442E-44E2-8FEA-5FE5F6F937AB",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "FYI the path in the mapping is where your method shows up in the browser, the path in the return statement dictates the view. ",
+    "ts": "1699478293.285869",
+    "thread_ts": "1699470568.660039",
+    "parent_user_id": "U056YJVMJ14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mG80G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "FYI the path in the mapping is where your method shows up in the browser, the path in the return statement dictates the view"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

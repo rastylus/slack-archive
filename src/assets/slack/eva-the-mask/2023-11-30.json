@@ -1,0 +1,103 @@
+[
+  {
+    "client_msg_id": "62214d2e-ce2d-4061-a270-c0b94992e492",
+    "type": "message",
+    "user": "U057JSST597",
+    "text": "I've glanced it over, it's not as daunting as I thought. Definitely something we need to figure out today. I made a copy of it for us.\n\n\u003chttps://docs.google.com/document/d/10Atv-b9RpU9yHaw3T4V8BYcrpIB0hNlua7yBEzS1T9I/edit?usp=sharing\u003e\n\nIt's still confusing a bit to me because the in the examples the features typically encompass some/all of the required features. In my head it's easier to just think of 12 features and make sure that all of the required features are covered within those 12 (e.g. adding a new user to the scheduling system already accounts for part of CRUD functionality, creating/managing user accounts, and relational database). I could be wrong though.",
+    "ts": "1701357276.098029",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qfy5L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I've glanced it over, it's not as daunting as I thought. Definitely something we need to figure out today. I made a copy of it for us.\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/10Atv-b9RpU9yHaw3T4V8BYcrpIB0hNlua7yBEzS1T9I/edit?usp=sharing",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nIt's still confusing a bit to me because the in the examples the features typically encompass some/all of the required features. In my head it's easier to just think of 12 features and make sure that all of the required features are covered within those 12 (e.g. adding a new user to the scheduling system already accounts for part of CRUD functionality, creating/managing user accounts, and relational database). I could be wrong though."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5252453710851_1c8ab4c8f861d9a71de2_72.jpg",
+      "first_name": "Anthony",
+      "real_name": "Anthony Silva",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "antsilva93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "534f2125-7943-4e55-8dc8-8fa571fa2234",
+    "type": "message",
+    "user": "U0577LS7MDL",
+    "text": "that seems correct",
+    "ts": "1701386211.616639",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fKj4V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that seems correct"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/567d982d608de757f7d0db5df7c1abe7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Mario",
+      "real_name": "Mario Dickerson",
+      "display_name": "Mario Dickerson",
+      "team": "T050CSX3EMT",
+      "name": "dai.dickerson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

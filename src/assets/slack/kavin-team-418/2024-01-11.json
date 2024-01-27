@@ -1,0 +1,911 @@
+[
+  {
+    "client_msg_id": "1f01ece5-4745-444d-b0c4-171735af5bab",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Mine is also 5173, and i believe all are ported to 5173 for the frontend - can you double check yours \u003c@U05744248P7\u003e?",
+    "ts": "1704933538.798659",
+    "thread_ts": "1704918823.753219",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mWeG9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Mine is also 5173, and i believe all are ported to 5173 for the frontend - can you double check yours "
+              },
+              {
+                "type": "user",
+                "user_id": "U05744248P7"
+              },
+              {
+                "type": "text",
+                "text": "?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "13ed6684-046c-49ba-9fac-a87bd8ad2200",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "My apologies, that may have just been me. Not sure if can run both. I switched earlier today when i was testing and realized it was different port.",
+    "ts": "1704933725.366879",
+    "thread_ts": "1704918823.753219",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uBDJJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My apologies, that may have just been me. Not sure if can run both. I switched earlier today when i was testing and realized it was different port."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7e9c6bb6-ce86-403f-9461-62c1fc7b2e2d",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "I can switch it back.",
+    "ts": "1704933730.096259",
+    "thread_ts": "1704918823.753219",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MdwZZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can switch it back."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4c88f234-1c71-462c-a47f-f2c7aac4eb57",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Sometimes trying to run multiple of the same program will automatically kick you over into a new port\n\nor if it's default 5175 for you, we can run them both\n\njust do a {\"\u003chttp://localhost:5173\u003e\", \"\u003chttp://localhost:5175\u003e\"}",
+    "ts": "1704933745.811589",
+    "thread_ts": "1704918823.753219",
+    "edited": {
+      "user": "U057P8PCXT2",
+      "ts": "1704933775.000000"
+    },
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gWWdT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sometimes trying to run multiple of the same program will automatically kick you over into a new port\n\nor if it's default 5175 for you, we can run them both\n\njust do a {\""
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:5173",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\", \""
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:5175",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\"}"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "25955b1c-4a5b-4b14-b998-0647955c559d",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "in the cross origins",
+    "ts": "1704933756.333699",
+    "thread_ts": "1704918823.753219",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1PtyM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "in the cross origins"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fafdcd1f-6f65-40d2-a24c-076546d44d18",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "we can add that to all of them whenever we cross it just to make sure you're able to run it all",
+    "ts": "1704933806.203939",
+    "thread_ts": "1704918823.753219",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ay4Kv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we can add that to all of them whenever we cross it just to make sure you're able to run it all"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0dc564db-25e4-424b-9112-431097576780",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "I set it back to 5173, because I want to find out what is using the other ports. If need be I'll add the other one in.",
+    "ts": "1704934414.440369",
+    "thread_ts": "1704918823.753219",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "28l6z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I set it back to 5173, because I want to find out what is using the other ports. If need be I'll add the other one in."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2f6136ec-65f8-4c2a-a1c1-e0d9bffbc14a",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Just needed to do a clean restart. Sorry about that guys!",
+    "ts": "1704941792.379479",
+    "thread_ts": "1704918823.753219",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R5kvR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just needed to do a clean restart. Sorry about that guys!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5613D936-A178-47ED-ABB2-BF42887164DB",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "No worries at all!",
+    "ts": "1704941834.277909",
+    "thread_ts": "1704918823.753219",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pA1XU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No worries at all!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f02ba4aa-7865-4375-84e8-d3f34e1f24ab",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "no sweat!",
+    "ts": "1704944456.253419",
+    "thread_ts": "1704918823.753219",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MGZVI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no sweat!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "39f5cf44-9e40-42b3-a0a7-830d0f5f9292",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I have a PR in to better load logged in user state as each component mounts. My NavBar wasn’t holding the logged in status between components.",
+    "ts": "1704998792.252239",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NlKOI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have a PR in to better load logged in user state as each component mounts. My NavBar wasn’t holding the logged in status between components."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7bcaa4d4-84cb-4918-b677-c6363bda5cb7",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Merged and submitted my own PR with the api feature and some general clean up",
+    "ts": "1705013337.649729",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v428d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Merged and submitted my own PR with the api feature and some general clean up"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6d9dce89-f49c-4a25-86b2-e08da1ff00f2",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "made a button on the \"replace filter\" page in the card, so each search is specific to the user's filter",
+    "ts": "1705013368.856839",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CuZ25",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "made a button on the \"replace filter\" page in the card, so each search is specific to the user's filter"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4965c54b-5872-441a-94cf-26bd2330e131",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "AND FIXED THIS STUPID LANDING PAGE NAV BAR",
+    "ts": "1705013419.949089",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "joy",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9PKUS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "AND FIXED THIS STUPID LANDING PAGE NAV BAR"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3133ae4e-8367-463a-b7da-8fc92be61409",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "I've spent so much time trying to get a nice, non-global styling of the background - everything else just looks awful, so right now that's the reason the same picture is in every web-page",
+    "ts": "1705013464.136559",
+    "edited": {
+      "user": "U057P8PCXT2",
+      "ts": "1705013475.000000"
+    },
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ALLiv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I've spent so much time trying to get a nice, non-global styling of the background - everything else just looks awful, so right now that's the reason the same picture is in every web-page"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f6cdc97f-eb6f-4931-b97a-5f336d72301f",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Are you guys planning on meeting in small group today?",
+    "ts": "1705015709.933819",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qR1un",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are you guys planning on meeting in small group today?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "514ba76d-c872-462c-bd51-9e789ad139fa",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "i figured we would pop in and see what kavin had to say - and we can do a quick check-in and see if you guys have any questions",
+    "ts": "1705015773.252719",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zJIYw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i figured we would pop in and see what kavin had to say - and we can do a quick check-in and see if you guys have any questions"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "12eece52-3afc-4946-b2b5-d5852ef33a2a",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "otherwise i think we're in a good spot?",
+    "ts": "1705015783.156749",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vw7kQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "otherwise i think we're in a good spot?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

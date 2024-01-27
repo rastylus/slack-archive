@@ -1,0 +1,143 @@
+[
+  {
+    "client_msg_id": "CEF04C1B-2519-4E48-9E1D-7AC282D66322",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "I updated those branches btw! The working branches with all the routing and connections are on:\n\nFrontend: login/register-form-connected\nBackend: user-authentication-connected",
+    "ts": "1703619546.577579",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fHVU+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I updated those branches btw! The working branches with all the routing and connections are on:\n\nFrontend: login/register-form-connected\nBackend: user-authentication-connected"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9D8FD6F1-6F66-4DBB-B20C-52A333CC28EC",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Also, I think we should update our main ProcrastiNOT file tree to include the Frontend and backend separately, but in the same project folder like Shawn was suggesting to us all. That way everything we need will always stay in one main project folder and it’ll be easier to maintain and keep track of everything. I haven’t done this yet, just wanted everyone’s thoughts on it first! I think we’re at a good spot now to get things more organized on our GitHub since y’all should be able to dive into your features now. So if we wanna go that route now would be the time before we keep adding and making it harder down the road",
+    "ts": "1703619619.687319",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05775TUWQ4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1U0GI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "text",
+                "text": "I think we should update our"
+              },
+              {
+                "type": "text",
+                "text": " main"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "ProcrastiNOT file"
+              },
+              {
+                "type": "text",
+                "text": " tree to include the Frontend and backend"
+              },
+              {
+                "type": "text",
+                "text": " separately, but"
+              },
+              {
+                "type": "text",
+                "text": " in the same project folder like Shawn was "
+              },
+              {
+                "type": "text",
+                "text": "suggesting to us all"
+              },
+              {
+                "type": "text",
+                "text": ". That way everything we need will always stay in one main project folder and it’ll be easier to maintain and keep track of everything. I haven’t done this yet, just wanted everyone’s thoughts on it first! I think we’re at a good spot now to get things more organized on our GitHub since y’all should be able to dive into your features now. So if we wanna go that route now would be the time before we keep adding and making it harder down the road"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

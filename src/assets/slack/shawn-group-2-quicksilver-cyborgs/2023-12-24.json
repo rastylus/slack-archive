@@ -1,0 +1,63 @@
+[
+  {
+    "client_msg_id": "df0ba193-22ce-4c59-b998-1cf9441f0e4d",
+    "type": "message",
+    "user": "U0574K7SCF5",
+    "text": "\u003c@U056R9L6CQP\u003e  Hey, seeing as the original plan might be a little hard to follow up on, I'm going to pivot and work on the events class and creating an event using the API. I know you talked about wanting to do some backend work, but there should still be plenty left to do when it comes to API calls for editing or deleting events and users. If you want more to do on that end I'm sure we can come up with something too. I hope you're having great holidays and we can catch up after!",
+    "ts": "1703391929.400159",
+    "thread_ts": "1703391929.400159",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056R9L6CQP",
+        "ts": "1703529556.465699"
+      }
+    ],
+    "latest_reply": "1703529556.465699",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M8dbh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056R9L6CQP"
+              },
+              {
+                "type": "text",
+                "text": "  Hey, seeing as the original plan might be a little hard to follow up on, I'm going to pivot and work on the events class and creating an event using the API. I know you talked about wanting to do some backend work, but there should still be plenty left to do when it comes to API calls for editing or deleting events and users. If you want more to do on that end I'm sure we can come up with something too. I hope you're having great holidays and we can catch up after!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/25636fcae015399f5543db2ec0c827f0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Riley",
+      "real_name": "Riley Neuville",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "riley.neuville",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056R9L6CQP"
+    ]
+  }
+]

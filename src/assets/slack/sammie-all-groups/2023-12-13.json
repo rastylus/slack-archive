@@ -1,0 +1,204 @@
+[
+  {
+    "client_msg_id": "a5eea05d-a321-4ff2-ac85-8aaa7ff32829",
+    "type": "message",
+    "user": "U05656EM4EM",
+    "text": "\u003c!channel\u003e Great work so far on PRs! :fire: Don't forget to move tickets along in the Kanban board as needed!",
+    "ts": "1702491600.366899",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UIVLH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " Great work so far on PRs! "
+              },
+              {
+                "type": "emoji",
+                "name": "fire",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Don't forget to move tickets along in the Kanban board as needed!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-08/5546028551765_ef5cfd16f93e919dda43_72.jpg",
+      "first_name": "TA",
+      "real_name": "TA Sammie Mendez (she/her)",
+      "display_name": "TA - Sammie",
+      "team": "T050CSX3EMT",
+      "name": "sammierosado",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "29accbe6-8ceb-495c-99fd-9544e76b9689",
+    "type": "message",
+    "user": "U05656EM4EM",
+    "text": "\u003c@U057HMJ9QTB\u003e\nThis is a good reference for everyone.\nTo protect your API keys, create a .env file.\nAdd .env to gitignore\n\u003chttps://salferrarello.com/add-env-to-gitignore/\u003e",
+    "ts": "1702500086.937639",
+    "attachments": [
+      {
+        "fallback": "Sal Ferrarello: Should I add .env to .gitignore?",
+        "id": 1,
+        "title": "Should I add .env to .gitignore?",
+        "title_link": "https://salferrarello.com/add-env-to-gitignore/",
+        "text": "The short answer is, \"yes\". You should use your .gitignore file to ignore the .env file.",
+        "thumb_url": "https://avatars0.githubusercontent.com/u/5194588?s=400\u0026v=4",
+        "service_name": "Sal Ferrarello",
+        "service_icon": "https://salferrarello.com/wp-content/plugins/salferrarello-com-mods/images/favicon.ico",
+        "from_url": "https://salferrarello.com/add-env-to-gitignore/",
+        "original_url": "https://salferrarello.com/add-env-to-gitignore/",
+        "fields": [
+          {
+            "title": "Written by",
+            "value": "Sal Ferrarello",
+            "short": true
+          },
+          {
+            "title": "Est. reading time",
+            "value": "2 minutes",
+            "short": true
+          }
+        ],
+        "blocks": null,
+        "ts": 1613050344
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7/FLI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057HMJ9QTB"
+              },
+              {
+                "type": "text",
+                "text": "\nThis is a good reference for everyone.\nTo protect your API keys, create a .env file.\nAdd .env to gitignore\n"
+              },
+              {
+                "type": "link",
+                "url": "https://salferrarello.com/add-env-to-gitignore/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-08/5546028551765_ef5cfd16f93e919dda43_72.jpg",
+      "first_name": "TA",
+      "real_name": "TA Sammie Mendez (she/her)",
+      "display_name": "TA - Sammie",
+      "team": "T050CSX3EMT",
+      "name": "sammierosado",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5cbcd37f-7707-4581-9458-42f18cb15ed7",
+    "type": "message",
+    "user": "U057HMJ9QTB",
+    "text": "Awesome, thank you Sammie!! :raised_hands:",
+    "ts": "1702503499.363079",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U05656EM4EM"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "otL7z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome, thank you Sammie!! "
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-25/5326654072450_71a5e4b1297fa94e715a_72.png",
+      "first_name": "Jay",
+      "real_name": "Jay Hamrick",
+      "display_name": "Jay Hamrick",
+      "team": "T050CSX3EMT",
+      "name": "jhamrick2126",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

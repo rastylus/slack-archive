@@ -1,0 +1,103 @@
+[
+  {
+    "client_msg_id": "7D7829AE-8BC3-4D13-A102-2E810A64F330",
+    "type": "message",
+    "user": "U056Z4PDDFG",
+    "text": "I'm sorry I won't be able to join today's studio. If you decide something new about the project today, please write here. I created a new pull request with the access to MySQL.",
+    "ts": "1702587388.630639",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ws08X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm sorry I won't be able to join today's studio. If you decide something new about the project today, please write here. I created a new pull request with the access to MySQL."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243639057747_935971920daa171f0237_72.png",
+      "first_name": "Kate",
+      "real_name": "Kate Khusainova",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "katekhusainova8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "beabd9bf-7aef-419b-9d75-b1cd6dd89781",
+    "type": "message",
+    "user": "U057JSST597",
+    "text": "I don't think I'm going to make it tonight either; have had something come up. I'll try to get my stuff pushed up asap",
+    "ts": "1702593688.069239",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056Z4PDDFG"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FGBaI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I don't think I'm going to make it tonight either; have had something come up. I'll try to get my stuff pushed up asap"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5252453710851_1c8ab4c8f861d9a71de2_72.jpg",
+      "first_name": "Anthony",
+      "real_name": "Anthony Silva",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "antsilva93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,588 @@
+[
+  {
+    "client_msg_id": "118ca2fd-aa3c-427d-b751-7b34430c27fa",
+    "type": "message",
+    "user": "U057HDRTJU9",
+    "text": "Ohh noo.. I tried to push on main and it shows conflicts in repo.. but didn't code any.. so guess won't be a major issue.. but need help in resolving it..",
+    "ts": "1702872756.953629",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6h1Oa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ohh noo.. I tried to push on main and it shows conflicts in repo.. but didn't code any.. so guess won't be a major issue.. but need help in resolving it.."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243080667203_61e07f4b1448b0bfad86_72.jpg",
+      "first_name": "Charu",
+      "real_name": "Charu",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "charu91.sathish",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b06e8428-0c82-4df7-bc26-b62f4d18f520",
+    "type": "message",
+    "user": "U0579UMAPCL",
+    "text": "Can I have some reviews / approvals on this? \u003chttps://github.com/AJmints/IntelliJAC-LiftOff/pull/7\u003e please and thank you.",
+    "ts": "1702924088.211599",
+    "thread_ts": "1702924088.211599",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "#7 Jason/added api",
+        "id": 1,
+        "title": "#7 Jason/added api",
+        "title_link": "https://github.com/AJmints/IntelliJAC-LiftOff/pull/7",
+        "text": "Integrated the API and added number of the day component.",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/AJmints/IntelliJAC-LiftOff|AJmints/IntelliJAC-LiftOff\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1702788461
+      }
+    ],
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057S95RQC9",
+        "ts": "1702937548.526159"
+      }
+    ],
+    "latest_reply": "1702937548.526159",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fZMgj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can I have some reviews / approvals on this? "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/AJmints/IntelliJAC-LiftOff/pull/7",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": " please and thank you."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230951156135_0ee3fe35f584df31f5be_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason",
+      "display_name": "Jason",
+      "team": "T050CSX3EMT",
+      "name": "jason17rosado",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057S95RQC9"
+    ]
+  },
+  {
+    "client_msg_id": "792ccd8d-0f69-4032-b38d-88a18a14628a",
+    "type": "message",
+    "user": "U057HDRTJU9",
+    "text": "Hey JP, i see u using axios api to CORS back and frontend.. Has it been working??.. is ur client side fetching details from server side??",
+    "ts": "1702925930.232679",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2z6XB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey JP, i see u using axios api to CORS back and frontend.. Has it been working??.. is ur client side fetching details from server side??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243080667203_61e07f4b1448b0bfad86_72.jpg",
+      "first_name": "Charu",
+      "real_name": "Charu",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "charu91.sathish",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7e719d1a-b914-47b8-97e6-5c12b4d4069b",
+    "type": "message",
+    "user": "U057HDRTJU9",
+    "text": "Coz, i did the same and couldnt work it out.. then tried with fetch api.. still couldnt fetch details from server to client.. wanna discuss about this in class today...",
+    "ts": "1702926099.592739",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZMk34",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Coz, i did the same and couldnt work it out.. then tried with fetch api.. still couldnt fetch details from server to client.. wanna discuss about this in class today..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243080667203_61e07f4b1448b0bfad86_72.jpg",
+      "first_name": "Charu",
+      "real_name": "Charu",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "charu91.sathish",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "92df518e-1f08-41cd-a2ff-bb73ac34e62f",
+    "type": "message",
+    "user": "U057HDRTJU9",
+    "text": "And guys, i have pushed my work to repo.. but dont approve it yet.. will run and show u'all the code this evening once.. wanna clarify few doubts before approval...",
+    "ts": "1702926205.001859",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jkiHk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And guys, i have pushed my work to repo.. but dont approve it yet.. will run and show u'all the code this evening once.. wanna clarify few doubts before approval..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243080667203_61e07f4b1448b0bfad86_72.jpg",
+      "first_name": "Charu",
+      "real_name": "Charu",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "charu91.sathish",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7deed30f-49ae-4ee3-8a77-6dbffe317aef",
+    "type": "message",
+    "user": "U057S95RQC9",
+    "text": "done!",
+    "ts": "1702937548.526159",
+    "thread_ts": "1702924088.211599",
+    "parent_user_id": "U0579UMAPCL",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0579UMAPCL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QvCnB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "done!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-28/6255059219110_09fcfa42a8921f231618_72.jpg",
+      "first_name": "Jialing",
+      "real_name": "Jialing Liu",
+      "display_name": "Jialing Liu",
+      "team": "T050CSX3EMT",
+      "name": "jialingl.liu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2c919ac2-7c21-4220-a511-723b6c5a10c6",
+    "type": "message",
+    "user": "U057HDRTJU9",
+    "text": "Hey Jailing, jus curious to know... did u create a AppRatingController in main??",
+    "ts": "1702937758.560859",
+    "thread_ts": "1702937758.560859",
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U057S95RQC9",
+        "ts": "1702938192.195859"
+      },
+      {
+        "user": "U057HDRTJU9",
+        "ts": "1702938286.446599"
+      },
+      {
+        "user": "U057HDRTJU9",
+        "ts": "1702938375.682249"
+      },
+      {
+        "user": "U057S95RQC9",
+        "ts": "1702938649.826369"
+      }
+    ],
+    "latest_reply": "1702938649.826369",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VuWjV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Jailing, jus curious to know... did u create a AppRatingController in main??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243080667203_61e07f4b1448b0bfad86_72.jpg",
+      "first_name": "Charu",
+      "real_name": "Charu",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "charu91.sathish",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U057HDRTJU9",
+      "U057S95RQC9"
+    ]
+  },
+  {
+    "client_msg_id": "f2863e92-6b27-4f7d-8f69-cc354c8c0d88",
+    "type": "message",
+    "user": "U057S95RQC9",
+    "text": "Hey Charu! Yes, that AppRatingController is there, but you can see that there is not much there. I merged the frontend part for now, and now I am also working on connecting it to the back (I haven’t pushed the actual code to AppRatingController yet until I make sure it works). I am having the same issue as you do when it comes to connecting back and front…",
+    "ts": "1702938192.195859",
+    "thread_ts": "1702937758.560859",
+    "parent_user_id": "U057HDRTJU9",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xOPN8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Charu! Yes, that AppRatingController is there, but you can see that there is not much there. I merged the frontend part for now, and now I am also working on connecting it to the back (I haven’t pushed the actual code to AppRatingController yet until I make sure it works). I am having the same issue as you do when it comes to connecting back and front…"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-28/6255059219110_09fcfa42a8921f231618_72.jpg",
+      "first_name": "Jialing",
+      "real_name": "Jialing Liu",
+      "display_name": "Jialing Liu",
+      "team": "T050CSX3EMT",
+      "name": "jialingl.liu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f588964a-e3a2-4d16-b2a1-d35f439adcb0",
+    "type": "message",
+    "user": "U057HDRTJU9",
+    "text": "Ohh yea, there i see.. im still figuring it out too..",
+    "ts": "1702938286.446599",
+    "thread_ts": "1702937758.560859",
+    "parent_user_id": "U057HDRTJU9",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3eyZo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ohh yea, there i see.. im still figuring it out too.."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243080667203_61e07f4b1448b0bfad86_72.jpg",
+      "first_name": "Charu",
+      "real_name": "Charu",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "charu91.sathish",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "22cab693-a4cd-418b-97e5-52493631eb57",
+    "type": "message",
+    "user": "U057HDRTJU9",
+    "text": "I see even quizpage.js and quizpage.css in main.. will this bring conflicts if i try creating a new branch for my work??",
+    "ts": "1702938375.682249",
+    "thread_ts": "1702937758.560859",
+    "parent_user_id": "U057HDRTJU9",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NF4RO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I see even quizpage.js and quizpage.css in main.. will this bring conflicts if i try creating a new branch for my work??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243080667203_61e07f4b1448b0bfad86_72.jpg",
+      "first_name": "Charu",
+      "real_name": "Charu",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "charu91.sathish",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "38c32667-291a-44b2-b28d-04af8dff1d73",
+    "type": "message",
+    "user": "U057S95RQC9",
+    "text": "Hmmm I don’t think so b/c you’re going to create your own .js and .css files. We will need to figure out later on how to display all existing pages in the homepage. Let’s chat more tonight!",
+    "ts": "1702938649.826369",
+    "thread_ts": "1702937758.560859",
+    "parent_user_id": "U057HDRTJU9",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "U3i/v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hmmm I don’t think so b/c you’re going to create your own .js and .css files. We will need to figure out later on how to display all existing pages in the homepage. Let’s chat more tonight!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-28/6255059219110_09fcfa42a8921f231618_72.jpg",
+      "first_name": "Jialing",
+      "real_name": "Jialing Liu",
+      "display_name": "Jialing Liu",
+      "team": "T050CSX3EMT",
+      "name": "jialingl.liu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

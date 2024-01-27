@@ -1,0 +1,1098 @@
+[
+  {
+    "client_msg_id": "d991c3da-e739-4c9c-8c58-ce2f2d7bea48",
+    "type": "message",
+    "user": "U057J8HJZMF",
+    "text": "I have some question if you \u003c@U055S98U8G2\u003e could help me...",
+    "ts": "1705018315.261969",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "toEWE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have some question if you "
+              },
+              {
+                "type": "user",
+                "user_id": "U055S98U8G2"
+              },
+              {
+                "type": "text",
+                "text": " could help me..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240709602357_6b02a0957523bb9ba08f_72.jpg",
+      "first_name": "Nikolai",
+      "real_name": "Nikolai Ptukhin",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "nikolaiptukhin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "de518737-74dd-4628-a371-337d5c96d750",
+    "type": "message",
+    "user": "U0574SA4NJ2",
+    "text": "\u003c@U056ZJ34X42\u003e where you getting this error before when bootrunning?\n\nCaused by: org.hibernate.AnnotationException: Collection 'com.example.models.UserDetails.watchlists' is 'mappedBy' a property named 'userDetails' which does not exist in the target entity 'com.example.models.Watchlist'",
+    "ts": "1705019821.377329",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2GR0F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056ZJ34X42"
+              },
+              {
+                "type": "text",
+                "text": " where you getting this error before when bootrunning?\n\nCaused by: org.hibernate.AnnotationException: Collection 'com.example.models.UserDetails.watchlists' is 'mappedBy' a property named 'userDetails' which does not exist in the target entity 'com.example.models.Watchlist'"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5234963029127_5ccb773117eb46af543c_72.png",
+      "first_name": "Marisa",
+      "real_name": "Marisa Starkweather",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "marisastarkweather",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8fb8127f-9890-451f-bcc0-6199020fd380",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "no, I don't get that error - wanna chat through in a quick zoom?",
+    "ts": "1705019901.239629",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yjJWs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no, I don't get that error - wanna chat through in a quick zoom?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9c3e650d-6385-4edb-9c86-4bb686bcae1d",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "\u003chttps://us04web.zoom.us/j/79420017939?pwd=PxFlqT8O6qbSRADpOeFOyxd748nrmD.1\u003e",
+    "ts": "1705019927.952799",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "biNx1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://us04web.zoom.us/j/79420017939?pwd=PxFlqT8O6qbSRADpOeFOyxd748nrmD.1",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8fd70a2e-803b-4e0a-8e9f-e95cc1a30591",
+    "type": "message",
+    "user": "U057J8HJZMF",
+    "text": "We are here with TA \u003chttps://us02web.zoom.us/j/6699401526?pwd=Y2JGRUVlbi84NkViVU54TCtwSEw2Zz09\u003e",
+    "ts": "1705020219.901779",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pHdwL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We are here with TA "
+              },
+              {
+                "type": "link",
+                "url": "https://us02web.zoom.us/j/6699401526?pwd=Y2JGRUVlbi84NkViVU54TCtwSEw2Zz09",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240709602357_6b02a0957523bb9ba08f_72.jpg",
+      "first_name": "Nikolai",
+      "real_name": "Nikolai Ptukhin",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "nikolaiptukhin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "19d9e6af-1f73-4d85-b99a-509c8f648fc2",
+    "type": "message",
+    "user": "U057J8HJZMF",
+    "text": "trying to fix my code",
+    "ts": "1705020240.099769",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x2nVA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "trying to fix my code"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240709602357_6b02a0957523bb9ba08f_72.jpg",
+      "first_name": "Nikolai",
+      "real_name": "Nikolai Ptukhin",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "nikolaiptukhin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "71b8b365-785c-49a2-85e4-ef9fdd279e69",
+    "type": "message",
+    "user": "U057J8HJZMF",
+    "text": "Attendance code: IndividualContributor",
+    "ts": "1705021152.286269",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0AqUA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Attendance code: IndividualContributor"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240709602357_6b02a0957523bb9ba08f_72.jpg",
+      "first_name": "Nikolai",
+      "real_name": "Nikolai Ptukhin",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "nikolaiptukhin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2458562d-6cab-426a-a204-58455be82bab",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "I think you need to link your project's gradle file",
+    "ts": "1705022642.107479",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0pTd6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think you need to link your project's gradle file"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b61864e0-123a-4d0f-b399-5d1ebcbdd4c8",
+    "type": "message",
+    "user": "U057J8HJZMF",
+    "text": "How?",
+    "ts": "1705023127.791119",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oJmQI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240709602357_6b02a0957523bb9ba08f_72.jpg",
+      "first_name": "Nikolai",
+      "real_name": "Nikolai Ptukhin",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "nikolaiptukhin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9d5e26c8-e918-4088-ac20-4f62d1dd924c",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "oh sorry you deleted the photo so I thought maybe you had it",
+    "ts": "1705023261.021849",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "r0qAM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "oh sorry you deleted the photo so I thought maybe you had it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a8cde670-f52b-421c-ab39-27b90ebb5c0a",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "if you right click your build.gradle file",
+    "ts": "1705023267.101229",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Y/C4X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if you right click your build.gradle file"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2ba64217-ec2a-4df3-8946-e39d48925d1f",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "there should be an option that says link to project or something like that (if this is the error)",
+    "ts": "1705023284.114209",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8KmAL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "there should be an option that says link to project or something like that (if this is the error)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "27116451-e2ff-458f-9ed7-5691c5cd7e81",
+    "type": "message",
+    "user": "U057J8HJZMF",
+    "text": "Wanna go on Zoom?",
+    "ts": "1705023400.411589",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S5Bf6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Wanna go on Zoom?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240709602357_6b02a0957523bb9ba08f_72.jpg",
+      "first_name": "Nikolai",
+      "real_name": "Nikolai Ptukhin",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "nikolaiptukhin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "822783d3-196e-4702-9560-8398b81a2858",
+    "type": "message",
+    "user": "U057J8HJZMF",
+    "text": "\u003chttps://us04web.zoom.us/j/75281293916?pwd=OqbskjUs5yD5mlKX7QU7M08bTEjZ5W.1\u003e",
+    "ts": "1705023423.540359",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pkaJt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://us04web.zoom.us/j/75281293916?pwd=OqbskjUs5yD5mlKX7QU7M08bTEjZ5W.1",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240709602357_6b02a0957523bb9ba08f_72.jpg",
+      "first_name": "Nikolai",
+      "real_name": "Nikolai Ptukhin",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "nikolaiptukhin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "817e914b-bccc-455f-b99a-ba5d3e758b70",
+    "type": "message",
+    "user": "U0574SA4NJ2",
+    "text": "i cloned the repository again, didn't add or make any changes, and i am getting the whitelabel error page on localhost when bootrunning.",
+    "ts": "1705026678.707439",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eFMva",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i cloned the repository again, didn't add or make any changes, and i am getting the whitelabel error page on localhost when bootrunning."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5234963029127_5ccb773117eb46af543c_72.png",
+      "first_name": "Marisa",
+      "real_name": "Marisa Starkweather",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "marisastarkweather",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "af5a372e-3b01-4e60-98b5-d82987ff7e9e",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "want to get in a zoom?",
+    "ts": "1705026713.255609",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "emlcB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "want to get in a zoom?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d4aaf4cd-b84e-4ec3-933e-3947d0ff6201",
+    "type": "message",
+    "user": "U0574SA4NJ2",
+    "text": "yis",
+    "ts": "1705026726.152059",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OUeLY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yis"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5234963029127_5ccb773117eb46af543c_72.png",
+      "first_name": "Marisa",
+      "real_name": "Marisa Starkweather",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "marisastarkweather",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ff9b8f75-1141-4b0a-9f46-75496abd7565",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "\u003chttps://us04web.zoom.us/j/73301678714?pwd=clkeEi7bnnmbH3O64eAi7dpRGK9VYr.1\u003e",
+    "ts": "1705026727.736479",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3q3bO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://us04web.zoom.us/j/73301678714?pwd=clkeEi7bnnmbH3O64eAi7dpRGK9VYr.1",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "62b4c8d1-6022-4878-9ddf-d72c5800d36c",
+    "type": "message",
+    "user": "U057J8HJZMF",
+    "text": "I'm not done with Authentication, still have an error with @Overide in AuthenticationFilter :disappointed: I pushed my branch, if some of you can look at it and figure out what is going on, I would much appreciate it! Have a good night.",
+    "ts": "1705029713.680389",
+    "thread_ts": "1705029713.680389",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056ZJ34X42",
+        "ts": "1705036258.160019"
+      }
+    ],
+    "latest_reply": "1705036258.160019",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y28yU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm not done with Authentication, still have an error with @Overide in AuthenticationFilter "
+              },
+              {
+                "type": "emoji",
+                "name": "disappointed",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " I pushed my branch, if some of you can look at it and figure out what is going on, I would much appreciate it! Have a good night."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240709602357_6b02a0957523bb9ba08f_72.jpg",
+      "first_name": "Nikolai",
+      "real_name": "Nikolai Ptukhin",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "nikolaiptukhin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056ZJ34X42"
+    ]
+  },
+  {
+    "client_msg_id": "8b45a668-8d6f-4678-aa07-02f9db30bf65",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "I found the problem - looks like the imports for HTTPServlet were coming from the javax dependency, but they should instead come from the jakarta dependency.\n\nI had to change our spring version from 3.2.1 back to 3.1.1 because fixing that caused another bug that has to do with the version number.\n\nI pushed the changes up to the branch, it should be working now.",
+    "ts": "1705036258.160019",
+    "thread_ts": "1705029713.680389",
+    "parent_user_id": "U057J8HJZMF",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U057J8HJZMF"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AiXPh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I found the problem - looks like the imports for HTTPServlet were coming from the javax dependency, but they should instead come from the jakarta dependency.\n\nI had to change our spring version from 3.2.1 back to 3.1.1 because fixing that caused another bug that has to do with the version number.\n\nI pushed the changes up to the branch, it should be working now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "78332212-5b95-4205-a826-144eae848cfe",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "Going to bed now - I opened 3 pull requests, I think they can all be merged in safely, but I will wait until tomorrow. \u003c@U0574SA4NJ2\u003e you may be the only one affected because I know you're still working to get your features merged in.\n\nFYI, I did have to change some dependency stuff for the user authentication update, so that _might_ break something y'all are working on -- probably not, but if you're using the javax dependency or something that requires Springboot version 3.2, it could.\n\nGreat work everyone! We're gonna make it :muscle:",
+    "ts": "1705036767.822679",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EaI72",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Going to bed now - I opened 3 pull requests, I think they can all be merged in safely, but I will wait until tomorrow. "
+              },
+              {
+                "type": "user",
+                "user_id": "U0574SA4NJ2"
+              },
+              {
+                "type": "text",
+                "text": " you may be the only one affected because I know you're still working to get your features merged in.\n\nFYI, I did have to change some dependency stuff for the user authentication update, so that "
+              },
+              {
+                "type": "text",
+                "text": "might ",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "break something y'all are working on -- probably not, but if you're using the javax dependency or something that requires Springboot version "
+              },
+              {
+                "type": "text",
+                "text": "3.2, it could.",
+                "style": {}
+              },
+              {
+                "type": "text",
+                "text": "\n\nGreat work everyone! We're gonna make it "
+              },
+              {
+                "type": "emoji",
+                "name": "muscle",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "554ac56e-1c35-44df-bc82-b179ae92a23e",
+    "type": "message",
+    "user": "U0574SA4NJ2",
+    "text": "yeah i've been trying to rework aspects of code around the changes in authentication and users. going to crack down on it tomorrow when you merge it all in, since i do think that's going to affect my code and i'll def need help with that.",
+    "ts": "1705037822.109449",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4r5rR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah i've been trying to rework aspects of code around the changes in authentication and users. going to crack down on it tomorrow when you merge it all in, since i do think that's going to affect my code and i'll def need help with that."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5234963029127_5ccb773117eb46af543c_72.png",
+      "first_name": "Marisa",
+      "real_name": "Marisa Starkweather",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "marisastarkweather",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

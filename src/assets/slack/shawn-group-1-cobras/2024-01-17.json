@@ -1,0 +1,1061 @@
+[
+  {
+    "client_msg_id": "6bc26cac-a285-4af2-8fa3-c9e9079a114c",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "\u003c@U0575DF8MA6\u003e which branch is most up to date with your code? Specifically for the login and registration page?",
+    "ts": "1705455608.310829",
+    "thread_ts": "1705455608.310829",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1705456756.708659"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705456799.472359"
+      }
+    ],
+    "latest_reply": "1705456799.472359",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3pEJZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0575DF8MA6"
+              },
+              {
+                "type": "text",
+                "text": " which branch is most up to date with your code? Specifically for the login and registration page?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05750B4K1Q",
+      "U0575DF8MA6"
+    ]
+  },
+  {
+    "client_msg_id": "5bb169c6-b130-4fab-96fd-b2113940f058",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "For Login I have in local only. I will push it soon.",
+    "ts": "1705456756.708659",
+    "thread_ts": "1705455608.310829",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gxbQ3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For Login I have in local only. I will push it soon."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "970e841a-42c6-4f39-a322-446d67a3a942",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Ok, you don't have to merge, just push so we can see it.",
+    "ts": "1705456799.472359",
+    "thread_ts": "1705455608.310829",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PffQN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok, you don't have to merge, just push so we can see it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5ff93c7b-e84a-4233-8c5e-4b6f29d2baff",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "are either of you two aware of how to prevent conflicts with CSS? I've converted the entire calendar to React but it doesn't look correct nor is it operating correctly and I think it may be because of my CSS and the basic App.css file conflicting?",
+    "ts": "1705459210.546319",
+    "thread_ts": "1705459210.546319",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U057A523Z6H",
+        "ts": "1705459419.072639"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705464434.519779"
+      },
+      {
+        "user": "U057A523Z6H",
+        "ts": "1705467975.225419"
+      },
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1705468913.027689"
+      },
+      {
+        "user": "U057A523Z6H",
+        "ts": "1705530121.973349"
+      }
+    ],
+    "latest_reply": "1705530121.973349",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Nek0E",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "are either of you two aware of how to prevent conflicts with CSS? I've converted the entire calendar to React but it doesn't look correct nor is it operating correctly and I think it may be because of my CSS and the basic App.css file conflicting?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U05750B4K1Q",
+      "U0575DF8MA6",
+      "U057A523Z6H"
+    ]
+  },
+  {
+    "client_msg_id": "9600960a-195a-425d-ab2f-679ec4592198",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "The one on the left is what it should look like, with the ability to click on each day and add events, but the reality right now is the one on the right. :confounded:",
+    "ts": "1705459419.072639",
+    "thread_ts": "1705459210.546319",
+    "parent_user_id": "U057A523Z6H",
+    "files": [
+      {
+        "id": "F06E799M3RQ",
+        "created": 1705459317,
+        "timestamp": 1705459317,
+        "name": "Screenshot 2024-01-16 at 8.41.11 PM.png",
+        "title": "Screenshot 2024-01-16 at 8.41.11 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057A523Z6H",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 142126,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06E799M3RQ/screenshot_2024-01-16_at_8.41.11___pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06E799M3RQ/download/screenshot_2024-01-16_at_8.41.11___pm.png",
+        "original_h": 1530,
+        "original_w": 2618,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E799M3RQ-458c43859b/screenshot_2024-01-16_at_8.41.11___pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E799M3RQ-458c43859b/screenshot_2024-01-16_at_8.41.11___pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E799M3RQ-458c43859b/screenshot_2024-01-16_at_8.41.11___pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E799M3RQ-458c43859b/screenshot_2024-01-16_at_8.41.11___pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 210,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E799M3RQ-458c43859b/screenshot_2024-01-16_at_8.41.11___pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 281,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E799M3RQ-458c43859b/screenshot_2024-01-16_at_8.41.11___pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 421,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E799M3RQ-458c43859b/screenshot_2024-01-16_at_8.41.11___pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 561,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E799M3RQ-458c43859b/screenshot_2024-01-16_at_8.41.11___pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 598,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057A523Z6H/F06E799M3RQ/screenshot_2024-01-16_at_8.41.11___pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06E799M3RQ-bcc84c8285",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F06E9NLRHB6",
+        "created": 1705459335,
+        "timestamp": 1705459335,
+        "name": "Screenshot 2024-01-16 at 8.40.33 PM.png",
+        "title": "Screenshot 2024-01-16 at 8.40.33 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057A523Z6H",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 152324,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06E9NLRHB6/screenshot_2024-01-16_at_8.40.33___pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06E9NLRHB6/download/screenshot_2024-01-16_at_8.40.33___pm.png",
+        "original_h": 1534,
+        "original_w": 2552,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E9NLRHB6-44d9c97605/screenshot_2024-01-16_at_8.40.33___pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E9NLRHB6-44d9c97605/screenshot_2024-01-16_at_8.40.33___pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E9NLRHB6-44d9c97605/screenshot_2024-01-16_at_8.40.33___pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E9NLRHB6-44d9c97605/screenshot_2024-01-16_at_8.40.33___pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 216,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E9NLRHB6-44d9c97605/screenshot_2024-01-16_at_8.40.33___pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 289,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E9NLRHB6-44d9c97605/screenshot_2024-01-16_at_8.40.33___pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 433,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E9NLRHB6-44d9c97605/screenshot_2024-01-16_at_8.40.33___pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 577,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E9NLRHB6-44d9c97605/screenshot_2024-01-16_at_8.40.33___pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 616,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057A523Z6H/F06E9NLRHB6/screenshot_2024-01-16_at_8.40.33___pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06E9NLRHB6-391cbc7daa",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JkwZ5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The one on the left is what it should look like, with the ability to click on each day and add events, but the reality right now is the one on the right. "
+              },
+              {
+                "type": "emoji",
+                "name": "confounded",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "831f9446-232e-4df5-88ee-7be876e5def7",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "they don't look that much different. Are you able to click on the calendar in your picture to the right?",
+    "ts": "1705464434.519779",
+    "thread_ts": "1705459210.546319",
+    "parent_user_id": "U057A523Z6H",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+TrHZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "they don't look that much different. Are you able to click on the calendar in your picture to the right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9c9c0640-87f1-4e5a-99fe-bc410e36372b",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "I can get the backend from the settings page, I'm just having trouble with getting my settings to save to the database.",
+    "ts": "1705464474.599049",
+    "thread_ts": "1705464474.599049",
+    "reply_count": 12,
+    "replies": [
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1705548204.156579"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705548235.078339"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705550312.290179"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705550529.560579"
+      },
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1705550565.718169"
+      },
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1705552101.496289"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705553470.343899"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705553658.554269"
+      },
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1705553971.005169"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705554023.175779"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705554059.570589"
+      },
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1705554220.537909"
+      }
+    ],
+    "latest_reply": "1705554220.537909",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XzpyX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can get the backend from the settings page, I'm just having trouble with getting my settings to save to the database."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05750B4K1Q",
+      "U0575DF8MA6"
+    ]
+  },
+  {
+    "client_msg_id": "1bd81c86-bfe3-43af-8c29-e0f14a07b3bb",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "No, that's my main issue with it. I'm not sure if something else might be blocking the ability to click on it. Don't think CSS would be able to block any code but idk.",
+    "ts": "1705467975.225419",
+    "thread_ts": "1705459210.546319",
+    "parent_user_id": "U057A523Z6H",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AROPJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No, that's my main issue with it. I'm not sure if something else might be blocking the ability to click on it. Don't think CSS would be able to block any code but idk."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "19003a27-0ed4-4b94-a72e-100d9ad29e93",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "\u003c@U057A523Z6H\u003e I just go through your code. In day components you just set the value of clicked but no arguments passed to the onclick props. I am not sure. Can u pls check if the values are passed \u0026amp; print the value of onclick props in Day.jsx",
+    "ts": "1705468913.027689",
+    "thread_ts": "1705459210.546319",
+    "parent_user_id": "U057A523Z6H",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FBxH5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057A523Z6H"
+              },
+              {
+                "type": "text",
+                "text": " I just go through your code. In day components you just set the value of clicked but no arguments passed to the onclick props. I am not sure. Can u pls check if the values are passed \u0026 print the value of onclick props in Day.jsx"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "48c3828d-f897-4b74-996f-f59e737e84d6",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "I have completed Mycloset CRUD, filter features \u0026amp; login feature issues fixed and merged with main branch and its working as expected. Please fetch and pull from the branch before working further and you can check the feature I added. Do get back to me if any concerns.",
+    "ts": "1705523586.538509",
+    "thread_ts": "1705523586.538509",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705524313.136559"
+      },
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1705524579.871409"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705524602.566769"
+      },
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1705524809.831179"
+      },
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1705524853.334399"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705541267.028279"
+      }
+    ],
+    "latest_reply": "1705541267.028279",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 2,
+        "users": [
+          "U05750B4K1Q",
+          "U057A523Z6H"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ViYYP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have completed Mycloset CRUD, filter features \u0026 login feature issues fixed and merged with main branch and its working as expected. Please fetch and pull from the branch before working further and you can check the feature I added. Do get back to me if any concerns."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05750B4K1Q",
+      "U0575DF8MA6"
+    ]
+  },
+  {
+    "client_msg_id": "44c510ff-3b66-445a-b3a6-353ea292693c",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "I am so curious about how you got the login and registration to work with the backend. What did you end up changing?",
+    "ts": "1705524313.136559",
+    "thread_ts": "1705523586.538509",
+    "parent_user_id": "U0575DF8MA6",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LSbZD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am so curious about how you got the login and registration to work with the backend. What did you end up changing?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "52d4b7a4-8ff1-4885-a991-16f26f2802ce",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "I have changed some coding part in controller class and frontend too.",
+    "ts": "1705524579.871409",
+    "thread_ts": "1705523586.538509",
+    "parent_user_id": "U0575DF8MA6",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2CQpg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have changed some coding part in controller class and frontend too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "96b16867-88d9-4926-8f2a-57fd59d40f94",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Do you remember what specifically you added or took away?",
+    "ts": "1705524602.566769",
+    "thread_ts": "1705523586.538509",
+    "parent_user_id": "U0575DF8MA6",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4vqQg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do you remember what specifically you added or took away?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "968d1b63-df3e-4e37-a487-a62bbc79df97",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "I have changed full controller class codings. i think u have ur code in ur branch. you can able to compare both of the coding.",
+    "ts": "1705524809.831179",
+    "thread_ts": "1705523586.538509",
+    "parent_user_id": "U0575DF8MA6",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Unci2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have changed full controller class codings. i think u have ur code in ur branch. you can able to compare both of the coding."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2cbea0d6-55a1-4834-8bdf-764e67d4f20f",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "Did you complete settings page?",
+    "ts": "1705524853.334399",
+    "thread_ts": "1705523586.538509",
+    "parent_user_id": "U0575DF8MA6",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x0NHM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Did you complete settings page?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9bf1df97-eb95-421f-83e6-047b95125dce",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "Thank you Priya. So it now allows me to click on a day and add an event and dress code but it just isn't doing it correctly :smiling_face_with_tear:.",
+    "ts": "1705530121.973349",
+    "thread_ts": "1705459210.546319",
+    "parent_user_id": "U057A523Z6H",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0575DF8MA6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1XBn+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you Priya. So it now allows me to click on a day and add an event and dress code but it just isn't doing it correctly "
+              },
+              {
+                "type": "emoji",
+                "name": "smiling_face_with_tear",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

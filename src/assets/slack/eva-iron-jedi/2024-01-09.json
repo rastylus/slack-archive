@@ -1,0 +1,93 @@
+[
+  {
+    "client_msg_id": "24007145-133B-4248-B2BC-CBB0A5113459",
+    "type": "message",
+    "user": "U057UQR6VDW",
+    "text": "Sorry, the power just went off ",
+    "ts": "1704764589.943399",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q9dBP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry, the power just went off "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-27/5654242170596_cdac3ab1b889655d927c_72.png",
+      "first_name": "Iryna",
+      "real_name": "Iryna Ignatenko",
+      "display_name": "Iryna Ignatenko",
+      "team": "T050CSX3EMT",
+      "name": "marketosha91",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5b845e7a-e505-4a47-b9d9-56f32a653b08",
+    "type": "message",
+    "user": "U0577713B9A",
+    "text": "```package com.example.triviaApplication.controllers;\nimport com.example.triviaApplication.models.Question;\nimport com.example.triviaApplication.models.User;\nimport com.example.triviaApplication.repositories.QuestionRepository;\nimport com.example.triviaApplication.repositories.UserRepository;\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.http.ResponseEntity;\nimport org.springframework.web.bind.annotation.*;\nimport java.util.List;\n\n@RestController\n@RequestMapping(\"/users\")\npublic class UserController {\n    private final UserRepository userRepository;\n    private final QuestionRepository questionRepository; // Add QuestionRepository\n\n    @Autowired\n    public UserController(UserRepository userRepository, QuestionRepository questionRepository) {\n        this.userRepository = userRepository;\n        this.questionRepository = questionRepository; // Initialize QuestionRepository\n    }\n\n    @PostMapping\n    public ResponseEntity\u0026lt;User\u0026gt; createUser(@RequestBody User user) {\n        User savedUser = userRepository.save(user);\n        return ResponseEntity.ok(savedUser);\n    }\n\n    @GetMapping(\"/{id}\")\n    public ResponseEntity\u0026lt;User\u0026gt; getUserById(@PathVariable Long id) {\n        User user = userRepository.findById(id).orElse(null);\n        return ResponseEntity.ok(user);\n    }\n\n    // New endpoint to get questions by username\n    @GetMapping(\"/{username}/questions\")\n    public ResponseEntity\u0026lt;List\u0026lt;Question\u0026gt;\u0026gt; getQuestionsByUsername(@PathVariable String username) {\n        List\u0026lt;Question\u0026gt; questions = questionRepository.findQuestionsByUserUsername(username);\n        return ResponseEntity.ok(questions);\n    }\n}```\n",
+    "ts": "1704768209.575879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "F6Uc4",
+        "elements": [
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"package com.example.triviaApplication.controllers;\\nimport com.example.triviaApplication.models.Question;\\nimport com.example.triviaApplication.models.User;\\nimport com.example.triviaApplication.repositories.QuestionRepository;\\nimport com.example.triviaApplication.repositories.UserRepository;\\nimport org.springframework.beans.factory.annotation.Autowired;\\nimport org.springframework.http.ResponseEntity;\\nimport org.springframework.web.bind.annotation.*;\\nimport java.util.List;\\n\\n@RestController\\n@RequestMapping(\\\"\\/users\\\")\\npublic class UserController {\\n    private final UserRepository userRepository;\\n    private final QuestionRepository questionRepository; \\/\\/ Add QuestionRepository\\n\\n    @Autowired\\n    public UserController(UserRepository userRepository, QuestionRepository questionRepository) {\\n        this.userRepository = userRepository;\\n        this.questionRepository = questionRepository; \\/\\/ Initialize QuestionRepository\\n    }\\n\\n    @PostMapping\\n    public ResponseEntity\u003cUser\u003e createUser(@RequestBody User user) {\\n        User savedUser = userRepository.save(user);\\n        return ResponseEntity.ok(savedUser);\\n    }\\n\\n    @GetMapping(\\\"\\/{id}\\\")\\n    public ResponseEntity\u003cUser\u003e getUserById(@PathVariable Long id) {\\n        User user = userRepository.findById(id).orElse(null);\\n        return ResponseEntity.ok(user);\\n    }\\n\\n    \\/\\/ New endpoint to get questions by username\\n    @GetMapping(\\\"\\/{username}\\/questions\\\")\\n    public ResponseEntity\u003cList\u003cQuestion\u003e\u003e getQuestionsByUsername(@PathVariable String username) {\\n        List\u003cQuestion\u003e questions = questionRepository.findQuestionsByUserUsername(username);\\n        return ResponseEntity.ok(questions);\\n    }\\n}\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264564556449_d79bc0fe03e781ad5f97_72.jpg",
+      "first_name": "Kevin",
+      "real_name": "Kevin Hammel",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "cfphpl",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

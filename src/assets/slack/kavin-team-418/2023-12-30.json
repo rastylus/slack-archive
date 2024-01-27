@@ -1,0 +1,323 @@
+[
+  {
+    "client_msg_id": "d927e4c6-af25-4465-8094-2c867cd12935",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Awesome, going to look at PR in morning. I've been testing put requests all day. I realized I have to match data structure perfectly. As well as individual put requests for filter and equipment. I can't seem to update filter through an equipment put.\nMy real question for you is how do you want to format the date, because that is going to be an issue if we are formatting differently during object construction versus trying to update with wrong date formatting.",
+    "ts": "1703907173.342549",
+    "thread_ts": "1703892742.991529",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uZpg2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome, going to look at PR in morning. I've been testing put requests all day. I realized I have to match data structure perfectly. As well as individual put requests for filter and equipment. I can't seem to update filter through an equipment put.\nMy real question for you is how do you want to format the date, because that is going to be an issue if we are formatting differently during object construction versus trying to update with wrong date formatting."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DA5662BB-3BB0-4327-B8A4-43F7D6A4E6D6",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "I think it’s pretty standard to do YY/MM/DD - but we can do whatever as long as it’s consistent like you said ",
+    "ts": "1703909287.804869",
+    "thread_ts": "1703892742.991529",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eXHTy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " pretty standard to do YY/MM/DD - but we can do whatever as long as "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " consistent like you said "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e9c135ed-74c7-4e0e-84de-52039aba9209",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Sweet, the code and pages look great!\n\nI had some changes i was working through on the front-end and some over-lapping/conflicting things popped up, so i tried to mesh my changes with your PR the best i could and made a PR in a \"dev\" branch, please check that and make sure it's not messing with yours in a bad way\n\nSpecifically i made changes to the nav bar since you made the PR, so that part changed on how yours looks",
+    "ts": "1703947725.003439",
+    "thread_ts": "1703892168.418679",
+    "edited": {
+      "user": "U057P8PCXT2",
+      "ts": "1703947877.000000"
+    },
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vz1zy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sweet, the code and pages look great!\n\nI had some changes i was working through on the front-end and some over-lapping/conflicting things popped up, so i tried to mesh my changes with your PR the best i could and made a PR in a \"dev\" branch, please check that and make sure it's not messing with yours in a bad way\n\nSpecifically i made changes to the nav bar since you made the PR, so that part changed on how yours looks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4fe00416-241a-44e2-a10c-c97a4b78a327",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Currently I have it set to :\n```@Past\n@JsonFormat(pattern = \"yyyy-MM-dd\")\nprivate Date dateOfLastChange;```\nI can change it if we want to though.",
+    "ts": "1703978037.008649",
+    "thread_ts": "1703892742.991529",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QiEGE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Currently I have it set to :\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"@Past\\n@JsonFormat(pattern = \\\"yyyy-MM-dd\\\")\\nprivate Date dateOfLastChange;\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can change it if we want to though."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f837591e-ceac-484f-97d8-d68470463588",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Everything looks good locally!",
+    "ts": "1703978987.719239",
+    "thread_ts": "1703892168.418679",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FS+6Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Everything looks good locally!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a38bd67f-1499-4416-b627-19c8db07e574",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I was also having issues with the Put requests because of how I built them. If we need to do some reworking, let me know! I was able to work with it, but I can figure something out if we’re having issues with the way I have them built separately.",
+    "ts": "1703979213.655709",
+    "thread_ts": "1703892742.991529",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FVIWh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was also having issues with the Put requests because of how I built them. If we need to do some reworking, let me know! I was able to work with it, but I can figure something out if we’re having issues with the way I have them built separately."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

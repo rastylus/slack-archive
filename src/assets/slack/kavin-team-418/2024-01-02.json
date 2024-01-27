@@ -1,0 +1,536 @@
+[
+  {
+    "client_msg_id": "ADAE362A-12F3-4622-846C-356075FC9A33",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Great,\n\nLooks like we both approved, i have not been able to check it locally yet, but if it looks good and functions in main feel free to merge it",
+    "ts": "1704221098.501759",
+    "thread_ts": "1704150988.712909",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KMePr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Great,\n\nLooks like we both approved"
+              },
+              {
+                "type": "text",
+                "text": ","
+              },
+              {
+                "type": "text",
+                "text": " i have not been able to check it locally yet, but if it looks good and functions in main feel free to merge it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "BC9AA12C-3BD9-40AA-8B85-85D0FABD39DB",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "If we have time Thursday lets go through the project together and make sure we’re all on the same page, i know personally i find myself getting too much in the weeds on things and potentially breaching into your guys’ areas lol\n\nIt’ll be a good chance to walkthrough everything we have and make sure it makes sense from a user perspective and offer any advice",
+    "ts": "1704221365.685499",
+    "thread_ts": "1704221365.685499",
+    "edited": {
+      "user": "U057P8PCXT2",
+      "ts": "1704221381.000000"
+    },
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1704223319.074319"
+      }
+    ],
+    "latest_reply": "1704223319.074319",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gp1A8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If we have time Thursday lets go through the project together and make sure we’re all on the same page, i know personally i find myself getting too much in the weeds on things and potentially breaching into your guys’ areas lol\n\nIt’ll be a good chance to walkthrough everything we have and make sure it makes sense from a user perspective and offer any advice"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "068013C8-8DBB-4A4E-82AF-91BDF5988B8E",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "And i added a log-in page with a tie in for the api for the username/password\n\nBut I definitely don’t have confidence or know how that practically will work yet so we should walk through that if we have it set up for testing",
+    "ts": "1704223093.144729",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4ZhPb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And i added a log-in page with a tie in for the api for the username/password\n\nBut I definitely "
+              },
+              {
+                "type": "text",
+                "text": "don’t"
+              },
+              {
+                "type": "text",
+                "text": " have confidence or know how that practically will work yet so we should walk through that if we have it set up for testing"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a4fb30aa-984d-4cc7-accf-53f41b7a4ea0",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "We’re definitely due for a check-in after the holidays. I did some readjusting to the board after the rescoping to try to better reflect where we should all roughly be at. I’m currently working in the backend to generate the search string but it should not interfere with the work you have left to add for user account creation and management on the backend.",
+    "ts": "1704223319.074319",
+    "thread_ts": "1704221365.685499",
+    "parent_user_id": "U057P8PCXT2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uqv8h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We’re definitely due for a check-in after the holidays. I did some readjusting to the board after the rescoping to try to better reflect where we should all roughly be at. I’m currently working in the backend to generate the search string but it should not interfere with the work you have left to add for user account creation and management on the backend."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f64454ad-a436-4b0d-98ff-e525b7944b94",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I think we’re missing the FilterChangeCardStyles.css in styles/ on main. I had to comment out line 7 in FilterChangeCard.jsx to run the program but otherwise it’s looking great!",
+    "ts": "1704224296.180749",
+    "thread_ts": "1704224296.180749",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U05744248P7",
+        "ts": "1704226481.869989"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704227325.922519"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704230180.329699"
+      }
+    ],
+    "latest_reply": "1704230180.329699",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8Sg6u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think we’re missing the FilterChangeCardStyles.css in styles/ on main. I had to comment out line 7 in FilterChangeCard.jsx to run the program but otherwise it’s looking great!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05744248P7",
+      "U057P8PCXT2"
+    ]
+  },
+  {
+    "client_msg_id": "5a9c1ab8-43ba-4413-b57c-213a885c6889",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Ah, gotcha. I was having issues with applying a css file, due to the card tags i was using. So I styled inline. I meant to get rid of that import line.",
+    "ts": "1704226481.869989",
+    "thread_ts": "1704224296.180749",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bJ8Z2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ah, gotcha. I was having issues with applying a css file, due to the card tags i was using. So I styled inline. I meant to get rid of that import line."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "BD147174-8FEE-4EED-B38A-7558D4894083",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Yea not sure how much we are using separate styling, ive ended up doing all mine in JSX so far ",
+    "ts": "1704227325.922519",
+    "thread_ts": "1704224296.180749",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OFxwg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yea not sure how much we are using separate styling, ive ended up doing all mine in JSX so far "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "676b2dbe-dea5-4bb8-83c4-e7873784518d",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Okay was able to move styles to a css file. So throwing a PR for that.",
+    "ts": "1704230180.329699",
+    "thread_ts": "1704224296.180749",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j/Rrl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay was able to move styles to a css file. So throwing a PR for that."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f0732c8a-0f55-48d8-bf7b-340185f6817b",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I commented out the extra import line with my latest PR request. It shouldn’t mess with the addition of the style sheet as long as we merge mine first, and then your new one Austin. I have a PR in for the code to generate a search string to use with a search API. Let me know if we need/want a different structure or additional methods. I wrote it to generate a single string by filter id or an ArrayList of strings for all assigned filters if given an equipment id.",
+    "ts": "1704230394.928839",
+    "thread_ts": "1704230394.928839",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05744248P7",
+        "ts": "1704230735.901309"
+      }
+    ],
+    "latest_reply": "1704230735.901309",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Jo+eo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I commented out the extra import line with my latest PR request. It shouldn’t mess with the addition of the style sheet as long as we merge mine first, and then your new one Austin. I have a PR in for the code to generate a search string to use with a search API. Let me know if we need/want a different structure or additional methods. I wrote it to generate a single string by filter id or an ArrayList of strings for all assigned filters if given an equipment id."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05744248P7"
+    ]
+  },
+  {
+    "client_msg_id": "e508120d-3c81-4f01-9d05-844b17905519",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Cool, I just looked through it. Not sure currently what other methods we may need. But it's a solid foundation for that feature.",
+    "ts": "1704230735.901309",
+    "thread_ts": "1704230394.928839",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Em8cm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Cool, I just looked through it. Not sure currently what other methods we may need. But it's a solid foundation for that feature."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

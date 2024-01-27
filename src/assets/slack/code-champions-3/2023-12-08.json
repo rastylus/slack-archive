@@ -1,0 +1,226 @@
+[
+  {
+    "client_msg_id": "d8c54ab7-50c2-4466-9465-bf6f879a2781",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi Jay \u003c@U055B8PEEMV\u003e, we updated our project proposal according to Melinda's notes. Do we need to re-submit it anywhere or the changes would be approved by you? Thank you!  \u003chttps://docs.google.com/document/d/1u60OTKzGr3vsL0MvL9hi79Zd33B5kEg8ocVmmNDoRA8/edit?usp=sharing\u003e",
+    "ts": "1702002340.469819",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j+Ztb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Jay "
+              },
+              {
+                "type": "user",
+                "user_id": "U055B8PEEMV"
+              },
+              {
+                "type": "text",
+                "text": ", we updated our project proposal according to Melinda's notes. Do we need to re-submit it anywhere or the changes would be approved by you? Thank you!  "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1u60OTKzGr3vsL0MvL9hi79Zd33B5kEg8ocVmmNDoRA8/edit?usp=sharing",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a271f7df-e4c0-4130-bb9d-19a083bddc60",
+    "type": "message",
+    "user": "U055B8PEEMV",
+    "text": "resubmit",
+    "ts": "1702002574.087949",
+    "thread_ts": "1702002574.087949",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1702002866.330979"
+      }
+    ],
+    "latest_reply": "1702002866.330979",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tfUpC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "resubmit"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5204638969172_2d7d943d02d4d367275b_72.png",
+      "first_name": "TA",
+      "real_name": "TA - Jay",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jay.lingelbach",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057GPNUCG4"
+    ]
+  },
+  {
+    "client_msg_id": "696162cf-f494-4afe-8f4d-574eece0de3f",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Thanks!!",
+    "ts": "1702002866.330979",
+    "thread_ts": "1702002574.087949",
+    "parent_user_id": "U055B8PEEMV",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PH1mh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b3439c7a-8bb3-481f-9be9-36edde15e903",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi guys, just to let you know that I completed the submission form and resubmitted our updated project proposal. Fingers crossed. Have a good weekend! :smile:",
+    "ts": "1702003686.680779",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0571TCPNAH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9XOlQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi guys, just to let you know that I completed the submission form and resubmitted our updated project proposal. Fingers crossed. Have a good weekend! "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

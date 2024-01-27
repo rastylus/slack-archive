@@ -1,0 +1,1299 @@
+[
+  {
+    "client_msg_id": "ce52515e-5332-4ff5-a8fd-39a663775369",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "I added some thymleaf attributes to the custom HTML attribute list, and I don't think I should have. How do I remove them from the custom list?",
+    "ts": "1705528992.373019",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p8zDu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I added some thymleaf attributes to the custom HTML attribute list, and I don't think I should have. How do I remove them from the custom list?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E4E23E85-D7D1-4BC3-8464-08025B06042C",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "hey y’all! i’m wondering if anyone is sending an email with your app? i’m having trouble configuring the properties to play nicely with gmail’s server security protocol. ",
+    "ts": "1705530840.812529",
+    "thread_ts": "1705530840.812529",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705532960.712579"
+      },
+      {
+        "user": "U057ST09U6M",
+        "ts": "1705533001.065829"
+      }
+    ],
+    "latest_reply": "1705533001.065829",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1bZPS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hey y’all! i’m wondering if anyone is sending an email with your app? "
+              },
+              {
+                "type": "text",
+                "text": "i’m"
+              },
+              {
+                "type": "text",
+                "text": " having trouble configuring the properties to play nicely with gmail’s server security protocol. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U057ST09U6M"
+    ]
+  },
+  {
+    "client_msg_id": "fde4f882-e7af-4f11-8e97-d6ba89918830",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "I am supposed to, but I haven't gotten that far yet. Still fighting with my registration page.",
+    "ts": "1705530915.515259",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dtBTf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am supposed to, but I haven't gotten that far yet. Still fighting with my registration page."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "685B6917-3710-436F-BBF1-F90CBE56110A",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "that was me up until a day or two ago!!! login/registration is an absolute beast ",
+    "ts": "1705531204.886109",
+    "thread_ts": "1705531204.886109",
+    "reply_count": 15,
+    "replies": [
+      {
+        "user": "U05743K5BHT",
+        "ts": "1705531268.361749"
+      },
+      {
+        "user": "U0577EKQS9Z",
+        "ts": "1705532073.080819"
+      },
+      {
+        "user": "U057ST09U6M",
+        "ts": "1705533071.536459"
+      },
+      {
+        "user": "U0577EKQS9Z",
+        "ts": "1705533151.401539"
+      },
+      {
+        "user": "U0577EKQS9Z",
+        "ts": "1705533206.350979"
+      },
+      {
+        "user": "U057ST09U6M",
+        "ts": "1705533241.376939"
+      },
+      {
+        "user": "U057ST09U6M",
+        "ts": "1705533273.783559"
+      },
+      {
+        "user": "U0577EKQS9Z",
+        "ts": "1705533286.160729"
+      },
+      {
+        "user": "U0577EKQS9Z",
+        "ts": "1705533310.671499"
+      },
+      {
+        "user": "U0577EKQS9Z",
+        "ts": "1705533321.239149"
+      },
+      {
+        "user": "U057ST09U6M",
+        "ts": "1705533353.362929"
+      },
+      {
+        "user": "U057ST09U6M",
+        "ts": "1705533360.947229"
+      },
+      {
+        "user": "U0577EKQS9Z",
+        "ts": "1705533458.058449"
+      },
+      {
+        "user": "U056K1U9R1V",
+        "ts": "1705535583.109369"
+      },
+      {
+        "user": "U0577EKQS9Z",
+        "ts": "1705535666.559369"
+      }
+    ],
+    "latest_reply": "1705535666.559369",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "exclamation",
+        "count": 1,
+        "users": [
+          "U058FPAV532"
+        ]
+      },
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U056K1WRCCX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zG+RN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that was me up until a day or two ago!!! login/registration is an absolute beast "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U056K1U9R1V",
+      "U05743K5BHT",
+      "U0577EKQS9Z",
+      "U057ST09U6M"
+    ]
+  },
+  {
+    "client_msg_id": "2E7D84F2-5FD2-4973-9C62-0CB1CEF372F0",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "That was my feature as well! Anything security related in general seems to be a PAIN :sweat_smile: ",
+    "ts": "1705531268.361749",
+    "thread_ts": "1705531204.886109",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kSvdL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That was my feature as well! Anything security related in general seems to be a PAIN "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "89156da8-f5ef-4a89-b57a-cc2cab22e073",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "Security sucks! Ive spent hours today trying get my user authentication to work with Spring Security and keep getting the same weird errors no matter what.",
+    "ts": "1705532073.080819",
+    "thread_ts": "1705531204.886109",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "exclamation",
+        "count": 1,
+        "users": [
+          "U058FPAV532"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "byyKA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Security sucks! Ive spent hours today trying get my user authentication to work with Spring Security and keep getting the same weird errors no matter what."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "528c567f-e606-43b3-a7bf-7e6a64a3247e",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "We tabled this feature but I had saved some articles in preparation for it, you probably already looked at things like this but just in case any of them have any potential to help (I didnt' fully vet them, just saved as \"this looks like a good reference):\n\n\u003chttps://www.codejava.net/frameworks/spring-boot/email-verification-example\u003e\n\n\u003chttps://deeppatel23.medium.com/user-registration-with-email-verification-in-java-and-spring-boot-699cb832ad2c\u003e\n\n\u003chttps://m.youtube.com/watch?v=Xnc4zC5J7so\u003e",
+    "ts": "1705532960.712579",
+    "thread_ts": "1705530840.812529",
+    "attachments": [
+      {
+        "fallback": "Spring Boot Email Verification for User Registration Tutorial",
+        "id": 1,
+        "title": "Spring Boot Email Verification for User Registration Tutorial",
+        "title_link": "https://www.codejava.net/frameworks/spring-boot/email-verification-example",
+        "text": "Spring Boot code examples for email verification for user registration",
+        "service_name": "codejava.net",
+        "from_url": "https://www.codejava.net/frameworks/spring-boot/email-verification-example",
+        "original_url": "https://www.codejava.net/frameworks/spring-boot/email-verification-example",
+        "blocks": null
+      },
+      {
+        "fallback": "Medium: User Registration with Email verification in Java and Spring Boot",
+        "id": 2,
+        "title": "User Registration with Email verification in Java and Spring Boot",
+        "title_link": "https://deeppatel23.medium.com/user-registration-with-email-verification-in-java-and-spring-boot-699cb832ad2c",
+        "text": "Build full user registration functionality with email verification using Gmail SMTP services in Spring Boot and MySQL database.",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/1*0XAmgU7cVAoFbsho_LlIEg.gif",
+        "service_name": "Medium",
+        "service_icon": "https://miro.medium.com/v2/resize:fill:152:152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "from_url": "https://deeppatel23.medium.com/user-registration-with-email-verification-in-java-and-spring-boot-699cb832ad2c",
+        "original_url": "https://deeppatel23.medium.com/user-registration-with-email-verification-in-java-and-spring-boot-699cb832ad2c",
+        "fields": [
+          {
+            "title": "Reading time",
+            "value": "6 min read",
+            "short": true
+          }
+        ],
+        "blocks": null,
+        "ts": 1673341961
+      },
+      {
+        "fallback": "YouTube Video: User Account Activation by Email Verification Link Using Spring Boot Application",
+        "id": 3,
+        "author_name": "PixelTrice",
+        "author_link": "https://www.youtube.com/@PixelTrice",
+        "title": "User Account Activation by Email Verification Link Using Spring Boot Application",
+        "title_link": "https://m.youtube.com/watch?v=Xnc4zC5J7so",
+        "thumb_url": "https://i.ytimg.com/vi/Xnc4zC5J7so/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://m.youtube.com/watch?v=Xnc4zC5J7so",
+        "original_url": "https://m.youtube.com/watch?v=Xnc4zC5J7so",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9Oh6B",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We tabled this feature but I had saved some articles in preparation for it, you probably already looked at things like this but just in case any of them have any potential to help (I didnt' fully vet them, just saved as \"this looks like a good reference):\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.codejava.net/frameworks/spring-boot/email-verification-example",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://deeppatel23.medium.com/user-registration-with-email-verification-in-java-and-spring-boot-699cb832ad2c",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://m.youtube.com/watch?v=Xnc4zC5J7so",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "994AFD2F-6EE3-4180-9576-DD9FE90BDAF6",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "I actually managed to get it working a few minutes after posting this question! the power of the slack question :joy:  ",
+    "ts": "1705533001.065829",
+    "thread_ts": "1705530840.812529",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 2,
+        "users": [
+          "U056Q9W022K",
+          "U057HMJ9QTB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m+JUi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I actually managed to get it working a few minutes after posting this question! the power of the slack question "
+              },
+              {
+                "type": "emoji",
+                "name": "joy",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "  "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7F2AE9FA-B39D-4BFC-A697-BC1839895506",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "this is all very validating to hear! i did NOT expect it to be this difficult but im proud i was able to power through! ",
+    "ts": "1705533071.536459",
+    "thread_ts": "1705531204.886109",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 3,
+        "users": [
+          "U0577EKQS9Z",
+          "U057HMJ9QTB",
+          "U058FPAV532"
+        ]
+      },
+      {
+        "name": "clap::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U057T1QUHB3"
+        ]
+      },
+      {
+        "name": "clap",
+        "count": 1,
+        "users": [
+          "U057HMJ9QTB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dv/5y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this is all very validating to hear! i did NOT expect it to be this difficult but im proud i was able to power through! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "867f1834-20e5-4623-858e-ae5b984e739c",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "Do you have any tips on what this means? Did you come across this one? C:\\Users\\sabri\\Desktop\\Project\\new-api-munchinacrunch\\src\\main\\java\\org\\launchcode\\munchincrunch\\security\\UserAuthentication.java uses or overrides a deprecated API.\nNote: Recompile with -Xlint:deprecation for details.",
+    "ts": "1705533151.401539",
+    "thread_ts": "1705531204.886109",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2G5ls",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do you have any tips on what this means? Did you come across this one? C:\\Users\\sabri\\Desktop\\Project\\new-api-munchinacrunch\\src\\main\\java\\org\\launchcode\\munchincrunch\\security\\UserAuthentication.java uses or overrides a deprecated API.\nNote: Recompile with -Xlint:deprecation for details."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0a073884-51d8-4433-9d92-75c2e662bb8f",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "I have been obsessed with this feature and my others have sort of been neglected lol",
+    "ts": "1705533206.350979",
+    "thread_ts": "1705531204.886109",
+    "edited": {
+      "user": "U0577EKQS9Z",
+      "ts": "1705533218.000000"
+    },
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/k481",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have been obsessed with this feature and my others have sort of been neglected lol"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E7CB4D78-C73C-4E36-9ACB-15CACEBD1014",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "not that specifically, but it’s probably related to spring security having been updated to a new version in the last couple months, so a lot of methods have been deprecated so you can’t use them anymore. so that means a lot of online resources are also out of date ",
+    "ts": "1705533241.376939",
+    "thread_ts": "1705531204.886109",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6Fq9w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not that specifically, but "
+              },
+              {
+                "type": "text",
+                "text": "it’s probably"
+              },
+              {
+                "type": "text",
+                "text": " related to spring security having been updated to a new version in the last couple months, so a lot of methods have been deprecated so you "
+              },
+              {
+                "type": "text",
+                "text": "can’t"
+              },
+              {
+                "type": "text",
+                "text": " use them anymore. so that means a lot of online resources are also out of date "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6025673E-8CC0-42F7-8948-EF0E62CB80BF",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "unrelated, but i love the name of your app!",
+    "ts": "1705533273.783559",
+    "thread_ts": "1705531204.886109",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U0577EKQS9Z"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tfllN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "unrelated, but i love the name of your app!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d60e6770-9fd3-4718-9bdd-931f5bbe1a43",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "thank you! totally related!",
+    "ts": "1705533286.160729",
+    "thread_ts": "1705531204.886109",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R8iaI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you! totally related!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d1c26c15-deab-4041-a418-b03ab8389cc5",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "I'm thinking of downgrading this feature because it's taking so long but i hate to give up on it!",
+    "ts": "1705533310.671499",
+    "thread_ts": "1705531204.886109",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "D+vMG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm thinking of downgrading this feature because it's taking so long but i hate to give up on it!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3d646546-80f6-4a4b-82c9-75a8645154b0",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "So you just checked different versions until it worked?",
+    "ts": "1705533321.239149",
+    "thread_ts": "1705531204.886109",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Uonkg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So you just checked different versions until it worked?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4E29CD31-2C7F-400F-B3EA-3CBA82F8EF27",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "i actually got it working with the latest version, mostly by using the (crappy) documentation for spring security as a guide",
+    "ts": "1705533353.362929",
+    "thread_ts": "1705531204.886109",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ndArc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i actually got it working with the latest version, mostly by using the (crappy) documentation for spring security as a guide"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "469B13B6-35C0-4395-80A9-3E5404EC4FE7",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "but i honestly would recommend downgrading lol ",
+    "ts": "1705533360.947229",
+    "thread_ts": "1705531204.886109",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "laughing",
+        "count": 1,
+        "users": [
+          "U0577EKQS9Z"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pyyvb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but i honestly would recommend downgrading lol "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f1ca8c9a-d193-4227-bd0f-e7163a3358d9",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "I think you are right",
+    "ts": "1705533458.058449",
+    "thread_ts": "1705531204.886109",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AExSX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think you are right"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f96c3074-33e0-4b70-845c-10e2e46562c8",
+    "type": "message",
+    "user": "U056K1U9R1V",
+    "text": "Sabriya, I know what you mean. Maybe come back to it after your initial presentation? You can keep working on your project and upgrading features. :blush:",
+    "ts": "1705535583.109369",
+    "thread_ts": "1705531204.886109",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "fire",
+        "count": 3,
+        "users": [
+          "U0577EKQS9Z",
+          "U057HMJ9QTB",
+          "U058FPAV532"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qkDYu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sabriya, I know what you mean. Maybe come back to it after your initial presentation? You can keep working on your project and upgrading features. "
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-21/5298968476898_8771134baeb75bcab23b_72.jpg",
+      "first_name": "Sharion",
+      "real_name": "Sharion Cranston",
+      "display_name": "Sharion Cranston",
+      "team": "T050CSX3EMT",
+      "name": "sharion06",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e986408f-2be1-4390-b187-67837b5d7721",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "I think I will. I'm creating unit tests right now to see if my code is working on my downgraded security feature.",
+    "ts": "1705535666.559369",
+    "thread_ts": "1705531204.886109",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "umwhD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think I will. I'm creating unit tests right now to see if my code is working on my downgraded security feature."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

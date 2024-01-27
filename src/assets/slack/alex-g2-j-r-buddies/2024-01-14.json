@@ -1,0 +1,669 @@
+[
+  {
+    "client_msg_id": "cc214089-fd06-47c0-a230-2cfa84466f8b",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "It doesn't look like the JWT contains the role. I used a decoder and it only contains the email, a timestamp and an expiration. In order to authorize different pages that needs to be included.",
+    "ts": "1705197988.460269",
+    "thread_ts": "1705197988.460269",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056SERBK2B",
+        "ts": "1705360404.719969"
+      }
+    ],
+    "latest_reply": "1705360404.719969",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T/VlD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It doesn't look like the JWT contains the role. I used a decoder and it only contains the email, a timestamp and an expiration. In order to authorize different pages that needs to be included."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056SERBK2B"
+    ]
+  },
+  {
+    "client_msg_id": "feefd5dc-136f-42bf-8ed9-20c947e3619b",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "This is what I get:\n*{*_2 items_\n\"header\":*{*_1 item_\n\"alg\":\"HS256\"\n*}*\n\"payload\":*{*_3 items_\n\"sub\":\"\u003cmailto:me@gmail.com|me@gmail.com\u003e\"\n\"iat\":1705197697\n\"exp\":1705199137\n*}*\n*}*",
+    "ts": "1705198011.569099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ThWbg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is what I get:\n"
+              },
+              {
+                "type": "text",
+                "text": "{",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "2 items",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\"header\":"
+              },
+              {
+                "type": "text",
+                "text": "{",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "1 item",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\"alg\":\"HS256\"\n"
+              },
+              {
+                "type": "text",
+                "text": "}",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\"payload\":"
+              },
+              {
+                "type": "text",
+                "text": "{",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "3 items",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\"sub\":\""
+              },
+              {
+                "type": "link",
+                "url": "mailto:me@gmail.com",
+                "text": "me@gmail.com"
+              },
+              {
+                "type": "text",
+                "text": "\"\n\"iat\":1705197697\n\"exp\":1705199137\n"
+              },
+              {
+                "type": "text",
+                "text": "}",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "}",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2f87870d-cfb3-4740-8ca8-1c410d88dc43",
+    "type": "message",
+    "user": "U057A8JEJAG",
+    "text": "got the checkout working and made a user display component to show current books with a renew and return button",
+    "ts": "1705199235.555899",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qVTj6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "got the checkout working and made a user display component to show current books with a renew and return button"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269495337120_481baecdd1c0c2c501ec_72.png",
+      "first_name": "Chad",
+      "real_name": "Chad Harper",
+      "display_name": "Chad Harper",
+      "team": "T050CSX3EMT",
+      "name": "chadharper811",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9a48d53e-01bd-412f-b247-54166338731a",
+    "type": "message",
+    "user": "U057A8JEJAG",
+    "text": "so i'm trying to get the login stuff working, how do i do that? i uncommented out all the stuff but theres a lot of red code and something about lombok how to i get that working?",
+    "ts": "1705265676.287189",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bm6V2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so i'm trying to get the login stuff working, how do i do that? i uncommented out all the stuff but theres a lot of red code and something about lombok how to i get that working?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269495337120_481baecdd1c0c2c501ec_72.png",
+      "first_name": "Chad",
+      "real_name": "Chad Harper",
+      "display_name": "Chad Harper",
+      "team": "T050CSX3EMT",
+      "name": "chadharper811",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2F5FDCBF-55B1-4EB0-8783-036F0DF8ACCC",
+    "type": "message",
+    "user": "U05794241U4",
+    "text": "Yes and dependencies too.. , in the user there are some methods that are returning false but i have to be changed to true.",
+    "ts": "1705266055.090759",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/GRDL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes and dependencies too.. , in the user there are some methods that are returning false but i have to be changed to true."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230158607095_79d4833f75e0a0c06d85_72.jpg",
+      "first_name": "ronaldgutierrezj",
+      "real_name": "ronaldgutierrezj",
+      "display_name": "Ronald Gutierrez",
+      "team": "T050CSX3EMT",
+      "name": "ronaldgutierrezj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8e0449dc-580d-4e05-84aa-c3bcceae2173",
+    "type": "message",
+    "user": "U057A8JEJAG",
+    "text": "any idea which ones? i installed the lombok plugin for intellij",
+    "ts": "1705266873.539669",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FweOh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "any idea which ones? i installed the lombok plugin for intellij"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269495337120_481baecdd1c0c2c501ec_72.png",
+      "first_name": "Chad",
+      "real_name": "Chad Harper",
+      "display_name": "Chad Harper",
+      "team": "T050CSX3EMT",
+      "name": "chadharper811",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C52EC685-FBB4-4462-A874-B1A4CB2AED75",
+    "type": "message",
+    "user": "U05794241U4",
+    "text": "They are commented in the gradle… you can just uncommeeted all of them…",
+    "ts": "1705266967.551099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aEFJ5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "They are commented in the gradle"
+              },
+              {
+                "type": "text",
+                "text": "…"
+              },
+              {
+                "type": "text",
+                "text": " you can just uncommeeted all of them"
+              },
+              {
+                "type": "text",
+                "text": "…"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230158607095_79d4833f75e0a0c06d85_72.jpg",
+      "first_name": "ronaldgutierrezj",
+      "real_name": "ronaldgutierrezj",
+      "display_name": "Ronald Gutierrez",
+      "team": "T050CSX3EMT",
+      "name": "ronaldgutierrezj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "74fbda73-7429-4a01-b1eb-cccc39556aca",
+    "type": "message",
+    "user": "U057A8JEJAG",
+    "text": "got tht now its saying \"Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'securityFilterChain' defined in class path resource [org/launchcode/bookmaster/user/config/SecurityConfiguration.class]: Failed to instantiate [org.springframework.security.web.SecurityFilterChain]: Factory method 'securityFilterChain' threw exception with message: Error creating bean with name 'mvcHandlerMappingIntrospector' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'userController' method \"",
+    "ts": "1705267916.638289",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yuq6s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "got tht now its saying \"Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'securityFilterChain' defined in class path resource [org/launchcode/bookmaster/user/config/SecurityConfiguration.class]: Failed to instantiate [org.springframework.security.web.SecurityFilterChain]: Factory method 'securityFilterChain' threw exception with message: Error creating bean with name 'mvcHandlerMappingIntrospector' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'userController' method \""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269495337120_481baecdd1c0c2c501ec_72.png",
+      "first_name": "Chad",
+      "real_name": "Chad Harper",
+      "display_name": "Chad Harper",
+      "team": "T050CSX3EMT",
+      "name": "chadharper811",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4A72AAFE-BA34-4548-ABAE-B2F359D77FF3",
+    "type": "message",
+    "user": "U05794241U4",
+    "text": "Did u uncommented the files inside config and auth folder too?",
+    "ts": "1705268061.247369",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2VJXk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Did u uncommented the files inside config and auth folder too?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230158607095_79d4833f75e0a0c06d85_72.jpg",
+      "first_name": "ronaldgutierrezj",
+      "real_name": "ronaldgutierrezj",
+      "display_name": "Ronald Gutierrez",
+      "team": "T050CSX3EMT",
+      "name": "ronaldgutierrezj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "65ad57d3-9815-4f15-8c35-9574240e64ae",
+    "type": "message",
+    "user": "U057A8JEJAG",
+    "text": "yes i uncommented all of them but it's saying the securityconfig file is an issue",
+    "ts": "1705268100.510749",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mwqip",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes i uncommented all of them but it's saying the securityconfig file is an issue"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269495337120_481baecdd1c0c2c501ec_72.png",
+      "first_name": "Chad",
+      "real_name": "Chad Harper",
+      "display_name": "Chad Harper",
+      "team": "T050CSX3EMT",
+      "name": "chadharper811",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6963311D-8E40-4FB5-ACA8-D8E8D1695B0B",
+    "type": "message",
+    "user": "U05794241U4",
+    "text": "I Would like to help but im not infront my computer right now. I will be back around 5:30  if you want we can zoom at that time",
+    "ts": "1705268354.020799",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "afBTr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I Would like to help but im not infront my computer right now. I will be back around 5:30  if you want we can zoom at that time"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230158607095_79d4833f75e0a0c06d85_72.jpg",
+      "first_name": "ronaldgutierrezj",
+      "real_name": "ronaldgutierrezj",
+      "display_name": "Ronald Gutierrez",
+      "team": "T050CSX3EMT",
+      "name": "ronaldgutierrezj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d1402e52-b704-4a28-a0b9-87abbf6e44d7",
+    "type": "message",
+    "user": "U057A8JEJAG",
+    "text": "sounds good",
+    "ts": "1705269420.277179",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IX3Al",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sounds good"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269495337120_481baecdd1c0c2c501ec_72.png",
+      "first_name": "Chad",
+      "real_name": "Chad Harper",
+      "display_name": "Chad Harper",
+      "team": "T050CSX3EMT",
+      "name": "chadharper811",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

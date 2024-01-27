@@ -1,0 +1,59 @@
+[
+  {
+    "client_msg_id": "f6e5d251-ef3b-4eee-b144-081799cc686f",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "Its working",
+    "ts": "1704385444.780749",
+    "thread_ts": "1704323917.997979",
+    "parent_user_id": "U057HFYT7B3",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057HFYT7B3"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oH+Lb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Its working"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

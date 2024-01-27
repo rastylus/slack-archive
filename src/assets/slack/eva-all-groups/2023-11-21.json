@@ -1,0 +1,130 @@
+[
+  {
+    "client_msg_id": "64b8181a-a0da-43ac-a857-01a076034e76",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "Hey, everyone! DO we have a Zoom link to join?",
+    "ts": "1700526405.271839",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KJICV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey, everyone! DO we have a Zoom link to join?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4b442592-8b24-4c55-ae50-f39de56cd5b0",
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "\u003c!channel\u003e Hello team. Here is the link to our Zoom meeting: \u003chttps://us02web.zoom.us/j/83781519376?pwd=YTRmWlFWOXoyU3ZBZG95aEVKbVJqUT09\u003e",
+    "ts": "1700526434.061619",
+    "pinned_to": [
+      "C066H7YSF61"
+    ],
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 2,
+        "users": [
+          "U0574U0BKQA",
+          "U057UGWMN48"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057UQR6VDW"
+        ]
+      },
+      {
+        "name": "performing_arts",
+        "count": 1,
+        "users": [
+          "U057JSST597"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2hUFg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " Hello team. Here is the link to our Zoom meeting: "
+              },
+              {
+                "type": "link",
+                "url": "https://us02web.zoom.us/j/83781519376?pwd=YTRmWlFWOXoyU3ZBZG95aEVKbVJqUT09",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

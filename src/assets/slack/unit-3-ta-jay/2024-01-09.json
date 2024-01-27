@@ -1,0 +1,258 @@
+[
+  {
+    "client_msg_id": "d8e52ccb-2323-4e33-a8f5-5bc5e244bdbd",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi guys, are we still having studio tonight? I can't access the room. TIA!",
+    "ts": "1704760658.740839",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uESlP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi guys, are we still having studio tonight? I can't access the room. TIA!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7977928e-3254-4bb2-8266-acc0328140bc",
+    "type": "message",
+    "user": "U056Z2CTTGX",
+    "text": "I'm not sure, my group and I also can't get into the room!",
+    "ts": "1704760682.629739",
+    "thread_ts": "1704760682.629739",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1704760726.483549"
+      }
+    ],
+    "latest_reply": "1704760726.483549",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l3TMU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm not sure, my group and I also can't get into the room!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/aeadc1b380591694fd175c6730be69b5.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "Mark",
+      "real_name": "Mark Watson",
+      "display_name": "Mark Watson",
+      "team": "T050CSX3EMT",
+      "name": "slybalto",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057GPNUCG4"
+    ]
+  },
+  {
+    "client_msg_id": "90385753-dd83-4abb-afbc-21b7fdd1afb6",
+    "type": "message",
+    "user": "U056Z2CTTGX",
+    "text": "\u003c@U055B8PEEMV\u003e Got any ideas what's going on?",
+    "ts": "1704760705.871239",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jbRGe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U055B8PEEMV"
+              },
+              {
+                "type": "text",
+                "text": " Got any ideas what's going on?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/aeadc1b380591694fd175c6730be69b5.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "Mark",
+      "real_name": "Mark Watson",
+      "display_name": "Mark Watson",
+      "team": "T050CSX3EMT",
+      "name": "slybalto",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "30216881-308c-4be8-ac03-5caf50973bec",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Thanks Mark!",
+    "ts": "1704760726.483549",
+    "thread_ts": "1704760682.629739",
+    "parent_user_id": "U056Z2CTTGX",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056Z2CTTGX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KC53u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks Mark!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b037f2d9-2df6-4fb5-bfff-023608019e19",
+    "type": "message",
+    "user": "U055B8PEEMV",
+    "text": "Zoom room open",
+    "ts": "1704762144.701199",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0Omf5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Zoom room open"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5204638969172_2d7d943d02d4d367275b_72.png",
+      "first_name": "TA",
+      "real_name": "TA - Jay",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jay.lingelbach",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

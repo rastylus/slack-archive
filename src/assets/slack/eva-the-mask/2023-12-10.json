@@ -1,0 +1,162 @@
+[
+  {
+    "client_msg_id": "272c7a1a-69af-4b07-8272-d4192b3f3074",
+    "type": "message",
+    "user": "U056Z4PDDFG",
+    "text": "What names did you use for the classes: User or Employee, Role or Job, Shift? So that we all use the same names",
+    "ts": "1702218740.016709",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9bd1/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What names did you use for the classes: User or Employee, Role or Job, Shift? So that we all use the same names"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243639057747_935971920daa171f0237_72.png",
+      "first_name": "Kate",
+      "real_name": "Kate Khusainova",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "katekhusainova8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ec66d8c4-139b-45af-aad2-105fc04ce14f",
+    "type": "message",
+    "user": "U057JSST597",
+    "text": "Shift, I think Mario has employee and role; you might be able to see it on his branch",
+    "ts": "1702221148.265529",
+    "thread_ts": "1702221148.265529",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056Z4PDDFG",
+        "ts": "1702222056.970929"
+      }
+    ],
+    "latest_reply": "1702222056.970929",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056Z4PDDFG"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8/eU0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Shift, I think Mario has employee and role; you might be able to see it on his branch"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5252453710851_1c8ab4c8f861d9a71de2_72.jpg",
+      "first_name": "Anthony",
+      "real_name": "Anthony Silva",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "antsilva93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056Z4PDDFG"
+    ]
+  },
+  {
+    "client_msg_id": "79270859-e5bd-4c5b-aa7d-5db6445776b6",
+    "type": "message",
+    "user": "U056Z4PDDFG",
+    "text": "Thank you!",
+    "ts": "1702222056.970929",
+    "thread_ts": "1702221148.265529",
+    "parent_user_id": "U057JSST597",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ye0AT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243639057747_935971920daa171f0237_72.png",
+      "first_name": "Kate",
+      "real_name": "Kate Khusainova",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "katekhusainova8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "client_msg_id": "4c079b06-ebb9-484c-9268-0b9629b56b89",
+    "type": "message",
+    "user": "U055B8PEEMV",
+    "text": "Hey all. When working in git lets conform to some best practices.\n\n1. The first rule of group work on git is NEVER PUSH TO MAIN. \u003chttp://NEVER.EVER.PUSH.TO|NEVER.EVER.PUSH.TO\u003e.MAIN.  :slightly_smiling_face: LOL\n2. Make a branch. something like  feature-`your name` - `name of feature`\n3. When it’s time to merge into main I will help the first time or two, until we are comfortable doing that process with other team members.\nHappy coding!",
+    "ts": "1701715113.687379",
+    "edited": {
+      "user": "U055B8PEEMV",
+      "ts": "1701715207.000000"
+    },
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 8,
+        "users": [
+          "U056Z2CTTGX",
+          "U057T2GJHT3",
+          "U057GPNUCG4",
+          "U056K1WMVGF",
+          "U0579KDG6A0",
+          "U0574J9Q03V",
+          "U05722MU892",
+          "U0571TCPNAH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TDglh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all. When working in git lets conform to some best practices.\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"The first rule of group work on git is NEVER PUSH TO MAIN. \"},{\"type\":\"link\",\"url\":\"http:\\/\\/NEVER.EVER.PUSH.TO\",\"text\":\"NEVER.EVER.PUSH.TO\"},{\"type\":\"text\",\"text\":\".MAIN.  \"},{\"type\":\"emoji\",\"name\":\"slightly_smiling_face\",\"unicode\":\"1f642\"},{\"type\":\"text\",\"text\":\" LOL\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Make a branch. something like  feature-\"},{\"type\":\"text\",\"text\":\"your name\",\"style\":{\"code\":true}},{\"type\":\"text\",\"text\":\" - \"},{\"type\":\"text\",\"text\":\"name of feature\",\"style\":{\"code\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"When it\\u2019s time to merge into main I will help the first time or two, until we are comfortable doing that process with other team members.\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Happy coding!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5204638969172_2d7d943d02d4d367275b_72.png",
+      "first_name": "TA",
+      "real_name": "TA - Jay",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jay.lingelbach",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

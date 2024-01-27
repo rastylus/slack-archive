@@ -1,0 +1,374 @@
+[
+  {
+    "client_msg_id": "7d6e82f9-85f8-48d1-91c7-b4a5a4aefe54",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "is it server side or in intellij?",
+    "ts": "1705622411.173379",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pHjwX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "is it server side or in intellij?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8f28a8b6-eda0-4c76-8aa9-66cf8b75c541",
+    "type": "message",
+    "user": "U056VF0MDPH",
+    "text": "this is the  error error: incompatible types: Long cannot be converted to String",
+    "ts": "1705622451.668779",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iujlv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this is the  error error: incompatible types: Long cannot be converted to String"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5233510792727_27f43d51e25b2ef600fa_72.png",
+      "first_name": "Seth",
+      "real_name": "Seth Woodrow",
+      "display_name": "Seth Woodrow",
+      "team": "T050CSX3EMT",
+      "name": "seth.woodrow0",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a495c496-54d7-49ac-a85e-5bfc438078d3",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "okay in the ContractRepository declaration should be:\npublic interface ContractRepository extends CrudRepository\u003cContract, Long\u003e",
+    "ts": "1705622504.958369",
+    "edited": {
+      "user": "U056R914DAT",
+      "ts": "1705622519.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SWoOd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay in the ContractRepository declaration should be:\npublic interface ContractRepository extends CrudRepository\u003cContract, Long\u003e"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "25224532-90d0-4728-b3d9-aacbbdbaba3e",
+    "type": "message",
+    "user": "U056VF0MDPH",
+    "text": "that fixed it",
+    "ts": "1705622553.733619",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0v3iy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that fixed it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5233510792727_27f43d51e25b2ef600fa_72.png",
+      "first_name": "Seth",
+      "real_name": "Seth Woodrow",
+      "display_name": "Seth Woodrow",
+      "team": "T050CSX3EMT",
+      "name": "seth.woodrow0",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "aff7cb0a-f7c1-409b-bd32-a8bea4ae1012",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "whew",
+    "ts": "1705622558.374469",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eDkB8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "whew"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "67dc0295-b250-4838-bc1f-bf17e505551d",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "If you want to update those commits I can probably get it merged",
+    "ts": "1705622596.013989",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UTCmH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you want to update those commits I can probably get it merged"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a73c54a2-27eb-4f69-9e64-9ead01b63087",
+    "type": "message",
+    "user": "U056VF0MDPH",
+    "text": "the PR is in if you run into any issues don't worry about pulling it",
+    "ts": "1705622727.147539",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eDQlM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the PR is in if you run into any issues don't worry about pulling it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5233510792727_27f43d51e25b2ef600fa_72.png",
+      "first_name": "Seth",
+      "real_name": "Seth Woodrow",
+      "display_name": "Seth Woodrow",
+      "team": "T050CSX3EMT",
+      "name": "seth.woodrow0",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ef4ceb26-f060-41c1-8eea-3259241abc61",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "okedokes then",
+    "ts": "1705622740.067049",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v+eJ1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okedokes then"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

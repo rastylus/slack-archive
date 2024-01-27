@@ -1,0 +1,59 @@
+[
+  {
+    "client_msg_id": "51cc42be-8f1c-4756-914a-4803f889165d",
+    "type": "message",
+    "user": "U057UQR6VDW",
+    "text": "hey, I've sent it to the email address you using here \u003cmailto:tghidey@gmail.com|tghidey@gmail.com\u003e .",
+    "ts": "1700872840.310079",
+    "thread_ts": "1700850549.117309",
+    "parent_user_id": "U056ZNNEALF",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7nmF/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hey, I've sent it to the email address you using here "
+              },
+              {
+                "type": "link",
+                "url": "mailto:tghidey@gmail.com",
+                "text": "tghidey@gmail.com"
+              },
+              {
+                "type": "text",
+                "text": " ."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-27/5654242170596_cdac3ab1b889655d927c_72.png",
+      "first_name": "Iryna",
+      "real_name": "Iryna Ignatenko",
+      "display_name": "Iryna Ignatenko",
+      "team": "T050CSX3EMT",
+      "name": "marketosha91",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

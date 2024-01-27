@@ -1,0 +1,105 @@
+[
+  {
+    "client_msg_id": "8ddfc7ed-f87b-420e-8abf-217771dc8111",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I know we have studio today, but if I have a question about assignment 4 would I be able to get that answered as well? I'm stuck on the very last part of task 2. All my tests pass, but I don't see my employees or skills on localhost:8080/add.",
+    "ts": "1699312096.836229",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XEvjt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I know we have studio today, but if I have a question about assignment 4 would I be able to get that answered as well? I'm stuck on the very last part of task 2. All my tests pass, but I don't see my employees or skills on localhost:8080/add."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "02cb1df4-ada9-45bc-86c1-d6da36e790ee",
+    "type": "message",
+    "user": "U055NT4JYTF",
+    "text": "We can definitely open some breakout rooms for assignment work tonight.",
+    "ts": "1699312330.585329",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 3,
+        "users": [
+          "U05B3S71CJD",
+          "U0575U6RCKC",
+          "U057GGXFWTE"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UN9zw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We can definitely open some breakout rooms for assignment work tonight."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181323420023_1f7da720821d13ac727f_72.png",
+      "first_name": "Patrick",
+      "real_name": "Patrick Durian",
+      "display_name": "TA - Patrick Durian (he/him)",
+      "team": "T050CSX3EMT",
+      "name": "pjduri",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

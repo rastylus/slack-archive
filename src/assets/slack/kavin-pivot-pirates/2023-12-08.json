@@ -1,0 +1,66 @@
+[
+  {
+    "client_msg_id": "91079bec-057f-4879-92aa-f21cacf58df3",
+    "type": "message",
+    "user": "U057705AQ1Y",
+    "text": "\u003c@U056FFS0C64\u003e whenever you have a second,  please! :man-raising-hand:",
+    "ts": "1701999561.533359",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056FFS0C64"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y8OvW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056FFS0C64"
+              },
+              {
+                "type": "text",
+                "text": " whenever you have a second,  please! "
+              },
+              {
+                "type": "emoji",
+                "name": "man-raising-hand",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-26/5335036272260_ea148adde2bd8e45f296_72.png",
+      "first_name": "Connor",
+      "real_name": "Connor Meriweather",
+      "display_name": "Connor (STL)",
+      "team": "T050CSX3EMT",
+      "name": "c.meriweather55",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

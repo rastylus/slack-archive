@@ -1,0 +1,130 @@
+[
+  {
+    "client_msg_id": "5907205c-f2ec-4ac2-bbcb-f81b3bd0030d",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "Hey all, unfortunately \u003c@U059D0BNJ1G\u003e has an emergency situation this evening and will be unable to attend the initial meeting with y'all! Please look for a link for a different TA group for this evening in \u003c#C066DF07ERL|jose-group-1\u003e and \u003c#C066L1JCZPD|jose-group-2\u003e.",
+    "ts": "1700525264.422569",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 4,
+        "users": [
+          "U05765HGT46",
+          "U056WKE4W77",
+          "U05722VQ4S0",
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wJS3g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all, unfortunately "
+              },
+              {
+                "type": "user",
+                "user_id": "U059D0BNJ1G"
+              },
+              {
+                "type": "text",
+                "text": " has an emergency situation this evening and will be unable to attend the initial meeting with y'all! Please look for a link for a different TA group for this evening in "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C066DF07ERL"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C066L1JCZPD"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bbe90604-df80-4040-8d0c-a3f3917b4731",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Will do! Thank you and hope to meet Jose next week!",
+    "ts": "1700526491.398769",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mAbxI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Will do! Thank you and hope to meet Jose next week!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

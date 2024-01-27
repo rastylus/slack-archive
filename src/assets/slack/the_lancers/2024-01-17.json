@@ -1,0 +1,1294 @@
+[
+  {
+    "client_msg_id": "a1dc54dd-8a17-4e85-91dd-b855b00e1d4d",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "This is what I'm getting.",
+    "ts": "1705451152.463119",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "files": [
+      {
+        "id": "F06DS9NK2LF",
+        "created": 1705451145,
+        "timestamp": 1705451145,
+        "name": "20240116_182501.jpg",
+        "title": "20240116_182501.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U0574FFA3L5",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1149944,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06DS9NK2LF/20240116_182501.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06DS9NK2LF/download/20240116_182501.jpg",
+        "original_h": 3024,
+        "original_w": 4032,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DS9NK2LF-632d391724/20240116_182501_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DS9NK2LF-632d391724/20240116_182501_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DS9NK2LF-632d391724/20240116_182501_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DS9NK2LF-632d391724/20240116_182501_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DS9NK2LF-632d391724/20240116_182501_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DS9NK2LF-632d391724/20240116_182501_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DS9NK2LF-632d391724/20240116_182501_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DS9NK2LF-632d391724/20240116_182501_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0574FFA3L5/F06DS9NK2LF/20240116_182501.jpg",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06DS9NK2LF-2c77254102",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sJaEa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is what I'm getting."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5E1143D7-E86C-4B8B-9C5C-F7ACB036053D",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Can you truncate your exercise and workout tables because it’s saying that it can’t find the initial sequence for one of those variables. You know in my sequel, where there is a second table that is, the entity followed by _seq? There is a problem somewhere in there or one of the fields in either workouts or exercises in the program you’re running isn’t set up with the ID property or generative value but I’m pretty sure it’s something wrong with one of your tables in my SQL.",
+    "ts": "1705452036.528399",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AU52K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can you truncate your exercise and workout tables because it’s saying that it can’t find the initial sequence for one of those variables. You know in my sequel, where there is a second table that is, the entity followed by _seq? There is a problem somewhere in there or one of the fields in either workouts or exercises in the program you’re running isn’t set up with the ID property or generative value but I’m pretty sure it’s something wrong with one of your tables in my SQL."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6c2483f4-7af3-432f-a5df-0efdcd02c72d",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Sweet. Couldn't find it so I reset my whole mysql schema and it worked lol. I am getting 2 of the newly added exercise on the workout creation page but I'm not too worried about that currently.",
+    "ts": "1705453510.691119",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eRRGk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sweet. Couldn't find it so I reset my whole mysql schema and it worked lol. I am getting 2 of the newly added exercise on the workout creation page but I'm not too worried about that currently."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "82764a36-9c4a-48f9-bb2a-13bb86a1e8a2",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "Updated the personal records and user exercises to save to the user who is logged in, added some javascript to include a pop up button when you click delete account to confirm, also when you delete the account it clears the database of user, user records, and created exercises.",
+    "ts": "1705470356.053229",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QGcWl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Updated the personal records and user exercises to save to the user who is logged in, added some javascript to include a pop up button when you click delete account to confirm, also when you delete the account it clears the database of user, user records, and created exercises."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "546fe9f5-957c-4235-b48c-c0a523728408",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "i sent the merge request to development \u003c@U0574FFA3L5\u003e!",
+    "ts": "1705470606.966269",
+    "thread_ts": "1705470606.966269",
+    "reply_count": 14,
+    "replies": [
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705509779.528169"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705513637.475039"
+      },
+      {
+        "user": "U056YG34CS2",
+        "ts": "1705514318.663289"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705514335.721909"
+      },
+      {
+        "user": "U056YG34CS2",
+        "ts": "1705514435.774369"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705514456.638289"
+      },
+      {
+        "user": "U056YG34CS2",
+        "ts": "1705514505.140749"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705514911.636109"
+      },
+      {
+        "user": "U056YG34CS2",
+        "ts": "1705515023.361769"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705515066.122549"
+      },
+      {
+        "user": "U056YG34CS2",
+        "ts": "1705517844.994279"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705517923.230659"
+      },
+      {
+        "user": "U056YG34CS2",
+        "ts": "1705519402.077509"
+      },
+      {
+        "user": "U056YG34CS2",
+        "ts": "1705519768.967839"
+      }
+    ],
+    "latest_reply": "1705519768.967839",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IHksr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i sent the merge request to development "
+              },
+              {
+                "type": "user",
+                "user_id": "U0574FFA3L5"
+              },
+              {
+                "type": "text",
+                "text": "!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056YG34CS2",
+      "U0574FFA3L5",
+      "U05768C2NP4"
+    ]
+  },
+  {
+    "client_msg_id": "b4f6f6d1-2dae-4e94-a2d5-eb579d7d5c86",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Sweet. Development should be up to date. I had to comment out the stuff that saves the exercises to the user who is logged in, it was causing the userExercises page to show up empty for some reason and I couldn't quite figure out what was going on.",
+    "ts": "1705509779.528169",
+    "thread_ts": "1705470606.966269",
+    "parent_user_id": "U056YG34CS2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WZndC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sweet. Development should be up to date. I had to comment out the stuff that saves the exercises to the user who is logged in, it was causing the userExercises page to show up empty for some reason and I couldn't quite figure out what was going on."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a2b90817-d7b2-4e34-b3b0-4924d23d1946",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "So the browser was still holding values for selectedExercises displaying them on the workouts/create page. If you comment out the part towards the bottom on the create.html it fixes the duplication of exercises on the page. But I'm going to just get rid of it anyway before we pull to main so I wouldn't worry about it lol",
+    "ts": "1705510176.359459",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "O8axk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So the browser was still holding values for selectedExercises displaying them on the workouts/create page. If you comment out the part towards the bottom on the create.html it fixes the duplication of exercises on the page. But I'm going to just get rid of it anyway before we pull to main so I wouldn't worry about it lol"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4718aa00-1d52-4a11-b26b-f39b0c9f3e06",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Hey guys I really appreciate all the help and work you've done on the project!! I'm really sorry but I don't think I'll have the time today and tomorrow to work on it anymore. If I get called off work(which there's a good chance) I'll do what I can to get the development brach functioning and looking as best as possible. As of right now I'm going to go off the last commit I made yesterday for the demo. Thank you guys again and still let me know if you run into problems with of the additions I made!",
+    "ts": "1705513637.475039",
+    "thread_ts": "1705470606.966269",
+    "parent_user_id": "U056YG34CS2",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056YG34CS2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "owcek",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys I really appreciate all the help and work you've done on the project!! I'm really sorry but I don't think I'll have the time today and tomorrow to work on it anymore. If I get called off work(which there's a good chance) I'll do what I can to get the development brach functioning and looking as best as possible. As of right now I'm going to go off the last commit I made yesterday for the demo. Thank you guys again and still let me know if you run into problems with of the additions I made!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "288962A3-4AFF-45B3-9121-BC27A2D46094",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "Damn I wonder why it was doing that…. \u003c@U0574FFA3L5\u003e was it a white label error or just blank page? ",
+    "ts": "1705514318.663289",
+    "thread_ts": "1705470606.966269",
+    "parent_user_id": "U056YG34CS2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TPaVB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Damn I wonder why it was doing that"
+              },
+              {
+                "type": "text",
+                "text": "…"
+              },
+              {
+                "type": "text",
+                "text": ". "
+              },
+              {
+                "type": "user",
+                "user_id": "U0574FFA3L5"
+              },
+              {
+                "type": "text",
+                "text": " was it a white label error or just blank page? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "db204f50-461e-41f7-9e8c-5edb8af2439c",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Blank page",
+    "ts": "1705514335.721909",
+    "thread_ts": "1705470606.966269",
+    "parent_user_id": "U056YG34CS2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eSiUw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Blank page"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5CC0983E-2D9A-4FEF-9546-69BCE32F40AB",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "Hmmm I will copy the repo and see what’s up with it, and it’s development not main right?",
+    "ts": "1705514435.774369",
+    "thread_ts": "1705470606.966269",
+    "parent_user_id": "U056YG34CS2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uhPkt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hmmm I will copy the repo and see "
+              },
+              {
+                "type": "text",
+                "text": "what’s"
+              },
+              {
+                "type": "text",
+                "text": " up with it, and "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " development not main right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4768dd4f-b53c-412d-9d50-b1e2b6a8d675",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Yep it's in development",
+    "ts": "1705514456.638289",
+    "thread_ts": "1705470606.966269",
+    "parent_user_id": "U056YG34CS2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TzHur",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yep it's in development"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "69725E5B-CAD1-4524-9218-9B10CD43F253",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "Okay, if we can’t get it to work, I can just show them that repo I just had for the demo right?",
+    "ts": "1705514505.140749",
+    "thread_ts": "1705470606.966269",
+    "parent_user_id": "U056YG34CS2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1ueKg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay, if we "
+              },
+              {
+                "type": "text",
+                "text": "can’t"
+              },
+              {
+                "type": "text",
+                "text": " get it to work, I can just show them that repo I just had for the demo right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0a476bbf-d16a-4887-8193-6cb7147d7991",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Yea I'll update main and make sure everything is working there.",
+    "ts": "1705514911.636109",
+    "thread_ts": "1705470606.966269",
+    "parent_user_id": "U056YG34CS2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bWP+1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yea I'll update main and make sure everything is working there."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "FAAE0B38-9762-4407-BD19-0219365BC345",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "Okay, so I can take a look at it if you are busy today I can get development repo and see what’s up if you are cool with that?",
+    "ts": "1705515023.361769",
+    "thread_ts": "1705470606.966269",
+    "parent_user_id": "U056YG34CS2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FiCPk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay, so I can take a look at it if you are busy today I can get development repo and see "
+              },
+              {
+                "type": "text",
+                "text": "what’s"
+              },
+              {
+                "type": "text",
+                "text": " up if you are cool with that?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7792dec4-bb83-4ebc-8d8e-6ceedbe93226",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Yea thats fine",
+    "ts": "1705515066.122549",
+    "thread_ts": "1705470606.966269",
+    "parent_user_id": "U056YG34CS2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MTPVY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yea thats fine"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E3E7E130-11F6-4CF2-A732-420A128B4016",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "Damn the css got messed up bad I’m gonna try to work on it! The user exercises is working for me, this is what it looks like",
+    "ts": "1705517844.994279",
+    "thread_ts": "1705470606.966269",
+    "parent_user_id": "U056YG34CS2",
+    "files": [
+      {
+        "id": "F06EEK1B152",
+        "created": 1705517834,
+        "timestamp": 1705517834,
+        "name": "IMG_0392.jpg",
+        "title": "IMG_0392",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U056YG34CS2",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1102830,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06EEK1B152/img_0392.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06EEK1B152/download/img_0392.jpg",
+        "original_h": 4032,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EEK1B152-af8c957364/img_0392_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EEK1B152-af8c957364/img_0392_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EEK1B152-af8c957364/img_0392_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EEK1B152-af8c957364/img_0392_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EEK1B152-af8c957364/img_0392_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EEK1B152-af8c957364/img_0392_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EEK1B152-af8c957364/img_0392_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EEK1B152-af8c957364/img_0392_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056YG34CS2/F06EEK1B152/img_0392.jpg",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06EEK1B152-aa99db102a",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ADZXs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Damn the css got messed up bad "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " gonna try to work on it! The user exercises is working for me, this is what it looks like"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b3d42a77-2960-475d-8f40-941cadf0ed06",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Yea but when you select exercises, they don't show up there.",
+    "ts": "1705517923.230659",
+    "thread_ts": "1705470606.966269",
+    "parent_user_id": "U056YG34CS2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "r9Ldo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yea but when you select exercises, they don't show up there."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "BE0BA5B4-2718-42FB-A5D5-8917B7648193",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "Yeah I just realized the don’t get added in data base or in the page",
+    "ts": "1705519402.077509",
+    "thread_ts": "1705470606.966269",
+    "parent_user_id": "U056YG34CS2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xwk4H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah I just realized the "
+              },
+              {
+                "type": "text",
+                "text": "don’t"
+              },
+              {
+                "type": "text",
+                "text": " get added in data base or in the page"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1B97ECA6-274A-4859-AF68-164625E8472C",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "Yeah I’m at a loss lol I’m gonna mess with it I got all day today",
+    "ts": "1705519768.967839",
+    "thread_ts": "1705470606.966269",
+    "parent_user_id": "U056YG34CS2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cc64Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " at a loss lol "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " gonna mess with it I got all day today"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "28ae1d67-7c9d-493e-a4c5-d39ce0194a8e",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Whenever you get a minute can you screenshot me what to delete to stop the duplication?",
+    "ts": "1705534906.462089",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/q72U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Whenever you get a minute can you screenshot me what to delete to stop the duplication?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

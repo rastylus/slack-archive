@@ -1,0 +1,166 @@
+[
+  {
+    "client_msg_id": "8fefcd11-1686-46e4-a98d-6e4153d7ddd0",
+    "type": "message",
+    "user": "U055N4UL5DL",
+    "text": "\u003c!channel\u003e I saw the flurry of activity go by in all groups today. Great hustle everybody!\n\nMost of you are near the end of the list for each of the TAs you will be seeing tonight.\n\nYou will all do fine :slightly_smiling_face: But good luck anyways.",
+    "ts": "1705620826.378979",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wpH5g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " I saw the flurry of activity go by in all groups today. Great hustle everybody!\n\nMost of you are near the end of the list for each of the TAs you will be seeing tonight.\n\nYou will all do fine "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " But good luck anyways."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/dd31a4a84b06d66fa9479b2b404ce2e7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "TA",
+      "real_name": "TA Shawn (He/His)",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "scooter4356",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eea29913-6f01-417d-8f8f-c3ed005f59f9",
+    "type": "message",
+    "user": "U056YAQ412S",
+    "text": "Thanks!  Is there an average time that a demo takes? like 15/20 mins?",
+    "ts": "1705620881.752809",
+    "thread_ts": "1705620881.752809",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0625KF6RLH",
+        "ts": "1705620941.402369"
+      }
+    ],
+    "latest_reply": "1705620941.402369",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oaHyk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks!  Is there an average time that a demo takes? like 15/20 mins?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228432964807_071cc8b5e96dd5d1765c_72.png",
+      "first_name": "Lori",
+      "real_name": "Lori Kovarik",
+      "display_name": "Lori",
+      "team": "T050CSX3EMT",
+      "name": "kovarik.lori",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0625KF6RLH"
+    ]
+  },
+  {
+    "client_msg_id": "25da0d92-0bb0-439e-8461-4dbdc3e3b5f6",
+    "type": "message",
+    "user": "U0625KF6RLH",
+    "text": "TAs have been instructed to aim for about 15 minutes so everyone has time to go today.",
+    "ts": "1705620941.402369",
+    "thread_ts": "1705620881.752809",
+    "parent_user_id": "U056YAQ412S",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M22Wy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "TAs have been instructed to aim for about 15 minutes so everyone has time to go today."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-19/6068347004260_cd7e855b65583e9c6d43_72.jpg",
+      "first_name": "Melinda",
+      "real_name": "Melinda Stitzel",
+      "display_name": "Liftoff Program Manager - Melinda (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "melinda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

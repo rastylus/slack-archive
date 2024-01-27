@@ -1,0 +1,195 @@
+[
+  {
+    "client_msg_id": "2cf61397-5357-4d07-8a66-866a25173093",
+    "type": "message",
+    "user": "U0579KDG6A0",
+    "text": "Fantastic game \u003c@U056FFT4PT2\u003e",
+    "ts": "1699319748.785949",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "kirbyhype",
+        "count": 1,
+        "users": [
+          "U056FFT4PT2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lTO5u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Fantastic game "
+              },
+              {
+                "type": "user",
+                "user_id": "U056FFT4PT2"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5258360413041_035f3e1e6aecd6af95b3_72.jpg",
+      "first_name": "Riley",
+      "real_name": "Riley Williams (they/them)(KC)",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ririwilliams.rw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d301f6d5-2d56-41f5-a7bd-192d6ac038d5",
+    "type": "message",
+    "user": "U056FFT4PT2",
+    "text": "\u003c!channel\u003e\n\nThe staff are putting together a thank you card for Carrie. Feel free to sign it! And keep it on the down low. This is a surprise!\n\n\u003chttps://docs.google.com/document/d/1IKYb_5EajwMCRqBASJwjxg6T8ehKZNAXPmH3AxQIfRA/edit\u003e",
+    "ts": "1699320905.045239",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "the_horns",
+        "count": 4,
+        "users": [
+          "U0579KDG6A0",
+          "U056YD04Q30",
+          "U057297BZM3",
+          "U056TCXP71V"
+        ]
+      },
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U050FMK1S83"
+        ]
+      },
+      {
+        "name": "shushing_face",
+        "count": 1,
+        "users": [
+          "U050FMK1S83"
+        ]
+      },
+      {
+        "name": "the_horns::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U057521BQP5"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1aXTX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n\nThe staff are putting together a thank you card for Carrie. Feel free to sign it! And keep it on the down low. This is a surprise!\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1IKYb_5EajwMCRqBASJwjxg6T8ehKZNAXPmH3AxQIfRA/edit",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-12/5254218391269_d3beb953d94101cca6d8_72.jpg",
+      "first_name": "Marcus",
+      "real_name": "Marcus Chinery",
+      "display_name": "TA - Marcus Chinery",
+      "team": "T050CSX3EMT",
+      "name": "marcus.chinery",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2517a80e-284e-4d85-a933-98ed00c60da3",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Our user table from studio was added to the techjobs Schema for GA#4 by the way. For anyone who set up their MySQL workbench the same way we did.",
+    "ts": "1699327955.621459",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tYmFq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Our user table from studio was added to the techjobs Schema for GA#4 by the way. For anyone who set up their MySQL workbench the same way we did."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

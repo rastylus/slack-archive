@@ -1,0 +1,363 @@
+[
+  {
+    "client_msg_id": "939d992a-f712-4706-9fc8-c6aa37d41337",
+    "type": "message",
+    "user": "U057JSST597",
+    "text": "\u003chttps://docs.google.com/document/d/1TTEMFWjsfEn3sn5Nox1CqUVJNa6t_0ADbdH63Ly7Bxg/edit?usp=sharing\u003e",
+    "ts": "1700530126.939829",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GJZ0x",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1TTEMFWjsfEn3sn5Nox1CqUVJNa6t_0ADbdH63Ly7Bxg/edit?usp=sharing",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5252453710851_1c8ab4c8f861d9a71de2_72.jpg",
+      "first_name": "Anthony",
+      "real_name": "Anthony Silva",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "antsilva93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "has renamed the channel from \"eva-group-3\" to \"eva-group-the-mask\"",
+    "ts": "1700530584.271419",
+    "subtype": "channel_name",
+    "name": "eva-group-the-mask",
+    "old_name": "eva-group-3",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "has renamed the channel from \"eva-group-the-mask\" to \"eva-group-3-the-mask\"",
+    "ts": "1700530652.498899",
+    "subtype": "channel_name",
+    "name": "eva-group-3-the-mask",
+    "old_name": "eva-group-the-mask",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f0916bc6-c568-48b3-bd3d-d68d0978dddf",
+    "type": "message",
+    "user": "U057JSST597",
+    "text": ":performing_arts:",
+    "ts": "1700530673.677849",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DlbrK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "performing_arts",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5252453710851_1c8ab4c8f861d9a71de2_72.jpg",
+      "first_name": "Anthony",
+      "real_name": "Anthony Silva",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "antsilva93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "set the channel description: :performing_arts:",
+    "ts": "1700531225.197339",
+    "subtype": "channel_purpose",
+    "purpose": ":performing_arts:",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "74511af8-0d10-47f9-bb08-e716ede40688",
+    "type": "message",
+    "user": "U057JSST597",
+    "text": "\u003chttps://education.launchcode.org/liftoff/modules/demo-projects/index.html\u003e",
+    "ts": "1700531363.260339",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JWSxy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://education.launchcode.org/liftoff/modules/demo-projects/index.html",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5252453710851_1c8ab4c8f861d9a71de2_72.jpg",
+      "first_name": "Anthony",
+      "real_name": "Anthony Silva",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "antsilva93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cf5bfd18-c816-45e8-a455-ee0f8c76b556",
+    "type": "message",
+    "user": "U057JSST597",
+    "text": "\u003chttps://orteil.dashnet.org/cookieclicker/\u003e",
+    "ts": "1700532226.456609",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yQArB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://orteil.dashnet.org/cookieclicker/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5252453710851_1c8ab4c8f861d9a71de2_72.jpg",
+      "first_name": "Anthony",
+      "real_name": "Anthony Silva",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "antsilva93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U057JSST597",
+    "text": "set the channel topic: The Mask attempts to pass Launch Code",
+    "ts": "1700532795.805599",
+    "subtype": "channel_topic",
+    "topic": "The Mask attempts to pass Launch Code",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5252453710851_1c8ab4c8f861d9a71de2_72.jpg",
+      "first_name": "Anthony",
+      "real_name": "Anthony Silva",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "antsilva93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cbd3b174-363a-4698-83af-11d60f19e7df",
+    "type": "message",
+    "user": "U056Z4PDDFG",
+    "text": "My e-mail: \u003cmailto:katekhusainova8@gmail.com|katekhusainova8@gmail.com\u003e",
+    "ts": "1700533149.394419",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "81FLa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My e-mail: "
+              },
+              {
+                "type": "link",
+                "url": "mailto:katekhusainova8@gmail.com",
+                "text": "katekhusainova8@gmail.com"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243639057747_935971920daa171f0237_72.png",
+      "first_name": "Kate",
+      "real_name": "Kate Khusainova",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "katekhusainova8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

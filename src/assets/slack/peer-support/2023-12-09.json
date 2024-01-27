@@ -1,0 +1,131 @@
+[
+  {
+    "client_msg_id": "1e4e471c-fab5-474d-b9ec-473d300f4960",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "git branch -r will show you all remote branches\ngit fetch should grab everything and pull it to you, locally",
+    "ts": "1702130366.628059",
+    "thread_ts": "1701794318.728119",
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IWOY9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "git branch -r will show you all remote branches\ngit fetch should grab everything and pull it to you, locally"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d2a9db7e-3244-4b7b-84ee-0d2775097ae1",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "This has a bunch of options listed.\n\n\u003chttps://www.freecodecamp.org/news/git-pull-remote-branch-how-to-fetch-remote-branches-in-git/|https://www.freecodecamp.org/news/git-pull-remote-branch-how-to-fetch-remote-branches-in-git/\u003e",
+    "ts": "1702130416.846879",
+    "thread_ts": "1701794318.728119",
+    "attachments": [
+      {
+        "fallback": "freeCodeCamp.org: Git Pull Remote Branch – How To Fetch Remote Branches in Git",
+        "id": 1,
+        "title": "Git Pull Remote Branch – How To Fetch Remote Branches in Git",
+        "title_link": "https://www.freecodecamp.org/news/git-pull-remote-branch-how-to-fetch-remote-branches-in-git/",
+        "text": "Git is a popular version control system that's used by millions of developers to manage their codebases. One of the most powerful features of Git [\u003chttps://kinsta.com/knowledgebase/install-git/\u003e] is its ability to work with remote repositories. When working on a project with multiple collaborators, you must be able to fetch changes from",
+        "image_url": "https://www.freecodecamp.org/news/content/images/2023/05/cover-template--12-.png",
+        "service_name": "freeCodeCamp.org",
+        "service_icon": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+        "from_url": "https://www.freecodecamp.org/news/git-pull-remote-branch-how-to-fetch-remote-branches-in-git/",
+        "original_url": "https://www.freecodecamp.org/news/git-pull-remote-branch-how-to-fetch-remote-branches-in-git/",
+        "fields": [
+          {
+            "title": "Written by",
+            "value": "Joel Olawanle",
+            "short": true
+          },
+          {
+            "title": "Filed under",
+            "value": "Git, Version Control, Collaboration",
+            "short": true
+          }
+        ],
+        "blocks": null,
+        "ts": 1683210459
+      }
+    ],
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G0WrM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This has a bunch of options listed.\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.freecodecamp.org/news/git-pull-remote-branch-how-to-fetch-remote-branches-in-git/",
+                "text": "https://www.freecodecamp.org/news/git-pull-remote-branch-how-to-fetch-remote-branches-in-git/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,846 @@
+[
+  {
+    "client_msg_id": "9f9c7fd2-7b29-454a-8bd2-34655fd0b887",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Just added some basic functionality for creating workouts and the ability to add created exercises to them. \u003c@U0574FFA3L5\u003e if you want to work from what I just added, hopefully it saves you some time but I think this is a great place to start and we can have a minimum viability within the next few days. \u003c@U056YG34CS2\u003e and \u003c@U0574JUHBNH\u003e if you have time and want to help with the design of those pages it would be great but I'll get it up to theme with the current color scheme. If you want to play around with it, start by creating some test exercises and workouts by going to workouts/create and exercise/create, and then go to the user exercises page and you'll see the exercises have links to view their individual pages and should have the workouts they are a part of on that page too. Workouts should have exercises with links in them as well.",
+    "ts": "1704685381.929969",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U056YG34CS2",
+          "U0574JUHBNH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q/SwR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just added some basic functionality for creating workouts and the ability to add created exercises to them. "
+              },
+              {
+                "type": "user",
+                "user_id": "U0574FFA3L5"
+              },
+              {
+                "type": "text",
+                "text": " if you want to work from what I just added, hopefully it saves you some time but I think this is a great place to start and we can have a minimum viability within the next few days. "
+              },
+              {
+                "type": "user",
+                "user_id": "U056YG34CS2"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U0574JUHBNH"
+              },
+              {
+                "type": "text",
+                "text": " if you have time and want to help with the design of those pages it would be great but I'll get it up to theme with the current color scheme. If you want to play around with it, start by creating some test exercises and workouts by going to workouts/create and exercise/create, and then go to the user exercises page and you'll see the exercises have links to view their individual pages and should have the workouts they are a part of on that page too. Workouts should have exercises with links in them as well."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1c65fde3-cd9a-4ad8-b7f3-c9a8ac339635",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "That's awesome. I went ahead an added the search function to /workouts/create because I don't think we need the search to be separate from the create page, just seems extra. I'm still having trouble getting things to add to a workout, but we're definitely getting close.",
+    "ts": "1704691776.983689",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ItqOB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That's awesome. I went ahead an added the search function to /workouts/create because I don't think we need the search to be separate from the create page, just seems extra. I'm still having trouble getting things to add to a workout, but we're definitely getting close."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "69aed6e1-fe52-4da0-b8e6-41ac9fe6e7e4",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Yeah, I tried messing around with the search page and clicking on the results but I couldn't see where something like a .json file was coming in or not",
+    "ts": "1704693621.515549",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "c3sZT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, I tried messing around with the search page and clicking on the results but I couldn't see where something like a .json file was coming in or not"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d605789c-8be6-4768-bfd0-02ae37dffe82",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Oh I pushed the changes I made to development so that we can mess with the more before merging with main if you want to look at it.",
+    "ts": "1704694871.808529",
+    "thread_ts": "1704694871.808529",
+    "reply_count": 11,
+    "replies": [
+      {
+        "user": "U05768C2NP4",
+        "ts": "1704729745.466249"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1704729839.289989"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1704730406.356579"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1704730510.192129"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1704730828.483549"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1704732975.442209"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1704734681.064249"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1704735370.353239"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1704735706.455099"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1704747997.502409"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1704750043.616059"
+      }
+    ],
+    "latest_reply": "1704750043.616059",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XLqB2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh I pushed the changes I made to development so that we can mess with the more before merging with main if you want to look at it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U0574FFA3L5",
+      "U05768C2NP4"
+    ]
+  },
+  {
+    "client_msg_id": "71a1c3fe-80d6-4daa-b1ae-dd808e9ad740",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Ok I apologize I forgot we were working from a development branch. I've been pushing from a branch on to \"main\". Does that mess anything up for you? I can update \"development\" with my changes if you run into issues with merging",
+    "ts": "1704729745.466249",
+    "thread_ts": "1704694871.808529",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "s4Z3s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok I apologize I forgot we were working from a development branch. I've been pushing from a branch on to \"main\". Does that mess anything up for you? I can update \"development\" with my changes if you run into issues with merging"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1143d0e3-fca1-41c9-a00f-638b72f24163",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Nah, you're good. I haven't had any merge issues. I think what I merged into development included your changes to main so it should be up to date.",
+    "ts": "1704729839.289989",
+    "thread_ts": "1704694871.808529",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5cCXL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nah, you're good. I haven't had any merge issues. I think what I merged into development included your changes to main so it should be up to date."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ced92f31-31e5-487f-871f-e3fbac7ec7f1",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "I am looking at the main branch right now but I'm not seeing the search function on workouts/create?",
+    "ts": "1704730406.356579",
+    "thread_ts": "1704694871.808529",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zML0s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am looking at the main branch right now but I'm not seeing the search function on workouts/create?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b930b586-f606-4fe3-bd74-8a006e149d49",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Check development. I don't think I merged it to main.",
+    "ts": "1704730510.192129",
+    "thread_ts": "1704694871.808529",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C9jrs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Check development. I don't think I merged it to main."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "89b83ea5-4ec6-4516-89f6-4ce47a0f0a6f",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "I see it now, for some reason it wasn't showing up on my original local repository. Looks great!",
+    "ts": "1704730828.483549",
+    "thread_ts": "1704694871.808529",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZHLQK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I see it now, for some reason it wasn't showing up on my original local repository. Looks great!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "87b57f73-dbf5-44f2-9e02-058da05d745b",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "I'm going to work formatting my \"create exercise\" with the Api one so they can form the same objects",
+    "ts": "1704732975.442209",
+    "thread_ts": "1704694871.808529",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AVpjs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm going to work formatting my \"create exercise\" with the Api one so they can form the same objects"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4fdf90b7-53b1-4f76-8254-dbf729c25c1a",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "That would be awesome. That's what I figured would be our next step. I was messing with it last night but didn't get anywhere.",
+    "ts": "1704734681.064249",
+    "thread_ts": "1704694871.808529",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MR4O9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That would be awesome. That's what I figured would be our next step. I was messing with it last night but didn't get anywhere."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d99de7af-6103-4888-9423-eda74def2212",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Is there a reason you didn't put the search exercise function on exercise/create?",
+    "ts": "1704735370.353239",
+    "thread_ts": "1704694871.808529",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3ZFXc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is there a reason you didn't put the search exercise function on exercise/create?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1ea0b3a1-b26a-4546-8b6c-1a5328b9ff3a",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Not really. I didn't think of adding the search to the create stuff until after I saw your workout creation form.",
+    "ts": "1704735706.455099",
+    "thread_ts": "1704694871.808529",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tTxZV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Not really. I didn't think of adding the search to the create stuff until after I saw your workout creation form."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b19c6925-2602-4bb5-bfe0-4d21bf9f6997",
+    "type": "message",
+    "user": "U0574JUHBNH",
+    "text": "I'm still waiting on a TA's assistance with the MySQL issue. Could someone screenshare when we get on our call today so I can visually see everything?",
+    "ts": "1704747537.402199",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pMTm7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm still waiting on a TA's assistance with the MySQL issue. Could someone screenshare when we get on our call today so I can visually see everything?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-01/6280497472354_b5d2d071c7d0de3339f3_72.png",
+      "first_name": "Leonard",
+      "real_name": "Leonard Stewart, Jr.",
+      "display_name": "Leonard Stewart, Jr.",
+      "team": "T050CSX3EMT",
+      "name": "leonardjr06",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ada9aa3d-890f-4ad6-bc4f-465e9e2937d5",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "There are some incompatibilities with the search being in workout/create. I don't think it's a bad idea to have it on its own page just for simplicity right now. I am going to restore the search page and try to get it to save the API exercises into the repository and hopefully get the workout/create page to accept both.",
+    "ts": "1704747997.502409",
+    "thread_ts": "1704694871.808529",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OEapY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "There are some incompatibilities with the search being in workout/create. I don't think it's a bad idea to have it on its own page just for simplicity right now. I am going to restore the search page and try to get it to save the API exercises into the repository and hopefully get the workout/create page to accept both."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8c9ddf95-f5f1-454e-ad4c-a7aa07f7949b",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Sounds good. We may have to find a way to store the api exercises into the repository and assign them id's that way, if that would help with storing them in a workout",
+    "ts": "1704750043.616059",
+    "thread_ts": "1704694871.808529",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hmFOT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sounds good. We may have to find a way to store the api exercises into the repository and assign them id's that way, if that would help with storing them in a workout"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

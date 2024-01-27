@@ -1,0 +1,606 @@
+[
+  {
+    "client_msg_id": "b445dbc6-036b-47e5-ad58-8ab76867dd47",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "I added a small method to the user class and the course class and then I went ahead and made a course controller. If anyone has time today or tomorrow to look it over and see what you think, let me know! Im not to sure what else i need for the backend part to enroll in the course so if im missin something any input would be helpful! Thanks guys!",
+    "ts": "1702742745.822759",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05777MT72P"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e+Qyq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I added a small method to the user class and the course class and then I went ahead and made a course controller. If anyone has time today or tomorrow to look it over and see what you think, let me know! Im not to sure what else i need for the backend part to enroll in the course so if im missin something any input would be helpful! Thanks guys!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A51813ED-68A0-4713-8FAD-F6377099895A",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "I can take a look. I’m about to hop on and start coding for a bit. ",
+    "ts": "1702743336.113929",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EDuE8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can take a look. "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " about to hop on and start coding for a bit. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5fe799e9-0cb8-4fd2-aa5e-2f16974759fe",
+    "type": "message",
+    "user": "U056YD04Q30",
+    "text": "\u003c@U057WAMKE5N\u003e There are two controller classes in the code. You've created an additional controllers class.please delete this class and copy its code to the other existing controller class.",
+    "ts": "1702762286.544079",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8tM2J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057WAMKE5N"
+              },
+              {
+                "type": "text",
+                "text": " There are two controller classes in the code. You've created an additional controllers class.please delete this class and copy its code to the other existing controller class."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240107488693_9bf114e71863cebbf28e_72.jpg",
+      "first_name": "Sukanya",
+      "real_name": "Sukanya Shanmugam",
+      "display_name": "Sukanya Venkatesh",
+      "team": "T050CSX3EMT",
+      "name": "sukanya.s1793",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a46bd6cf-51f3-49e3-9705-aabdd9e12048",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "There are 2 course controllers class?",
+    "ts": "1702762337.714729",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ipd5X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "There are 2 course controllers class?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6598fa33-fa67-48d6-8b67-846610c96046",
+    "type": "message",
+    "user": "U056YD04Q30",
+    "text": "controllers folder check the screenshot and let me know",
+    "ts": "1702762701.163089",
+    "files": [
+      {
+        "id": "F06AGSKGJ4A",
+        "created": 1702762627,
+        "timestamp": 1702762627,
+        "name": "Screenshot 2023-12-16 at 3.35.25 PM.png",
+        "title": "Screenshot 2023-12-16 at 3.35.25 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056YD04Q30",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 104613,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06AGSKGJ4A/screenshot_2023-12-16_at_3.35.25___pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06AGSKGJ4A/download/screenshot_2023-12-16_at_3.35.25___pm.png",
+        "original_h": 817,
+        "original_w": 921,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AGSKGJ4A-8dc93a15f4/screenshot_2023-12-16_at_3.35.25___pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AGSKGJ4A-8dc93a15f4/screenshot_2023-12-16_at_3.35.25___pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AGSKGJ4A-8dc93a15f4/screenshot_2023-12-16_at_3.35.25___pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AGSKGJ4A-8dc93a15f4/screenshot_2023-12-16_at_3.35.25___pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 319,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AGSKGJ4A-8dc93a15f4/screenshot_2023-12-16_at_3.35.25___pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 426,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AGSKGJ4A-8dc93a15f4/screenshot_2023-12-16_at_3.35.25___pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 639,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056YD04Q30/F06AGSKGJ4A/screenshot_2023-12-16_at_3.35.25___pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06AGSKGJ4A-665c693ac0",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0jvZd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "controllers folder check the screenshot and let me know"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240107488693_9bf114e71863cebbf28e_72.jpg",
+      "first_name": "Sukanya",
+      "real_name": "Sukanya Shanmugam",
+      "display_name": "Sukanya Venkatesh",
+      "team": "T050CSX3EMT",
+      "name": "sukanya.s1793",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cfa9e2b9-269c-4d25-9336-911efbd002e3",
+    "type": "message",
+    "user": "U056YD04Q30",
+    "text": "Please move the 'CourseController' and 'UserController' into the 'controller' folder, and then delete the 'controllers' folder.",
+    "ts": "1702763099.532059",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qVDdW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Please move the 'CourseController' and 'UserController' into the 'controller' folder, and then delete the 'controllers' folder."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240107488693_9bf114e71863cebbf28e_72.jpg",
+      "first_name": "Sukanya",
+      "real_name": "Sukanya Shanmugam",
+      "display_name": "Sukanya Venkatesh",
+      "team": "T050CSX3EMT",
+      "name": "sukanya.s1793",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "91f5cb74-b7bf-4021-abd5-7bb689459927",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "ohh okay i didnt even notice that. will do!",
+    "ts": "1702764146.586869",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Kf0/6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ohh okay i didnt even notice that. will do!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "79dd6ac3-20d8-4497-8e2a-791153a785d4",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Should be good now! Sorry i was at the store when you first messaged me.",
+    "ts": "1702764279.893929",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "D04lY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Should be good now! Sorry i was at the store when you first messaged me."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e9d4abfa-1600-41a0-88fc-39857846f651",
+    "type": "message",
+    "user": "U056YD04Q30",
+    "text": "ok no problem :+1:",
+    "ts": "1702764638.568239",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xZOT9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok no problem "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240107488693_9bf114e71863cebbf28e_72.jpg",
+      "first_name": "Sukanya",
+      "real_name": "Sukanya Shanmugam",
+      "display_name": "Sukanya Venkatesh",
+      "team": "T050CSX3EMT",
+      "name": "sukanya.s1793",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9f6127c5-6a31-4c9a-891c-7816f43844fe",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Oh yah that'll be a problem with my code too, I think I had mine in \"controllers\" as well. I'll update it to controller, then I think it should merge appropriately",
+    "ts": "1702768969.484469",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mJyCM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh yah that'll be a problem with my code too, I think I had mine in \"controllers\" as well. I'll update it to controller, then I think it should merge appropriately"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f975941e-f842-4c22-9b4d-f6f83d6e06fa",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "yeah i think we  both did controllers for some reason lol",
+    "ts": "1702769693.990569",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yIJJ+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah i think we  both did controllers for some reason lol"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

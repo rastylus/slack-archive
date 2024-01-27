@@ -1,0 +1,463 @@
+[
+  {
+    "client_msg_id": "51e85d10-fe20-495d-bda6-bb6d2b63b083",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "it looks like I don’t have access to the repo set up for our group, so I can’t push, pull, or fetch. Not sure if anyone else was having this problem. I’m not currently listed as a contributor, so maybe that’s related?",
+    "ts": "1701881166.838829",
+    "thread_ts": "1701881166.838829",
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U05756M4E1H",
+        "ts": "1701903772.243969"
+      },
+      {
+        "user": "U057UNE3XPS",
+        "ts": "1701905017.985439"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1701905169.861019"
+      },
+      {
+        "user": "U057UNE3XPS",
+        "ts": "1701905825.369039"
+      },
+      {
+        "user": "U057UNE3XPS",
+        "ts": "1701906117.409229"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1701906797.862089"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1701906863.838619"
+      },
+      {
+        "user": "U055S98U8G2",
+        "ts": "1701907467.895709"
+      },
+      {
+        "user": "U057UNE3XPS",
+        "ts": "1701910292.869659"
+      }
+    ],
+    "latest_reply": "1701910292.869659",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "s2Cze",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it looks like I don’t have access to the repo set up for our group, so I can’t push, pull, or fetch. Not sure if anyone else was having this problem. I’m not currently listed as a contributor, so maybe that’s related?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U055S98U8G2",
+      "U05756M4E1H",
+      "U057UNE3XPS"
+    ]
+  },
+  {
+    "client_msg_id": "a93179fb-aa9e-4a3c-b1b7-d54c8ab070a2",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "what you see in console when trying to push something?",
+    "ts": "1701903772.243969",
+    "thread_ts": "1701881166.838829",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "87UTE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what you see in console when trying to push something?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e512b605-4e97-4538-a256-1786b9c74c38",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "remote: Permission to corypride/diamonddogs.git denied to timforsythe.\nfatal: unable to access ‘\u003chttps://github.com/corypride/diamonddogs.git/\u003e’: The requested URL returned error: 403",
+    "ts": "1701905017.985439",
+    "thread_ts": "1701881166.838829",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "puWke",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "remote: Permission to corypride/diamonddogs.git denied to timforsythe.\nfatal: unable to access ‘"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/corypride/diamonddogs.git/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "’: The requested URL returned error: 403"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "583DC99D-AF03-4319-9792-DF6D21FAC1EA",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "Try this \n\n\u003chttps://stackoverflow.com/questions/7438313/pushing-to-git-returning-error-code-403-fatal-http-request-failed|https://stackoverflow.com/questions/7438313/pushing-to-git-returning-error-code-403-fatal-http-request-failed\u003e",
+    "ts": "1701905169.861019",
+    "thread_ts": "1701881166.838829",
+    "attachments": [
+      {
+        "fallback": "Stack Overflow: Pushing to Git returning Error Code 403 fatal: HTTP request failed",
+        "id": 1,
+        "title": "Pushing to Git returning Error Code 403 fatal: HTTP request failed",
+        "title_link": "https://stackoverflow.com/questions/7438313/pushing-to-git-returning-error-code-403-fatal-http-request-failed",
+        "text": "I was able to clone a copy of this repo over HTTPS authenticated. I've made some commits and want to push back out to the GitHub server. Using Cygwin on Windows 7 x64.\n\nC:\\cygwin\\home\\XPherior\\Code\\",
+        "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+        "service_name": "Stack Overflow",
+        "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+        "from_url": "https://stackoverflow.com/questions/7438313/pushing-to-git-returning-error-code-403-fatal-http-request-failed",
+        "original_url": "https://stackoverflow.com/questions/7438313/pushing-to-git-returning-error-code-403-fatal-http-request-failed",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rDZj4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Try this \n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://stackoverflow.com/questions/7438313/pushing-to-git-returning-error-code-403-fatal-http-request-failed",
+                "text": "https://stackoverflow.com/questions/7438313/pushing-to-git-returning-error-code-403-fatal-http-request-failed"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e0b9e27d-a57b-4471-bd29-21efe16a7456",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "did you have to reset your remote origin after cloning the project repo?",
+    "ts": "1701905825.369039",
+    "thread_ts": "1701881166.838829",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CGvx0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "did you have to reset your remote origin after cloning the project repo?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5500db9d-8e5c-4412-a930-6306880020b6",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "when i run the command git remote -v, the origin displays as \u003chttps://github.com/corypride/diamonddogs.git\u003e",
+    "ts": "1701906117.409229",
+    "thread_ts": "1701881166.838829",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BPK7X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "when i run the command git remote -v, the origin displays as "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/corypride/diamonddogs.git",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "50cb45ff-c64a-43d0-b29b-2021358744fa",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "no, I just cloned and all good\n\nbut I use git from intelij, it doesn't work from console using username and password, you need to use ssh connection with token, not password",
+    "ts": "1701906797.862089",
+    "thread_ts": "1701881166.838829",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9GAuO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no, I just cloned and all good\n\nbut I use git from intelij, it doesn't work from console using username and password, you need to use ssh connection with token, not password"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d3cc5ef3-1ff6-48ed-90aa-e08dc2430a2b",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "you can share your screen during our call, we'll try to figure out what's going on",
+    "ts": "1701906863.838619",
+    "thread_ts": "1701881166.838829",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ARxJ7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you can share your screen during our call, we'll try to figure out what's going on"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

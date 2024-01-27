@@ -1,0 +1,726 @@
+[
+  {
+    "client_msg_id": "e86cf713-520d-481d-a633-f990c9423942",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "Is anyone else online right now?",
+    "ts": "1705340448.204419",
+    "thread_ts": "1705340448.204419",
+    "reply_count": 8,
+    "replies": [
+      {
+        "user": "U057C70KL57",
+        "ts": "1705341701.002119"
+      },
+      {
+        "user": "U057T1QUHB3",
+        "ts": "1705342206.584019"
+      },
+      {
+        "user": "U057T1QUHB3",
+        "ts": "1705342282.935179"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705353427.749359"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705353720.616349"
+      },
+      {
+        "user": "U057T1QUHB3",
+        "ts": "1705353725.137859"
+      },
+      {
+        "user": "U057T1QUHB3",
+        "ts": "1705353837.247929"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705354187.519869"
+      }
+    ],
+    "latest_reply": "1705354187.519869",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xGlNH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is anyone else online right now?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U057C70KL57",
+      "U057T1QUHB3"
+    ]
+  },
+  {
+    "client_msg_id": "8c948755-6805-4ec4-8bd9-0ececa413f0c",
+    "type": "message",
+    "user": "U057534FBHQ",
+    "text": "Caused by: org.hibernate.type.descriptor.java.spi.JdbcTypeRecommendationException: Could not determine recommended JdbcType for Java type ‘org.launchcode.parksfortails.data.ParkCommentRepository’",
+    "ts": "1705340566.415109",
+    "thread_ts": "1705340566.415109",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057C70KL57",
+        "ts": "1705341664.395629"
+      },
+      {
+        "user": "U05765HGT46",
+        "ts": "1705362431.037519"
+      }
+    ],
+    "latest_reply": "1705362431.037519",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W0x1S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Caused by: org.hibernate.type.descriptor.java.spi.JdbcTypeRecommendationException: Could not determine recommended JdbcType for Java type ‘org.launchcode.parksfortails.data.ParkCommentRepository’"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5255734451745_4fe6d453b22fa9553c02_72.png",
+      "first_name": "Abdulrazig",
+      "real_name": "Abdulrazig Mohammed",
+      "display_name": "Abdulrazig Mohammed",
+      "team": "T050CSX3EMT",
+      "name": "abduadam688",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05765HGT46",
+      "U057C70KL57"
+    ]
+  },
+  {
+    "client_msg_id": "04ba3909-d211-444d-9ba0-bf4971b566fc",
+    "type": "message",
+    "user": "U057534FBHQ",
+    "text": "anyone is available to assist address this issue.",
+    "ts": "1705340608.930119",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ppvaT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "anyone is available to assist address this issue."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5255734451745_4fe6d453b22fa9553c02_72.png",
+      "first_name": "Abdulrazig",
+      "real_name": "Abdulrazig Mohammed",
+      "display_name": "Abdulrazig Mohammed",
+      "team": "T050CSX3EMT",
+      "name": "abduadam688",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "50c4dc64-33e2-4d47-bc9e-72a5eb8f5379",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "is this in your application.properties file?",
+    "ts": "1705341664.395629",
+    "thread_ts": "1705340566.415109",
+    "parent_user_id": "U057534FBHQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2o8v0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "is this in your application.properties file?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cba0a683-5e7c-4fbd-b2c0-c356cab745c7",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "i am! I can try to help. Im not really good but i am an excellent debugger",
+    "ts": "1705341701.002119",
+    "thread_ts": "1705340448.204419",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "r7Eed",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i am! I can try to help. Im not really good but i am an excellent debugger"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3ac2f2c7-7885-4ab1-957f-51bccb3a8ecf",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "I am reworking my authentication controller per the instructions in chapter 19 and had to refactor my form registration DTO. Now I get errors when I try to create a new user. Also, I am not quite sure how to get the username and password from the ancester to use in authentication.\n\nWould you like to help me try to figure out where I messed up so I can get the form to render?",
+    "ts": "1705342206.584019",
+    "thread_ts": "1705340448.204419",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iOUvW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am reworking my authentication controller per the instructions in chapter 19 and had to refactor my form registration DTO. Now I get errors when I try to create a new user. Also, I am not quite sure how to get the username and password from the ancester to use in authentication.\n\nWould you like to help me try to figure out where I messed up so I can get the form to render?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "87773ad5-2c65-4ec5-a592-08aba5f19b3c",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "We could use my project group's zoom room: \u003chttps://us06web.zoom.us/j/84460172834?pwd=RzF7tHlXshTG44kwV5yOdW19MxRfan.1\u003e",
+    "ts": "1705342282.935179",
+    "thread_ts": "1705340448.204419",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S7cYN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We could use my project group's zoom room: "
+              },
+              {
+                "type": "link",
+                "url": "https://us06web.zoom.us/j/84460172834?pwd=RzF7tHlXshTG44kwV5yOdW19MxRfan.1",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b9a03ae6-adbf-499a-ba29-896326a88898",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I am so so sorry I got distracted and focused on something else. But I would not have been a help bc it was another teammate who took that on as their feature and i did not touch it at all",
+    "ts": "1705353427.749359",
+    "thread_ts": "1705340448.204419",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OZpEo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am so so sorry I got distracted and focused on something else. But I would not have been a help bc it was another teammate who took that on as their feature and i did not touch it at all"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b40eff6c-e1df-4d87-b5da-d8a2a34e9233",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "In looking at our group's login DTO it looks like just put getters and setters for the username and password",
+    "ts": "1705353720.616349",
+    "thread_ts": "1705340448.204419",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KKH2H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "In looking at our group's login DTO it looks like just put getters and setters for the username and password"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A03E518B-3133-403D-A9E2-83F92FABCAD1",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "You might have remembered something from our reading or been a second set of eyes to understand the syntax error message.",
+    "ts": "1705353725.137859",
+    "thread_ts": "1705340448.204419",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/YdB6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Y"
+              },
+              {
+                "type": "text",
+                "text": "ou might have remembered something from our reading or been a second set of eyes to understand the syntax error message."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D89EFABC-60CB-4113-90D9-24A57F066C83",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "Since I am so far behind I just worked on my other features. I know I shouldn’t have kept coding until I solved the errors, but there isn’t enough time to wait for help before moving on.",
+    "ts": "1705353837.247929",
+    "thread_ts": "1705340448.204419",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xounA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Since I am so far behind I just worked on my other features"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " I know I "
+              },
+              {
+                "type": "text",
+                "text": "shouldn’t"
+              },
+              {
+                "type": "text",
+                "text": " have kept coding until I solved the errors"
+              },
+              {
+                "type": "text",
+                "text": ","
+              },
+              {
+                "type": "text",
+                "text": " but "
+              },
+              {
+                "type": "text",
+                "text": "there isn’t"
+              },
+              {
+                "type": "text",
+                "text": " enough time to wait for help before moving on."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d51de63b-a8c3-4ce8-8671-05de0424dadd",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "i agree whole heartedly :( If I may make a suggestion, from what I've noticed throughout the course, people tend to respond if you write out the question/error/problem upfront than just a general call for help :+1::skin-tone-3:",
+    "ts": "1705354187.519869",
+    "thread_ts": "1705340448.204419",
+    "edited": {
+      "user": "U057C70KL57",
+      "ts": "1705354241.000000"
+    },
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7s+xz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i agree whole heartedly :( If I may make a suggestion, from what I've noticed throughout the course, people tend to respond if you write out the question/error/problem upfront than just a general call for help "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 3
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bf39e761-2834-4543-9cd8-9104d57cd3a5",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "If you haven't gotten it fixed yet, I had something similar a couple of days ago, check your recent code and make sure you have everything set up correctly. If I recall mine was that I didn't have an annotation or variable, or something similar, hopefully a minor fix for you.",
+    "ts": "1705362431.037519",
+    "thread_ts": "1705340566.415109",
+    "parent_user_id": "U057534FBHQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kpSm3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you haven't gotten it fixed yet, I had something similar a couple of days ago, check your recent code and make sure you have everything set up correctly. If I recall mine was that I didn't have an annotation or variable, or something similar, hopefully a minor fix for you."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

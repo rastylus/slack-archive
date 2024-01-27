@@ -1,0 +1,487 @@
+[
+  {
+    "client_msg_id": "02ecf9ee-3a5f-4c07-b353-49b83f3bd4c5",
+    "type": "message",
+    "user": "U055S98U8G2",
+    "text": "Zoom Recording:",
+    "ts": "1701824081.937989",
+    "files": [
+      {
+        "id": "F068M9R1230",
+        "created": 1701824040,
+        "timestamp": 1701824040,
+        "name": "video1901687089.mp4",
+        "title": "video1901687089.mp4",
+        "mimetype": "video/mp4",
+        "image_exif_rotation": 0,
+        "filetype": "mp4",
+        "pretty_type": "MPEG 4 Video",
+        "user": "U055S98U8G2",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 86654361,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-tmb/T050CSX3EMT-F068M9R1230-979ec05200/video1901687089.mp4",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F068M9R1230/download/video1901687089.mp4",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U055S98U8G2/F068M9R1230/video1901687089.mp4",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F068M9R1230-e30253f95f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aCtKW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Zoom Recording:"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5208942534833_61c4df60725855ac84c1_72.jpg",
+      "first_name": "Cory",
+      "real_name": "Cory Pride",
+      "display_name": "TA-Cory Pride (He/Him)",
+      "team": "T050CSX3EMT",
+      "name": "cory.pride83",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cbf5b33f-c4e2-46d5-8eaa-f1229870141c",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "just watched the video, very helpful thanks for doing this.",
+    "ts": "1701876432.098719",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/Gwqc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "just watched the video, very helpful thanks for doing this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3a58971f-4d54-4cfd-b228-4f1f83ee543c",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "when i just tried to pull from main, I got a message in Terminal that needed to commit my changes in my local branch before pulling, so I did. Then when I tried to pull from Main into my branch, I received a 403 error that reads “Permission to corypride/diamonddogs.git denied to timforsythe.” how can I get access to pull from the main branch?",
+    "ts": "1701876579.864039",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PQeu3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "when i just tried to pull from main, I got a message in Terminal that needed to commit my changes in my local branch before pulling, so I did. Then when I tried to pull from Main into my branch, I received a 403 error that reads “Permission to corypride/diamonddogs.git denied to timforsythe.” how can I get access to pull from the main branch?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2f96afc8-e6dc-4ca7-ac72-ee3369343036",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "That's strange. I was able to pull from main yesterday to get the updated version. I don't see your name on the list of \"Contributors\" so maybe that could be a possible reason?",
+    "ts": "1701879984.770639",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4poXd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That's strange. I was able to pull from main yesterday to get the updated version. I don't see your name on the list of \"Contributors\" so maybe that could be a possible reason?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "39b6f661-cd6a-45ef-87c6-b693b20dfab6",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "i noticed that too",
+    "ts": "1701881017.706379",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GNlaY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i noticed that too"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2039d138-aa6a-41e0-8a4d-0952088d2542",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "updating wireframes now. I have wireframes for homepage, search, and user profile",
+    "ts": "1701881036.158669",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wyWX8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "updating wireframes now. I have wireframes for homepage, search, and user profile"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "83cd45f7-a8b3-45b2-b530-93699ed3347a",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "I’m also adding tasks to github projects",
+    "ts": "1701881051.478359",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z1Djs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m also adding tasks to github projects"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "554992bf-f599-4514-a87f-a892a2944cd2",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Great work! I've been hammering away at the API all day today. I'll show you guys what I've setup so far in my api branch during the meeting. I think we have a good head start with all the work Artur did with our authorization. If I can get the main parts of the api running we will have some foundational parts of project running.",
+    "ts": "1701889894.577789",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hQz1W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Great work! I've been hammering away at the API all day today. I'll show you guys what I've setup so far in my api branch during the meeting. I think we have a good head start with all the work Artur did with our authorization. If I can get the main parts of the api running we will have some foundational parts of project running."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E063DA45-C293-4513-83AF-CE33138C8947",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "Awesome. As soon as I can figure out why I can’t pull from main and get that resolved, I was going to start creating a custom 404 page in react. Found a couple good sources ",
+    "ts": "1701903427.033279",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wb7P/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome. As soon as I can figure out why "
+              },
+              {
+                "type": "text",
+                "text": "I can’t"
+              },
+              {
+                "type": "text",
+                "text": " pull from main and get that resolved, I was going to start creating a custom 404 page in react. Found a couple good sources "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

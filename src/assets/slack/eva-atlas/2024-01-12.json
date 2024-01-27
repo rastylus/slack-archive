@@ -1,0 +1,151 @@
+[
+  {
+    "client_msg_id": "858f10b2-538c-4887-8844-0f96911fad26",
+    "type": "message",
+    "user": "U0574U0BKQA",
+    "text": "From my inexperienced Java design mind, it seems to be an issue with depth and conflict from my original implementation.\n\nSeparating the models into each individual file is working more consistently.\n\nThis is opposed to another implementation of one _big-BIG_ class model with nested constructors/getters/setters etc.\n\ntl;dr\n\nFingers crossed once this is implemented, but with ChatGPT we up :point_up_2::skin-tone-4:",
+    "ts": "1705020881.116249",
+    "edited": {
+      "user": "U0574U0BKQA",
+      "ts": "1705020900.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L/Ygh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "From my inexperienced Java design mind, it seems to be an issue with depth and conflict from my original implementation.\n\nSeparating the models into each individual file is working more consistently.\n\nThis is opposed to another implementation of one "
+              },
+              {
+                "type": "text",
+                "text": "big-BIG",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " class model with nested constructors/getters/setters etc.\n\ntl;dr\n\nFingers crossed once this is implemented, but with ChatGPT we up "
+              },
+              {
+                "type": "emoji",
+                "name": "point_up_2",
+                "skin_tone": 4
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245917112390_a678285ea0ed240e1e11_72.jpg",
+      "first_name": "Devon",
+      "real_name": "Devon Harris",
+      "display_name": "Devon H. (Philly)",
+      "team": "T050CSX3EMT",
+      "name": "devharris93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1eb6af09-eca5-4d66-a369-d329e93a1e06",
+    "type": "message",
+    "user": "U0574U0BKQA",
+    "text": "Alright!\n\nLatest commit to google-maps branch is live on the repo I've been cooking the past week. _(It's a big one)_\n\nCome this Sunday I've gotta:\n\n1. ~Add env to safely add and use the API key for the fetch methods of Googles API~\n2. Expand/Modify the GoogleController to collaborate with already existing City model and template | fragment utilization so it can update/add the info off a button element\n3. Add even more tests for more strict error debugging cases.\nProductive day!",
+    "ts": "1705031135.730139",
+    "edited": {
+      "user": "U0574U0BKQA",
+      "ts": "1705280179.000000"
+    },
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U057UGWMN48"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dDSHH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Alright!\n\nLatest commit to google-maps branch is live on the repo I've been cooking the past week. "
+              },
+              {
+                "type": "text",
+                "text": "(It's a big one)",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nCome this Sunday I've gotta:\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Add env to safely add and use the API key for the fetch methods of Googles API\",\"style\":{\"strike\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Expand\\/Modify the GoogleController to collaborate with already existing City model and template | fragment utilization so it can update\\/add the info off a button element\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Add even more tests for more strict error debugging cases.\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nProductive day!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245917112390_a678285ea0ed240e1e11_72.jpg",
+      "first_name": "Devon",
+      "real_name": "Devon Harris",
+      "display_name": "Devon H. (Philly)",
+      "team": "T050CSX3EMT",
+      "name": "devharris93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

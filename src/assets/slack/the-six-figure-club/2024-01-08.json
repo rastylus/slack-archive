@@ -1,0 +1,933 @@
+[
+  {
+    "client_msg_id": "bab45be7-a2c4-46c1-b048-042843e2f853",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "I am on zoom",
+    "ts": "1704672130.832869",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oINqz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am on zoom"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "523a8b08-0425-4a0c-8454-5827f4efc970",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "git clone http --branch [remote branch name ] --single-branch [local branch name]",
+    "ts": "1704673222.533169",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uSxNC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "git clone http --branch [remote branch name ] --single-branch [local branch name]"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e0515df9-1d1c-468c-bf57-34c8f1f9c639",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Just posted the new PR! Please review it and approve if it looks okay. I tested it before merging and everything worked accordingly.\n\u003chttps://github.com/SixFigureClub/ProcrastiNOT/pull/31\u003e",
+    "ts": "1704677424.302929",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "#31 User Authentication",
+        "id": 1,
+        "title": "#31 User Authentication",
+        "title_link": "https://github.com/SixFigureClub/ProcrastiNOT/pull/31",
+        "text": "Added User Authentication functionality from the working user-authentication-connected branch to our new project file structure. Everything is now contained in the Backend folder. Both Frontend and Backend will be fully up to date and working correctly together after this PR is approved.",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/SixFigureClub/ProcrastiNOT|SixFigureClub/ProcrastiNOT\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1704677275
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aSMhv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just posted the new PR! Please review it and approve if it looks okay. I tested it before merging and everything worked accordingly.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/SixFigureClub/ProcrastiNOT/pull/31",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d06bb6da-50f1-4ee4-b9c0-d7b406177a91",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "Thank you Jake",
+    "ts": "1704677513.589399",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QNYNm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you Jake"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0041316B-5A83-4894-A01F-FDE566E831A0",
+    "type": "message",
+    "user": "U05775TUWQ4",
+    "text": "I did reviewed and merged. ",
+    "ts": "1704678483.844389",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K0pQ6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I did reviewed and merged. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3144e3f86e67bf971fab36af5c233335.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "Pradeepa",
+      "real_name": "Pradeepa Senthilrajan",
+      "display_name": "Pradeepa Senthilrajan",
+      "team": "T050CSX3EMT",
+      "name": "pradeepa.senthil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4BE0B1AC-2ED8-4844-9C83-8D75C1ACEB01",
+    "type": "message",
+    "user": "U05775TUWQ4",
+    "text": "All set ",
+    "ts": "1704678487.994619",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 1,
+        "users": [
+          "U05743K5BHT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3Vpn4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "All set "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3144e3f86e67bf971fab36af5c233335.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "Pradeepa",
+      "real_name": "Pradeepa Senthilrajan",
+      "display_name": "Pradeepa Senthilrajan",
+      "team": "T050CSX3EMT",
+      "name": "pradeepa.senthil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "257FA55B-39A2-448D-B93B-851DE56317DA",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Thanks everyone!",
+    "ts": "1704678845.171189",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oXOVC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks everyone!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6A6753DD-8A56-4C3F-BC6B-7422750DE432",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Hey all! I made a little cheat sheet for our new workflow using the Development branch as our starting point from now on. Everything on that branch is now updated, tested and good to go. \n\nIf you have any questions let me know! I figured I’d put this here so that we can reference it, also so you have just incase anyone planned to start working on anything before class tonight.",
+    "ts": "1704729832.885879",
+    "files": [
+      {
+        "id": "F06CQ2H2QES",
+        "created": 1704729559,
+        "timestamp": 1704729559,
+        "name": "IMG_6159.jpg",
+        "title": "IMG_6159",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U05743K5BHT",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 82521,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06CQ2H2QES/img_6159.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06CQ2H2QES/download/img_6159.jpg",
+        "original_h": 859,
+        "original_w": 1179,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ2H2QES-46860adb2a/img_6159_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ2H2QES-46860adb2a/img_6159_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ2H2QES-46860adb2a/img_6159_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ2H2QES-46860adb2a/img_6159_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 262,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ2H2QES-46860adb2a/img_6159_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 350,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ2H2QES-46860adb2a/img_6159_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 525,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ2H2QES-46860adb2a/img_6159_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 699,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ2H2QES-46860adb2a/img_6159_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 746,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05743K5BHT/F06CQ2H2QES/img_6159.jpg",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06CQ2H2QES-9c1cdb4811",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05775TUWQ4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/YofP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all! I made a little cheat sheet for our new workflow using the Development branch as our starting point from now on. Everything on that branch is now updated, tested and good to go. \n\nIf you have any questions let me know! I figured "
+              },
+              {
+                "type": "text",
+                "text": "I’d"
+              },
+              {
+                "type": "text",
+                "text": " put this here so that we can reference it, also so you have just incase anyone planned to start working on anything before class tonight."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8544686a-cc32-496e-9f9a-a0ad78f5ce98",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "Thanks Jake! I hope to be able to look during my lunch break today",
+    "ts": "1704729899.322989",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05743K5BHT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jyZqo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks Jake! I hope to be able to look during my lunch break today"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2FD2E308-B72E-41D7-AFF1-EF8E47F50A31",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Also sorry \u003c@U05776GF9CL\u003e but this will need to be how you start your workspace now that all the branches we setup for you the other day have been merged into development. It’s a much simpler process than our workaround solution though so it shouldn’t be an issue!",
+    "ts": "1704729916.810259",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oQAhV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also sorry "
+              },
+              {
+                "type": "user",
+                "user_id": "U05776GF9CL"
+              },
+              {
+                "type": "text",
+                "text": " but this will need to be how you start your workspace now that all the branches we setup for you the other day have been merged into development. "
+              },
+              {
+                "type": "text",
+                "text": "It’s"
+              },
+              {
+                "type": "text",
+                "text": " a much simpler process than our workaround solution though so "
+              },
+              {
+                "type": "text",
+                "text": "it shouldn’t"
+              },
+              {
+                "type": "text",
+                "text": " be an issue!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9D462D4C-41F8-4823-ABD5-B843A444E944",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "So technically what we did was for nothing, but this will be much easier and more organized for everyone from here on out!",
+    "ts": "1704729955.558669",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z1NyZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So technically what we did was for nothing, but this will be much easier and more organized for everyone from here on out!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "778dab8b-b65f-46fd-9615-76cbf094e0f1",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "I haven't completely figured out the API integration yet, but it probably won't be a problem",
+    "ts": "1704729988.630189",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05743K5BHT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WgCQj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I haven't completely figured out the API integration yet, but it probably won't be a problem"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B28A5C57-AF81-44A1-90FC-31E9F66C0D9A",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "If you’ve already done some work and you’re at a point where you don’t want to start over you will have to do the rebasing step shown in that photo. It’s more complicated than starting fresh, but it works. Just more headache involved :sweat_smile: ",
+    "ts": "1704730136.860519",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1tZjH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you’ve already done some work and "
+              },
+              {
+                "type": "text",
+                "text": "you’re"
+              },
+              {
+                "type": "text",
+                "text": " at a point where you "
+              },
+              {
+                "type": "text",
+                "text": "don’t"
+              },
+              {
+                "type": "text",
+                "text": " want to start over you will have to do the rebasing step shown in that photo. "
+              },
+              {
+                "type": "text",
+                "text": "It’s"
+              },
+              {
+                "type": "text",
+                "text": " more complicated than starting fresh, but it works. Just more headache involved "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b8576cb2-71f2-4f48-9beb-a3761fed3eb2",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "No I'm not because I haven't started testing yet (to avoid using up the free tokens). It should be fine",
+    "ts": "1704730216.604709",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZPTev",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No I'm not because I haven't started testing yet (to avoid using up the free tokens). It should be fine"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1584B0A8-7797-40EA-BE51-E2D319FF36FC",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Perfect! You’ll be good to go then",
+    "ts": "1704730300.020259",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V8Ezu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Perfect! "
+              },
+              {
+                "type": "text",
+                "text": "You’ll"
+              },
+              {
+                "type": "text",
+                "text": " be good to go then"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ff7813d7-86b5-4071-8ec1-f56f4247f030",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": ":+1:",
+    "ts": "1704730397.378869",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qF+xl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

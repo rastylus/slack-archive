@@ -1,0 +1,1504 @@
+[
+  {
+    "client_msg_id": "3FEB780D-52E1-413F-AC63-377DB0A8E529",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "\u003chttps://youtu.be/jhtbhSpV5YA?si=_0dRutnbYXqS5as9|https://youtu.be/jhtbhSpV5YA?si=_0dRutnbYXqS5as9\u003e",
+    "ts": "1702042763.053249",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: How to use GIT when working with a team?",
+        "id": 1,
+        "author_name": "Ako Dev",
+        "author_link": "https://www.youtube.com/@akodev",
+        "title": "How to use GIT when working with a team?",
+        "title_link": "https://youtu.be/jhtbhSpV5YA?si=_0dRutnbYXqS5as9",
+        "thumb_url": "https://i.ytimg.com/vi/jhtbhSpV5YA/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://youtu.be/jhtbhSpV5YA?si=_0dRutnbYXqS5as9",
+        "original_url": "https://youtu.be/jhtbhSpV5YA?si=_0dRutnbYXqS5as9",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/5WpL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/jhtbhSpV5YA?si=_0dRutnbYXqS5as9",
+                "text": "https://youtu.be/jhtbhSpV5YA?si=_0dRutnbYXqS5as9"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ca66e308-87a6-4508-a75d-530b371d439b",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "Hi All,\nI already set up our spring boot application on github need at least one review  all to GO",
+    "ts": "1702057878.419089",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05743K5BHT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pR8l+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi All,\nI already set up our spring boot application on github need at least one review  all to GO"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E04E2438-081E-46F6-A0F5-D6031B5668AF",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "I’m at work and can’t test the code from my phone so I can’t give it a good review just yet.\n\nYou’re trying to pull the new “initialize-springboot-application” branch into the development branch?",
+    "ts": "1702058452.912909",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UuotU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m at work and can’t test the code from my phone so I can’t give it a good review just yet.\n\nYou’re trying to pull the new “initialize-springboot-application” branch into the development branch?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c367377d-d422-441c-bb55-3247985b0128",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "yes\nthat's right",
+    "ts": "1702058549.791369",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7f/er",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes\nthat's right"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6201CE04-433D-457A-8ACD-0E8E65E5A50A",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Sounds right to me! I can double check after work unless someone else can get to it before then",
+    "ts": "1702058599.866879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Dj/SL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sounds right to me! I can double check after work unless someone else can get to it before then"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a2fcb3c7-6f66-42f5-85c2-8f126f7fc13c",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "merge should be development branch or main branch",
+    "ts": "1702058647.091219",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G2mvZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "merge should be development branch or main branch"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f6c40355-4cf6-4776-8156-705f36f55b45",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "See you guys evening",
+    "ts": "1702058818.110389",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1dsyB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "See you guys evening"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3AA9A38F-C77E-4C03-9DF0-C806A04C7C8D",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "What time is good for this evening?",
+    "ts": "1702061323.039259",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NC1NU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What time is good for this evening?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5f56d640-f385-4ec9-835d-448f069c046e",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "I can make any time after 5",
+    "ts": "1702061403.179049",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+u7pD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can make any time after 5"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F01F22E0-613A-44A2-849B-C69068157EAE",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "Same but 5:30 for me. I’ll try to check back in a couple of hours",
+    "ts": "1702061451.580209",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TFnsa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Same but 5:30 for me. I’ll try to check back in a couple of hours"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1ffcce97-ad7f-404d-ab77-8d8f032d0a8e",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": ":eyes:",
+    "ts": "1702061483.572799",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kMzJv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "eyes",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D1BD8538-C010-43F0-BA8D-82EA28E596A6",
+    "type": "message",
+    "user": "U05775TUWQ4",
+    "text": "I am available after 5:30 ",
+    "ts": "1702066778.671729",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lew3I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am available after 5:30 "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3144e3f86e67bf971fab36af5c233335.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "Pradeepa",
+      "real_name": "Pradeepa Senthilrajan",
+      "display_name": "Pradeepa Senthilrajan",
+      "team": "T050CSX3EMT",
+      "name": "pradeepa.senthil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "baf84f29-6575-4477-8461-eae776871846",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "let see what time jake can make it",
+    "ts": "1702067776.157649",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZG1xB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "let see what time jake can make it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "68C0B39D-57D5-4178-BB12-227076CBA35E",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "Jake isn’t available after 5 today",
+    "ts": "1702068038.313799",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UXypc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Jake isn’t available after 5 today"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e285b44b-b598-4de3-83f5-1379419a769a",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "Can you review the code then we can start then",
+    "ts": "1702068172.022299",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RCS8d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can you review the code then we can start then"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "371F73F1-D912-443C-91D4-2CDB779AF7FA",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "My laptop is at home so I’ll have to wait until after work",
+    "ts": "1702068230.926459",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VJ8PC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My laptop is at home so I’ll have to wait until after work"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1d146591-8bb7-4858-aafa-198421e5dc95",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": ":+1:",
+    "ts": "1702068296.970939",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qF+xl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "EB8B3C8C-F198-4F05-883F-F30A155A525F",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Sorry guys! I mentioned last night that I won’t be home after 5 tonight but you can definitely still meet up together and get initialized without me!",
+    "ts": "1702068394.319359",
+    "thread_ts": "1702068394.319359",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05775TUWQ4",
+        "ts": "1702068623.839639"
+      }
+    ],
+    "latest_reply": "1702068623.839639",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "laK5S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry guys! I mentioned last night that I "
+              },
+              {
+                "type": "text",
+                "text": "won’t"
+              },
+              {
+                "type": "text",
+                "text": " be home after 5 tonight but you can definitely still meet up together and get initialized without me!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05775TUWQ4"
+    ]
+  },
+  {
+    "client_msg_id": "38CAFEFE-6DE7-4FAD-8A60-FD86BC0104E6",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Just keep me posted! ",
+    "ts": "1702068407.345209",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05775TUWQ4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Bb3nV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just keep me posted! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "23e3aaa2-8645-417a-ad4c-de7b7e92ac0f",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "We will, thanks Jake",
+    "ts": "1702068488.728059",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pyvxi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We will, thanks Jake"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8FD7BC5E-093D-42C4-9646-7EC320EF1494",
+    "type": "message",
+    "user": "U05775TUWQ4",
+    "text": "Will meet at 5:30 ",
+    "ts": "1702068495.095869",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wYdVf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Will meet at 5:30 "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3144e3f86e67bf971fab36af5c233335.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "Pradeepa",
+      "real_name": "Pradeepa Senthilrajan",
+      "display_name": "Pradeepa Senthilrajan",
+      "team": "T050CSX3EMT",
+      "name": "pradeepa.senthil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "291D7609-25CC-4D1C-8915-5207F722CA23",
+    "type": "message",
+    "user": "U05775TUWQ4",
+    "text": "Once Derayvia arrived home will do ",
+    "ts": "1702068525.738099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "13mj2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Once Derayvia arrived home will do "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3144e3f86e67bf971fab36af5c233335.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "Pradeepa",
+      "real_name": "Pradeepa Senthilrajan",
+      "display_name": "Pradeepa Senthilrajan",
+      "team": "T050CSX3EMT",
+      "name": "pradeepa.senthil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "46bb8609-8114-46b3-9fd1-c2037277df0c",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "Absolutely!!!",
+    "ts": "1702068552.373029",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05775TUWQ4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E7XJ0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Absolutely!!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "88C9686D-018C-4758-8769-5477659E4CAA",
+    "type": "message",
+    "user": "U05775TUWQ4",
+    "text": "np Jake. Will update once it got done ",
+    "ts": "1702068623.839639",
+    "thread_ts": "1702068394.319359",
+    "parent_user_id": "U05743K5BHT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gVT3n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "np Jake. Will update once it got done "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3144e3f86e67bf971fab36af5c233335.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "Pradeepa",
+      "real_name": "Pradeepa Senthilrajan",
+      "display_name": "Pradeepa Senthilrajan",
+      "team": "T050CSX3EMT",
+      "name": "pradeepa.senthil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B5D09061-9E5C-4A39-9F2D-200D392FEF56",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "Sounds good! See you then!",
+    "ts": "1702068773.208699",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05775TUWQ4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2UNyB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sounds good! See you then!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5910559a-1551-45cb-b553-7c39149f2de9",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "I will come on zoom (from Lynda-group-2) link on 5:30",
+    "ts": "1702068922.944329",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LlDlS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I will come on zoom (from Lynda-group-2) link on 5:30"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7d2fcad7-7c45-48a8-96f3-b85338ed1a68",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "Do you think this link work for us",
+    "ts": "1702068970.423209",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9Qtk4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do you think this link work for us"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3BB516C2-099B-475C-8461-F3657C2F7CDE",
+    "type": "message",
+    "user": "U05775TUWQ4",
+    "text": "I just tried, it is letting me in ",
+    "ts": "1702069146.469879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kAUSt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just tried, it is letting me in "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3144e3f86e67bf971fab36af5c233335.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "Pradeepa",
+      "real_name": "Pradeepa Senthilrajan",
+      "display_name": "Pradeepa Senthilrajan",
+      "team": "T050CSX3EMT",
+      "name": "pradeepa.senthil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b94173f2-5392-48fc-b299-94875f79f3e8",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "Good thanks Pradeepa",
+    "ts": "1702069177.327919",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pvdY/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good thanks Pradeepa"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c3892dd7-4544-4fbb-a1a7-8cb29ee1cc45",
+    "type": "message",
+    "user": "U05775TUWQ4",
+    "text": "Im in the link",
+    "ts": "1702078283.171099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BdbnK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Im in the link"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3144e3f86e67bf971fab36af5c233335.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "Pradeepa",
+      "real_name": "Pradeepa Senthilrajan",
+      "display_name": "Pradeepa Senthilrajan",
+      "team": "T050CSX3EMT",
+      "name": "pradeepa.senthil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "17a4f304-6967-4894-87bb-73a8b856abb6",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "im trying to connect",
+    "ts": "1702078469.211149",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MoiJC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "im trying to connect"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "client_msg_id": "4594d561-4cbc-4d7b-bb47-046261f2b06f",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U0578M93BPE\u003e see above for info about the database - this is the username and password you will have to set up locally on your machine.",
+    "ts": "1703959870.348669",
+    "thread_ts": "1702951721.340879",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RZd0G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0578M93BPE"
+              },
+              {
+                "type": "text",
+                "text": " see above for info about the database - this is the username and password you will have to set up locally on your machine."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3874f51b-39a9-4a0e-8896-dd72ba7ace9a",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U056Y707Y14\u003e realized my pull request from the other day, didn't have all of my changes for some reason so now it does (you probably thought I was crazy) see \u003chttps://github.com/corypride/couchCats/pull/34|pull #34\u003e (no rush)",
+    "ts": "1703961599.683579",
+    "thread_ts": "1703368924.465509",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "#34 User authentication",
+        "id": 1,
+        "title": "#34 User authentication",
+        "title_link": "https://github.com/corypride/couchCats/pull/34",
+        "text": "Finished initial authentication, which includes: adding a logout method and changing the sessionId to null when a user logs out, setting that as the Cookie value and passing that via the header when the user is logged out  \nTODO: whitelisting pages and securing pages\n\nI also refactored my code to include a UserService class to abstract away details from the UserController and simplify that. I also added an HTTPResponseBuilder class that I can call for generating HTTP responses to simplify that within my methods in the UserService class.\n\nLastly, I updated the getUserDetailsById method using a UserDetailsDTO and noted this for Yumi's review as I am suggesting replacing the method she had in progress.",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/corypride/couchCats|corypride/couchCats\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1703961537
+      }
+    ],
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nQ+UX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056Y707Y14"
+              },
+              {
+                "type": "text",
+                "text": " realized my pull request from the other day, didn't have all of my changes for some reason so now it does (you probably thought I was crazy) see "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/corypride/couchCats/pull/34",
+                "text": "pull #34"
+              },
+              {
+                "type": "text",
+                "text": " (no rush)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "client_msg_id": "8474beb8-ca13-4ab6-8d4d-25556065536c",
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "The attendance code for the day is: *WithConfidence*",
+    "ts": "1704763738.835939",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6heaR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The attendance code for the day is: "
+              },
+              {
+                "type": "text",
+                "text": "WithConfidence",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

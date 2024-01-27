@@ -1,0 +1,129 @@
+[
+  {
+    "client_msg_id": "6cb54f42-08b1-4a0c-b689-760b470d560c",
+    "type": "message",
+    "user": "U0578C4TKCK",
+    "text": "Let's see Paul Allen's resume...",
+    "ts": "1701388911.163099",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "laughing",
+        "count": 3,
+        "users": [
+          "U050FMK1S83",
+          "U056ZJ34X42",
+          "U056Z2CTTGX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RfkNF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Let's see Paul Allen's resume..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5232007116311_53d7458c44834e167288_72.png",
+      "first_name": "Andrew",
+      "real_name": "Andrew Lanning - KC - he/him",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "lanningsimulation",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9dd4bda1-3ad2-4309-b45d-801b62aa8f99",
+    "type": "message",
+    "user": "U066ED0A4DU",
+    "text": "Please don’t move the logo!",
+    "ts": "1701389543.578459",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U0579KDG6A0",
+          "U057AEDNKJ8"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-5",
+        "count": 1,
+        "users": [
+          "U057SCV767K"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o38k6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Please don’t move the logo!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-20/6222153280613_25c32eb42d9b05bf45f0_72.png",
+      "first_name": "Lexi",
+      "real_name": "Lexi B",
+      "display_name": "Lexi B - LC Staff",
+      "team": "T050CSX3EMT",
+      "name": "lexi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

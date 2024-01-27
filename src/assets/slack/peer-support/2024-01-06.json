@@ -1,0 +1,63 @@
+[
+  {
+    "client_msg_id": "43a7285f-1a46-47f0-8e56-ae8e972973d7",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "Is anyone else building their site with React and Springboot and doing custom authentication methods (so NOT using Spring Security or Auth0)? If so, are there any resources you’ve found helpful for understanding how to control what pages/info users can see depending on whether they’re logged in or not?",
+    "ts": "1704561353.674119",
+    "thread_ts": "1704561353.674119",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1704937830.415559"
+      },
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1704937910.691719"
+      }
+    ],
+    "latest_reply": "1704937910.691719",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rnz4l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is anyone else building their site with React and Springboot and doing custom authentication methods (so NOT using Spring Security or Auth0)? If so, are there any resources you’ve found helpful for understanding how to control what pages/info users can see depending on whether they’re logged in or not?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057HGZ7W8Z"
+    ]
+  }
+]

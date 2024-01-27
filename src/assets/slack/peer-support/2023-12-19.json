@@ -1,0 +1,375 @@
+[
+  {
+    "client_msg_id": "38564967-e8d6-4c78-b583-9aa12dbc4298",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "Has anyone run into needing to commit after pulling down a merge of the main branch? I'm not sure why I would need to commit changes that are part of a pull request.",
+    "ts": "1702948452.533079",
+    "thread_ts": "1702948452.533079",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U057HMJ9QTB",
+        "ts": "1702948916.128499"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1702948996.960379"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1702949121.643359"
+      },
+      {
+        "user": "U057HMJ9QTB",
+        "ts": "1702949296.235219"
+      },
+      {
+        "user": "U058FPAV532",
+        "ts": "1703018267.612949"
+      }
+    ],
+    "latest_reply": "1703018267.612949",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Mpm5n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Has anyone run into needing to commit after pulling down a merge of the main branch? I'm not sure why I would need to commit changes that are part of a pull request."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056SERBK2B",
+      "U057HMJ9QTB",
+      "U058FPAV532"
+    ]
+  },
+  {
+    "client_msg_id": "454b8472-c8ae-4053-b1e7-ee1125289fc2",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "That's a new one on me.",
+    "ts": "1702948474.396509",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OKGJ9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That's a new one on me."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "602605ef-2afc-4d72-b41a-4fa16130b1c2",
+    "type": "message",
+    "user": "U057HMJ9QTB",
+    "text": "did you have uncommitted changes prior to the merge?",
+    "ts": "1702948916.128499",
+    "thread_ts": "1702948452.533079",
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yZANt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "did you have uncommitted changes prior to the merge?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-25/5326654072450_71a5e4b1297fa94e715a_72.png",
+      "first_name": "Jay",
+      "real_name": "Jay Hamrick",
+      "display_name": "Jay Hamrick",
+      "team": "T050CSX3EMT",
+      "name": "jhamrick2126",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "de389a53-ea87-4539-8776-c368b02026a3",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "No. After doing a little research I think it could possibly have something to do with me only having the front end open in vsCode because its fine in intelliJ where I have the whole project open.",
+    "ts": "1702948996.960379",
+    "thread_ts": "1702948452.533079",
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3MrwK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No. After doing a little research I think it could possibly have something to do with me only having the front end open in vsCode because its fine in intelliJ where I have the whole project open."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1849b811-cf57-4d22-9216-1bb25fbd277e",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "Its wanting me to commit the changes that I just pulled from the remote branch.",
+    "ts": "1702949121.643359",
+    "thread_ts": "1702948452.533079",
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MhojE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Its wanting me to commit the changes that I just pulled from the remote branch."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f9a22c54-245e-47b3-ad1a-7a203d001d11",
+    "type": "message",
+    "user": "U057HMJ9QTB",
+    "text": "oh that makes sense yeah, you're pulling in main branch and vscode is creating \"new\" info from the back end portion that it then wants to commit",
+    "ts": "1702949296.235219",
+    "thread_ts": "1702948452.533079",
+    "edited": {
+      "user": "U057HMJ9QTB",
+      "ts": "1702949336.000000"
+    },
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z9Sft",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "oh that makes sense yeah, you're pulling in main branch and vscode is creating \"new\" info from the back end portion that it then wants to commit"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-25/5326654072450_71a5e4b1297fa94e715a_72.png",
+      "first_name": "Jay",
+      "real_name": "Jay Hamrick",
+      "display_name": "Jay Hamrick",
+      "team": "T050CSX3EMT",
+      "name": "jhamrick2126",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1857FA58-7C53-489C-B710-CB36FF197669",
+    "type": "message",
+    "user": "U058FPAV532",
+    "text": "Yes that has been happening to me as well. It forces me to commit the file changes.",
+    "ts": "1703018267.612949",
+    "thread_ts": "1702948452.533079",
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SyKYs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes "
+              },
+              {
+                "type": "text",
+                "text": "that"
+              },
+              {
+                "type": "text",
+                "text": " has been happening to me as well. It forces me to commit the file changes."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5266667122900_4c371e493d3d45d4569b_72.png",
+      "first_name": "Tiffany",
+      "real_name": "Tiffany Hill (Philly)",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "hill.tiffany365",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

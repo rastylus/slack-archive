@@ -1,0 +1,120 @@
+[
+  {
+    "client_msg_id": "2bd460e6-d6c6-4c39-bf35-9e1baddc732c",
+    "type": "message",
+    "user": "U055RLYGGDR",
+    "text": "Aaron Campf is inviting you to a scheduled Zoom meeting.\n\nTopic: Aaron Campf's Personal Meeting Room\n\nJoin Zoom Meeting\n\u003chttps://us02web.zoom.us/j/3063907265?pwd=WTdSOGVCeEZ0cWJrUFc5RmVvNTFJQT09\u003e\n\nMeeting ID: \u003ctel:3063907265|306 390 7265\u003e\nPasscode: 666",
+    "ts": "1700526312.864389",
+    "pinned_to": [
+      "C065X8U2AMQ"
+    ],
+    "edited": {
+      "user": "U055RLYGGDR",
+      "ts": "1701735157.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mxQtA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Aaron Campf is inviting you to a scheduled Zoom meeting.\n\nTopic: Aaron Campf's Personal Meeting Room\n\nJoin Zoom Meeting\n"
+              },
+              {
+                "type": "link",
+                "url": "https://us02web.zoom.us/j/3063907265?pwd=WTdSOGVCeEZ0cWJrUFc5RmVvNTFJQT09",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nMeeting ID: "
+              },
+              {
+                "type": "link",
+                "url": "tel:3063907265",
+                "text": "306 390 7265"
+              },
+              {
+                "type": "text",
+                "text": "\nPasscode: 666"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181298634727_0020b5616f863c29ba99_72.png",
+      "first_name": "Aaron",
+      "real_name": "Aaron Campf",
+      "display_name": "TA - Aaron Campf",
+      "team": "T050CSX3EMT",
+      "name": "aaroncampf",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "67ea2cd8-7cbc-451f-a93b-fb4842b62ce7",
+    "type": "message",
+    "user": "U055RLYGGDR",
+    "text": "\u003chttps://docs.google.com/document/d/1DwChw9twmwIG8p4SaPrVvtxfpwEg79uhLIZhVgd_djM/edit\u003e",
+    "ts": "1700528490.400049",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TOOS8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1DwChw9twmwIG8p4SaPrVvtxfpwEg79uhLIZhVgd_djM/edit",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181298634727_0020b5616f863c29ba99_72.png",
+      "first_name": "Aaron",
+      "real_name": "Aaron Campf",
+      "display_name": "TA - Aaron Campf",
+      "team": "T050CSX3EMT",
+      "name": "aaroncampf",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

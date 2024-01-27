@@ -1,0 +1,211 @@
+[
+  {
+    "client_msg_id": "66713fd6-9b36-41f2-9df9-8c7491cb8947",
+    "type": "message",
+    "user": "U05EE11SB6D",
+    "text": "Hello \u003c#C066DF07ERL|professional-procrastinators\u003e tonight I will be helping you out with class. Follow this link to join the room! \u003chttps://us02web.zoom.us/j/8733864168\u003e We will start class at 6:50",
+    "ts": "1701736782.938969",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "meow_party",
+        "count": 1,
+        "users": [
+          "U05722VQ4S0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bEHvu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C066DF07ERL"
+              },
+              {
+                "type": "text",
+                "text": " tonight I will be helping you out with class. Follow this link to join the room! "
+              },
+              {
+                "type": "link",
+                "url": "https://us02web.zoom.us/j/8733864168",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": " We will start class at 6:50"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-26/5497688141409_c96e793d333a11ff6168_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Jove",
+      "display_name": "TA - Alex Jove",
+      "team": "T050CSX3EMT",
+      "name": "alexjmints",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C92756EF-3262-4A7D-A40A-7623F5C120F6",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "Meeting again on Wednesday at 7? Is this the time we want to make a regular meeting for our group(I feel like we didn’t talk about it for certain but implied?)? Just double checking :sloth: ",
+    "ts": "1701744901.359399",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "sloth",
+        "count": 1,
+        "users": [
+          "U05722VQ4S0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EMdTY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Meeting again on Wednesday at 7? Is this the time we want to make a regular meeting for our group(I feel like we "
+              },
+              {
+                "type": "text",
+                "text": "didn’t"
+              },
+              {
+                "type": "text",
+                "text": " talk about it for certain but implied?)? Just double checking "
+              },
+              {
+                "type": "emoji",
+                "name": "sloth",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0c36627b-2e2f-4243-9121-fc2257864876",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "Hello! Yes, I think Wednesdays at 7 are a go. :slightly_smiling_face: See you all then!!",
+    "ts": "1701745113.670489",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "meow_party",
+        "count": 2,
+        "users": [
+          "U05765HGT46",
+          "U057C9DPMC3"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cAn7m",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello! Yes, I think Wednesdays at 7 are a go. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " See you all then!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

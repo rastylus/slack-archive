@@ -1,0 +1,350 @@
+[
+  {
+    "client_msg_id": "fca2ca63-2dbb-4b5d-99b7-6d7870378890",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "okay. When should we watch for it?\n\nOr are you not submitting a third feature?",
+    "ts": "1705540387.674139",
+    "thread_ts": "1705533071.713529",
+    "parent_user_id": "U0578M93BPE",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eEgFM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay. When should we watch for it?\n\nOr are you not submitting a third feature?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "81fde5ef-141f-47e3-af4f-ef304482fb3b",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "isn't third future profile page?",
+    "ts": "1705540550.614319",
+    "thread_ts": "1705533071.713529",
+    "parent_user_id": "U0578M93BPE",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ua6x3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "isn't third future profile page?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5125500a-ee40-41e9-b70d-9d9cd47e4356",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "It was my understanding that the Registration and Profile were part of a single feature (User Account Creation and Management).\n\nAnd previously, you had this feature as your third feature: *Full CRUD Functionality: Users can create a watchlist, view the watchlist as well as add and remove movies. (Frontend)*\n• Eric took on the majority of this, *C*reate, *U*pdate and *D*elete via the WatchListButton component and corresponding handleWatchList function. \n• Although you did write a method for displaying it on the profile page -- the *R*ead part, I cannot say if that is enough to count \u003c@U050FMK1S83\u003e, \u003c@U066ED0A4DU\u003e or \u003c@U0625KF6RLH\u003e would have to advise. \nHowever, I will say that the above was part of what we discussed in the meeting with \u003c@U050FMK1S83\u003e and \u003c@U055S98U8G2\u003e and it was included in what we recapped after, in the updated project proposal, and why you were assigned mobile responsiveness as your 3rd feature.\n\nSo at this point, I advise you get with the Liftoff team and determine if your contributions qualify as 3 features or if you need to deliver something additional.",
+    "ts": "1705543640.655369",
+    "thread_ts": "1705533071.713529",
+    "parent_user_id": "U0578M93BPE",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Rylf9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It was my understanding that the Registration and Profile were part of a single feature (User Account Creation and Management).\n\nAnd previously, you had this feature as your third feature: "
+              },
+              {
+                "type": "text",
+                "text": "Full CRUD Functionality: Users can create a watchlist, view the watchlist as well as add and remove movies. (Frontend)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Eric took on the majority of this, \"},{\"type\":\"text\",\"text\":\"C\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"reate, \"},{\"type\":\"text\",\"text\":\"U\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"pdate and \"},{\"type\":\"text\",\"text\":\"D\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"elete via the WatchListButton component and corresponding handleWatchList function. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Although you did write a method for displaying it on the profile page -- the \"},{\"type\":\"text\",\"text\":\"R\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"ead part, I cannot say if that is enough to count \"},{\"type\":\"user\",\"user_id\":\"U050FMK1S83\"},{\"type\":\"text\",\"text\":\", \"},{\"type\":\"user\",\"user_id\":\"U066ED0A4DU\"},{\"type\":\"text\",\"text\":\" or \"},{\"type\":\"user\",\"user_id\":\"U0625KF6RLH\"},{\"type\":\"text\",\"text\":\" would have to advise. \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nHowever, I will say that the above was part of what we discussed in the meeting with "
+              },
+              {
+                "type": "user",
+                "user_id": "U050FMK1S83"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U055S98U8G2"
+              },
+              {
+                "type": "text",
+                "text": " and it was included in what we recapped after, in the updated project proposal, and why you were assigned mobile responsiveness as your 3rd feature.\n\nSo at this point, I advise you get with the Liftoff team and determine if your contributions qualify as 3 features or if you need to deliver something additional."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bf9d6140-46f3-4f15-a566-2fe6e26441a1",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "ok thank you",
+    "ts": "1705544827.217629",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8MtNl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1c71bc09-ced2-4df6-bd2b-1562f9c4b5f2",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "oh shoot we aren't displaying the TMDB logo anywhere are we? I think it's fine for demo but let's make sure we get that credit in there, noting so we don't forget",
+    "ts": "1705553223.716759",
+    "thread_ts": "1705553223.716759",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056Y707Y14",
+        "ts": "1705604271.064029"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705970118.162889"
+      }
+    ],
+    "latest_reply": "1705970118.162889",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j7+Jv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "oh shoot we aren't displaying the TMDB logo anywhere are we? I think it's fine for demo but let's make sure we get that credit in there, noting so we don't forget"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U056Y707Y14"
+    ]
+  },
+  {
+    "client_msg_id": "A8689D86-9B4F-4381-8D48-6E28005CAF25",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "I think it’s displaying on “top movies” but we should definitely check the requirements before hosting this anywhere ",
+    "ts": "1705604271.064029",
+    "thread_ts": "1705553223.716759",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u7Ou1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " displaying on “top movies” but we should definitely check the requirements before hosting this anywhere "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

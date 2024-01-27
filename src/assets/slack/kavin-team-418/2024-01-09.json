@@ -1,0 +1,1426 @@
+[
+  {
+    "client_msg_id": "1f7016a4-994d-441a-b64f-92732b9cc448",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "\u003c@U056FFS0C64\u003e\n\nHey Kavin,\n\nSame deal popping off Zoom for the evening :slightly_smiling_face: we're just working on finalizing some features but otherwise pretty comfortable for next week",
+    "ts": "1704761982.231119",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U056FFS0C64"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7giOI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056FFS0C64"
+              },
+              {
+                "type": "text",
+                "text": "\n\nHey Kavin,\n\nSame deal popping off Zoom for the evening "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " we're just working on finalizing some features but otherwise pretty comfortable for next week"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a3697c6b-6392-441e-9568-c33a211d04c6",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Running into a logic issue. Trying to reference the right user's email when sending out the notifications. Do we have users connected to equipment? Just unsure what value to use here.\n```    private void sendEmailForFilterChange(Filter filter) throws Exception {\n        // Create email content and subject\n        String emailContent = \"Your filter for \" + filter.getEquipment().getName() + \" is due for change.\";\n        String emailSubject = \"Filter Change Reminder\";\n\n        // Send email\n        sendEmail(\n                filter.getEquipment().getId(),\n                filter.getId(),\n                \"\u003cmailto:recipient@example.com|recipient@example.com\u003e\", // Replace with the actual recipient email\n                emailSubject,\n                emailContent\n        );\n\n        // Log email notification\n        logEmailNotification(\n                filter.getEquipment().getId(),\n                filter.getId(),\n                \"\u003cmailto:recipient@example.com|recipient@example.com\u003e\", // Replace with the actual recipient email\n                emailSubject,\n                emailContent\n        );\n    }```",
+    "ts": "1704818482.425429",
+    "thread_ts": "1704818482.425429",
+    "reply_count": 13,
+    "replies": [
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704818902.571219"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704818916.189279"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704818927.004029"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704818972.924899"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704819253.604889"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704819286.229369"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704819322.086479"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704819420.117559"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704819672.549189"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704819723.758619"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1704820781.739879"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704820858.555719"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704821688.972899"
+      }
+    ],
+    "latest_reply": "1704821688.972899",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gW2e2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Running into a logic issue. Trying to reference the right user's email when sending out the notifications. Do we have users connected to equipment? Just unsure what value to use here.\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"    private void sendEmailForFilterChange(Filter filter) throws Exception {\\n        \\/\\/ Create email content and subject\\n        String emailContent = \\\"Your filter for \\\" + filter.getEquipment().getName() + \\\" is due for change.\\\";\\n        String emailSubject = \\\"Filter Change Reminder\\\";\\n\\n        \\/\\/ Send email\\n        sendEmail(\\n                filter.getEquipment().getId(),\\n                filter.getId(),\\n                \\\"recipient@example.com\\\", \\/\\/ Replace with the actual recipient email\\n                emailSubject,\\n                emailContent\\n        );\\n\\n        \\/\\/ Log email notification\\n        logEmailNotification(\\n                filter.getEquipment().getId(),\\n                filter.getId(),\\n                \\\"recipient@example.com\\\", \\/\\/ Replace with the actual recipient email\\n                emailSubject,\\n                emailContent\\n        );\\n    }\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U05744248P7",
+      "U057P8PCXT2",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "21d80d2d-5d7e-4295-a046-49d8f4748a45",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "you may need to get the user's email and pass through User user in the parameters of the function",
+    "ts": "1704818902.571219",
+    "thread_ts": "1704818482.425429",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pas5U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you may need to get the user's email and pass through User user in the parameters of the function"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2c3dd3d5-435a-4920-80aa-89b0d8bec16c",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Like\n\n``` private void sendEmailForFilterChange(Filter filter, User user) throws Exception {```\n",
+    "ts": "1704818916.189279",
+    "thread_ts": "1704818482.425429",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TSmBw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Like\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\" private void sendEmailForFilterChange(Filter filter, User user) throws Exception {\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5312b34a-7409-44ca-a58f-7f14e2650fb4",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "then call getEmail from the user class",
+    "ts": "1704818927.004029",
+    "thread_ts": "1704818482.425429",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f+OrF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "then call getEmail from the user class"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "76c348c6-9bda-4a32-9709-b01cd74f1d06",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "```\"\u003cmailto:recipient@example.com|recipient@example.com\u003e\",```\ninstead of this you'd pull from the user class like\n\nuser.getEmail()",
+    "ts": "1704818972.924899",
+    "thread_ts": "1704818482.425429",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jAopT",
+        "elements": [
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"\\\"recipient@example.com\\\",\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "instead of this you'd pull from the user class like\n\nuser.getEmail()"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4c855182-73d8-49d5-9acd-e6a06610a7d6",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "We have API responses coming through now, setting it up was the hard part it felt :sweat_smile:",
+    "ts": "1704819059.315199",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HCcWY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We have API responses coming through now, setting it up was the hard part it felt "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1d721449-96cd-4fdf-8e32-b2e4089b68db",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "That part I'm following. It's just when this other scheduled method runs it'll pull all filters that are due for update, so wasn't sure which user's email to point at.",
+    "ts": "1704819253.604889",
+    "thread_ts": "1704818482.425429",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XY0zl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That part I'm following. It's just when this other scheduled method runs it'll pull all filters that are due for update, so wasn't sure which user's email to point at."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "af3b9c34-160e-4a58-a6e4-1de054996635",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "```    @Scheduled(cron = \"0 0 5 * * ?\") // Run every day at 5 am\n    public void sendEmailsForDueFilters() {\n        try {\n            List\u0026lt;Filter\u0026gt; filtersDueForChange = filterService.getFiltersToChangeInNext7Days();\n            for (Filter filter : filtersDueForChange) {\n                sendEmailForFilterChange(filter);\n            }\n        } catch (Exception ex) {\n            System.err.println(\"Error sending emails for due filters: \" + ex.getMessage());\n        }\n    }```",
+    "ts": "1704819286.229369",
+    "thread_ts": "1704818482.425429",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Wed4d",
+        "elements": [
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"    @Scheduled(cron = \\\"0 0 5 * * ?\\\") \\/\\/ Run every day at 5 am\\n    public void sendEmailsForDueFilters() {\\n        try {\\n            List\u003cFilter\u003e filtersDueForChange = filterService.getFiltersToChangeInNext7Days();\\n            for (Filter filter : filtersDueForChange) {\\n                sendEmailForFilterChange(filter);\\n            }\\n        } catch (Exception ex) {\\n            System.err.println(\\\"Error sending emails for due filters: \\\" + ex.getMessage());\\n        }\\n    }\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d5b4dce5-b1d5-48dd-9163-f04605820a81",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "I was attempting to just automate the process. but then realized I couldn't tell which filters belonged to which user.",
+    "ts": "1704819322.086479",
+    "thread_ts": "1704818482.425429",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "afx01",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was attempting to just automate the process. but then realized I couldn't tell which filters belonged to which user."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "285ec9b5-70d5-459d-a017-f39f237dd202",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "I might be overthinking this",
+    "ts": "1704819420.117559",
+    "thread_ts": "1704818482.425429",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bYJbJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I might be overthinking this"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e710f1c8-58f2-4f19-ac08-cc2e5dd3a5db",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Yea maybe i'm misunderstanding, but could you tie it to the user id?\n\nall the equipment, filters, and user information are abstracted from the main entity that includes id",
+    "ts": "1704819672.549189",
+    "thread_ts": "1704818482.425429",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "c+tcV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yea maybe i'm misunderstanding, but could you tie it to the user id?\n\nall the equipment, filters, and user information are abstracted from the main entity that includes id"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f5ce00e3-8f7b-463a-9c14-84dacc004a2a",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "so every time a new user is generated, that id will be tied to them and all their specific filters",
+    "ts": "1704819723.758619",
+    "thread_ts": "1704818482.425429",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BC6/v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so every time a new user is generated, that id will be tied to them and all their specific filters"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6477401b-1d3b-44f7-ac7e-66c29176e9ba",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I do not currently have a setup to assign users to equipment (that got scrapped with Authentication/User Roles). Can you just assign it to email User 1 in an array of Users? Obviously not ideal but we can always improve it later once it’s working.",
+    "ts": "1704820781.739879",
+    "thread_ts": "1704818482.425429",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yuBcm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I do not currently have a setup to assign users to equipment (that got scrapped with Authentication/User Roles). Can you just assign it to email User 1 in an array of Users? Obviously not ideal but we can always improve it later once it’s working."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "60d90ef8-daad-46bb-aa36-df979edf74b0",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Sure, I'll work something ouit.",
+    "ts": "1704820858.555719",
+    "thread_ts": "1704818482.425429",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vgBS8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sure, I'll work something ouit."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a2a4a614-4682-453d-a246-251069bb5544",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Okay , I updated so it should be working ideally. When I test with postman. email is being sent through. Created a new PR.",
+    "ts": "1704821688.972899",
+    "thread_ts": "1704818482.425429",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U057P8PCXT2",
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Dh+pM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay , I updated so it should be working ideally. When I test with postman. email is being sent through. Created a new PR."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4015cde2-2659-4e84-8204-9a2d97c801ae",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Just a heads up. If the sendgrid.env file gets somehow pushed to github. Gitguardian will catch it and sendgrid will delete that api.",
+    "ts": "1704822081.791199",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      },
+      {
+        "name": "sweat_smile",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wxc/n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just a heads up. If the sendgrid.env file gets somehow pushed to github. Gitguardian will catch it and sendgrid will delete that api."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bf0f232f-d638-474e-b003-24fd74e69935",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I have the PR in to hopefully finish out user. I made a user table on the Edit page, finished user CRUD, and fixed the Navbar conditional styling. Let me know if we’re missing something!",
+    "ts": "1704823266.230339",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9a/j4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have the PR in to hopefully finish out user. I made a user table on the Edit page, finished user CRUD, and fixed the Navbar conditional styling. Let me know if we’re missing something!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "62a3b1af-9e4a-4bbb-9cc0-6fae878bcd1c",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Added a PR for the filter change history",
+    "ts": "1704833528.240599",
+    "thread_ts": "1704833528.240599",
+    "reply_count": 10,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1704833629.235009"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704833665.398779"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704833731.559209"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1704833748.515079"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1704833757.626559"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704833912.314899"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1704833942.737909"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704849459.206569"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704850141.196069"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704850543.441059"
+      }
+    ],
+    "latest_reply": "1704850543.441059",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mo26R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Added a PR for the filter change history"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U05744248P7",
+      "U057P8PCXT2",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "a4ae6b3a-fe5b-469f-95e8-f902166b9f15",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I think it has the sengrid.env file",
+    "ts": "1704833629.235009",
+    "thread_ts": "1704833528.240599",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jdjev",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think it has the sengrid.env file"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9c8fa6eb-632d-42bc-843e-a026890b87e0",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "ah damn",
+    "ts": "1704833665.398779",
+    "thread_ts": "1704833528.240599",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1dx9Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ah damn"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "18b35e7a-c796-46b9-90ed-1822036dcda0",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "fixing",
+    "ts": "1704833731.559209",
+    "thread_ts": "1704833528.240599",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9NLc2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "fixing"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3b55f830-f9de-4f8e-a87a-74bca9d7faca",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Otherwise it looks great!",
+    "ts": "1704833748.515079",
+    "thread_ts": "1704833528.240599",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L26+r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Otherwise it looks great!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b6dcc5db-4cdd-492f-be84-d3fde80924ce",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Quick work!",
+    "ts": "1704833757.626559",
+    "thread_ts": "1704833528.240599",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8xYYS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Quick work!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0ae3f99f-55e1-439b-932d-5e1088e4ca87",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "atleast that sendenv.file had an old api key that was already deleted :rolling_on_the_floor_laughing:",
+    "ts": "1704833912.314899",
+    "thread_ts": "1704833528.240599",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "N96gd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "atleast that sendenv.file had an old api key that was already deleted "
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4D8EC0E7-CCD0-4B73-8D00-A9A2B372CB1E",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Oh good! That helps!",
+    "ts": "1704833942.737909",
+    "thread_ts": "1704833528.240599",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4CzKX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh good! That helps!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

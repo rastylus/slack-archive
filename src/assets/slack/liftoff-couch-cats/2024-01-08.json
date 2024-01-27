@@ -1,0 +1,864 @@
+[
+  {
+    "client_msg_id": "B60FEA03-2529-46D8-9D53-D592878DB3CD",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I haven’t. Just when opening it? Trying to see if I can recreate",
+    "ts": "1704677560.422499",
+    "thread_ts": "1704667849.511649",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9Kt2n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I "
+              },
+              {
+                "type": "text",
+                "text": "haven’t"
+              },
+              {
+                "type": "text",
+                "text": ". Just when opening it? Trying to see if I can recreate"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5cb6e5ea-ea8f-45a9-a179-dda3c5f0f162",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Edited: it actually just looks like the issue is \"disable\" vs. disabled -- from what i just read I think this is a type because disabled is the correct way of making a button disabled in react not disable\n\ndisabled={props.isSubmitting}",
+    "ts": "1704678875.961389",
+    "thread_ts": "1704678875.961389",
+    "edited": {
+      "user": "U056Q9W022K",
+      "ts": "1704679121.000000"
+    },
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704745257.611029"
+      }
+    ],
+    "latest_reply": "1704745257.611029",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057C75RYBB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B+YoG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Edited: it actually just looks like the issue is \"disable\" vs. disabled -- from what i just read I think this is a type because disabled is the correct way of making a button disabled in react not disable\n\ndisabled={props.isSubmitting}"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056Q9W022K"
+    ]
+  },
+  {
+    "client_msg_id": "E5218094-1921-4161-B904-75D1F8D03F2F",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Yep. I can troubleshoot. I just want to make sure it’s not happening on anyone else’s or breaking anything when I push.",
+    "ts": "1704679176.459929",
+    "thread_ts": "1704667849.511649",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GnuTJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yep. I can troubleshoot. I just want to make sure "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " not happening on "
+              },
+              {
+                "type": "text",
+                "text": "anyone"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "else’s"
+              },
+              {
+                "type": "text",
+                "text": " or breaking anything when I push."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4AC20233-EE3E-4B52-905D-B182A031B7D9",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "I’ll try it in a bit. Thanks!",
+    "ts": "1704679215.009339",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x30Sd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " try it in a bit. Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ac4058c9-299f-45cf-a3a3-3976235d0b96",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "That seemed to do it.",
+    "ts": "1704679992.890059",
+    "thread_ts": "1704679992.890059",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704680084.917009"
+      }
+    ],
+    "latest_reply": "1704680084.917009",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1iGal",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That seemed to do it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056Q9W022K"
+    ]
+  },
+  {
+    "client_msg_id": "13a1b867-17fe-464b-8008-a94869f98674",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "sweet. and something else says to put spaces in the props.isSubmitting -- which seems like you don't need to do it, but also seems to be the correct syntax vs. how it is now.\n\nmeaning: {props.isSubmitting ? \"Loading\" : \"Register\"} vs. {props.isSubmitting?\"Loading\":\"Register\"}",
+    "ts": "1704680084.917009",
+    "thread_ts": "1704679992.890059",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a79kt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sweet. and something else says to put spaces in the props.isSubmitting -- which seems like you don't need to do it, but also seems to be the correct syntax vs. how it is now.\n\nmeaning: {props.isSubmitting ? \"Loading\" : \"Register\"} vs. {props.isSubmitting?\"Loading\":\"Register\"}"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a2cb5508-6f5d-41d0-b624-f3b6933063ee",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U0578M93BPE\u003e - do you have a status or progress update on refactoring (aka updating) the login form so that it includes the Yup validation, using Formik and the axios post request?",
+    "ts": "1704734276.250589",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fJtS1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0578M93BPE"
+              },
+              {
+                "type": "text",
+                "text": " - do you have a status or progress update on refactoring (aka updating) the login form so that it includes the Yup validation, using Formik and the axios post request?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1a4ebc35-1d2f-4027-8a7f-92cf318594c6",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "Yes but it wasn't  finished.",
+    "ts": "1704734393.709829",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "METW1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes but it wasn't  finished."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5128fdc2-73fa-44f0-82fa-6496aec464f1",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "I am working on authentication",
+    "ts": "1704734411.581969",
+    "thread_ts": "1704734411.581969",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704742691.716979"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704742856.248319"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704742895.534219"
+      },
+      {
+        "user": "U0578M93BPE",
+        "ts": "1704742922.555749"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704743359.701239"
+      }
+    ],
+    "latest_reply": "1704743359.701239",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YOp1X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am working on authentication"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U0578M93BPE"
+    ]
+  },
+  {
+    "client_msg_id": "8173c28b-c90a-4dcf-9372-37fb3d4c1518",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Sounds good.\n\nTwo things I figured out when trying to test the Logout in case it is helpful to you as you work on authentication.\n\nItem 1:\nWe will need a parent component, something like \"User Management\" that sets the headersObj that is then passed to both Login and Logout functions as a prop\n\nThe reason is because:\n1. When a user logs in, the server assigns a sessionId and sets a Cookie that is sent back with the response\n2. And we need to be able to then pass the values to the Logout component so that we can use that sessionId when the user logs out\nItem #2:\nIn the post, we also need to include withCredentials: true, which allows the cookie to be sent and received so you will have to add this to Login if you don't have it already.\n\nHere is what it looks like in my login component so far:\n```//after a user logins in, the headersObj in UserManagement is updated to contain the new Cookie set by the server\n//And this function takes in that headersObj from the UserManagement component in the signature as a prop.\n \nconst LoginComponent = ({ headersObj }) =\u003e {\n    // FROM ERIN: Added a state variable for the success message that we can use to set and display a message when registration is successful\n    const [failMessage, setFailMessage] = useState(null);\n\n    const initialLoginValues = {\n        email: \"\",\n        password: \"\",\n    };\n\n    const navigate = useNavigate();\n\n    const onSubmit = (values, props) =\u003e {\n        console.log(values);\n        console.log(props);\n        setTimeout(() =\u003e {\n            props.resetForm();\n            props.setSubmitting(false);\n        }, 2000);\n\n        const loginUrl = \"\u003chttp://localhost:8080/user/login\u003e\";\n        const { ...user } = initialLoginValues;\n\n        axios.post(loginUrl, values, { headers: headersObj, withCredentials: true })\n            .then((response) =\u003e {\n                console.log(\"response from backend =\u003e \", response);\n                // TODO redirect to the profile page instead of home (once ready)\n                navigate('/search');\n            })\n  .catch((error) =\u003e {\n\n//rest of the code```",
+    "ts": "1704742691.716979",
+    "thread_ts": "1704734411.581969",
+    "edited": {
+      "user": "U056Q9W022K",
+      "ts": "1704742745.000000"
+    },
+    "parent_user_id": "U0578M93BPE",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0/loR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sounds good.\n\nTwo things I figured out when trying to test the Logout in case it is helpful to you as you work on authentication.\n\nItem 1:\nWe will need a parent component, something like \"User Management\" that sets the headersObj that is then passed to both Login and Logout functions as a prop\n\nThe reason is because:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"When a user logs in, the server assigns a sessionId and sets a Cookie that is sent back with the response\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"And we need to be able to then pass the values to the Logout component so that we can use that sessionId when the user logs out\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nItem #2:\nIn the post, we also need to include withCredentials: true, which allows the cookie to be sent and received so you will have to add this to Login if you don't have it already.\n\nHere is what it looks like in my login component so far:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"\\/\\/after a user logins in, the headersObj in UserManagement is updated to contain the new Cookie set by the server\\n\\/\\/And this function takes in that headersObj from the UserManagement component in the signature as a prop.\\n \\nconst LoginComponent = ({ headersObj }) =\u003e {\\n    \\/\\/ FROM ERIN: Added a state variable for the success message that we can use to set and display a message when registration is successful\\n    const [failMessage, setFailMessage] = useState(null);\\n\\n    const initialLoginValues = {\\n        email: \\\"\\\",\\n        password: \\\"\\\",\\n    };\\n\\n    const navigate = useNavigate();\\n\\n    const onSubmit = (values, props) =\u003e {\\n        console.log(values);\\n        console.log(props);\\n        setTimeout(() =\u003e {\\n            props.resetForm();\\n            props.setSubmitting(false);\\n        }, 2000);\\n\\n        const loginUrl = \\\"\"},{\"type\":\"link\",\"url\":\"http:\\/\\/localhost:8080\\/user\\/login\"},{\"type\":\"text\",\"text\":\"\\\";\\n        const { ...user } = initialLoginValues;\\n\\n        axios.post(loginUrl, values, { headers: headersObj, withCredentials: true })\\n            .then((response) =\u003e {\\n                console.log(\\\"response from backend =\u003e \\\", response);\\n                \\/\\/ TODO redirect to the profile page instead of home (once ready)\\n                navigate('\\/search');\\n            })\\n  .catch((error) =\u003e {\\n\\n\\/\\/rest of the code\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8c45016a-0755-42dc-bd55-dd1166b11a21",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "and here is the UserManagement component but as you can see, we would have to integrate it with Login:\n\n```import React from 'react';\nimport LoginComponent from './LoginComponent';\nimport LogoutComponent from './LogoutComponent';\n\n//Acts as a parent component to manage the user, right now set up with just Login and Logoout components\nconst UserManagement = () =\u0026gt; {\n    //sets the headersObj that is passed to both Login and Logout functions\n    const headersObj = {\n        \"Content-Type\": \"application/json\",\n    };\n\n    return (\n        \u0026lt;div\u0026gt;\n            {/* Render LoginComponent and LogoutComponent with headersObj so that both use the same header object/values */}\n            {/*need to work w/ Merve to integrate this with hers after I validate it works fully: \n            \u0026lt;LoginComponent headersObj={headersObj} /\u0026gt;*/}\n            \u0026lt;LogoutComponent headersObj={headersObj} /\u0026gt;\n        \u0026lt;/div\u0026gt;\n    );\n}```",
+    "ts": "1704742856.248319",
+    "thread_ts": "1704734411.581969",
+    "parent_user_id": "U0578M93BPE",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "k2ZS4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and here is the UserManagement component but as you can see, we would have to integrate it with Login:\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"import React from 'react';\\nimport LoginComponent from '.\\/LoginComponent';\\nimport LogoutComponent from '.\\/LogoutComponent';\\n\\n\\/\\/Acts as a parent component to manage the user, right now set up with just Login and Logoout components\\nconst UserManagement = () =\u003e {\\n    \\/\\/sets the headersObj that is passed to both Login and Logout functions\\n    const headersObj = {\\n        \\\"Content-Type\\\": \\\"application\\/json\\\",\\n    };\\n\\n    return (\\n        \u003cdiv\u003e\\n            {\\/* Render LoginComponent and LogoutComponent with headersObj so that both use the same header object\\/values *\\/}\\n            {\\/*need to work w\\/ Merve to integrate this with hers after I validate it works fully: \\n            \u003cLoginComponent headersObj={headersObj} \\/\u003e*\\/}\\n            \u003cLogoutComponent headersObj={headersObj} \\/\u003e\\n        \u003c\\/div\u003e\\n    );\\n}\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2c8c1142-61e8-4b0c-801a-6cef48055664",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I am very close to validating logout works with this in place/properly passes the cookie",
+    "ts": "1704742895.534219",
+    "thread_ts": "1704734411.581969",
+    "parent_user_id": "U0578M93BPE",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AZZyQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am very close to validating logout works with this in place/properly passes the cookie"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1e5c6273-f921-412c-9b0e-783c5fd8b2dc",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "good job",
+    "ts": "1704742922.555749",
+    "thread_ts": "1704734411.581969",
+    "parent_user_id": "U0578M93BPE",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a7OFv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "good job"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e72533e1-55ae-4514-a110-5dcee457b905",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "also, I think Yumi will end up using that User Management component for authentication to validate a user is logged in before granting them access to secure pages as well.\n\n\u003c@U056Y707Y14\u003e tagging you so. you are in the loop as I finish testing. I know you are waiting on me to work on that part, but this at least gives you an overview.",
+    "ts": "1704743359.701239",
+    "thread_ts": "1704734411.581969",
+    "edited": {
+      "user": "U056Q9W022K",
+      "ts": "1704743386.000000"
+    },
+    "parent_user_id": "U0578M93BPE",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U056Y707Y14",
+          "U0578M93BPE"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "70Nfc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also, I think Yumi will end up using that User Management component for authentication to validate a user is logged in before granting them access to secure pages as well.\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U056Y707Y14"
+              },
+              {
+                "type": "text",
+                "text": " tagging you so. you are in the loop as I finish testing. I know you are waiting on me to work on that part, but this at least gives you an overview."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7a7fbdd2-e05e-401c-acf7-1d1be7a8f110",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U0578M93BPE\u003e also making sure you saw this discussion, Eric said changing disable to disabled worked to resolve the errors so you can make that change on yours, too.",
+    "ts": "1704745257.611029",
+    "thread_ts": "1704678875.961389",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6gTX1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0578M93BPE"
+              },
+              {
+                "type": "text",
+                "text": " also making sure you saw this discussion, Eric said changing disable to disabled worked to resolve the errors so you can make that change on yours, too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

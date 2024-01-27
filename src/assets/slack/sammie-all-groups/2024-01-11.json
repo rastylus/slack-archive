@@ -1,0 +1,57 @@
+[
+  {
+    "client_msg_id": "65f03fac-fbb5-496e-9b6e-ce70f23a0430",
+    "type": "message",
+    "user": "U05656EM4EM",
+    "text": "\u003c!channel\u003e straight into studio today! :slightly_smiling_face:",
+    "ts": "1705016020.851699",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IyZyy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " straight into studio today! "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-08/5546028551765_ef5cfd16f93e919dda43_72.jpg",
+      "first_name": "TA",
+      "real_name": "TA Sammie Mendez (she/her)",
+      "display_name": "TA - Sammie",
+      "team": "T050CSX3EMT",
+      "name": "sammierosado",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

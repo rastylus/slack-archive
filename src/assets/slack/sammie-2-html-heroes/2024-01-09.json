@@ -1,0 +1,281 @@
+[
+  {
+    "client_msg_id": "28d43cfe-7549-4430-bb0a-812f2ff248fe",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "\u003chttps://www.youtube.com/@DaveGrayTeachesCode\u003e",
+    "ts": "1704760905.854949",
+    "attachments": [
+      {
+        "fallback": "YouTube: Dave Gray",
+        "id": 1,
+        "title": "Dave Gray",
+        "title_link": "https://www.youtube.com/@DaveGrayTeachesCode",
+        "text": "Web Development tutorials with full courses on HTML, CSS, JavaScript, React, Node.js and more! \n\nMy goal is to help you learn how to build the web. Teaching helps me learn, too. I work full-time as a Solutions Architect / Developer and part-time as a university web dev instructor. Thank you for subscribing, supporting my channel and sharing the videos you think may help others.\n\nKeep striving for progress over perfection. \nAnd a little progress every day goes a very long way.\n\nMilestones:\n\nJuly 20, 2020 - 1st video\nJan 1, 2021 - 1k subs\nApril 2021 - 4k watch hours\nNov 2021 - 10k subs\nJan 21, 2022 - Video at 100k views\nFeb 16, 2022 - 100k watch hours\nFeb 19, 2022 - 1m views\nDec 13, 2022 - 100k subs\nDec 2022 - Over 1m views in 1 month\nApril 7, 2023 - 10m views\nMay 26, 2023 - 1m watch hours\nSept 22, 2023 - Video at 1m views",
+        "thumb_url": "https://yt3.googleusercontent.com/0eIqxAMRNI9gnG0HXSBnpFCmV5E5UjsxzZ3HtvG9Q9PD8QxnZRE9QWvuoiDS8HFEgeFd1Hc4",
+        "service_name": "YouTube",
+        "service_icon": "https://www.youtube.com/s/desktop/375de707/img/favicon.ico",
+        "from_url": "https://www.youtube.com/@DaveGrayTeachesCode",
+        "original_url": "https://www.youtube.com/@DaveGrayTeachesCode",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0574PXBWRG"
+        ]
+      },
+      {
+        "name": "gratitude-thank-you",
+        "count": 1,
+        "users": [
+          "U057V00Q5EU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Rk+Ny",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/@DaveGrayTeachesCode",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5e5df3aa-6fc6-42cf-9031-18c697146d67",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "Hey all, I have created a PR for uploading any image from your local machine. However, there are some changes that both of you need to do after you pull it in your local machine. Let me explain. Find the below line in the code.\nPath path = Paths.get(File.separator+\"Users\"+File.separator+\"sugan\"+File.separator +\"IdeaProjects\"+File.separator +\"liftoff-group-2\"+File.separator +\"src\"+File.separator +\"main\"+File.separator+\"resources\"+File.separator+\"static\"+File.separator+\"image\"+File.separator + file.getOriginalFilename());\nand replace the path to project folder with your path to the project folder. Right now it points to my project folder. I think its on line 450 in ItineraryController class in Intellij.",
+    "ts": "1704823306.391299",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "gratitude-thank-you",
+        "count": 1,
+        "users": [
+          "U057V00Q5EU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vVSGp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all, I have created a PR for uploading any image from your local machine. However, there are some changes that both of you need to do after you pull it in your local machine. Let me explain. Find the below line in the code.\nPath path = Paths.get(File.separator+\"Users\"+File.separator+\"sugan\"+File.separator +\"IdeaProjects\"+File.separator +\"liftoff-group-2\"+File.separator +\"src\"+File.separator +\"main\"+File.separator+\"resources\"+File.separator+\"static\"+File.separator+\"image\"+File.separator + file.getOriginalFilename());\nand replace the path to project folder with your path to the project folder. Right now it points to my project folder. I think its on line 450 in ItineraryController class in Intellij."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c10541c8-27c1-49df-ae97-3004058e4b4e",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "please message me if you have any doubts.. I can also help you make the changes, if we can screen share!",
+    "ts": "1704823456.454219",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0EPhK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "please message me if you have any doubts.. I can also help you make the changes, if we can screen share!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "049fcab0-e1d1-452a-971c-6e2bdec50298",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "All, I have created the review create and view functionality PR if someone could please review that would be awesome!",
+    "ts": "1704835554.194639",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Acryn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "All, I have created the review create and view functionality PR if someone could please review that would be awesome!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "14c278f1-8458-4904-9580-dec9b2289e36",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "Also \u003c@U057V00Q5EU\u003e you might be interested in using the new Review page I created for displaying the weather data?",
+    "ts": "1704835983.466699",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iDUUz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also "
+              },
+              {
+                "type": "user",
+                "user_id": "U057V00Q5EU"
+              },
+              {
+                "type": "text",
+                "text": " you might be interested in using the new Review page I created for displaying the weather data?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

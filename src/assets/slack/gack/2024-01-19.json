@@ -1,0 +1,98 @@
+[
+  {
+    "client_msg_id": "686a94b5-98d0-4825-bbd8-3009a36ac315",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I wasn't asking for a walk through. Similar to how Ryan asked where your username cookie was, I simply was asking for the file name. You had already told me what was needed in it. I don't see that as a walkthrough. Cheers",
+    "ts": "1705628397.493659",
+    "thread_ts": "1705614937.661669",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3Te7h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I wasn't asking for a walk through. Similar to how Ryan asked where your username cookie was, I simply was asking for the file name. You had already told me what was needed in it. I don't see that as a walkthrough. Cheers"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5a541bca-6e83-4679-8f1c-51874c27f2cd",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Hi Marleny, thank you for your reply.  I understand that is your perspective. I feel as though--through all of the meetings, planning sessions, and group chats--I have provided more answers to you than anyone else in the group, and also that I have answered the same questions repeatedly. I don't say this to single you out or guilt you, but to really just to say that I am very sorry that you feel you have not received adequate assistance from me. I do not think that I could have offered more support.\n\nTaking on app creation from the ground up is a tall order, and beyond working on and troubleshooting our own features, there is a real limit to how much time we can spend helping on other features.\n\nSuburwa, Ryan and I had understood you to be much further along in the development of your own features. To have you miss the planned final merge session on Monday, and then tell us only 24 hours out from the deadline that your feature is far from complete, and that your app does not run, does not set a solid foundation on which anyone can assist you.\n\nUltimately, you told us that you were not going to do your feature the night before the whole thing was due, leaving us in a position where we all felt that you had withdrawn from the project. We then needed to scramble to complete your feature in the last 20 hours while also debugging and refining our own features in the merged app.\n\nWhen you contacted the group today, you said \"I need to now exactly which files of yours and Ryan's I need to insert the code needed you stated last night, to achieve the functionality intended by the group.\" This is not a question and is also very hard to understand. The function of DTOs, Model classes and backend Repository interfaces is not something that I can give a crash course on 4 hours before our project is due. It is something that I trust you know about from your experiences in this class and from all of our group meetings and planning sessions. We had already, recently and previously, agreed that your data would be sent to the beer repository. As you know, the repository you are sending data to determines which specific DTO, Model classes and Repository interfaces you would use. If you wanted to add fields, you would do so by editing the associated DTO, Model and Repository interfaces. You'd then also create a handler function inside of a controller. I believe that you already know these fundamentals, so other than reiterating which repository we agreed to send the data to, which I had done less than 12 hours prior in the same group chat, I do not understand how I could have helped without giving a very extensive walkthrough. Which, as I said, feels to me like both overstepping my role as your teammate, and an act of disrespect to you as an esteemed colleague.\n\nThis final project is now over. I appreciate you ideas and your role in spitballing the app. I also appreciate all of your feedback about app development and communication. It will help me to become a better communicator and teammate. I hope that you may feel similarly. Obviously, please feel free to keep developing your features as you'd like. I know I speak for the group when I say that we'd love to see you have a cleanly running Marleny branch with some cool features.",
+    "ts": "1705634352.524509",
+    "thread_ts": "1705614937.661669",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7BxLL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Marleny, thank you for your reply.  I understand that is your perspective. I feel as though--through all of the meetings, planning sessions, and group chats--I have provided more answers to you than anyone else in the group, and also that I have answered the same questions repeatedly. I don't say this to single you out or guilt you, but to really just to say that I am very sorry that you feel you have not received adequate assistance from me. I do not think that I could have offered more support.\n\nTaking on app creation from the ground up is a tall order, and beyond working on and troubleshooting our own features, there is a real limit to how much time we can spend helping on other features.\n\nSuburwa, Ryan and I had understood you to be much further along in the development of your own features. To have you miss the planned final merge session on Monday, and then tell us only 24 hours out from the deadline that your feature is far from complete, and that your app does not run, does not set a solid foundation on which anyone can assist you.\n\nUltimately, you told us that you were not going to do your feature the night before the whole thing was due, leaving us in a position where we all felt that you had withdrawn from the project. We then needed to scramble to complete your feature in the last 20 hours while also debugging and refining our own features in the merged app.\n\nWhen you contacted the group today, you said \"I need to now exactly which files of yours and Ryan's I need to insert the code needed you stated last night, to achieve the functionality intended by the group.\" This is not a question and is also very hard to understand. The function of DTOs, Model classes and backend Repository interfaces is not something that I can give a crash course on 4 hours before our project is due. It is something that I trust you know about from your experiences in this class and from all of our group meetings and planning sessions. We had already, recently and previously, agreed that your data would be sent to the beer repository. As you know, the repository you are sending data to determines which specific DTO, Model classes and Repository interfaces you would use. If you wanted to add fields, you would do so by editing the associated DTO, Model and Repository interfaces. You'd then also create a handler function inside of a controller. I believe that you already know these fundamentals, so other than reiterating which repository we agreed to send the data to, which I had done less than 12 hours prior in the same group chat, I do not understand how I could have helped without giving a very extensive walkthrough. Which, as I said, feels to me like both overstepping my role as your teammate, and an act of disrespect to you as an esteemed colleague.\n\nThis final project is now over. I appreciate you ideas and your role in spitballing the app. I also appreciate all of your feedback about app development and communication. It will help me to become a better communicator and teammate. I hope that you may feel similarly. Obviously, please feel free to keep developing your features as you'd like. I know I speak for the group when I say that we'd love to see you have a cleanly running Marleny branch with some cool features."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

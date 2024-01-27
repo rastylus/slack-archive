@@ -1,0 +1,929 @@
+[
+  {
+    "client_msg_id": "f00976c2-a1f5-4cb2-9c72-53a834c2fd02",
+    "type": "message",
+    "user": "U056ZDVQRL3",
+    "text": "Is there a recording for Thursday's lecture by chance? I was sick as well and I'm trying to play catch-up now.",
+    "ts": "1698626936.596129",
+    "thread_ts": "1698626936.596129",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U050FPSA3DH",
+        "ts": "1698627030.582039"
+      }
+    ],
+    "latest_reply": "1698627030.582039",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rjM1Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is there a recording for Thursday's lecture by chance? I was sick as well and I'm trying to play catch-up now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5254288179559_8ccab3e3f6cddd72d402_72.jpg",
+      "first_name": "Christopher",
+      "real_name": "Christopher Deo",
+      "display_name": "Chris",
+      "team": "T050CSX3EMT",
+      "name": "chris",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U050FPSA3DH"
+    ]
+  },
+  {
+    "client_msg_id": "F80523EB-4FC6-401F-9BDF-B2120365F749",
+    "type": "message",
+    "user": "U050FPSA3DH",
+    "text": "I was also out sick. Everyone watched the lecture I gave last March on the same chapter. I will add it to the YouTube playlist in a few minutes. Same goes for studio review ",
+    "ts": "1698627030.582039",
+    "thread_ts": "1698626936.596129",
+    "parent_user_id": "U056ZDVQRL3",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9zPoH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was also out sick"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Everyone watched the lecture I gave last March on the same chapter"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " I will add it to the YouTube playlist in a few minutes"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Same goes for studio review "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5250305694433_62d56e5a7ac1aa48f553_72.jpg",
+      "first_name": "Carrie",
+      "real_name": "Carrie Jones",
+      "display_name": "Lead Instructor - Carrie Jones",
+      "team": "T050CSX3EMT",
+      "name": "cjones.renaissancewom",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a371842a-b753-4f84-9c18-8687eec63636",
+    "type": "message",
+    "user": "U0571RPHQN9",
+    "text": "\u003c@U050FPSA3DH\u003e In the recorded lecture, you mentioned seeing how your id auto incremented values jumped from 1 to 51. I'm seeing the same thing when I start and stop the server and not able to find an explanation.",
+    "ts": "1698692219.436449",
+    "thread_ts": "1698692219.436449",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U050FPSA3DH",
+        "ts": "1698692324.813429"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1699121106.255079"
+      }
+    ],
+    "latest_reply": "1699121106.255079",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JiqsK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U050FPSA3DH"
+              },
+              {
+                "type": "text",
+                "text": " In the recorded lecture, you mentioned seeing how your id auto incremented values jumped from 1 to 51. I'm seeing the same thing when I start and stop the server and not able to find an explanation."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239873846917_0d708c72e3c408b436c1_72.png",
+      "first_name": "Dustin",
+      "real_name": "Dustin Friesen",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "dustinfriesen.dev",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U050FPSA3DH",
+      "U0575U6RCKC"
+    ]
+  },
+  {
+    "client_msg_id": "2ece1f9b-5385-4f65-a452-c14f406d752f",
+    "type": "message",
+    "user": "U050FPSA3DH",
+    "text": "Yes! That is the one thing that is different in my new slides (which are uploaded) from the last time I taught this. Use the annotation *`@GeneratedValue(strategy = GenerationType.IDENTITY)` on `id`*",
+    "ts": "1698692324.813429",
+    "thread_ts": "1698692219.436449",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U0571RPHQN9",
+          "U056Y707Y14"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U05EE11SB6D"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "05k0Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes! That is the one thing that is different in my new slides (which are uploaded) from the last time I taught this. Use the annotation "
+              },
+              {
+                "type": "text",
+                "text": "@GeneratedValue(strategy = GenerationType.IDENTITY)",
+                "style": {
+                  "bold": true,
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " on ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "id",
+                "style": {
+                  "bold": true,
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5250305694433_62d56e5a7ac1aa48f553_72.jpg",
+      "first_name": "Carrie",
+      "real_name": "Carrie Jones",
+      "display_name": "Lead Instructor - Carrie Jones",
+      "team": "T050CSX3EMT",
+      "name": "cjones.renaissancewom",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2ece1f9b-5385-4f65-a452-c14f406d752f",
+    "type": "message",
+    "user": "U050FPSA3DH",
+    "text": "Yes! That is the one thing that is different in my new slides (which are uploaded) from the last time I taught this. Use the annotation *`@GeneratedValue(strategy = GenerationType.IDENTITY)` on `id`*",
+    "ts": "1698692324.813429",
+    "thread_ts": "1698692219.436449",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U0571RPHQN9",
+          "U056Y707Y14"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U05EE11SB6D"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "05k0Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes! That is the one thing that is different in my new slides (which are uploaded) from the last time I taught this. Use the annotation "
+              },
+              {
+                "type": "text",
+                "text": "@GeneratedValue(strategy = GenerationType.IDENTITY)",
+                "style": {
+                  "bold": true,
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " on ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "id",
+                "style": {
+                  "bold": true,
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5250305694433_62d56e5a7ac1aa48f553_72.jpg",
+      "first_name": "Carrie",
+      "real_name": "Carrie Jones",
+      "display_name": "Lead Instructor - Carrie Jones",
+      "team": "T050CSX3EMT",
+      "name": "cjones.renaissancewom",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "94408ba6-3685-482b-bba5-7ff87f1a0b0d",
+    "type": "message",
+    "user": "U0571RPHQN9",
+    "text": "That fixed it! And it also fixed a job_seq, a employer_seq, and a skill_seq table from showing up in my schema that I wasn't seeing in the examples or on the videos. Thank you!!",
+    "ts": "1698693023.895949",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U050FPSA3DH"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U056WKE4W77",
+          "U057HMJ9QTB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jiSW8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That fixed it! And it also fixed a job_seq, a employer_seq, and a skill_seq table from showing up in my schema that I wasn't seeing in the examples or on the videos. Thank you!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239873846917_0d708c72e3c408b436c1_72.png",
+      "first_name": "Dustin",
+      "real_name": "Dustin Friesen",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "dustinfriesen.dev",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B47C1E84-CC70-418B-B7B5-1E8D67257174",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "is there no studio tonight?",
+    "ts": "1698700262.911699",
+    "thread_ts": "1698700262.911699",
+    "reply_count": 7,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698700480.014109"
+      },
+      {
+        "user": "U05656EM4EM",
+        "ts": "1698700595.739139"
+      },
+      {
+        "user": "U057ST09U6M",
+        "ts": "1698700608.641169"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698701610.215839"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698701644.797449"
+      },
+      {
+        "user": "U057ST09U6M",
+        "ts": "1698701693.159369"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1698701696.174729"
+      }
+    ],
+    "latest_reply": "1698701696.174729",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "99XVL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "is there no studio tonight?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U05656EM4EM",
+      "U056Q9W022K",
+      "U057ST09U6M"
+    ]
+  },
+  {
+    "client_msg_id": "59DDD028-0757-4C7B-862F-0973C621AD33",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I had the same question and in Carrie’s slides it says we will have time to work on GA during studio tonight and Thursday. ",
+    "ts": "1698700480.014109",
+    "thread_ts": "1698700262.911699",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gmvUF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I had the same question and in Carrie’s slides it says we will have time to work on GA during studio tonight and Thursday. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "30c516ae-2f5d-49a9-a9ba-99a0f4d6910f",
+    "type": "message",
+    "user": "U05656EM4EM",
+    "text": "catch up day today I believe",
+    "ts": "1698700595.739139",
+    "thread_ts": "1698700262.911699",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8aXo0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "catch up day today I believe"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-08/5546028551765_ef5cfd16f93e919dda43_72.jpg",
+      "first_name": "TA",
+      "real_name": "TA Sammie Mendez (she/her)",
+      "display_name": "TA - Sammie",
+      "team": "T050CSX3EMT",
+      "name": "sammierosado",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1EFFD4C1-80EA-432F-B22C-EF046C1B94A9",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "ahhhh so no lecture either?",
+    "ts": "1698700608.641169",
+    "thread_ts": "1698700262.911699",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "chx56",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ahhhh so no lecture either?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9FF76CAB-B8AF-4F60-ADD7-ABBE9809FA3C",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "No there is a lecture",
+    "ts": "1698701610.215839",
+    "thread_ts": "1698700262.911699",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6o+wc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No there is a lecture"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1157A194-BAF4-46FC-BFB7-4C196CC2E403",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "On both occasions. But in place of studios they are giving us in class time to work on assignments ",
+    "ts": "1698701644.797449",
+    "thread_ts": "1698700262.911699",
+    "edited": {
+      "user": "U056Q9W022K",
+      "ts": "1698701717.000000"
+    },
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Oc0pZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "On both occasions. But in place of studios they are giving us in class time to work on assignments "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1700B2BF-9102-4C0D-A77A-F7AD5228BBEF",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "ooooo nice, okay!",
+    "ts": "1698701693.159369",
+    "thread_ts": "1698700262.911699",
+    "parent_user_id": "U057ST09U6M",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/xr51",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ooooo nice, okay!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "80DE5665-826B-4E69-9B05-FDDFECF5AA9A",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "For clarity ",
+    "ts": "1698701696.174729",
+    "thread_ts": "1698700262.911699",
+    "parent_user_id": "U057ST09U6M",
+    "files": [
+      {
+        "id": "F0645H8G2HW",
+        "created": 1698701691,
+        "timestamp": 1698701691,
+        "name": "IMG_2326.jpg",
+        "title": "IMG_2326",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U056Q9W022K",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 51121,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F0645H8G2HW/img_2326.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F0645H8G2HW/download/img_2326.jpg",
+        "original_h": 660,
+        "original_w": 1170,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F0645H8G2HW-ec1fd634bf/img_2326_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F0645H8G2HW-ec1fd634bf/img_2326_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F0645H8G2HW-ec1fd634bf/img_2326_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F0645H8G2HW-ec1fd634bf/img_2326_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 203,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F0645H8G2HW-ec1fd634bf/img_2326_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 271,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F0645H8G2HW-ec1fd634bf/img_2326_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 406,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F0645H8G2HW-ec1fd634bf/img_2326_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 542,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F0645H8G2HW-ec1fd634bf/img_2326_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 578,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056Q9W022K/F0645H8G2HW/img_2326.jpg",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F0645H8G2HW-69747b4dfe",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GB0S3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For clarity "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

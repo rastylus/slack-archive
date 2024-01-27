@@ -1,0 +1,161 @@
+[
+  {
+    "client_msg_id": "c916e413-06b9-46da-852f-21bf194c7126",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "collin - we just ended the breakout room to continue individual work. Ryan is still working on database, Artur is finalizing user auth, and I’m going to start working on search functionality",
+    "ts": "1702344866.008399",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DIffJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "collin - we just ended the breakout room to continue individual work. Ryan is still working on database, Artur is finalizing user auth, and I’m going to start working on search functionality"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a52b91de-f2d9-47df-8d6e-e61c0d49a3cf",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Oh okay. I just finished up with Cory. We ended up fixing the issue, thankfully it was pretty minor. So I have nearly all the methods built out for the information we can get back from the free api.\n\nThe only other parts I need to build are methods to access the photos. They also have a plant FAQ that's free if we want to incorporate that too.\n\nIf we want hardiness we will have to pay for the $34/mo access. I wouldn't mind paying one or two months, but if we let the payment lapse and we want to show off this project later or whatever, that could possible break our site.\n\nHere's the free information we will be able to get from the API:\n1. Specific care information for each plant including sunlight, watering and pruning needs.\n2. Growth cycle (Perennial, Annual, etc) values of every plant and the ability to sort a list by growth cycle.\n3. Sorting a list of plants by sunlight needs.\n4. Sorting a list plants by watering needs.\n5. Photos of every plant.\nAny other response data from the API costs money. So we should decide if we need it in our app. I'm voting no just because I'm afraid it might break our app in the future if we stop paying for the premium api tier.",
+    "ts": "1702346859.486409",
+    "edited": {
+      "user": "U0575U6RCKC",
+      "ts": "1702347118.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rio6R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh okay. I just finished up with Cory. We ended up fixing the issue, thankfully it was pretty minor. So I have nearly all the methods built out for the information we can get back from the free api.\n\nThe only other parts I need to build are methods to access the photos. They also have a plant FAQ that's free if we want to incorporate that too.\n\nIf we want hardiness we will have to pay for the $34/mo access. I wouldn't mind paying one or two months, but if we let the payment lapse and we want to show off this project later or whatever, that could possible break our site.\n\nHere's the free information we will be able to get from the API:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Specific care information for each plant including sunlight, watering and pruning needs.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Growth cycle (Perennial, Annual, etc) values of every plant and the ability to sort a list by growth cycle.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Sorting a list of plants by sunlight needs.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Sorting a list plants by watering needs.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Photos of every plant.\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nAny other response data from the API costs money. So we should decide if we need it in our app. I'm voting no just because I'm afraid it might break our app in the future if we stop paying for the premium api tier."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9cd6ad7f-db80-4e20-aafd-315c55019d62",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Another thing Cory and I discussed was changing the merge settings in our repo from one to two people. That way it would take two of us to approve merges in the future and avoid any potential conflict. If we want to do that, Cory will change the settings for us.",
+    "ts": "1702347020.912379",
+    "edited": {
+      "user": "U0575U6RCKC",
+      "ts": "1702347163.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IIU72",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Another thing Cory and I discussed was changing the merge settings in our repo from one to two people. That way it would take two of us to approve merges in the future and avoid any potential conflict. If we want to do that, Cory will change the settings for us."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

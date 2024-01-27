@@ -1,0 +1,158 @@
+[
+  {
+    "client_msg_id": "8a0039d0-088a-49d3-9876-d008eebd4b11",
+    "type": "message",
+    "user": "U0574GXK1A9",
+    "text": "*Team Name:* Code Wranglers\n*Team Emoji:* Cowboy Hat",
+    "ts": "1701132621.913559",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fSVRv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Team Name:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " Code Wranglers\n"
+              },
+              {
+                "type": "text",
+                "text": "Team Emoji:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " Cowboy Hat"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-31/5352874414530_e7a209da9cc15e3491b1_72.png",
+      "first_name": "Muhammad",
+      "real_name": "Muhammad Qayyum",
+      "display_name": "Muhammad Qayyum",
+      "team": "T050CSX3EMT",
+      "name": "msqgrewal123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U055RLYGGDR",
+    "text": "has renamed the channel from \"aaron_group3\" to \"-code-wranglers\"",
+    "ts": "1701132648.262099",
+    "subtype": "channel_name",
+    "name": "-code-wranglers",
+    "old_name": "aaron_group3",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181298634727_0020b5616f863c29ba99_72.png",
+      "first_name": "Aaron",
+      "real_name": "Aaron Campf",
+      "display_name": "TA - Aaron Campf",
+      "team": "T050CSX3EMT",
+      "name": "aaroncampf",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U055RLYGGDR",
+    "text": "has renamed the channel from \"-code-wranglers\" to \"code-wranglers\"",
+    "ts": "1701132675.123319",
+    "subtype": "channel_name",
+    "name": "code-wranglers",
+    "old_name": "-code-wranglers",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181298634727_0020b5616f863c29ba99_72.png",
+      "first_name": "Aaron",
+      "real_name": "Aaron Campf",
+      "display_name": "TA - Aaron Campf",
+      "team": "T050CSX3EMT",
+      "name": "aaroncampf",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U055RLYGGDR",
+    "text": "set the channel topic: :face_with_cowboy_hat:",
+    "ts": "1701132677.659119",
+    "subtype": "channel_topic",
+    "topic": ":face_with_cowboy_hat:",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181298634727_0020b5616f863c29ba99_72.png",
+      "first_name": "Aaron",
+      "real_name": "Aaron Campf",
+      "display_name": "TA - Aaron Campf",
+      "team": "T050CSX3EMT",
+      "name": "aaroncampf",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

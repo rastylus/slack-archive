@@ -1,0 +1,943 @@
+[
+  {
+    "client_msg_id": "d073e3b9-a2d7-4f2a-8435-1c450451c718",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "If we are meeting this weekend: I am completely free after work tomorrow, free after 12 pm Saturday, and completely free on Sunday.",
+    "ts": "1701955966.147189",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TrlXT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If we are meeting this weekend: I am completely free after work tomorrow, free after 12 pm Saturday, and completely free on Sunday."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C31E3510-AC8E-402D-880F-A858FFF3E607",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "When’re you off tomorrow \u003c@U05776GF9CL\u003e? I’m available between 3-5pm. Maybe we can get together and get the workspace initialized and setup for everyone to clone, if everyone else is free?",
+    "ts": "1701964674.102569",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q95he",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When’re"
+              },
+              {
+                "type": "text",
+                "text": " you off tomorrow "
+              },
+              {
+                "type": "user",
+                "user_id": "U05776GF9CL"
+              },
+              {
+                "type": "text",
+                "text": "? I’m available between 3-5pm. Maybe we can get together and get the workspace initialized and setup for everyone to clone, if everyone else is free?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "22FEA227-6093-4E38-BF5A-EC888C4E6118",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "I’m not sure if I’ll be free Saturday at all. But it’d be nice to have the project set up and ready to start working on our features on Sunday. I’ll be free mostly all of Sunday",
+    "ts": "1701964744.273259",
+    "edited": {
+      "user": "U05743K5BHT",
+      "ts": "1701964767.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7R8HT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m not sure if I’ll be free Saturday at all. But it’d be nice to have the project set up and ready to start working on our features on Sunday. I’ll be free mostly all of Sunday"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8aca5400-a148-4709-9abc-7c4f114cd095",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "I'm off around 5:30 tomorrow",
+    "ts": "1701964775.723649",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4bVb+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm off around 5:30 tomorrow"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "67F4A37B-E777-4F80-92EC-61A49A8CECAD",
+    "type": "message",
+    "user": "U05775TUWQ4",
+    "text": "We can do today after class if we have time , I am available tomorrow too after 3 ",
+    "ts": "1701964790.542009",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "83qop",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We can do today after class if we have time , I am available tomorrow too after 3 "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3144e3f86e67bf971fab36af5c233335.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "Pradeepa",
+      "real_name": "Pradeepa Senthilrajan",
+      "display_name": "Pradeepa Senthilrajan",
+      "team": "T050CSX3EMT",
+      "name": "pradeepa.senthil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "443D8A0E-5075-4263-97ED-40B3F2A174FF",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Hmmmm maybe tonight then? Or worst case Sunday and it’ll just be a longggg day of coding and setup :nerd_face: ",
+    "ts": "1701964851.648389",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HE7oW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hmmmm maybe tonight then? Or worst case Sunday and "
+              },
+              {
+                "type": "text",
+                "text": "it’ll"
+              },
+              {
+                "type": "text",
+                "text": " just be a longggg day of coding and setup "
+              },
+              {
+                "type": "emoji",
+                "name": "nerd_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6FB8CE2E-1F1E-4753-A6ED-FF8274B340DD",
+    "type": "message",
+    "user": "U05775TUWQ4",
+    "text": ":+1::skin-tone-2: ",
+    "ts": "1701964873.771749",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kSdAj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "thumbsup",
+                "skin_tone": 2
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3144e3f86e67bf971fab36af5c233335.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "Pradeepa",
+      "real_name": "Pradeepa Senthilrajan",
+      "display_name": "Pradeepa Senthilrajan",
+      "team": "T050CSX3EMT",
+      "name": "pradeepa.senthil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7AFF57E5-B2EF-4FEC-9B23-2A37194549D0",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "I just can’t be up too late. Gotta be up at 5am for work",
+    "ts": "1701964878.934199",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wOFbc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just "
+              },
+              {
+                "type": "text",
+                "text": "can’t"
+              },
+              {
+                "type": "text",
+                "text": " be up too late. Gotta be up at 5am for work"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c62b3475-56bc-4e34-825f-a3db572eec6d",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "Hey All,\nNow I feel better so I am getting ready to sit and finish setup our project",
+    "ts": "1701964908.583109",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5Kjwe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey All,\nNow I feel better so I am getting ready to sit and finish setup our project"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8AB7E09B-63F5-45B2-8E05-58643C636224",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Hold off on that \u003c@U057840C37E\u003e we’re planning to do setup together either tonight or Sunday to make sure we have everything that we need at the start to hopefully avoid some confusion and complications down the road",
+    "ts": "1701965021.469549",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05775TUWQ4"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U05776GF9CL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DbZvg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hold off on that "
+              },
+              {
+                "type": "user",
+                "user_id": "U057840C37E"
+              },
+              {
+                "type": "text",
+                "text": " we’re planning to do setup together either tonight or Sunday to make sure we have everything that we need at the start to hopefully avoid some confusion and complications down the road"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5e5f3007-e78d-418f-afbd-d080ed34ccbd",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "sure, then we will talk later tonight",
+    "ts": "1701965083.218969",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U05743K5BHT",
+          "U05775TUWQ4"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U05776GF9CL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZMof8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sure, then we will talk later tonight"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A9AA897B-D66B-4379-AC79-8C7C7446B617",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "I think \u003c@U05775TUWQ4\u003e was right and our starting workspace should be completely setup and ready for everyone to clone before we start working independently",
+    "ts": "1701965085.603189",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05775TUWQ4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LR1aT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think "
+              },
+              {
+                "type": "user",
+                "user_id": "U05775TUWQ4"
+              },
+              {
+                "type": "text",
+                "text": " was right and our starting workspace should be completely setup and ready for everyone to clone before we start working independently"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "716980B9-D21A-4D2C-9397-08796714B935",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "I can do tonight!",
+    "ts": "1701988984.176399",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05775TUWQ4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ojiqn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can do tonight!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A3CF54F4-0B22-43DA-AA0D-F25A55C45055",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "Sorry, I haven’t been getting my notifications for slack",
+    "ts": "1701989000.841099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "s6a7K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry, I haven’t been getting my notifications for slack"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "19cb678b-c1c1-47ca-a8c5-65103aca36d3",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "Do you need help for setup notification",
+    "ts": "1701989106.484189",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "22+lu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do you need help for setup notification"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "521240E8-9A03-4968-92C7-B4694A540D02",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "It’s my phone. I have a Galaxy Note 8, which is an older android. Slack has recently announced that the app will not be supported on my device any longer, and any time I try to login in through the browser it redirects to the app which won’t open anymore.\n",
+    "ts": "1701989225.455539",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6lbLx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It’s my phone. I have a Galaxy Note 8, which is an older android. Slack has recently announced that the app will not be supported on my device any longer, and any time I try to login in through the browser it redirects to the app which won’t open anymore.\n"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b8c119ba-3825-42b9-89cd-d19afbe4761c",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": "did you update your phone",
+    "ts": "1701989730.184289",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TrQVH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "did you update your phone"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3b7754f4-f607-48ff-89ba-f53666593d25",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "Yeah",
+    "ts": "1701991408.945469",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DD2hh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

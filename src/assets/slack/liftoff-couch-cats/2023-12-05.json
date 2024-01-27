@@ -1,0 +1,1276 @@
+[
+  {
+    "client_msg_id": "3d170f3b-9393-403d-add6-aa4bab6f67d7",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Based on what they said in lecture, I will delete the project I set up because our TA actually has to set it up since he is the repo admin. That way we don't get confused.",
+    "ts": "1701735694.045759",
+    "thread_ts": "1701482078.695939",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056Y707Y14"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1UW0P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Based on what they said in lecture, I will delete the project I set up because our TA actually has to set it up since he is the repo admin. That way we don't get confused."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5b95452c-6e6b-4121-8dcf-316e25747190",
+    "type": "message",
+    "user": "U055S98U8G2",
+    "text": "I will set it up now",
+    "ts": "1701735724.235959",
+    "thread_ts": "1701482078.695939",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Kn2hl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I will set it up now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5208942534833_61c4df60725855ac84c1_72.jpg",
+      "first_name": "Cory",
+      "real_name": "Cory Pride",
+      "display_name": "TA-Cory Pride (He/Him)",
+      "team": "T050CSX3EMT",
+      "name": "cory.pride83",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9dd86c97-dcb9-4602-bd8c-0f19eb79c72f",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "cool cool, thanks! I was trying to save you a step.",
+    "ts": "1701735754.563399",
+    "thread_ts": "1701482078.695939",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lOMjK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "cool cool, thanks! I was trying to save you a step."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3af11038-7b88-42ff-869d-5e4536f3412c",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "*Here is what we said we would aim for for next week team:* \n\n*Erin/Yumi:* \n• Database set up\n• User Authentication and Watchlist Controllers ready to test in postman \n• Relationship and corresponding table in database between user and movies established to create the watchlist\n*Eric:* \n• Finish the home page \n• Get most of the filter functionality done and working\n*Merve:*\n• User page login\n• Watchlist\n",
+    "ts": "1701742394.495169",
+    "thread_ts": "1701742394.495169",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1701875087.376609"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702332852.764799"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1702335751.897839"
+      }
+    ],
+    "latest_reply": "1702335751.897839",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NPC4a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Here is what we said we would aim for for next week team: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Erin/Yumi: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Database set up\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"User Authentication and Watchlist Controllers ready to test in postman \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Relationship and corresponding table in database between user and movies established to create the watchlist\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Eric: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Finish the home page \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Get most of the filter functionality done and working\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Merve:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"User page login\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Watchlist\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U057C75RYBB"
+    ]
+  },
+  {
+    "client_msg_id": "8351599d-91ad-40c9-9765-f915544469ea",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "sorry \u003c@U0578M93BPE\u003e I just logged off right as you were asking a question! want me to hop back on the call?",
+    "ts": "1701742550.876179",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Qs5Jv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sorry "
+              },
+              {
+                "type": "user",
+                "user_id": "U0578M93BPE"
+              },
+              {
+                "type": "text",
+                "text": " I just logged off right as you were asking a question! want me to hop back on the call?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "852dc38a-1cbf-4105-80b7-4e96e653a938",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "ok  I saw",
+    "ts": "1701742608.309469",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XRmpG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok  I saw"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e9d92782-b190-4a3b-9b6c-fb577897e34c",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "thank you Yumi",
+    "ts": "1701742621.357289",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ollz5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you Yumi"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8500885d-ee24-493e-bd6e-9319be1953d1",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "we intended to merge those pull requests last night, right? I think we need to hit an extra button to make that happen- is it ok if I do that?",
+    "ts": "1701793151.473359",
+    "thread_ts": "1701793151.473359",
+    "reply_count": 8,
+    "replies": [
+      {
+        "user": "U056Y707Y14",
+        "ts": "1701793464.279009"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1701802091.303169"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1701802158.575149"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1701803495.897499"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1701805086.252159"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1701806235.821019"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1701806256.467859"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1701807018.791229"
+      }
+    ],
+    "latest_reply": "1701807018.791229",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b7v/f",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we intended to merge those pull requests last night, right? I think we need to hit an extra button to make that happen- is it ok if I do that?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U056Y707Y14"
+    ]
+  },
+  {
+    "client_msg_id": "43a83b9c-ab0b-4e59-877c-ba1afac40088",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "went ahead and merged mine bc I can’t figure out how else to access my changes (I already deleted my clone so I could fork it and re-clone) but will hold off on Erin’s just in case",
+    "ts": "1701793464.279009",
+    "thread_ts": "1701793151.473359",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Nwfjo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "went ahead and merged mine bc I can’t figure out how else to access my changes (I already deleted my clone so I could fork it and re-clone) but will hold off on Erin’s just in case"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bb12e8a4-daed-4606-b643-97831cd265d5",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "your changes should still be part of the original branch so if you need to look at just them, you could view just your branch, right?",
+    "ts": "1701802091.303169",
+    "thread_ts": "1701793151.473359",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9+xKS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "your changes should still be part of the original branch so if you need to look at just them, you could view just your branch, right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "26cb9df6-cf04-4777-9a31-1f16261bf1fe",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "so I think we can merge mine as well \u003c@U056Y707Y14\u003e",
+    "ts": "1701802158.575149",
+    "thread_ts": "1701793151.473359",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2mVQy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so I think we can merge mine as well "
+              },
+              {
+                "type": "user",
+                "user_id": "U056Y707Y14"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ab8371ba-f892-4241-a02d-bd83116c210f",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "great, I’ll do that now!",
+    "ts": "1701803495.897499",
+    "thread_ts": "1701793151.473359",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "orUAv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "great, I’ll do that now!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "585808ff-96b6-47e6-8bd1-d06cdf2d06ab",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "just FYI I’m taking a stab at setting up a many-to-many relationship for the watchlist, doubt I’ll get that far but it seemed like it might be helpful to have something written that we can look at together tonight!",
+    "ts": "1701805086.252159",
+    "thread_ts": "1701793151.473359",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mRUOJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "just FYI I’m taking a stab at setting up a many-to-many relationship for the watchlist, doubt I’ll get that far but it seemed like it might be helpful to have something written that we can look at together tonight!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2652695d-2378-46fd-a5f6-487d3a317f8d",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "sounds good! I had my husband explain to me with his code which is C# and Angular but similar enough how a front end and back end work together so I am going to try to write at least one method that to test via Postman and to use to try to explain to you how it works the way I understand it! Worst case, I'll make him come in and explain it to both of us. :smiley:",
+    "ts": "1701806235.821019",
+    "thread_ts": "1701793151.473359",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fQDf3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sounds good! I had my husband explain to me with his code which is C# and Angular but similar enough how a front end and back end work together so I am going to try to write at least one method that to test via Postman and to use to try to explain to you how it works the way I understand it! Worst case, I'll make him come in and explain it to both of us. "
+              },
+              {
+                "type": "emoji",
+                "name": "smiley",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "52FED464-D17A-4AA5-969F-3A4D123A0AA5",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "Amazing, thank you!!",
+    "ts": "1701806256.467859",
+    "thread_ts": "1701793151.473359",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z7Hs/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Amazing, thank you!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bc8dbdec-0f0f-4a6c-8bc6-50bdcfce38e6",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "got the manytomany relationship working and generating a table in mysql! gonna leave it at that for now but see you tonight for controller/API stuff!",
+    "ts": "1701807018.791229",
+    "thread_ts": "1701793151.473359",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "meow_party",
+        "count": 1,
+        "users": [
+          "U056Q9W022K"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "s02Wm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "got the manytomany relationship working and generating a table in mysql! gonna leave it at that for now but see you tonight for controller/API stuff!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "329d1daf-2448-4c69-b551-5f1fcff752dd",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "we can use my zoom link if that works for people!",
+    "ts": "1701820595.033899",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dlvzl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we can use my zoom link if that works for people!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "be22161b-db2a-44f9-a84d-9bad11222fc8",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "Yumi Shiroma (she/her) is inviting you to a scheduled Zoom meeting.\n\nTopic: Yumi Shiroma (she/her)’s Personal Meeting Room\n\nJoin Zoom Meeting\n\u003chttps://rutgers.zoom.us/j/8803421134?pwd=NXBuRllJWngwbkFXL29GZlRTSm9Mdz09\u003e\n\nJoin by SIP\n\u003cmailto:8803421134@zoomcrc.com|8803421134@zoomcrc.com\u003e\n\nMeeting ID: \u003ctel:8803421134|880 342 1134\u003e\nPassword: 117565\nOne tap mobile\n\u003ctel:+13092053325|+13092053325\u003e,,8803421134# US\n\u003ctel:+13126266799|+13126266799\u003e,,8803421134# US (Chicago)\n\nJoin By Phone\n        \u003ctel:+13092053325|+1 309 205 3325\u003e US\n        \u003ctel:+13126266799|+1 312 626 6799\u003e US (Chicago)\n        \u003ctel:+16465588656|+1 646 558 8656\u003e US (New York)\n        \u003ctel:+16469313860|+1 646 931 3860\u003e US\n        \u003ctel:+13017158592|+1 301 715 8592\u003e US (Washington DC)\n        \u003ctel:+13052241968|+1 305 224 1968\u003e US\n        \u003ctel:+16892781000|+1 689 278 1000\u003e US\n        \u003ctel:+17193594580|+1 719 359 4580\u003e US\n        \u003ctel:+12532050468|+1 253 205 0468\u003e US\n        \u003ctel:+12532158782|+1 253 215 8782\u003e US (Tacoma)\n        \u003ctel:+13462487799|+1 346 248 7799\u003e US (Houston)\n        \u003ctel:+13602095623|+1 360 209 5623\u003e US\n        \u003ctel:+13863475053|+1 386 347 5053\u003e US\n        \u003ctel:+15074734847|+1 507 473 4847\u003e US\n        \u003ctel:+15642172000|+1 564 217 2000\u003e US\n        \u003ctel:+16694449171|+1 669 444 9171\u003e US\n        \u003ctel:+16699009128|+1 669 900 9128\u003e US (San Jose)\nMeeting ID: \u003ctel:8803421134|880 342 1134\u003e\nFind your local number: \u003chttps://rutgers.zoom.us/u/adanH3I4WQ\u003e\n\nJoin by Skype for Business\n\u003chttps://rutgers.zoom.us/skype/8803421134\u003e\n\nIf you have any questions, please \u0026lt;a href=“\u003chttps://it.rutgers.edu/help-support/\u003e”\u0026gt;contact the Office of Information Technology Help Desk\u0026lt;/a\u0026gt;",
+    "ts": "1701820599.538429",
+    "attachments": [
+      {
+        "fallback": "Information Technology: Help \u0026amp; Support - Information Technology",
+        "id": 1,
+        "title": "Help \u0026amp; Support - Information Technology",
+        "title_link": "https://it.rutgers.edu/help-support/",
+        "image_url": "https://it.rutgers.edu/wp-content/uploads/2018/07/General-2.jpg",
+        "service_name": "Information Technology",
+        "service_icon": "https://it.rutgers.edu/apple-touch-icon.png",
+        "from_url": "https://it.rutgers.edu/help-support/",
+        "original_url": "https://it.rutgers.edu/help-support/",
+        "fields": [
+          {
+            "title": "Est. reading time",
+            "value": "13 minutes",
+            "short": true
+          }
+        ],
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4fEmc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yumi Shiroma (she/her) is inviting you to a scheduled Zoom meeting.\n\nTopic: Yumi Shiroma (she/her)’s Personal Meeting Room\n\nJoin Zoom Meeting\n"
+              },
+              {
+                "type": "link",
+                "url": "https://rutgers.zoom.us/j/8803421134?pwd=NXBuRllJWngwbkFXL29GZlRTSm9Mdz09",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nJoin by SIP\n"
+              },
+              {
+                "type": "link",
+                "url": "mailto:8803421134@zoomcrc.com",
+                "text": "8803421134@zoomcrc.com"
+              },
+              {
+                "type": "text",
+                "text": "\n\nMeeting ID: "
+              },
+              {
+                "type": "link",
+                "url": "tel:8803421134",
+                "text": "880 342 1134"
+              },
+              {
+                "type": "text",
+                "text": "\nPassword: 117565\nOne tap mobile\n"
+              },
+              {
+                "type": "link",
+                "url": "tel:+13092053325",
+                "text": "+13092053325"
+              },
+              {
+                "type": "text",
+                "text": ",,8803421134# US\n"
+              },
+              {
+                "type": "link",
+                "url": "tel:+13126266799",
+                "text": "+13126266799"
+              },
+              {
+                "type": "text",
+                "text": ",,8803421134# US (Chicago)\n\nJoin By Phone\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+13092053325",
+                "text": "+1 309 205 3325"
+              },
+              {
+                "type": "text",
+                "text": " US\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+13126266799",
+                "text": "+1 312 626 6799"
+              },
+              {
+                "type": "text",
+                "text": " US (Chicago)\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+16465588656",
+                "text": "+1 646 558 8656"
+              },
+              {
+                "type": "text",
+                "text": " US (New York)\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+16469313860",
+                "text": "+1 646 931 3860"
+              },
+              {
+                "type": "text",
+                "text": " US\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+13017158592",
+                "text": "+1 301 715 8592"
+              },
+              {
+                "type": "text",
+                "text": " US (Washington DC)\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+13052241968",
+                "text": "+1 305 224 1968"
+              },
+              {
+                "type": "text",
+                "text": " US\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+16892781000",
+                "text": "+1 689 278 1000"
+              },
+              {
+                "type": "text",
+                "text": " US\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+17193594580",
+                "text": "+1 719 359 4580"
+              },
+              {
+                "type": "text",
+                "text": " US\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+12532050468",
+                "text": "+1 253 205 0468"
+              },
+              {
+                "type": "text",
+                "text": " US\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+12532158782",
+                "text": "+1 253 215 8782"
+              },
+              {
+                "type": "text",
+                "text": " US (Tacoma)\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+13462487799",
+                "text": "+1 346 248 7799"
+              },
+              {
+                "type": "text",
+                "text": " US (Houston)\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+13602095623",
+                "text": "+1 360 209 5623"
+              },
+              {
+                "type": "text",
+                "text": " US\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+13863475053",
+                "text": "+1 386 347 5053"
+              },
+              {
+                "type": "text",
+                "text": " US\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+15074734847",
+                "text": "+1 507 473 4847"
+              },
+              {
+                "type": "text",
+                "text": " US\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+15642172000",
+                "text": "+1 564 217 2000"
+              },
+              {
+                "type": "text",
+                "text": " US\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+16694449171",
+                "text": "+1 669 444 9171"
+              },
+              {
+                "type": "text",
+                "text": " US\n        "
+              },
+              {
+                "type": "link",
+                "url": "tel:+16699009128",
+                "text": "+1 669 900 9128"
+              },
+              {
+                "type": "text",
+                "text": " US (San Jose)\nMeeting ID: "
+              },
+              {
+                "type": "link",
+                "url": "tel:8803421134",
+                "text": "880 342 1134"
+              },
+              {
+                "type": "text",
+                "text": "\nFind your local number: "
+              },
+              {
+                "type": "link",
+                "url": "https://rutgers.zoom.us/u/adanH3I4WQ",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nJoin by Skype for Business\n"
+              },
+              {
+                "type": "link",
+                "url": "https://rutgers.zoom.us/skype/8803421134",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nIf you have any questions, please \u003ca href=“"
+              },
+              {
+                "type": "link",
+                "url": "https://it.rutgers.edu/help-support/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "”\u003econtact the Office of Information Technology Help Desk\u003c/a\u003e"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

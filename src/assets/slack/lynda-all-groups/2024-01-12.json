@@ -1,0 +1,110 @@
+[
+  {
+    "client_msg_id": "181071f4-f1e2-46cd-941c-72d2226850f3",
+    "type": "message",
+    "user": "U05775TUWQ4",
+    "text": "Do we have any attendance code today ?",
+    "ts": "1705023724.212279",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U056FFMNKJL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V3AQ8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do we have any attendance code today ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3144e3f86e67bf971fab36af5c233335.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "Pradeepa",
+      "real_name": "Pradeepa Senthilrajan",
+      "display_name": "Pradeepa Senthilrajan",
+      "team": "T050CSX3EMT",
+      "name": "pradeepa.senthil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6e38fafd-b9e4-4cff-ac34-4f1195033c09",
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "The attendance code for today is: *IndividualContributor*",
+    "ts": "1705023942.861319",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R4AZ5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The attendance code for today is: "
+              },
+              {
+                "type": "text",
+                "text": "IndividualContributor",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

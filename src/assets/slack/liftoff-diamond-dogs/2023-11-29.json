@@ -1,0 +1,694 @@
+[
+  {
+    "client_msg_id": "53aad5b1-f6b4-43ec-84ba-4dcb5187ce87",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Cory do you recommend watching all these or just pick and choose specific ones?",
+    "ts": "1701217458.381929",
+    "thread_ts": "1701214840.022319",
+    "parent_user_id": "U055S98U8G2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9MT2C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Cory do you recommend watching all these or just pick and choose specific ones?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2b024da2-41ea-49a8-aa6c-25190882570c",
+    "type": "message",
+    "user": "U055S98U8G2",
+    "text": "I recommend skimming thru them for what it is that you need to setup your project.",
+    "ts": "1701217532.002309",
+    "thread_ts": "1701214840.022319",
+    "parent_user_id": "U055S98U8G2",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U0575U6RCKC"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nPOyY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I recommend skimming thru them for what it is that you need to setup your project."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5208942534833_61c4df60725855ac84c1_72.jpg",
+      "first_name": "Cory",
+      "real_name": "Cory Pride",
+      "display_name": "TA-Cory Pride (He/Him)",
+      "team": "T050CSX3EMT",
+      "name": "cory.pride83",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "384ce6d2-4f3f-40a1-aef6-5b2bf730f970",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "I think we don't need to add all of our dependencies, I'm going different way - I deleted all dependencies I will not use in my auth branch and will add it on the road",
+    "ts": "1701223101.301019",
+    "thread_ts": "1701211794.898689",
+    "parent_user_id": "U056RCF9G87",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kZDv9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think we don't need to add all of our dependencies, I'm going different way - I deleted all dependencies I will not use in my auth branch and will add it on the road"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "53eb0696-8433-4399-a1d5-a8253d680ce3",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Are we all still planning on meeting up for a little bit around 5 today? I haven't gotten a ton done with the project yet, still getting my head around everything and refreshing up on parts of the course I was a little bit rusty in.",
+    "ts": "1701297058.283639",
+    "edited": {
+      "user": "U0575U6RCKC",
+      "ts": "1701297227.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bSefI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are we all still planning on meeting up for a little bit around 5 today? I haven't gotten a ton done with the project yet, still getting my head around everything and refreshing up on parts of the course I was a little bit rusty in."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1f6ebb26-30ab-41d7-b83e-7aadc3728341",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I do have some questions about database management and how we will accomplish it for the project. I'm familiar on how to set it up on my local machine in MySQL Workbench, but I'm assuming we would have to all have a way to connect to the same database, right?",
+    "ts": "1701297200.037959",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hTap3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I do have some questions about database management and how we will accomplish it for the project. I'm familiar on how to set it up on my local machine in MySQL Workbench, but I'm assuming we would have to all have a way to connect to the same database, right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1dd6a1bc-d02c-4c19-aa2b-7179c57665f9",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "i’m good to meet for a bit at 5. I’m just getting started on user stories, user flow chart, and rudimentary wireframes.",
+    "ts": "1701298705.215099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l8ih7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i’m good to meet for a bit at 5. I’m just getting started on user stories, user flow chart, and rudimentary wireframes."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e60d0b5c-53c0-4923-94fa-e939114a10f9",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "collin, do you want me to set up a zoom link?",
+    "ts": "1701298929.378059",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cNRQc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "collin, do you want me to set up a zoom link?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4BAEAC73-0C65-4C17-9A3F-65ECB23076AD",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "I’m good to ",
+    "ts": "1701299010.499839",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3WpzX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " good to "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0f16fb66-7d65-4af3-8959-f7677f2f600c",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "\u003chttps://us04web.zoom.us/j/75650486156?pwd=Wbu7ojhfFbVmQHLfb9GcaEz1M5k4hF.1\u003e",
+    "ts": "1701299095.616409",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZzSVU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://us04web.zoom.us/j/75650486156?pwd=Wbu7ojhfFbVmQHLfb9GcaEz1M5k4hF.1",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A2BF5DA6-2FF6-4325-BA66-0AA6ECEE4C4B",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "I need a few minutes to connect ",
+    "ts": "1701299183.531459",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f5skc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I need a few minutes to connect "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "43e687cf-0cac-4cc8-b0dd-7237b191db51",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Okay we're in there",
+    "ts": "1701299625.294349",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ensHG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay we're in there"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3292ead7-84db-47fe-a9b9-1519f5af8452",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "you're here? I'm in waiting room",
+    "ts": "1701299641.273809",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p4zaD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you're here? I'm in waiting room"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6B94610F-99E9-4B7A-ACA5-222F68C7CF0B",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "Sorry just now joining",
+    "ts": "1701300443.482529",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1ZtZE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry just now joining"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a4aedf0c-1153-46d8-b557-858fd6b65ce7",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "\u003chttps://medium.com/comsystoreply/authentication-with-firebase-auth-and-spring-security-fcb2c1dc96d\u003e",
+    "ts": "1701301039.022199",
+    "attachments": [
+      {
+        "fallback": "Medium: Authentication with Firebase Auth and Spring Security",
+        "id": 1,
+        "title": "Authentication with Firebase Auth and Spring Security",
+        "title_link": "https://medium.com/comsystoreply/authentication-with-firebase-auth-and-spring-security-fcb2c1dc96d",
+        "text": "There isn’t a software developer in the world that hasn’t once in his life faced a question of authentication. Let’s try to make it easier.",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*9HB99u7Cq4pBcArZPZ7oEQ.jpeg",
+        "service_name": "Medium",
+        "service_icon": "https://miro.medium.com/v2/resize:fill:152:152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "from_url": "https://medium.com/comsystoreply/authentication-with-firebase-auth-and-spring-security-fcb2c1dc96d",
+        "original_url": "https://medium.com/comsystoreply/authentication-with-firebase-auth-and-spring-security-fcb2c1dc96d",
+        "fields": [
+          {
+            "title": "Reading time",
+            "value": "5 min read",
+            "short": true
+          }
+        ],
+        "blocks": null,
+        "ts": 1639487846
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6L+6f",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/comsystoreply/authentication-with-firebase-auth-and-spring-security-fcb2c1dc96d",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

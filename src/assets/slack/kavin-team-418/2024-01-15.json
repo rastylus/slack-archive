@@ -1,0 +1,555 @@
+[
+  {
+    "client_msg_id": "5eddc887-7008-4d81-a29b-a48c90bddcc2",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Made a PR with api functionality",
+    "ts": "1705286216.553709",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rAahB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Made a PR with api functionality"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "93948b03-63c1-4b1c-b5b1-ed1c7fcf4491",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "not as fleshed as i want it, but it is an actual api call",
+    "ts": "1705286232.678199",
+    "thread_ts": "1705286232.678199",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05744248P7",
+        "ts": "1705335940.182159"
+      }
+    ],
+    "latest_reply": "1705335940.182159",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wdpSr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not as fleshed as i want it, but it is an actual api call"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05744248P7"
+    ]
+  },
+  {
+    "client_msg_id": "70dc1372-4444-48b0-9c64-bdc5ee453ced",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Awesome, just merged.",
+    "ts": "1705335940.182159",
+    "thread_ts": "1705286232.678199",
+    "parent_user_id": "U057P8PCXT2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "siXhD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome, just merged."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c4e9cf97-bdd3-4a6f-bbd4-25449485d401",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "For this, my sengrid.env has the \"export SEGNRID API\" key in there\n\nI installed EnvFile, but i'm not sure where the environmental variables are if this is separate?",
+    "ts": "1705358975.964829",
+    "thread_ts": "1704851201.388269",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "StA9k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For this, my sengrid.env has the \"export SEGNRID API\" key in there\n\nI installed EnvFile, but i'm not sure where the environmental variables are if this is separate?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fb5a53a6-871a-4d42-b66f-f012dbcf9c5a",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Are we meeting tonight? Also added a PR for a few changes.",
+    "ts": "1705359002.098699",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KUmss",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are we meeting tonight? Also added a PR for a few changes."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4223fdd1-b0ae-4e17-b81f-8fd407baaacc",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "my steps:\n\n• backend, copied echo \"export SENDGRID_API_KEY='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'\"\nthis key shows in sengrid.env in intellij",
+    "ts": "1705359028.165979",
+    "thread_ts": "1704851201.388269",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qV6a/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "my steps:\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"backend, copied echo \\\"export SENDGRID_API_KEY='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'\\\"\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this key shows in sengrid.env in intellij"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b63b2d71-c87d-406f-b205-c077444836f3",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "PR Approved - I’ll be on for my interview. I don’t really have any issues but I’m available if you guys want to meet afterward; I can let you know when I’m done.",
+    "ts": "1705359520.711109",
+    "edited": {
+      "user": "U057UFP7YLQ",
+      "ts": "1705359583.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dUs5F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "PR Approved - I’ll be on for my interview. I don’t really have any issues but I’m available if you guys want to meet afterward; I can let you know when I’m done."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7dc70f3b-4f3c-4aa3-b548-93cc86c46462",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Yes, we will have project time today when you're not in your interviews!",
+    "ts": "1705359530.237869",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gYM4M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes, we will have project time today when you're not in your interviews!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5a825dba-4011-4a24-9e64-96ebfa721be0",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Good to know!",
+    "ts": "1705359543.526669",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U056FFS0C64"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kRICF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good to know!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "453d5dc1-e1e7-45f1-891e-f4299f038ffc",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "When you open the run Configurations for HomeBase App in IntelliJ, it should have option to view env var keys. If key isn't present, you can add the path or there is option to add name/value. Or just adjust value.\nIf testing with postman and getting 401 error. We might create new key for you. Not sure if this answers question. But can help during class time.",
+    "ts": "1705359674.584849",
+    "thread_ts": "1704851201.388269",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gr5aw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When you open the run Configurations for HomeBase App in IntelliJ, it should have option to view env var keys. If key isn't present, you can add the path or there is option to add name/value. Or just adjust value.\nIf testing with postman and getting 401 error. We might create new key for you. Not sure if this answers question. But can help during class time."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0b4c74c1-07ad-4a2a-b8b5-73d2471c6b32",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Yea if you have a few minutes when we meet, i feel like i'm mis-understanding the source ./sendgrid.env part\n\nTalk soon!",
+    "ts": "1705360022.803259",
+    "thread_ts": "1704851201.388269",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xWheM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yea if you have a few minutes when we meet, i feel like i'm mis-understanding the source ./sendgrid.env part\n\nTalk soon!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

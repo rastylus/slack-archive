@@ -1,0 +1,112 @@
+[
+  {
+    "client_msg_id": "21c9c276-5234-41cf-b81d-a8e58c287442",
+    "type": "message",
+    "user": "U0574K7SCF5",
+    "text": "not what I was supposed to be working on, but I changed the way you add events. instead of a button that opens the modal you now click on open space on that calendar to do it. You can click and drag or just click and it should open the modal and autofill the dates based on where you clicked/dragged to.",
+    "ts": "1704778556.389189",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eATnz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not what I was supposed to be working on, but I changed the way you add events. instead of a button that opens the modal you now click on open space on that calendar to do it. You can click and drag or just click and it should open the modal and autofill the dates based on where you clicked/dragged to."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/25636fcae015399f5543db2ec0c827f0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Riley",
+      "real_name": "Riley Neuville",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "riley.neuville",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d03e3df2-189f-40a9-a002-73f135613ac2",
+    "type": "message",
+    "user": "U056R9L6CQP",
+    "text": "Oh nice, I'm excited to use it! I think I'm close to getting sessions done. It's proving to be quite difficult :sweat_smile:. This CORS stuff is a headache and a half",
+    "ts": "1704840906.360699",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0574K7SCF5"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lSo+A",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh nice, I'm excited to use it! I think I'm close to getting sessions done. It's proving to be quite difficult "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ". This CORS stuff is a headache and a half"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/dbab0a3687bce3382923ca15e187713a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Jacob",
+      "real_name": "Jacob Kellogg",
+      "display_name": "Jacob Kellogg",
+      "team": "T050CSX3EMT",
+      "name": "jacobkellogg17",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

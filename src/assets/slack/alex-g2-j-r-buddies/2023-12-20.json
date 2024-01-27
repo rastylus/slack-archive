@@ -1,0 +1,149 @@
+[
+  {
+    "client_msg_id": "71a4cf98-9ee8-460e-ab07-d5dabe71766f",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "Just tested out the user registration. It is working with a few bugs to work out, but it is connecting to the database and storing info.",
+    "ts": "1703037356.885939",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057HFYT7B3"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8vpu4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just tested out the user registration. It is working with a few bugs to work out, but it is connecting to the database and storing info."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7fea52d0-aaa3-4e20-985c-e710c72f74ab",
+    "type": "message",
+    "user": "U05794241U4",
+    "text": "Guys is your react app working? mine says: Module not found: Error: Cannot find file: 'AdminAccount.js' does not match the corresponding name on disk: './src/pages/Pages'. and other 7 errors more similar to this one. all of them coming from the page index",
+    "ts": "1703095774.389959",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JVyAV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Guys is your react app working? mine says: Module not found: Error: Cannot find file: 'AdminAccount.js' does not match the corresponding name on disk: './src/pages/Pages'. and other 7 errors more similar to this one. all of them coming from the page index"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230158607095_79d4833f75e0a0c06d85_72.jpg",
+      "first_name": "ronaldgutierrezj",
+      "real_name": "ronaldgutierrezj",
+      "display_name": "Ronald Gutierrez",
+      "team": "T050CSX3EMT",
+      "name": "ronaldgutierrezj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b0b5ef95-ff19-4d02-9439-c92e50990585",
+    "type": "message",
+    "user": "U05794241U4",
+    "text": "ok the problem was the import statements in index.js are calling the folder \"./pages\" but it should be \".Pages\" with capital letter...",
+    "ts": "1703097468.010099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AlLNe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok the problem was the import statements in index.js are calling the folder \"./pages\" but it should be \".Pages\" with capital letter..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230158607095_79d4833f75e0a0c06d85_72.jpg",
+      "first_name": "ronaldgutierrezj",
+      "real_name": "ronaldgutierrezj",
+      "display_name": "Ronald Gutierrez",
+      "team": "T050CSX3EMT",
+      "name": "ronaldgutierrezj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "client_msg_id": "94f8949a-92dc-4c8d-94d0-ae861bfd52af",
+    "type": "message",
+    "user": "U057HDRTJU9",
+    "text": "Hi Guys.. I have merged my last branch to main.. :+1:",
+    "ts": "1705186295.009209",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057S95RQC9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gjQry",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Guys.. I have merged my last branch to main.. "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243080667203_61e07f4b1448b0bfad86_72.jpg",
+      "first_name": "Charu",
+      "real_name": "Charu",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "charu91.sathish",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

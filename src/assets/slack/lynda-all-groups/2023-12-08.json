@@ -1,0 +1,213 @@
+[
+  {
+    "client_msg_id": "6653b38d-61b0-4a71-affe-0e1049da18ab",
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "Examples of React frontend, Java and MySQL backend including file structure (you can use these for ideas on setting up your project):\n\u003chttps://www.bezkoder.com/react-spring-boot-crud/\u003e\n\n\u003chttps://www.youtube.com/watch?v=9IMcqdrZl3Q\u003e\n\n\u003chttps://medium.com/@thearaseng/building-a-full-stack-product-app-with-react-spring-boot-and-docker-compose-64a47f4a1080\u003e\n\n\u003chttps://developer.okta.com/blog/2022/06/17/simple-crud-react-and-spring-boot\u003e",
+    "ts": "1701999970.356209",
+    "attachments": [
+      {
+        "fallback": "BezKoder: Spring Boot + React + MySQL: CRUD example REST APIs - BezKoder",
+        "id": 1,
+        "title": "Spring Boot + React + MySQL: CRUD example REST APIs - BezKoder",
+        "title_link": "https://www.bezkoder.com/react-spring-boot-crud/",
+        "text": "Step by step to build Spring Boot + React + MySQL CRUD example with Rest API - CRUD operations with MySQL/PostgreSQL",
+        "image_url": "https://www.bezkoder.com/wp-content/uploads/2020/03/spring-boot-react-crud-example-feature-image.png",
+        "service_name": "BezKoder",
+        "service_icon": "https://www.bezkoder.com/wp-content/uploads/logo.png",
+        "from_url": "https://www.bezkoder.com/react-spring-boot-crud/",
+        "original_url": "https://www.bezkoder.com/react-spring-boot-crud/",
+        "fields": [
+          {
+            "title": "Written by",
+            "value": "bezkoder",
+            "short": true
+          },
+          {
+            "title": "Est. reading time",
+            "value": "11 minutes",
+            "short": true
+          }
+        ],
+        "blocks": null,
+        "ts": 1570606787
+      },
+      {
+        "fallback": "YouTube Video: Spring Boot| Full Stack using Spring-boot, React, and Mysql",
+        "id": 2,
+        "author_name": "Tech With Den",
+        "author_link": "https://www.youtube.com/@TechWithDen",
+        "title": "Spring Boot| Full Stack using Spring-boot, React, and Mysql",
+        "title_link": "https://www.youtube.com/watch?v=9IMcqdrZl3Q",
+        "thumb_url": "https://i.ytimg.com/vi/9IMcqdrZl3Q/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://www.youtube.com/watch?v=9IMcqdrZl3Q",
+        "original_url": "https://www.youtube.com/watch?v=9IMcqdrZl3Q",
+        "blocks": null
+      },
+      {
+        "fallback": "Medium: Building a Full-Stack Product App with React, Spring Boot, and Docker Compose",
+        "id": 3,
+        "title": "Building a Full-Stack Product App with React, Spring Boot, and Docker Compose",
+        "title_link": "https://medium.com/@thearaseng/building-a-full-stack-product-app-with-react-spring-boot-and-docker-compose-64a47f4a1080",
+        "text": "In this blog, I am going to share with you a very simple product app that uses React, Spring Boot, and MySQL as the frontend, backend, and…",
+        "image_url": "https://miro.medium.com/v2/resize:fit:811/1*SMyNTNDJfhisbPicNn8_Wg.png",
+        "service_name": "Medium",
+        "service_icon": "https://miro.medium.com/v2/resize:fill:152:152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "from_url": "https://medium.com/@thearaseng/building-a-full-stack-product-app-with-react-spring-boot-and-docker-compose-64a47f4a1080",
+        "original_url": "https://medium.com/@thearaseng/building-a-full-stack-product-app-with-react-spring-boot-and-docker-compose-64a47f4a1080",
+        "fields": [
+          {
+            "title": "Reading time",
+            "value": "5 min read",
+            "short": true
+          }
+        ],
+        "blocks": null,
+        "ts": 1698446721
+      },
+      {
+        "fallback": "Okta Developer: Use React and Spring Boot to Build a Simple CRUD App",
+        "id": 4,
+        "title": "Use React and Spring Boot to Build a Simple CRUD App",
+        "title_link": "https://developer.okta.com/blog/2022/06/17/simple-crud-react-and-spring-boot",
+        "text": "React is one of the most popular JavaScript frameworks, and Spring Boot is wildly popular in the Java ecosystem. This article shows you how to use them in the same app and secure it all with Okta.",
+        "image_url": "https://developer.okta.com/assets-jekyll/blog/featured/okta-react-bottle-headphones-0a071a78d891a5af2e050e3f1b15949eb1b9633f60a027d9f644a518203d9dfc.jpg",
+        "service_name": "Okta Developer",
+        "service_icon": "https://developer.okta.com/assets-jekyll/favicon/apple-touch-icon.png",
+        "from_url": "https://developer.okta.com/blog/2022/06/17/simple-crud-react-and-spring-boot",
+        "original_url": "https://developer.okta.com/blog/2022/06/17/simple-crud-react-and-spring-boot",
+        "blocks": null
+      }
+    ],
+    "edited": {
+      "user": "U056FFMNKJL",
+      "ts": "1702000066.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tES24",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Examples of React frontend, Java and MySQL backend including file structure (you can use these for ideas on setting up your project):\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.bezkoder.com/react-spring-boot-crud/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=9IMcqdrZl3Q",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://medium.com/@thearaseng/building-a-full-stack-product-app-with-react-spring-boot-and-docker-compose-64a47f4a1080",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://developer.okta.com/blog/2022/06/17/simple-crud-react-and-spring-boot",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3e2ad5b0-f8fe-4b8b-95b5-7cfdab25e10e",
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "The attendance code for the day is: *ResumeReview*",
+    "ts": "1702000655.831329",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Tzf5A",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The attendance code for the day is: "
+              },
+              {
+                "type": "text",
+                "text": "ResumeReview",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

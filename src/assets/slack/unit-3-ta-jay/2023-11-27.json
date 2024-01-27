@@ -1,0 +1,50 @@
+[
+  {
+    "client_msg_id": "da785135-bcef-4cc5-96fc-994c5421b3a1",
+    "type": "message",
+    "user": "U057T2GJHT3",
+    "text": "thank you!",
+    "ts": "1701064155.250409",
+    "thread_ts": "1700543190.362039",
+    "parent_user_id": "U057T2GJHT3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "afEI5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5252456903138_cfed4e944db412690730_72.png",
+      "first_name": "Elena",
+      "real_name": "Elena Osmakova",
+      "display_name": "Elena Osmakova",
+      "team": "T050CSX3EMT",
+      "name": "elenaosmqa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

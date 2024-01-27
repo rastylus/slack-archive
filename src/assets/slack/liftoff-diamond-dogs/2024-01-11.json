@@ -1,0 +1,1154 @@
+[
+  {
+    "client_msg_id": "f0d67e70-5fca-4c11-9309-23c99723d2e0",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "hold off for now. I’m still not sure why I can run the react side just fine in VS Code but can’t run the app in bootRun in IntelliJ. I’ll need to cross reference with someone over zoom to confirm build settings are correct",
+    "ts": "1704931451.555079",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QILu/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hold off for now. I’m still not sure why I can run the react side just fine in VS Code but can’t run the app in bootRun in IntelliJ. I’ll need to cross reference with someone over zoom to confirm build settings are correct"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7e043f84-7aae-47a6-962c-dcc6a261bee6",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Okay. Yeah I'll definitely look it over with you at 7. I ran into that specific error a few times, so I know the places to look to fix it.",
+    "ts": "1704931533.156849",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "X3ml/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay. Yeah I'll definitely look it over with you at 7. I ran into that specific error a few times, so I know the places to look to fix it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bca92d90-79b8-4d2f-ba83-abe1e3678fc8",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "here’s all the error message I’m getting when trying to run bootrun",
+    "ts": "1704931566.468029",
+    "files": [
+      {
+        "id": "F06DCMZJBEW",
+        "created": 1704931560,
+        "timestamp": 1704931560,
+        "name": "Screen Shot 2024-01-10 at 6.05.27 PM.jpg",
+        "title": "Screen Shot 2024-01-10 at 6.05.27 PM.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U057UNE3XPS",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 311780,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06DCMZJBEW/screen_shot_2024-01-10_at_6.05.27_pm.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06DCMZJBEW/download/screen_shot_2024-01-10_at_6.05.27_pm.jpg",
+        "original_h": 835,
+        "original_w": 1139,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCMZJBEW-37b7b6d0db/screen_shot_2024-01-10_at_6.05.27_pm_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCMZJBEW-37b7b6d0db/screen_shot_2024-01-10_at_6.05.27_pm_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCMZJBEW-37b7b6d0db/screen_shot_2024-01-10_at_6.05.27_pm_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCMZJBEW-37b7b6d0db/screen_shot_2024-01-10_at_6.05.27_pm_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 264,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCMZJBEW-37b7b6d0db/screen_shot_2024-01-10_at_6.05.27_pm_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 352,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCMZJBEW-37b7b6d0db/screen_shot_2024-01-10_at_6.05.27_pm_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 528,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCMZJBEW-37b7b6d0db/screen_shot_2024-01-10_at_6.05.27_pm_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 704,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCMZJBEW-37b7b6d0db/screen_shot_2024-01-10_at_6.05.27_pm_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 751,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057UNE3XPS/F06DCMZJBEW/screen_shot_2024-01-10_at_6.05.27_pm.jpg",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06DCMZJBEW-24e3e53332",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pkF6K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "here’s all the error message I’m getting when trying to run bootrun"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2716baa3-c874-4c92-8f07-873b3b8f1c00",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "hey!\n\nanyone tried to run frontend from main? I'm failing to start it",
+    "ts": "1705015362.188299",
+    "thread_ts": "1705015362.188299",
+    "last_read": "1705016083.496879",
+    "subscribed": true,
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U056RCF9G87",
+        "ts": "1705015963.519579"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1705015984.073539"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1705016003.018079"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1705016083.496879"
+      }
+    ],
+    "latest_reply": "1705016083.496879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QzylZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hey!\n\nanyone tried to run frontend from main? I'm failing to start it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056RCF9G87",
+      "U05756M4E1H",
+      "U0575U6RCKC"
+    ]
+  },
+  {
+    "client_msg_id": "4a72e90f-bc2d-46d7-9bd3-ef19551c3f5e",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "Not sure if you’re getting the same errors that I did, but I got it running after npm installs for react-ga4 and react-icons.",
+    "ts": "1705015963.519579",
+    "thread_ts": "1705015362.188299",
+    "parent_user_id": "U05756M4E1H",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eaOh4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Not sure if you’re getting the same errors that I did, but I got it running after npm installs for react-ga4 and react-icons."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d0ecf80b-3223-4d88-b686-c79cf17e9a7f",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "yes, about icons",
+    "ts": "1705015984.073539",
+    "thread_ts": "1705015362.188299",
+    "parent_user_id": "U05756M4E1H",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XNjj/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes, about icons"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e53f4986-7aef-48d2-a54b-be0c93d5bba3",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "You need to do 'npm install react-icons'",
+    "ts": "1705016003.018079",
+    "thread_ts": "1705015362.188299",
+    "edited": {
+      "user": "U0575U6RCKC",
+      "ts": "1705016011.000000"
+    },
+    "parent_user_id": "U05756M4E1H",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0KeAC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You need to do 'npm install react-icons'"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cd13a20c-ace5-4ce4-8f8f-678a8a86f2aa",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "aaa, now it works, thank you!\n\nI used npm i command, I thought it should download everything",
+    "ts": "1705016083.496879",
+    "thread_ts": "1705015362.188299",
+    "parent_user_id": "U05756M4E1H",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057UNE3XPS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8dWop",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "aaa, now it works, thank you!\n\nI used npm i command, I thought it should download everything"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "25f2cf43-660d-4a07-a657-64d20aedae5a",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Are we supposed to be in zoom room right now? I'm confused.",
+    "ts": "1705016220.701049",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LEsIU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are we supposed to be in zoom room right now? I'm confused."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cdba49f3-64b3-4e62-84bf-29caa5ab4453",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "no one in lecture zoom",
+    "ts": "1705016462.287969",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aS7cC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no one in lecture zoom"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6fcd2689-7f28-4441-bceb-ad7450feeef9",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "or you mean our zoom?",
+    "ts": "1705016487.755529",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HF7pD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "or you mean our zoom?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ccd0d838-1e44-4872-b00e-07ada4d4590f",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I just mean in any zoom. I thought we were to meet in Cory's zoom.",
+    "ts": "1705016525.162259",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mg8RV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just mean in any zoom. I thought we were to meet in Cory's zoom."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2bcfdb2a-bad0-4b31-9410-2450c462b3b5",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "looks like today is just a workday - no lecture or meeting",
+    "ts": "1705016566.339459",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "peRsU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "looks like today is just a workday - no lecture or meeting"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "09209aa5-20c5-47cd-b2cf-d34ff5336e10",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Hey \u003c@U057UNE3XPS\u003e have you ran main with your search branch merged into it? I'm not getting search to work anymore like it did in your feature branch.",
+    "ts": "1705016616.442559",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jLrbP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey "
+              },
+              {
+                "type": "user",
+                "user_id": "U057UNE3XPS"
+              },
+              {
+                "type": "text",
+                "text": " have you ran main with your search branch merged into it? I'm not getting search to work anymore like it did in your feature branch."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2DC9670F-6F39-43EE-AFCC-58D542732CE9",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "I just did a pull from origin/main into my local main branch, and running from main now. Looks like it’s working just fine for me",
+    "ts": "1705016900.111049",
+    "thread_ts": "1705016900.111049",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1705017401.011999"
+      }
+    ],
+    "latest_reply": "1705017401.011999",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FIAf+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just did a pull from origin/main into my local main branch, and running from main now. Looks like it"
+              },
+              {
+                "type": "text",
+                "text": "’s"
+              },
+              {
+                "type": "text",
+                "text": " working just fine for me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0575U6RCKC"
+    ]
+  },
+  {
+    "client_msg_id": "f8a13c61-dd85-481b-aee9-b18cbb1cba1b",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I'll try resetting the cache of my intelliJ. Looking at the SearchScreen I have for main it's super basic and doesn't match what's on github, so idk what's going on with my local machine.",
+    "ts": "1705017108.298559",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iix/h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll try resetting the cache of my intelliJ. Looking at the SearchScreen I have for main it's super basic and doesn't match what's on github, so idk what's going on with my local machine."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "058ac7b1-bac4-4fcb-b3ea-7034ec4ba190",
+    "type": "message",
+    "user": "U055S98U8G2",
+    "text": "do yall need a zoom room to meet in?",
+    "ts": "1705017299.464199",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pucp6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "do yall need a zoom room to meet in?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5208942534833_61c4df60725855ac84c1_72.jpg",
+      "first_name": "Cory",
+      "real_name": "Cory Pride",
+      "display_name": "TA-Cory Pride (He/Him)",
+      "team": "T050CSX3EMT",
+      "name": "cory.pride83",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bbdcc2b1-72bb-40ff-9a77-be79ac1588d1",
+    "type": "message",
+    "user": "U055S98U8G2",
+    "text": "You can definitely use mine, although its a free account with a 45 minute sessions.",
+    "ts": "1705017335.062099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VYK+a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You can definitely use mine, although its a free account with a 45 minute sessions."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5208942534833_61c4df60725855ac84c1_72.jpg",
+      "first_name": "Cory",
+      "real_name": "Cory Pride",
+      "display_name": "TA-Cory Pride (He/Him)",
+      "team": "T050CSX3EMT",
+      "name": "cory.pride83",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "59aaaf42-454e-48f4-9865-96c1b0b89ce8",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I'm good right now. We met up yesterday and had a productive session.",
+    "ts": "1705017376.943099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bHgb8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm good right now. We met up yesterday and had a productive session."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "95c63f02-4189-40e3-9863-37a0db3f17a1",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I got it working.",
+    "ts": "1705017401.011999",
+    "thread_ts": "1705016900.111049",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qT5sq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I got it working."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "279c2ed5-d113-4458-a028-c95b441bbc38",
+    "type": "message",
+    "user": "U055S98U8G2",
+    "text": "Ok.",
+    "ts": "1705017549.863889",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dffj7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5208942534833_61c4df60725855ac84c1_72.jpg",
+      "first_name": "Cory",
+      "real_name": "Cory Pride",
+      "display_name": "TA-Cory Pride (He/Him)",
+      "team": "T050CSX3EMT",
+      "name": "cory.pride83",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "02d7d63f-6457-4682-b0d2-b6a0d8821de7",
+    "type": "message",
+    "user": "U055S98U8G2",
+    "text": "Are yall on track? Do you have any blockers?",
+    "ts": "1705017578.927289",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3kTGi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are yall on track? Do you have any blockers?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5208942534833_61c4df60725855ac84c1_72.jpg",
+      "first_name": "Cory",
+      "real_name": "Cory Pride",
+      "display_name": "TA-Cory Pride (He/Him)",
+      "team": "T050CSX3EMT",
+      "name": "cory.pride83",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

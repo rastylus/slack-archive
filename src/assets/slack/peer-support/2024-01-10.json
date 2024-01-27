@@ -1,0 +1,155 @@
+[
+  {
+    "client_msg_id": "68b45371-2e1f-476f-a56a-2f2b3f0eaada",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "You can also try merging directly from within IntelliJ and it will walk you through merge conflicts - it can be somewhat confusing but better than the command line too.",
+    "ts": "1704891969.366579",
+    "thread_ts": "1704834468.410239",
+    "parent_user_id": "U0573JVEUN9",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B/8K/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You can also try merging directly from within IntelliJ and it will walk you through merge conflicts - it can be somewhat confusing but better than the command line too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3a4934ec-0a6a-4499-815f-b41c5ec1ee07",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "Is anyone else using react occasionally getting a message about a babel plugin? If so were you able to fix it or have you just left it alone?",
+    "ts": "1704915799.388039",
+    "thread_ts": "1704915799.388039",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704916833.768089"
+      }
+    ],
+    "latest_reply": "1704916833.768089",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RBHc3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is anyone else using react occasionally getting a message about a babel plugin? If so were you able to fix it or have you just left it alone?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056Q9W022K"
+    ]
+  },
+  {
+    "client_msg_id": "2cdb7d44-57d4-4ec5-b4d1-414442e28b66",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "yes, all of the time, the message says something like \"this is unlikely to go away\" so I've left alone, but if anyone else has fixed, would love to know how",
+    "ts": "1704916833.768089",
+    "thread_ts": "1704915799.388039",
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mLdRL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes, all of the time, the message says something like \"this is unlikely to go away\" so I've left alone, but if anyone else has fixed, would love to know how"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

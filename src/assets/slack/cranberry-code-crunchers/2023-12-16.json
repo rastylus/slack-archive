@@ -1,0 +1,651 @@
+[
+  {
+    "client_msg_id": "a153dfd9-364e-4111-b6f9-f815cadbdd3a",
+    "type": "message",
+    "user": "U056ZDW8083",
+    "text": "Hey there! Just wanted to check in on everyone's progress and make sure we're up to speed for the checkpoint on Monday. I am working a lot this weekend but if anyone is able to meet on Sunday night at 7 to touch base I think it would be helpful. I have to use the API for my features and am wondering if that has been set up yet? I can also help if needed!",
+    "ts": "1702698885.446839",
+    "thread_ts": "1702698885.446839",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056ZDW8083",
+        "ts": "1702753590.021439"
+      }
+    ],
+    "latest_reply": "1702753590.021439",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U0577EKQS9Z",
+          "U05763FB2F4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EvD7L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey there! Just wanted to check in on everyone's progress and make sure we're up to speed for the checkpoint on Monday. I am working a lot this weekend but if anyone is able to meet on Sunday night at 7 to touch base I think it would be helpful. I have to use the API for my features and am wondering if that has been set up yet? I can also help if needed!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5276126219072_9bf4e4d6843b8b91ecb6_72.png",
+      "first_name": "Mac",
+      "real_name": "Mac Calhoun",
+      "display_name": "Mac (they/them)",
+      "team": "T050CSX3EMT",
+      "name": "mcalhoun133",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056ZDW8083"
+    ]
+  },
+  {
+    "client_msg_id": "1d7247b7-ae53-4dc9-a11c-a20ecee83ff9",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "Hey Mac thanks for checking in! I have my 3 commits done and plan on working more on my favs feature. I can meet Sunday at 7pm. I have to use API too. I also plan on reviewing the checkpoint document too.",
+    "ts": "1702703028.449589",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U056ZDW8083",
+          "U05763FB2F4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fS/Hs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Mac thanks for checking in! I have my 3 commits done and plan on working more on my favs feature. I can meet Sunday at 7pm. I have to use API too. I also plan on reviewing the checkpoint document too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "EC9EBBE2-BD82-4EBD-811B-2E34A2204882",
+    "type": "message",
+    "user": "U056ZDW8083",
+    "text": "\u003c@U05763FB2F4\u003e \u003c@U056WKD8RRT\u003e ",
+    "ts": "1702753590.021439",
+    "thread_ts": "1702698885.446839",
+    "parent_user_id": "U056ZDW8083",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fQi5N",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05763FB2F4"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U056WKD8RRT"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5276126219072_9bf4e4d6843b8b91ecb6_72.png",
+      "first_name": "Mac",
+      "real_name": "Mac Calhoun",
+      "display_name": "Mac (they/them)",
+      "team": "T050CSX3EMT",
+      "name": "mcalhoun133",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2dc78137-9dbe-45e0-af8e-30527162d6b4",
+    "type": "message",
+    "user": "U05763FB2F4",
+    "text": "I have my api ready just returninh few details from yelp like\nName\nImagrurl\nAddress\nPhone number",
+    "ts": "1702755086.167229",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0577EKQS9Z"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zbZDO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have my api ready just returninh few details from yelp like\nName\nImagrurl\nAddress\nPhone number"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ca89ec5fb6ef1422f53f69d6ef4edc9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Dhana",
+      "real_name": "Dhana P",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "prathi.kamaraju",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f08a6b37-4480-4d20-80f7-2869e51aed71",
+    "type": "message",
+    "user": "U05763FB2F4",
+    "text": "I will commit my changes",
+    "ts": "1702755098.116689",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zdLE8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I will commit my changes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ca89ec5fb6ef1422f53f69d6ef4edc9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Dhana",
+      "real_name": "Dhana P",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "prathi.kamaraju",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "64543C56-7152-4DAC-A451-60E6BA3071AA",
+    "type": "message",
+    "user": "U056WKD8RRT",
+    "text": "I’m logging on tonight to work on some things!",
+    "ts": "1702760143.887129",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m5wfP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " logging on tonight to work on some things!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5258951854693_c258a719a5ff97defcfb_72.png",
+      "first_name": "Noah",
+      "real_name": "Noah Brandwein",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "noah.brandwein98",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5FE1CD4B-D30C-4AE5-9E91-36B8B0FCD662",
+    "type": "message",
+    "user": "U056WKD8RRT",
+    "text": "Is there anything you guys want me to prioritize ",
+    "ts": "1702760167.564909",
+    "thread_ts": "1702760167.564909",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0577EKQS9Z",
+        "ts": "1702773047.839219"
+      }
+    ],
+    "latest_reply": "1702773047.839219",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GRlno",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is there anything you guys want me to prioritize "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5258951854693_c258a719a5ff97defcfb_72.png",
+      "first_name": "Noah",
+      "real_name": "Noah Brandwein",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "noah.brandwein98",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0577EKQS9Z"
+    ]
+  },
+  {
+    "client_msg_id": "a6d2e48d-e500-4a8f-bcab-7eb0accbbf88",
+    "type": "message",
+    "user": "U05763FB2F4",
+    "ts": "1702760405.677839",
+    "files": [
+      {
+        "id": "F06AVEHQFMX",
+        "created": 1702760404,
+        "timestamp": 1702760404,
+        "name": "Response.json",
+        "title": "Response",
+        "mimetype": "text/plain",
+        "image_exif_rotation": 0,
+        "filetype": "json",
+        "pretty_type": "JSON",
+        "user": "U05763FB2F4",
+        "mode": "snippet",
+        "editable": true,
+        "is_external": false,
+        "external_type": "",
+        "size": 6229,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06AVEHQFMX/response.json",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06AVEHQFMX/download/response.json",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05763FB2F4/F06AVEHQFMX/response.json",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06AVEHQFMX-4658f20995",
+        "edit_link": "https://ptwebdevallhu-iu32728.slack.com/files/U05763FB2F4/F06AVEHQFMX/response.json/edit",
+        "preview": "[\n    {\n        \"name\": \"801 Local\",\n        \"image_url\": \"https://s3-media1.fl.yelpcdn.com/bphoto/AlAwA9CwM5mCx5TnIGZTXg/o.jpg\",\n        \"location\": {",
+        "preview_highlight": "\u003cdiv class=\"CodeMirror cm-s-default CodeMirrorServer\"\u003e\n\u003cdiv class=\"CodeMirror-code\"\u003e\n\u003cdiv\u003e\u003cpre\u003e[\u003c/pre\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cpre\u003e    {\u003c/pre\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cpre\u003e        \u003cspan class=\"cm-string cm-property\"\u003e\u0026quot;name\u0026quot;\u003c/span\u003e: \u003cspan class=\"cm-string\"\u003e\u0026quot;801 Local\u0026quot;\u003c/span\u003e,\u003c/pre\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cpre\u003e        \u003cspan class=\"cm-string cm-property\"\u003e\u0026quot;image_url\u0026quot;\u003c/span\u003e: \u003cspan class=\"cm-string\"\u003e\u0026quot;https://s3-media1.fl.yelpcdn.com/bphoto/AlAwA9CwM5mCx5TnIGZTXg/o.jpg\u0026quot;\u003c/span\u003e,\u003c/pre\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cpre\u003e        \u003cspan class=\"cm-string cm-property\"\u003e\u0026quot;location\u0026quot;\u003c/span\u003e: {\u003c/pre\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n",
+        "lines": 202,
+        "lines_more": 197,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "upload": true,
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ca89ec5fb6ef1422f53f69d6ef4edc9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Dhana",
+      "real_name": "Dhana P",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "prathi.kamaraju",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b2c6e61b-b87e-4df0-ac4c-eeab0904327e",
+    "type": "message",
+    "user": "U05763FB2F4",
+    "text": "I pushed my changes to my branch , Please find sample response from the api",
+    "ts": "1702760408.412049",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0577EKQS9Z"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WRlBo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I pushed my changes to my branch , Please find sample response from the api"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ca89ec5fb6ef1422f53f69d6ef4edc9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Dhana",
+      "real_name": "Dhana P",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "prathi.kamaraju",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "40f0184f-e03b-454b-945d-090659f997c7",
+    "type": "message",
+    "user": "U05763FB2F4",
+    "text": "\u003chttps://github.com/Moerfiane/liftoff-cranberry-code-crunchers-api/pull/2\u003e",
+    "ts": "1702760548.371689",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "#2 Restaurants yelp search api",
+        "id": 1,
+        "title": "#2 Restaurants yelp search api",
+        "title_link": "https://github.com/Moerfiane/liftoff-cranberry-code-crunchers-api/pull/2",
+        "text": "Added an api to search restaurants by location using yelp api",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/Moerfiane/liftoff-cranberry-code-crunchers-api|Moerfiane/liftoff-cranberry-code-crunchers-api\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1702760500
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bPByV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/Moerfiane/liftoff-cranberry-code-crunchers-api/pull/2",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ca89ec5fb6ef1422f53f69d6ef4edc9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Dhana",
+      "real_name": "Dhana P",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "prathi.kamaraju",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3a9c1390-ae05-4f17-a19e-f6132aabaebd",
+    "type": "message",
+    "user": "U05763FB2F4",
+    "text": "please find my pull request for my api changes",
+    "ts": "1702760578.707659",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Gm5Q7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "please find my pull request for my api changes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ca89ec5fb6ef1422f53f69d6ef4edc9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Dhana",
+      "real_name": "Dhana P",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "prathi.kamaraju",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

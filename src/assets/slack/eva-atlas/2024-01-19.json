@@ -1,0 +1,575 @@
+[
+  {
+    "client_msg_id": "CA16846F-E8E0-4A09-AB6C-2F4E14C6D068",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "Not sure if you guys plan to keep working on the project, but I did some more work last night. I got the full functionality for the category and city in a tour via the dropdown box selections implemented in a new branch last night after demos. The new branch should be tour-categories-and-cities. I plan to work on getting the tag stuff up and running soon so \u003c@U0576LJR97D\u003e can get the search and filtering stuff fully functioning. ",
+    "ts": "1705680865.102009",
+    "thread_ts": "1705680865.102009",
+    "reply_count": 7,
+    "replies": [
+      {
+        "user": "U0576LJR97D",
+        "ts": "1705681124.136529"
+      },
+      {
+        "user": "U057MA0AHEG",
+        "ts": "1705681293.061909"
+      },
+      {
+        "user": "U057UGWMN48",
+        "ts": "1705682069.173879"
+      },
+      {
+        "user": "U0576LJR97D",
+        "ts": "1705682334.871779"
+      },
+      {
+        "user": "U057UGWMN48",
+        "ts": "1705682646.562589"
+      },
+      {
+        "user": "U0576LJR97D",
+        "ts": "1705684409.860369"
+      },
+      {
+        "user": "U0574U0BKQA",
+        "ts": "1705690592.745529"
+      }
+    ],
+    "latest_reply": "1705690592.745529",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ke1ja",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Not sure if you guys plan to keep working on the project, but I did some more work last night. I got the full functionality for the category and city in a tour via the dropdown box selections implemented in a new branch last night after demos. The new branch should be tour-categories-and-cities. I plan to work on getting the tag stuff up and running soon so "
+              },
+              {
+                "type": "user",
+                "user_id": "U0576LJR97D"
+              },
+              {
+                "type": "text",
+                "text": " can get the search and filtering stuff fully functioning. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U0574U0BKQA",
+      "U0576LJR97D",
+      "U057MA0AHEG",
+      "U057UGWMN48"
+    ]
+  },
+  {
+    "client_msg_id": "9F95331B-2023-4756-AC92-D42108ED8E55",
+    "type": "message",
+    "user": "U0576LJR97D",
+    "text": "Wow you’re a beast lol. I’ll take a look at the new branch this evening and see where I can pick up with things cause I definitely plan on continuing to work on this. At least enough so that my full features are implemented. Thanks again for continuing to troubleshoot through this issue :pray::skin-tone-4: ",
+    "ts": "1705681124.136529",
+    "thread_ts": "1705680865.102009",
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b3TeA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Wow you’re"
+              },
+              {
+                "type": "text",
+                "text": " a beast lol"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " take a look at the new branch this evening and see where I can pick up with things cause I definitely plan on continuing to work on this"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " At least enough so that my full features are implemented"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Thanks again for continuing to troubleshoot through this issue "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 4
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/0506c54e2a1afb561a10fd6f6b340f65.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Madeline",
+      "real_name": "Madeline Lora",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "madelinelora95",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "245E427E-978C-44BE-BC88-5FFF966A125D",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "Yeah I would like for us to be able to get all of our features working together and have full functionality with the API and user management as well. So fingers crossed we can get there! No problem at all though, I’ve really been enjoying working on this project. ",
+    "ts": "1705681293.061909",
+    "thread_ts": "1705680865.102009",
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "arrow_up_small",
+        "count": 2,
+        "users": [
+          "U057UGWMN48",
+          "U0574U0BKQA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MStXC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah I would like for us to be able to get all of our features working together and have full functionality with the API and user management as well. So fingers crossed we can get there! No problem at all though, "
+              },
+              {
+                "type": "text",
+                "text": "I’ve"
+              },
+              {
+                "type": "text",
+                "text": " really been enjoying working on this project. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0be8af2f-e58c-4ff8-aa27-561f5b700d67",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "Agreed, I have more features for the User system I want to deploy and get everything working together for a full, workable demo.",
+    "ts": "1705682069.173879",
+    "thread_ts": "1705680865.102009",
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M+1E8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Agreed, I have more features for the User system I want to deploy and get everything working together for a full, workable demo."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "46048326-A64E-444D-B21D-6AF0D806515A",
+    "type": "message",
+    "user": "U0576LJR97D",
+    "text": "Yea I think it’d be fun to see this through with all our features fully implemented. Glad we’re all still committed to it, I personally feel like it’ll be so much more enjoyable to keep going now that lectures and other requirements are out of the way. Go team :nerd_face: ",
+    "ts": "1705682334.871779",
+    "thread_ts": "1705680865.102009",
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XV2H5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yea I think "
+              },
+              {
+                "type": "text",
+                "text": "it’d"
+              },
+              {
+                "type": "text",
+                "text": " be fun to see this through with all our features fully implemented"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Glad we’re all still committed to it, I personally feel like "
+              },
+              {
+                "type": "text",
+                "text": "it’ll"
+              },
+              {
+                "type": "text",
+                "text": " be so much more enjoyable to keep going now that lectures and other requirements are out of the way"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Go team "
+              },
+              {
+                "type": "emoji",
+                "name": "nerd_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/0506c54e2a1afb561a10fd6f6b340f65.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Madeline",
+      "real_name": "Madeline Lora",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "madelinelora95",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "565cd0d0-8f08-41a6-a5ce-5ed4282bf01d",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "Once all the features are deployed and integrated together, we should also try to consistently tie together the presentation/design of the app too.\n\nI know we kind of left that part in the air while we were building out our features, so it wasn't a huge priority, but once all the basic functionality is there are ties together, I think that would be the next logical step \n\nI'll volunteer for  at least the primary navigation bar since a lot of that will be conditionally rendered using user authentication and authorization anyway",
+    "ts": "1705682646.562589",
+    "thread_ts": "1705680865.102009",
+    "edited": {
+      "user": "U057UGWMN48",
+      "ts": "1705682668.000000"
+    },
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q2mjt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Once all the features are deployed and integrated together, we should also try to consistently tie together the presentation/design of the app too.\n\nI know we kind of left that part in the air while we were building out our features, so it wasn't a huge priority, but once all the basic functionality is there are ties together, I think that would be the next logical step \n\nI'll volunteer for  at least the primary navigation bar since a lot of that will be conditionally rendered using user authentication and authorization anyway"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C809914E-BAAD-4457-8AC7-D1E7A7635397",
+    "type": "message",
+    "user": "U0576LJR97D",
+    "text": "Agreed! I’d be stoked to work on the design for the page views. And incorporate responsive elements so it looks good on mobile since it is a touring app. ",
+    "ts": "1705684409.860369",
+    "thread_ts": "1705680865.102009",
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RWyAM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Agreed! "
+              },
+              {
+                "type": "text",
+                "text": "I’"
+              },
+              {
+                "type": "text",
+                "text": "d be stoked to work on the design for the page views"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " And incorporate responsive elements so it looks good on mobile since it is a touring app"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/0506c54e2a1afb561a10fd6f6b340f65.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Madeline",
+      "real_name": "Madeline Lora",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "madelinelora95",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "97d6e160-eed4-4715-aadc-72bb6cc6d866",
+    "type": "message",
+    "user": "U0574U0BKQA",
+    "text": "I'm down. After the interviews I started working on the embedded/interactive (directions) maps API. Problem is the response (html) format needs to be nested within an \u003ciframe\u003e element to work properly.\n\nSo I currently create an temp html file to the server from the response. Still have to experiment with it.\n\nBut I can work on displaying the API to tour/stop creation from this point",
+    "ts": "1705690592.745529",
+    "thread_ts": "1705680865.102009",
+    "edited": {
+      "user": "U0574U0BKQA",
+      "ts": "1705690695.000000"
+    },
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057UGWMN48"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Av6Ty",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm down. After the interviews I started working on the embedded/interactive (directions) maps API. Problem is the response (html) format needs to be nested within an \u003ciframe\u003e element to work properly.\n\nSo I currently create an temp html file to the server from the response. Still have to experiment with it.\n\nBut I can work on displaying the API to tour/stop creation from this point"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245917112390_a678285ea0ed240e1e11_72.jpg",
+      "first_name": "Devon",
+      "real_name": "Devon Harris",
+      "display_name": "Devon H. (Philly)",
+      "team": "T050CSX3EMT",
+      "name": "devharris93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

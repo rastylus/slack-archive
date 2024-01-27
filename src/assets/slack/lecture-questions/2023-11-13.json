@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "8643228f-29e9-4ac3-8e24-3206d1d1b96b",
+    "type": "message",
+    "user": "U056ZDVQRL3",
+    "text": "not sure of the time limits, but you can also use the huddle feature here on slack",
+    "ts": "1699898420.503569",
+    "thread_ts": "1698965197.739339",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LNMyu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not sure of the time limits, but you can also use the huddle feature here on slack"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5254288179559_8ccab3e3f6cddd72d402_72.jpg",
+      "first_name": "Christopher",
+      "real_name": "Christopher Deo",
+      "display_name": "Chris",
+      "team": "T050CSX3EMT",
+      "name": "chris",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "474e3f5f-1b25-444f-9a22-45a40df692a3",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I also found Jitsi.",
+    "ts": "1699899595.814069",
+    "thread_ts": "1698965197.739339",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056ZDVQRL3"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dUL3p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I also found Jitsi."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

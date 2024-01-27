@@ -1,0 +1,198 @@
+[
+  {
+    "client_msg_id": "ca4674cf-516e-4be0-bafb-6aeb470a135b",
+    "type": "message",
+    "user": "U057S95RQC9",
+    "text": "approved!",
+    "ts": "1703177365.385599",
+    "thread_ts": "1703045475.552419",
+    "parent_user_id": "U057HDRTJU9",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MFcEf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "approved!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-28/6255059219110_09fcfa42a8921f231618_72.jpg",
+      "first_name": "Jialing",
+      "real_name": "Jialing Liu",
+      "display_name": "Jialing Liu",
+      "team": "T050CSX3EMT",
+      "name": "jialingl.liu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b3d54cd3-d412-4cda-90fc-6608d6039d2e",
+    "type": "message",
+    "user": "U057S95RQC9",
+    "text": "Hi team! I’m sure everyone is very busy prepping for tonight’s interviews, so I just wanted to let you know quickly that I have connected our star rating system to our backend database. It is now complete and ready to be reviewed/approved in our repo: \u003chttps://github.com/AJmints/IntelliJAC-LiftOff/pull/14\u003e. Best on luck tonight! We can do it!  :muscle:",
+    "ts": "1703177621.109029",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "#14 Jialing/app rating completed",
+        "id": 1,
+        "title": "#14 Jialing/app rating completed",
+        "title_link": "https://github.com/AJmints/IntelliJAC-LiftOff/pull/14",
+        "text": "connected front to back. Star ratings now appear in mysql database.",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/AJmints/IntelliJAC-LiftOff|AJmints/IntelliJAC-LiftOff\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1703098550
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U056SVBQSES",
+          "U057HDRTJU9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "joqpj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi team! I’m sure everyone is very busy prepping for tonight’s interviews, so I just wanted to let you know quickly that I have connected our star rating system to our backend database. It is now complete and ready to be reviewed/approved in our repo: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/AJmints/IntelliJAC-LiftOff/pull/14",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": ". Best on luck tonight! We can do it!  "
+              },
+              {
+                "type": "emoji",
+                "name": "muscle",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-28/6255059219110_09fcfa42a8921f231618_72.jpg",
+      "first_name": "Jialing",
+      "real_name": "Jialing Liu",
+      "display_name": "Jialing Liu",
+      "team": "T050CSX3EMT",
+      "name": "jialingl.liu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b1ceaaac-c174-4ec5-81ce-ca3b69017a4f",
+    "type": "message",
+    "user": "U057HDRTJU9",
+    "text": "All the best guyz!!.. lets do it!!:muscle:",
+    "ts": "1703201298.543999",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U056SVBQSES",
+          "U057S95RQC9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6yyCY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "All the best guyz!!.. lets do it!!"
+              },
+              {
+                "type": "emoji",
+                "name": "muscle",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243080667203_61e07f4b1448b0bfad86_72.jpg",
+      "first_name": "Charu",
+      "real_name": "Charu",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "charu91.sathish",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,609 @@
+[
+  {
+    "client_msg_id": "a8a11233-1db0-4c89-a671-0c37a3219b6d",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "Anyone @TAs know how the DTOs compare to things like View Models in C#? They seem similar however I am not 100% on my thinking here due to SQL also having View Models",
+    "ts": "1699315837.013819",
+    "thread_ts": "1699315837.013819",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U057BAHNQAZ",
+        "ts": "1699315903.248089"
+      },
+      {
+        "user": "U056K1UHEGP",
+        "ts": "1699315993.218459"
+      },
+      {
+        "user": "U059D0BNJ1G",
+        "ts": "1699316095.183179"
+      }
+    ],
+    "latest_reply": "1699316095.183179",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mzd24",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anyone @TAs know how the DTOs compare to things like View Models in C#? They seem similar however I am not 100% on my thinking here due to SQL also having View Models"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056K1UHEGP",
+      "U057BAHNQAZ",
+      "U059D0BNJ1G"
+    ]
+  },
+  {
+    "client_msg_id": "85fe5209-55ed-4e18-8744-a37065426f3b",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "For anyone who might be curious I actually also took a quick google to see if I could find out really quickly myself and this is quite helpful!: \u003chttps://stackoverflow.com/questions/36648883/dto-vs-vm-to-use-or-not-to-use\u003e",
+    "ts": "1699315903.248089",
+    "thread_ts": "1699315837.013819",
+    "attachments": [
+      {
+        "fallback": "Stack Overflow: DTO vs VM - To use or not to use?",
+        "id": 1,
+        "title": "DTO vs VM - To use or not to use?",
+        "title_link": "https://stackoverflow.com/questions/36648883/dto-vs-vm-to-use-or-not-to-use",
+        "text": "In \u003chttp://asp.net|asp.net\u003e (webapi+mvc) project i have many dto as public interfaces to my BLL. Also, most of my view models are same to appropriate dtos. \n\nSmart books tell us that we have to separate this kind of",
+        "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+        "service_name": "Stack Overflow",
+        "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+        "from_url": "https://stackoverflow.com/questions/36648883/dto-vs-vm-to-use-or-not-to-use",
+        "original_url": "https://stackoverflow.com/questions/36648883/dto-vs-vm-to-use-or-not-to-use",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U057BAHNQAZ",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YrpLF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For anyone who might be curious I actually also took a quick google to see if I could find out really quickly myself and this is quite helpful!: "
+              },
+              {
+                "type": "link",
+                "url": "https://stackoverflow.com/questions/36648883/dto-vs-vm-to-use-or-not-to-use",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "66419dde-4ba1-44f9-a55c-ee9e153613af",
+    "type": "message",
+    "user": "U056K1UHEGP",
+    "text": "Thanks \u003c@U057BAHNQAZ\u003e :slightly_smiling_face:",
+    "ts": "1699315993.218459",
+    "thread_ts": "1699315837.013819",
+    "parent_user_id": "U057BAHNQAZ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bRS95",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "U057BAHNQAZ"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/13e306b805121fa81ffc3395068bf579.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Sneha",
+      "real_name": "Sneha Chitre",
+      "display_name": "Sneha Chitre (KC)",
+      "team": "T050CSX3EMT",
+      "name": "sneha.chitre.usa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bca11d23-b283-4aaf-8be4-1e89f1091cf3",
+    "type": "message",
+    "user": "U059D0BNJ1G",
+    "text": "Java DTO classes are often marked with the @Data or @Getter and @Setter annotations to automatically generate getter and setter methods.\nIn C#, DTO classes typically use automatic properties to define getters and setters for the properties.\nJAVA:\npublic class UserDTO {\n    private Long id;\n    private String username;\n    private String email;\n\n    // Getters and setters for fields\n}\nC#:\npublic class UserDTO {\n    public long Id { get; set; }\n    public string Username { get; set; }\n    public string Email { get; set; }\n}",
+    "ts": "1699316095.183179",
+    "thread_ts": "1699315837.013819",
+    "parent_user_id": "U057BAHNQAZ",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U056K1UHEGP"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ea7tN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Java DTO classes are often marked with the @Data or @Getter and @Setter annotations to automatically generate getter and setter methods.\nIn C#, DTO classes typically use automatic properties to define getters and setters for the properties.\nJAVA:\npublic class UserDTO {\n    private Long id;\n    private String username;\n    private String email;\n\n    // Getters and setters for fields\n}\nC#:\npublic class UserDTO {\n    public long Id { get; set; }\n    public string Username { get; set; }\n    public string Email { get; set; }\n}"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-24/5316533015413_e26702333ab28353f335_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Hernandez.",
+      "display_name": "TA - Jose Hernandez",
+      "team": "T050CSX3EMT",
+      "name": "jose_ghj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bc8ab6c1-3c50-4f95-bb70-4ac94aeae305",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "Is the logic behind just invalidating a session for logout that each session is a unique to a client connection to the server and will only be associated with one particular user?",
+    "ts": "1699317831.055489",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U050FPSA3DH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/VTIK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is the logic behind just invalidating a session for logout that each session is a unique to a client connection to the server and will only be associated with one particular user?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1014aa29-6463-4362-9e4a-048c76ee1bb3",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "IN the event of a web application with a large number of public pages and a much smaller set of restricted pages, would it be more practical to take the inverse approach to whitelisting/blacklisting and explicitly defining restricted pages?",
+    "ts": "1699318588.299149",
+    "thread_ts": "1699318588.299149",
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699318647.625689"
+      },
+      {
+        "user": "U057UGWMN48",
+        "ts": "1699319339.710599"
+      },
+      {
+        "user": "U050FPSA3DH",
+        "ts": "1699319470.195009"
+      },
+      {
+        "user": "U057UGWMN48",
+        "ts": "1699319832.094859"
+      }
+    ],
+    "latest_reply": "1699319832.094859",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U050FPSA3DH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7zYDR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "IN the event of a web application with a large number of public pages and a much smaller set of restricted pages, would it be more practical to take the inverse approach to whitelisting/blacklisting and explicitly defining restricted pages?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U050FPSA3DH",
+      "U05724ACLVB",
+      "U057UGWMN48"
+    ]
+  },
+  {
+    "client_msg_id": "8418b146-02ee-4e08-84ea-b00a8c5b6c9a",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Seems reasonable.",
+    "ts": "1699318647.625689",
+    "thread_ts": "1699318588.299149",
+    "parent_user_id": "U057UGWMN48",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3aeS4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Seems reasonable."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5d88fb84-e32f-40bb-bd37-77b917249b25",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "Agreed!",
+    "ts": "1699319339.710599",
+    "thread_ts": "1699318588.299149",
+    "parent_user_id": "U057UGWMN48",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NuTUh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Agreed!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "214a1fe4-2011-4bcc-8077-1b74927f4cce",
+    "type": "message",
+    "user": "U050FPSA3DH",
+    "text": "Yes, blacklisting is an alternate approach!",
+    "ts": "1699319470.195009",
+    "thread_ts": "1699318588.299149",
+    "parent_user_id": "U057UGWMN48",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "arrow_up_small",
+        "count": 1,
+        "users": [
+          "U057UGWMN48"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Enh7R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes, blacklisting is an alternate approach!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5250305694433_62d56e5a7ac1aa48f553_72.jpg",
+      "first_name": "Carrie",
+      "real_name": "Carrie Jones",
+      "display_name": "Lead Instructor - Carrie Jones",
+      "team": "T050CSX3EMT",
+      "name": "cjones.renaissancewom",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "197fde99-5729-4404-b8a4-09041c8be750",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "Thanks, Carrie!",
+    "ts": "1699319832.094859",
+    "thread_ts": "1699318588.299149",
+    "parent_user_id": "U057UGWMN48",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3nuhC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks, Carrie!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

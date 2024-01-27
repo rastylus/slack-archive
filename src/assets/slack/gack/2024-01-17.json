@@ -1,0 +1,4160 @@
+[
+  {
+    "client_msg_id": "1ed58e2b-eeb4-40bb-a158-9d712eeed28f",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Thanks for the update. How do you plan to configure it so that a user can save a created brew to their fridge?",
+    "ts": "1705452734.718619",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CYjFF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks for the update. How do you plan to configure it so that a user can save a created brew to their fridge?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "28dbe904-dd85-47bb-b251-1f7e878752ee",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I wasn't aware I was doing that, only saving the responses in the database",
+    "ts": "1705452815.047459",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7+rRq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I wasn't aware I was doing that, only saving the responses in the database"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8b606e0f-da96-4015-a2ca-18d2f96f129a",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "What I'll do for the group project is simplify the form so it only has a couple inputs, Post a much smaller data object so that it generates a table/fills in a table with a columns for the ID, and each response.",
+    "ts": "1705453047.604639",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tpjQa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What I'll do for the group project is simplify the form so it only has a couple inputs, Post a much smaller data object so that it generates a table/fills in a table with a columns for the ID, and each response."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6a009ed3-3af2-4472-a86a-72a04efd7bad",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Which was my original plan. If I need to add it to the fridge then I think I will need whatever object you're creating, and in your beer created page I'd have add the button which then I will grabs that data and redirect it back to the user's fridge page?",
+    "ts": "1705453295.250189",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6tsFO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Which was my original plan. If I need to add it to the fridge then I think I will need whatever object you're creating, and in your beer created page I'd have add the button which then I will grabs that data and redirect it back to the user's fridge page?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f6c7bcb0-2035-4026-b02e-033c94f8046c",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I think it would mean my having to mess around in your controller and interfaces/entities",
+    "ts": "1705453334.145449",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Br5QA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think it would mean my having to mess around in your controller and interfaces/entities"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "debebfed-e81c-4dbb-b7b5-0eeab54aa594",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Okay, bummer. I thought we were on the same page. What I plan to do with the name creation part is only the 'U' in CRUD--update the existing beer. This way you get to hit the 'C' in CRUD with your form feature.",
+    "ts": "1705453427.998989",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "I+tmY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay, bummer. I thought we were on the same page. What I plan to do with the name creation part is only the 'U' in CRUD--update the existing beer. This way you get to hit the 'C' in CRUD with your form feature."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c440cac2-31b5-42ba-914b-847e58aae4b7",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I will hit the C, it's just only gonna be available in the backend",
+    "ts": "1705453484.937969",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pLlFv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I will hit the C, it's just only gonna be available in the backend"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0684ea0c-bb3c-4af2-a397-53bbc13abb82",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "I think Marleny you just have to save it to the database and it would basically be saving it to the fridge. I'm just going to configure the fridge to grab specific info out of what you save in the back end",
+    "ts": "1705453600.145299",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "THMQA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think Marleny you just have to save it to the database and it would basically be saving it to the fridge. I'm just going to configure the fridge to grab specific info out of what you save in the back end"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cc138db4-f1bd-4e89-9f1b-fabcce0e0192",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Yeah but for the record my data is only from the form. It's not whatever is produced by the API",
+    "ts": "1705453668.957749",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FQ9wq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah but for the record my data is only from the form. It's not whatever is produced by the API"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d4af8b5e-54e4-4bea-aa89-d78d751db9fc",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "So I don't know if my info is what you need",
+    "ts": "1705453687.051659",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cqKU4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So I don't know if my info is what you need"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d6047b4f-73ec-44ac-bea6-6392956a58ac",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I will work to get you guys my much more simplified code as soon as I can tomorrow. Do what you will with my data",
+    "ts": "1705454037.324619",
+    "edited": {
+      "user": "U057C70KL57",
+      "ts": "1705454331.000000"
+    },
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U056WKE4W77",
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pY4r9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I will work to get you guys my much more simplified code as soon as I can tomorrow. Do what you will with my data"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "87395b3c-b5ba-4bcc-9d8f-da13a1d1b898",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Marleny, your data does not need to match the data structure of the API. The API data is totally different!\nThe data from your form just needs to be saved in the backend, in a repo. The simplest place to put it would be in the beer repo. You don't need to save all of the data from the form--the act of answering silly questions and filling it out is what will make the app fun! but we don't need to keep a record of every single answer--but you may end up adding a field or two to the existing beer model class, beer repo and beer dto if you'd like. Ryan's fridge will just pull \"ID\" \"Beer Name\", \"ABV\", \"Tasting Notes\". The actual beer repo can have other fields that we don't display in the fridge.",
+    "ts": "1705457318.263889",
+    "thread_ts": "1705457318.263889",
+    "reply_count": 35,
+    "replies": [
+      {
+        "user": "U056WKE4W77",
+        "ts": "1705457508.634469"
+      },
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1705457553.364939"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705469639.896529"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705469654.699079"
+      },
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1705500825.216989"
+      },
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1705500850.733329"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705501622.942919"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705501798.713379"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705502467.628929"
+      },
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1705502908.814069"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705503032.861749"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705503063.849429"
+      },
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1705503105.987989"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705503154.235669"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705503183.525259"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705503271.091749"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705503411.787829"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705503449.149059"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705503595.135279"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705506066.851919"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705506098.735849"
+      },
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1705513731.984759"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705519504.187239"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705519581.036199"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705519590.127139"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705519661.444169"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705519667.087579"
+      },
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1705533969.448989"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705537002.066339"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705537064.221269"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705537586.691369"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705537712.217429"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705537822.861319"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705537914.310759"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705538043.034929"
+      }
+    ],
+    "latest_reply": "1705538043.034929",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CTHKi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Marleny, your data does not need to match the data structure of the API. The API data is totally different!\nThe data from your form just needs to be saved in the backend, in a repo. The simplest place to put it would be in the beer repo. You don't need to save all of the data from the form--the act of answering silly questions and filling it out is what will make the app fun! but we don't need to keep a record of every single answer--but you may end up adding a field or two to the existing beer model class, beer repo and beer dto if you'd like. Ryan's fridge will just pull \"ID\" \"Beer Name\", \"ABV\", \"Tasting Notes\". The actual beer repo can have other fields that we don't display in the fridge."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056WKE4W77",
+      "U0571CCLKDL",
+      "U057C70KL57"
+    ]
+  },
+  {
+    "client_msg_id": "121f2580-6d88-49d8-a606-15fff0c8dee5",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "This way, you can work with the existing data structures, adding to them as you see fit, and ultimately save yourself the trouble of coding from the ground up.",
+    "ts": "1705457347.680849",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BKpUy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This way, you can work with the existing data structures, adding to them as you see fit, and ultimately save yourself the trouble of coding from the ground up."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5bbf6fe3-4d9c-4e87-8172-006685f93617",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "I hope that makes sense.",
+    "ts": "1705457353.593019",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q5bg5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I hope that makes sense."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fe8a3946-b8bb-4132-b58a-ca7b6b702a00",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "In other news, I am officially integrated with the current version of main! I won't push to remote main until I am totally done, BUT I am pleased to report that everything is working :)))",
+    "ts": "1705457401.276789",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 1,
+        "users": [
+          "U056WKE4W77"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QFynN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "In other news, I am officially integrated with the current version of main! I won't push to remote main until I am totally done, BUT I am pleased to report that everything is working :)))"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "990ef23f-f0da-4008-9fb5-9d143020e6cc",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "\u003c@U057SCV767K\u003e How goes the admin stuff? Have you been able to display all users in a manner similar to the way beers are displayed in the fridge?",
+    "ts": "1705457505.184409",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7J9Nb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057SCV767K"
+              },
+              {
+                "type": "text",
+                "text": " How goes the admin stuff? Have you been able to display all users in a manner similar to the way beers are displayed in the fridge?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7239de28-782d-46f1-8bbe-ac49df7510cc",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "So is the idea that the form will ask for tasting notes and ABV and we will just display those as they wrote them?",
+    "ts": "1705457508.634469",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H1U7F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So is the idea that the form will ask for tasting notes and ABV and we will just display those as they wrote them?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1178783c-557a-4952-b046-2312faf35618",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "That sounds fine to me!",
+    "ts": "1705457553.364939",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056WKE4W77"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K/NeI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That sounds fine to me!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1DF7FFC8-1724-425E-BE39-2B33543ED8C2",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "Hi there. I have an error that I am trying to work through with the delete button",
+    "ts": "1705457558.884009",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e4P3A",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi there"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " I have an error that I am trying to work through with the delete button"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C57CE082-B9BD-4303-B573-DE8FC3E9EF32",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "I am also having an issue with the id. ",
+    "ts": "1705457591.698859",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Alg6Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am also having an issue with the id"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d3851466-cd7d-465a-bef6-ed91cef2edff",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Understandable. For the id I would check to see how your user model id differs from the beer model id",
+    "ts": "1705457632.104599",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-5",
+        "count": 1,
+        "users": [
+          "U057SCV767K"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "St258",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Understandable. For the id I would check to see how your user model id differs from the beer model id"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "26905139-300B-446A-923D-FB92E8605E61",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "The user id isn’t showing. But the phone numbers are",
+    "ts": "1705457637.348959",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0Wdpz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The user id isn’t showing"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " But the phone numbers are"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b6fa6fe9-e484-48f7-b24c-d3a716f8e87e",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Awesome!",
+    "ts": "1705457643.506219",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xl3Ae",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4F530D71-3B5C-4FA1-A969-02DCFA18A21A",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "I will check them",
+    "ts": "1705457646.410459",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7ruWB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I will check them"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2EF0A70A-6786-447D-8AA9-9556CD8B29C0",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "I also added a gray background to the pages",
+    "ts": "1705457681.504909",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rUSSG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I also added a gray background to the pages"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "29D8D30C-8140-47EA-BD68-1E3A085D53FE",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "That’s all I really have for css ",
+    "ts": "1705457699.728889",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JMXbF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That’s all I really have for css "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "11cec2fc-6c4a-4c81-9687-f0228cea1e43",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "You got this, Suburwa! Also I've done nothing for css (lol).",
+    "ts": "1705457803.734569",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "upside_down_face",
+        "count": 1,
+        "users": [
+          "U057SCV767K"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FE/kW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You got this, Suburwa! Also I've done nothing for css (lol)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A7838385-F784-44D0-BC03-D5E17559C162",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "I could care less about styling lol. I just want it running",
+    "ts": "1705457861.257299",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "beers",
+        "count": 2,
+        "users": [
+          "U0571CCLKDL",
+          "U056WKE4W77"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1Xzk3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I could "
+              },
+              {
+                "type": "text",
+                "text": "care less"
+              },
+              {
+                "type": "text",
+                "text": " about styling lol"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " I just want it running"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A3C0FA9B-25A4-4C1C-86D1-CE0693C928EC",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "But the issue with the delete button in the admin profile has to do with usestate and mapping",
+    "ts": "1705458239.635709",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TF3Ik",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "But the issue with the delete button in the admin profile has to do with usestate and mapping"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "CE9B20BC-B739-4916-9CAC-D6592E7F7D20",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "The same issue Alex and I spent time fixing came back",
+    "ts": "1705458258.868419",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "P7PXv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The same issue Alex and I spent time fixing came back"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a143c5ba-29e8-464d-ada5-0b5f7523b50a",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Does the edit button work?",
+    "ts": "1705458691.912439",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zZDKy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Does the edit button work?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "94D099B6-4ABB-41D1-B4BA-3475658C70F0",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "The edit button is not there",
+    "ts": "1705458715.380339",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9nsqy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The edit button is not there"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9A773A81-9A1C-47E6-886D-F1B9DB6CAB30",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "Submit and delete are the only two",
+    "ts": "1705458726.340249",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "P0a/W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Submit and delete are the only two"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "24c8747d-7322-427a-bd31-c4dd1051d428",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "Drew, could you help me and tell me where in your branch your cookie work is found?",
+    "ts": "1705459879.051519",
+    "thread_ts": "1705459879.051519",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U056WKE4W77",
+        "ts": "1705460247.500719"
+      },
+      {
+        "user": "U056WKE4W77",
+        "ts": "1705460512.687539"
+      },
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1705463089.285879"
+      }
+    ],
+    "latest_reply": "1705463089.285879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kt+lc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Drew, could you help me and tell me where in your branch your cookie work is found?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056WKE4W77",
+      "U0571CCLKDL"
+    ]
+  },
+  {
+    "client_msg_id": "70f05986-5214-4713-9f8e-ca7ac48e32d3",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "Need to grab the username/email (whichever we are using) from the cookie and send it to the back if that sounds like something you'd already done",
+    "ts": "1705459911.578239",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ECYJt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Need to grab the username/email (whichever we are using) from the cookie and send it to the back if that sounds like something you'd already done"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cef1b746-ea1a-4ddc-b491-c707b3971b01",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "\u003c@U0571CCLKDL\u003e Just in case a tag gets it faster",
+    "ts": "1705460247.500719",
+    "thread_ts": "1705459879.051519",
+    "parent_user_id": "U056WKE4W77",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CPtcS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0571CCLKDL"
+              },
+              {
+                "type": "text",
+                "text": " Just in case a tag gets it faster"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "58eb276c-cd58-4247-a278-0f6b879c99c1",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "I think I found it in Login form.",
+    "ts": "1705460512.687539",
+    "thread_ts": "1705459879.051519",
+    "parent_user_id": "U056WKE4W77",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "P76A6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think I found it in Login form."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "41cbdc4e-ff62-4562-8582-2e969035cd22",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "ah, sorry! it's set in loginform. you have found it",
+    "ts": "1705463089.285879",
+    "thread_ts": "1705459879.051519",
+    "parent_user_id": "U056WKE4W77",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bDm+2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ah, sorry! it's set in loginform. you have found it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f8545516-995d-45b5-9bcd-64dd7ad4d16d",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "The syntax for returning the value of the cookie with the key \"username\" is simply getCookies().username",
+    "ts": "1705463149.152679",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U056WKE4W77"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zHK9b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The syntax for returning the value of the cookie with the key \"username\" is simply getCookies().username"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8f69a5fa-e825-465f-9d0a-6e23c5e04af4",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "make sure you import { getCookies } from 'cookies-next';",
+    "ts": "1705463176.700859",
+    "thread_ts": "1705463176.700859",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056WKE4W77",
+        "ts": "1705540488.685829"
+      }
+    ],
+    "latest_reply": "1705540488.685829",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oeAgE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "make sure you import { getCookies } from 'cookies-next';"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056WKE4W77"
+    ]
+  },
+  {
+    "client_msg_id": "44e76069-8471-4ba2-b7f1-7fe66cba3d58",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "it works when i console.log it on my end",
+    "ts": "1705463187.974919",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nhxYD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it works when i console.log it on my end"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0fbf6065-ff26-4162-a8ac-2660a4d2246b",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Thank you for sharing. It was a major blocker for me",
+    "ts": "1705464107.360569",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8tNub",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you for sharing. It was a major blocker for me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7d29f692-8d30-4e52-9f18-d30ab5629c5d",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Did you delete abstract entity? I don't get that error (at least in part) because all of my entity classes extend abstract entity. I.e.,\n```import jakarta.persistence.Entity;\n\n@Entity\npublic class ApiDummy extends AbstractEntity {\n\n    private String taste;\n\n    public ApiDummy(String taste) {\n        this.taste = taste;\n    }\n\n    public ApiDummy() {\n    }\n\n    public String getTaste() {\n        return taste;\n    }\n\n    public void setTaste(String taste) {\n        this.taste = taste;\n    }\n}```",
+    "ts": "1705466939.750219",
+    "thread_ts": "1705466939.750219",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U057C70KL57",
+        "ts": "1705469374.731319"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705469493.077529"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705469565.130399"
+      }
+    ],
+    "latest_reply": "1705469565.130399",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "An8UN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Did you delete abstract entity? I don't get that error (at least in part) because all of my entity classes extend abstract entity. I.e.,\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"import jakarta.persistence.Entity;\\n\\n@Entity\\npublic class ApiDummy extends AbstractEntity {\\n\\n    private String taste;\\n\\n    public ApiDummy(String taste) {\\n        this.taste = taste;\\n    }\\n\\n    public ApiDummy() {\\n    }\\n\\n    public String getTaste() {\\n        return taste;\\n    }\\n\\n    public void setTaste(String taste) {\\n        this.taste = taste;\\n    }\\n}\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057C70KL57"
+    ]
+  },
+  {
+    "client_msg_id": "27f649ee-29a4-40fb-94b2-71b023367e87",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "A bit of humor to share. Name generator is starting to take form. The first 4 names generated are:\n-Hammer Buffalo\n-Gold Seafood\n-Ipa Smoked\n-Metaphor Brisket",
+    "ts": "1705467009.989209",
+    "thread_ts": "1705467009.989209",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056WKE4W77",
+        "ts": "1705501274.016069"
+      }
+    ],
+    "latest_reply": "1705501274.016069",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U056WKE4W77"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SbTPX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "A bit of humor to share. Name generator is starting to take form. The first 4 names generated are:\n-Hammer Buffalo\n-Gold Seafood\n-Ipa Smoked\n-Metaphor Brisket"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056WKE4W77"
+    ]
+  },
+  {
+    "client_msg_id": "00cf1bb2-4cf4-41f6-823c-2806afb6710c",
+    "type": "message",
+    "user": "U057SCV767K",
+    "ts": "1705469167.993399",
+    "files": [
+      {
+        "id": "F06E4QXU7GV",
+        "created": 1705469165,
+        "timestamp": 1705469165,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057SCV767K",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 116682,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06E4QXU7GV/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06E4QXU7GV/download/image.png",
+        "original_h": 809,
+        "original_w": 1495,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E4QXU7GV-5e85f1b9bc/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E4QXU7GV-5e85f1b9bc/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E4QXU7GV-5e85f1b9bc/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E4QXU7GV-5e85f1b9bc/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 195,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E4QXU7GV-5e85f1b9bc/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 260,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E4QXU7GV-5e85f1b9bc/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 390,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E4QXU7GV-5e85f1b9bc/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 519,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E4QXU7GV-5e85f1b9bc/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 554,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057SCV767K/F06E4QXU7GV/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06E4QXU7GV-f2dbd2ec0b",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "760d03c8-e4c9-4565-b982-df83c6c9a8b5",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "favorites is showing as an object but still errors",
+    "ts": "1705469206.832779",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VpQ6w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "favorites is showing as an object but still errors"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d269711f-be77-46f5-beda-fe1525006749",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Abstract entity is not deleted, but the imports for persistence.GeneratedValue, GenerationType, nor Id are not live",
+    "ts": "1705469374.731319",
+    "thread_ts": "1705466939.750219",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gBgcO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Abstract entity is not deleted, but the imports for persistence.GeneratedValue, GenerationType, nor Id are not live"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c21723b1-3afa-4786-acad-bee7e28728c4",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Meaning it doesn't make use of them. so if none of the entities have id attributes, and they aren't in the Abstract Entity, then where have you guys been putting them",
+    "ts": "1705469493.077529",
+    "thread_ts": "1705466939.750219",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qthz2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Meaning it doesn't make use of them. so if none of the entities have id attributes, and they aren't in the Abstract Entity, then where have you guys been putting them"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0daa1559-07ca-4cbd-bec8-a72525474403",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I have no clue how you guys are not getting build errors. I pulled your newer, stable branch and deleted a bunch of my files and i still get the same error",
+    "ts": "1705469565.130399",
+    "thread_ts": "1705466939.750219",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6Yevp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have no clue how you guys are not getting build errors. I pulled your newer, stable branch and deleted a bunch of my files and i still get the same error"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "da804ebf-83cf-4640-8a3a-0bf84812465d",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "what???",
+    "ts": "1705469639.896529",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0+0lU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what???"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "558f407b-8528-4f7e-a077-85196f92b9b3",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "my responses have nothing to do with drew's api",
+    "ts": "1705469654.699079",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9oOAq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "my responses have nothing to do with drew's api"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ae1080d3-c713-4766-9626-1509047c7689",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "API fully wired in. Adds the new name to the beer in the repo with the largest id number. BTW you only have a 1 in 100 chance of rolling this beer name. A wildcard per Marleny's spitballing.",
+    "ts": "1705474019.273089",
+    "files": [
+      {
+        "id": "F06E80XC4PL",
+        "created": 1705473919,
+        "timestamp": 1705473919,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0571CCLKDL",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 47102,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06E80XC4PL/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06E80XC4PL/download/image.png",
+        "original_h": 376,
+        "original_w": 441,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E80XC4PL-f8b37b994d/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E80XC4PL-f8b37b994d/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E80XC4PL-f8b37b994d/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E80XC4PL-f8b37b994d/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 307,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0571CCLKDL/F06E80XC4PL/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06E80XC4PL-e7ab449b67",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "shqmU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "API fully wired in. Adds the new name to the beer in the repo with the largest id number. BTW you only have a 1 in 100 chance of rolling this beer name. A wildcard per Marleny's spitballing."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6534c62a-ce24-4637-84ad-a4eee9d8fd4e",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Let's plan to have everyone merged by tomorrow afternoon.",
+    "ts": "1705474167.592649",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ezeYf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Let's plan to have everyone merged by tomorrow afternoon."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4BF616E7-E9AA-49BF-BB73-B53FC596307B",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "I am sorry to learn of the confusion! The API data, classes, dto, et al have to do with the data from the third party API. The third party API is an entirely separate component from our backend Beer repo. Data from the third party API is hosted on the third party API server; it is not hosted in any of our backend repos. The data from your form submission is to be used to create a new record in our backend Beer repository. The data the user submits in the front end form would be transferred to the backend by means of beer dto. The data from the third party API is handled (transferred from the third party API to the backend) using an API dto. ",
+    "ts": "1705500825.216989",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "P12rr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am sorry to learn of the confusion! The API data, classes, dto, et al have to do with the data from the third party API. The third party API is an entirely separate component from our backend Beer repo. Data from the third party API is hosted on the third party API server; it is not hosted in any of our backend repos. The data from your form submission is to be used to create a new record in our backend Beer repository. The data the user submits in the front end form would be transferred to the backend by means of beer dto. The data from the third party API is handled (transferred from the third party API to the backend) using an API dto. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "80D094ED-3F33-416E-8FFC-754DFC0AFF84",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "I hope that helps to clear things up! ",
+    "ts": "1705500850.733329",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2Wkd2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I hope that helps to clear things up! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "29feac20-83a6-4cec-924e-e4fd3e202641",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "These are awesome. You can imagine a different kinda brewery that would put out all of these.\nMetaphor Brisket has a can with a distinct art style",
+    "ts": "1705501274.016069",
+    "thread_ts": "1705467009.989209",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J9nbZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "These are awesome. You can imagine a different kinda brewery that would put out all of these.\nMetaphor Brisket has a can with a distinct art style"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0c4a8607-6f06-4fe0-9607-027f84110259",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I did get that, thank you. From the api, I thought the idea was that you'd pull the abv, tasting notes, ie whatever you wanted, to generate on the beer created page, as info about the beer generated. And that the name of the beer was the only thing that would be pulled from however you were gonna set it up",
+    "ts": "1705501622.942919",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Wq3Ps",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I did get that, thank you. From the api, I thought the idea was that you'd pull the abv, tasting notes, ie whatever you wanted, to generate on the beer created page, as info about the beer generated. And that the name of the beer was the only thing that would be pulled from however you were gonna set it up"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "90fae94e-c7e3-4177-9073-69bb6b75641b",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "When I asked if my data object had match your fields you told me that no, it's a completely separate thing. When I posted the data object on here I received no follow up questions. You asked if I could pass on the user name id so I did try to do that but I wasn't able to with how I had currently set up my code",
+    "ts": "1705501798.713379",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T+qdJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When I asked if my data object had match your fields you told me that no, it's a completely separate thing. When I posted the data object on here I received no follow up questions. You asked if I could pass on the user name id so I did try to do that but I wasn't able to with how I had currently set up my code"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d3f72578-2206-414d-8bb3-7eaa140c624b",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "It fulfills your api feature, the U in crud, and my form satisfies my requirements, and gets it to mvp. It would be nice to make this app that detailed and robust but some of us can't do that in the time frame given and for the sake of  graduation leave it at mvp.",
+    "ts": "1705502467.628929",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XGBGz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It fulfills your api feature, the U in crud, and my form satisfies my requirements, and gets it to mvp. It would be nice to make this app that detailed and robust but some of us can't do that in the time frame given and for the sake of  graduation leave it at mvp."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "82D16750-7835-499C-8D26-447B3494A5AA",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "I think we are using the term \"API\" in inconsistent ways. When I say \"API\" I am referring to the third party API, punk beer api. When referring to our own repositories on the back end, I am using the word \"repo\" or \"repository\"",
+    "ts": "1705502908.814069",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S1hfq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think we are using the term \"API\" in inconsistent ways. When I say \"API\" I am referring to the third party API, punk beer api. When referring to our own repositories on the back end, I am using the word \"repo\" or \"repository\""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "394d02d8-c5ef-4688-85dd-0678b28462d6",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "When I mean api, I mean fetching the info from punk to show up on the page. Except instead of the user hitting your fetch button, that button IS the fetch button. My form data goes elsewhere, the punk api displays as info about the generated beer.",
+    "ts": "1705503032.861749",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kmc0c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When I mean api, I mean fetching the info from punk to show up on the page. Except instead of the user hitting your fetch button, that button IS the fetch button. My form data goes elsewhere, the punk api displays as info about the generated beer."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f44a257a-b9f6-4e1b-b9a9-8da17eddf326",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "*my form submit button IS that button",
+    "ts": "1705503063.849429",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nc8OG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "*my form submit button IS that button"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "38712BF4-463C-4485-A373-B988B158B325",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Your features do not involve third party API calls, so they don't need to cohere to the fields in any dto or model class labeled \"API\".\nIn order for your features to integrate with the rest of the app, ie, Ryan's features and my features, you need to send the response data to the backend to be stored in the beer repository, as we discussed. To send data from the front end to the beer repository, you'll need to cohere to the structure of the beer dto and model class. This is why we mentioned that you could add fields to both as you see fit--it wouldnt mess up Ryan's work and it would allow for a bit more data to be stored. ",
+    "ts": "1705503105.987989",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lgpT3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Your features do not involve third party API calls, so they don't need to cohere to the fields in any dto or model class labeled \"API\".\nIn order for your features to integrate with the rest of the app, ie, Ryan's features and my features, you need to send the response data to the backend to be stored in the beer repository, as we discussed. To send data from the front end to the beer repository, you'll need to cohere to the structure of the beer dto and model class. This is why we mentioned that you could add fields to both as you see fit--it wouldnt mess up Ryan's work and it would allow for a bit more data to be stored. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2238bad5-81c5-407c-ba1d-80c2e6f1335f",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Which is why I thought you would handle the fetching part from my form",
+    "ts": "1705503154.235669",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dWRr9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Which is why I thought you would handle the fetching part from my form"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b61c92d6-b82c-4b06-9aee-6b987d7e29e2",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Once we moved to next js suddenly both my form and validation merged with your async fetch",
+    "ts": "1705503183.525259",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gD1qh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Once we moved to next js suddenly both my form and validation merged with your async fetch"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "82d85056-66a4-4fad-9981-a452a1cc8cf0",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "This is where your api and my form touch. And where we'd have to work in the same file. My form data has nothing to do with whatever you fetch from the api. But it's the api data that we need displayed and in the fridge right? My form has nothing to do with it",
+    "ts": "1705503271.091749",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z/rL2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is where your api and my form touch. And where we'd have to work in the same file. My form data has nothing to do with whatever you fetch from the api. But it's the api data that we need displayed and in the fridge right? My form has nothing to do with it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6d685a4b-bd2c-467c-a3be-24e677d156ee",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I'm sorry but you made so many assumptions on my features that MY features, my work is rendered useless",
+    "ts": "1705503411.787829",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mSklM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm sorry but you made so many assumptions on my features that MY features, my work is rendered useless"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d511154f-5696-4d23-a1bd-f9d4a5442e86",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "None of what I wanted to do for MY features I got to decide",
+    "ts": "1705503449.149059",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rBvRJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "None of what I wanted to do for MY features I got to decide"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a55c717f-59aa-4726-b906-b447f1638326",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I'll get what you what you need in a couple of hours",
+    "ts": "1705503595.135279",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jb4jb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll get what you what you need in a couple of hours"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a0cfb708-a169-47f1-8ff5-8f87141a4a4f",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Is there anything else I need to do other than add my fields to the BeerDTO?",
+    "ts": "1705506066.851919",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dnJFS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is there anything else I need to do other than add my fields to the BeerDTO?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9c7b87e2-8f4b-4d7a-9eeb-cb7788569cde",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Do I need a controller?",
+    "ts": "1705506098.735849",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1vqpG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do I need a controller?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8D3AA145-907A-4B4E-B9AC-242D4507F9D4",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Hi Marleny, I'm afraid I don't really understand the issue, but I am sorry if there's been any miscommunication. The good news is that Ryan's features, Suburwa's features and my features are all integrated smoothly, so we are really close to the finish!\n\nI had understood that you were on the same page as everyone else and I'm really sorry if there are some lingering spots of confusion. \n\nThe front end that you made before the new year did not work on anyone's computer other than your own. This is why we collectively agreed to move forward with a new front end about 17-20 days ago. If I recall correctly, Alex was also present at that meeting.\n\nAs for the trouble now, I'm happy to help you however I can.\n\nSpecifically \"when i asked if my data object had to match your fields...\" to which fields are you referring?",
+    "ts": "1705513731.984759",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "otzn4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Marleny, I'm afraid I don't really understand the issue, but I am sorry if there's been any miscommunication. The good news is that Ryan's features, Suburwa's features and my features are all integrated smoothly, so we are really close to the finish!\n\nI had understood that you were on the same page as everyone else and I'm really sorry if there are some lingering spots of confusion. \n\nThe front end that you made before the new year did not work on anyone's computer other than your own. This is why we collectively agreed to move forward with a new front end about 17-20 days ago. If I recall correctly, Alex was also present at that meeting.\n\nAs for the trouble now, I'm happy to help you however I can.\n\nSpecifically \"when i asked if my data object had to match your fields...\" to which fields are you referring?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "904e8ab8-ba63-4ed4-8186-74d2b06466c5",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I'm not talking about that. It was when you pointed me to the page where i had to put in the html, told me to follow Alex's video and code, answered yes when i confirmed whether i had to create my own dto, controller, entity, etc, confirmed yeah my data object is completely separate, so on and so forth",
+    "ts": "1705519504.187239",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GIN5g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm not talking about that. It was when you pointed me to the page where i had to put in the html, told me to follow Alex's video and code, answered yes when i confirmed whether i had to create my own dto, controller, entity, etc, confirmed yeah my data object is completely separate, so on and so forth"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5eded0cc-0e8d-41e9-99d1-3c5e00f8a50d",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I get you guys had to move on, but if we've been having so much miscommunication in the beginning, then you could have done your part to proactively check. you took charge of my features, but didn't bother to meet me in the middle",
+    "ts": "1705519581.036199",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "c/O5J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I get you guys had to move on, but if we've been having so much miscommunication in the beginning, then you could have done your part to proactively check. you took charge of my features, but didn't bother to meet me in the middle"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8ecb3e4f-9d69-4c95-b6b3-4b675dd91800",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I had to reach out everytime",
+    "ts": "1705519590.127139",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B3yPD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I had to reach out everytime"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "21ef35d7-8502-4dc3-8caa-f61b7202e362",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "nothing against you personally but that's why you need to tell me exactly what you're looking for by looking at my current code, telling me the type of file/model/component you need, and i will add each iteratively as you check each iteratively. it is why i said this morning or last night or whatever that all of you must merge your code first so that I can add mine on top so that we know exactly where to focus when it comes to debugging and finishing the project",
+    "ts": "1705519661.444169",
+    "thread_ts": "1705457318.263889",
+    "edited": {
+      "user": "U057C70KL57",
+      "ts": "1705519896.000000"
+    },
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h20kn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "nothing against you personally but that's why you need to tell me exactly what you're looking for by looking at my current code, telling me the type of file/model/component you need, and i will add each iteratively as you check each iteratively. it is why i said this morning or last night or whatever that all of you must merge your code first so that I can add mine on top so that we know exactly where to focus when it comes to debugging and finishing the project"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "16a56495-32ce-44f2-95ae-4ce08fddca9b",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "That is how you can help me",
+    "ts": "1705519667.087579",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tIx8s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That is how you can help me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3B98CDC3-6443-40A5-8B46-2DF9B034CDF8",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Hi Marleny, I am sorry to see that you feel that way! \nAfter we collectively agreed on our features and developed an approximate idea of how they'd connect, I was under the impression that we were all working under our own direction. \nAs a group project with individual components, we were each to be responsible for guiding our own features and adapting them to fit one another in the spirit of collaboration. No one was providing us with exact or precise instructions or guidelines. This is both the challenge and the beauty of collective work without an established hierarchy or manual. Suburwa, Ryan and I each worked on our own stuff and reached out when we had a question. While I am sorry for the lingering miscommunication, I think it's pretty unfair to say that someone else is responsible for proactively checking on your own features. \nPlease keep in mind that the last time we got together to merge to main and share code, your backend still was not running. This means that we had no glimpse into your code, as you had into ours. \nThe good news is that as programmers, we can all look at simple code and get a pretty decent idea of what is going on with the app! This has allowed us all to work together and build off of each other's features. More often than not, the answers one seeks can be found in the code.\nThat all to say:\n-If you look at Ryan's fridge, you'll see what repo the beers come from. That's the repo that you'll need to send the newly created beers to. \n-If you look at my features, which I've recently described in the chat, you'll see that the recommended beers list searches using ABV (as you and I had previously discussed) and also \"one taste word\". Honestly, this doesn't even have to integrate with your feature. It's fine as a standalone for now. If you want, you could have a word of flavor field in the form. NBD at this point in time.\n-The beer name generator works by accessing and updating the most recently created beer: that with the biggest ID number. I've already sent a screen shot and description.\n",
+    "ts": "1705533969.448989",
+    "thread_ts": "1705457318.263889",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tHyX1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Marleny, I am sorry to see that you feel that way! "
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "After we collectively agreed on our features and developed an approximate idea of how they'd connect, I was under the impression that we were all working under our own direction. "
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "As a group project with individual components, we were each to be responsible for guiding our own features and adapting them to fit one another in the spirit of collaboration. No one was providing us with exact or precise instructions or guidelines. This is both the challenge and the beauty of collective work without an established hierarchy or manual. Suburwa, Ryan and I each worked on our own stuff and reached out when we had a question. While I am sorry for the lingering miscommunication, I think it's pretty unfair to say that someone else is responsible for proactively checking on your own features. "
+              },
+              {
+                "type": "text",
+                "text": "\nPlease keep in mind that the last time we got together to merge to main and share code, your backend still was not running. This means that we had no glimpse into your code, as you had into ours. \nThe good news is that as programmers, we can all look at simple code and get a pretty decent idea of what is going on with the app! This has allowed us all to work together and build off of each other's features. More often than not, the answers one seeks can be found in the code.\nThat all to say:\n-If you look at Ryan's fridge, you'll see what repo the beers come from. That's the repo that you'll need to send the newly created beers to. \n-If you look at my features, which I've recently described in the chat, you'll see that the recommended beers list searches using ABV (as you and I had previously discussed) and also \"one taste word\". Honestly, this doesn't even have to integrate with your feature. It's fine as a standalone for now. If you want, you could have a word of flavor field in the form. NBD at this point in time.\n-The beer name generator works by accessing and updating the most recently created beer: that with the biggest ID number. I've already sent a screen shot and description.\n"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

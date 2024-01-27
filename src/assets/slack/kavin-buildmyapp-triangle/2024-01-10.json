@@ -1,0 +1,294 @@
+[
+  {
+    "client_msg_id": "f3089163-8505-40b8-8409-c2d13860185b",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "Hey \u003c@U056VF0MDPH\u003e I just saw your pull request from awhile back. It looks like there's some conflicts to fix before I can merge.\nI did take a glance and I'm pretty sure it should always be resolved to your new branch, but I didn't want to do anything with your code.",
+    "ts": "1704915269.821269",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dwoO9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey "
+              },
+              {
+                "type": "user",
+                "user_id": "U056VF0MDPH"
+              },
+              {
+                "type": "text",
+                "text": " I just saw your pull request from awhile back. It looks like there's some conflicts to fix before I can merge.\nI did take a glance and I'm pretty sure it should always be resolved to your new branch, but I didn't want to do anything with your code."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f621aa1d-7619-415d-91ef-16228ca8b3c3",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "I just put in a pull request for mine but let's get yours in first.",
+    "ts": "1704915298.136859",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ND2mw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just put in a pull request for mine but let's get yours in first."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eca24350-bf16-4c91-a481-7adf6cd1bfe4",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "I'd also like some more information about how the keys are set up in the database.\nI'm planning on using emails as the primary ID for each user 'account' (this way we don't have to worry about people with the same names breaking the system), and I'll probably need them to foreign key to something in the other tables to properly display specific data on specific pages.",
+    "ts": "1704915722.256919",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RH5j8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'd also like some more information about how the keys are set up in the database.\nI'm planning on using emails as the primary ID for each user 'account' (this way we don't have to worry about people with the same names breaking the system), and I'll probably need them to foreign key to something in the other tables to properly display specific data on specific pages."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2891f629-e9ab-4aff-8e52-f1dde4faaaec",
+    "type": "message",
+    "user": "U056VF0MDPH",
+    "text": "I will look at my branch conflicts when I get home, and if you send me a list of the information you need I can also send that to you tonight \u003c@U056R914DAT\u003e",
+    "ts": "1704915957.779669",
+    "edited": {
+      "user": "U056VF0MDPH",
+      "ts": "1704915975.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dXVI+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I will look at my branch conflicts when I get home, and if you send me a list of the information you need I can also send that to you tonight "
+              },
+              {
+                "type": "user",
+                "user_id": "U056R914DAT"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5233510792727_27f43d51e25b2ef600fa_72.png",
+      "first_name": "Seth",
+      "real_name": "Seth Woodrow",
+      "display_name": "Seth Woodrow",
+      "team": "T050CSX3EMT",
+      "name": "seth.woodrow0",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1919a8f2-fe33-4cf2-8027-049cf20e334e",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "I'd like to see the contents of all the tables and the key relations",
+    "ts": "1704925274.827059",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rmQbd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'd like to see the contents of all the tables and the key relations"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "444814a2-8f41-4e72-ae14-f80880ac7023",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "like each of the columns and what they're supposed to contain",
+    "ts": "1704925349.500689",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S6orT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "like each of the columns and what they're supposed to contain"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

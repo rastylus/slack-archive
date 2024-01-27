@@ -1,0 +1,165 @@
+[
+  {
+    "client_msg_id": "8c8bac90-40eb-4019-8fc4-68325fff9c14",
+    "type": "message",
+    "user": "U057UDD3JV6",
+    "text": "Hey guys! Are we wanting to jump in a meeting right now?",
+    "ts": "1702946782.185329",
+    "thread_ts": "1702946782.185329",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057A523Z6H",
+        "ts": "1702946848.780969"
+      },
+      {
+        "user": "U057UDD3JV6",
+        "ts": "1702946887.714199"
+      }
+    ],
+    "latest_reply": "1702946887.714199",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d0LgF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys! Are we wanting to jump in a meeting right now?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2028ffbf42dbb4064be8191be47a86d2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Taylor",
+      "real_name": "Taylor Richmond",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "taylorr.016",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U057A523Z6H",
+      "U057UDD3JV6"
+    ]
+  },
+  {
+    "client_msg_id": "ceb7872c-05b1-4a69-a376-61f2c93130f5",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "in a personal zoom, you mean? cuz I tried jumping into Shawn's zoom and was the only one in there...it was awkward :confounded:",
+    "ts": "1702946848.780969",
+    "thread_ts": "1702946782.185329",
+    "parent_user_id": "U057UDD3JV6",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cHQUf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "in a personal zoom, you mean? cuz I tried jumping into Shawn's zoom and was the only one in there...it was awkward "
+              },
+              {
+                "type": "emoji",
+                "name": "confounded",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "72bc6aa1-1dbc-481b-aa5a-ea9275805c72",
+    "type": "message",
+    "user": "U057UDD3JV6",
+    "text": "Yes just personal to our project group..I did the same thing! lol",
+    "ts": "1702946887.714199",
+    "thread_ts": "1702946782.185329",
+    "parent_user_id": "U057UDD3JV6",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d6MDR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes just personal to our project group..I did the same thing! lol"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2028ffbf42dbb4064be8191be47a86d2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Taylor",
+      "real_name": "Taylor Richmond",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "taylorr.016",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

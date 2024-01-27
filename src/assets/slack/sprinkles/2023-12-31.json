@@ -1,0 +1,571 @@
+[
+  {
+    "client_msg_id": "e3d34235-763a-49df-818e-9fb49a59c347",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "That's the one that's offline.",
+    "ts": "1704000393.073339",
+    "thread_ts": "1703962068.549899",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gRiRJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That's the one that's offline."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b074f35e-cf13-4ed4-a361-3eed756c6b9d",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "okay I figured that. Dangit!",
+    "ts": "1704031769.415369",
+    "thread_ts": "1703962068.549899",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FVj71",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay I figured that. Dangit!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "aaff421d-5ddf-47c0-862f-dc9e5db48a09",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "\u003chttps://github.com/jrshutske/unit-conversion-api\u003e",
+    "ts": "1704032651.554219",
+    "thread_ts": "1703962068.549899",
+    "attachments": [
+      {
+        "color": "24292f",
+        "fallback": "jrshutske/unit-conversion-api",
+        "id": 1,
+        "title": "jrshutske/unit-conversion-api",
+        "text": "an api for converting units",
+        "fields": [
+          {
+            "title": "Website",
+            "value": "\u003chttps://java-unit-conversion.herokuapp.com/\u003e",
+            "short": true
+          },
+          {
+            "title": "Stars",
+            "value": "1",
+            "short": true
+          }
+        ],
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cbIUO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/jrshutske/unit-conversion-api",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "16c2b048-d9e3-4445-9174-b267564d3767",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "\u003chttps://github.com/convert-units/convert-units\u003e",
+    "ts": "1704032840.721689",
+    "thread_ts": "1703962068.549899",
+    "attachments": [
+      {
+        "color": "24292f",
+        "fallback": "convert-units/convert-units",
+        "id": 1,
+        "title": "convert-units/convert-units",
+        "text": "An elegant way to convert quantities between different units.",
+        "fields": [
+          {
+            "title": "Stars",
+            "value": "710",
+            "short": true
+          },
+          {
+            "title": "Language",
+            "value": "TypeScript",
+            "short": true
+          }
+        ],
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bUWcY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/convert-units/convert-units",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "725582a4-16a0-4742-bd19-41ea158c2512",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Update: I think it’s localhost:8080 which makes sense now!",
+    "ts": "1704037315.898269",
+    "thread_ts": "1703960555.625299",
+    "parent_user_id": "U057HGZ7W8Z",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05777MT72P"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SoKJt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Update: I think it’s localhost:8080 which makes sense now!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cc8ee3d2-3f20-45c9-969a-51f9605f25c9",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "That's what I was thinking as well, but I wasn't confident in it.",
+    "ts": "1704053539.390269",
+    "thread_ts": "1703960555.625299",
+    "parent_user_id": "U057HGZ7W8Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GX4Qw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That's what I was thinking as well, but I wasn't confident in it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "950BBCF8-94AB-4A60-8534-0ACBD145BF8C",
+    "type": "message",
+    "user": "U056YD04Q30",
+    "text": "Hi good afternoon guys are we having call today? ",
+    "ts": "1704057079.158909",
+    "thread_ts": "1704057079.158909",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U05777MT72P",
+        "ts": "1704058563.144579"
+      },
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1704061030.009479"
+      }
+    ],
+    "latest_reply": "1704061030.009479",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NGj9t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi good afternoon guys are we having call today"
+              },
+              {
+                "type": "text",
+                "text": "?"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240107488693_9bf114e71863cebbf28e_72.jpg",
+      "first_name": "Sukanya",
+      "real_name": "Sukanya Shanmugam",
+      "display_name": "Sukanya Venkatesh",
+      "team": "T050CSX3EMT",
+      "name": "sukanya.s1793",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05777MT72P",
+      "U057HGZ7W8Z"
+    ]
+  },
+  {
+    "client_msg_id": "2c2fccbb-821d-4b14-a55b-3901b3f535c1",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "I'll be available. Does 4:30 still work for everyone?",
+    "ts": "1704058563.144579",
+    "thread_ts": "1704057079.158909",
+    "parent_user_id": "U056YD04Q30",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SZiqj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll be available. Does 4:30 still work for everyone?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b9111cd0-f931-4e05-a53c-ff98b2a0ebfa",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Yes that was my plan!",
+    "ts": "1704061030.009479",
+    "thread_ts": "1704057079.158909",
+    "parent_user_id": "U056YD04Q30",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vde/E",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes that was my plan!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a0017d8b-73a9-4833-ace8-3f1a4ad2a35e",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "I’ve got the Zoom set up if folks want to join \u003chttps://sjsu.zoom.us/j/85635271600?pwd=MW5NWHVPQ08xSkRLZlhvREJUOWhWUT09\u003e",
+    "ts": "1704061152.177219",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056YD04Q30"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/IyCN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’ve got the Zoom set up if folks want to join "
+              },
+              {
+                "type": "link",
+                "url": "https://sjsu.zoom.us/j/85635271600?pwd=MW5NWHVPQ08xSkRLZlhvREJUOWhWUT09",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

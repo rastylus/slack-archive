@@ -1,0 +1,1234 @@
+[
+  {
+    "client_msg_id": "8b35b5a4-bb2e-46b4-8b8f-44861c25cc67",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "\u003c@U05768C2NP4\u003e were you able to figure anything out yesterday? What do we still need for an mvp? Just want to make sure we're not working on the same thing that way we can optimize time.",
+    "ts": "1705418634.269079",
+    "thread_ts": "1705418634.269079",
+    "reply_count": 28,
+    "replies": [
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705418855.657439"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705418916.085899"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705418947.839409"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705419250.718509"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705419365.812859"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705419756.934179"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705419901.323709"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705420053.242649"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705425467.806029"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705425887.657719"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705425947.660419"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705426287.982319"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705426540.460959"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705426851.636189"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705442394.760369"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705444375.689739"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705444518.685929"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705446084.283089"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705446849.119669"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705447716.297089"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705447737.298809"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705451152.463119"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705452036.528399"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705453510.691119"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705510176.359459"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705534906.462089"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1705536372.808809"
+      },
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1705536648.809029"
+      }
+    ],
+    "latest_reply": "1705536648.809029",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hcy3y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05768C2NP4"
+              },
+              {
+                "type": "text",
+                "text": " were you able to figure anything out yesterday? What do we still need for an mvp? Just want to make sure we're not working on the same thing that way we can optimize time."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U0574FFA3L5",
+      "U05768C2NP4"
+    ]
+  },
+  {
+    "client_msg_id": "64e2264f-53cd-40ab-bec4-170fcf99b0a1",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Yesterday I focused on adding some CRUD functionality to the workout and record portions and then try to take a look at the work you did on saving API exercises... it took me a while to figure out where everything was going but I figured it out, right now I am working on saving the API exercises to exercises first and making sure they are exercise objects like the other user exercises. Because if we can get there then the rest is pretty easy as far as adding user exercises to workouts. Is that ok? Instead of adding them directly to workouts we save selected exercises to user exercises and let them be added to workouts from there?",
+    "ts": "1705418855.657439",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d3R/+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yesterday I focused on adding some CRUD functionality to the workout and record portions and then try to take a look at the work you did on saving API exercises... it took me a while to figure out where everything was going but I figured it out, right now I am working on saving the API exercises to exercises first and making sure they are exercise objects like the other user exercises. Because if we can get there then the rest is pretty easy as far as adding user exercises to workouts. Is that ok? Instead of adding them directly to workouts we save selected exercises to user exercises and let them be added to workouts from there?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cf4dde64-d1ae-4962-a9f9-3580336f138c",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Yea that sounds perfect.",
+    "ts": "1705418916.085899",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OXrrJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yea that sounds perfect."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1698cc2d-840b-4c1f-a7cd-1c69f8436c73",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Other than that the other major problem, I'm seeing is that two of the homepage/dashboard buttons aren't mapped to anything nor do I think we will be able to map them to anything in time. I think we should probably change them to some functionality already in the app or get rid of them?",
+    "ts": "1705418947.839409",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+GcUV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Other than that the other major problem, I'm seeing is that two of the homepage/dashboard buttons aren't mapped to anything nor do I think we will be able to map them to anything in time. I think we should probably change them to some functionality already in the app or get rid of them?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2fc598c3-a9a1-4d27-8ed5-8e583a817fbd",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "I will go ahead and take over saving the API exercises to user exercises and that should take care of the functionality side of the website... there are a few holes like I wasn't able to figure out like how to delete exercises.... I couldn't figure out how to control the Errors object to display a pop out with a error message for a user trying to delete an exercise that is in a workout.... the relational mapping has the exercise as the parent entity and can't be deleted until all associations from workouts are deleted, but I think we should be fine without being able to delete exercises... and then there is the exact same problem with deleting records/tracked variables/metrics. Users are able to delete and add data points though, so I think that should be enough.",
+    "ts": "1705419250.718509",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+FTR+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I will go ahead and take over saving the API exercises to user exercises and that should take care of the functionality side of the website... there are a few holes like I wasn't able to figure out like how to delete exercises.... I couldn't figure out how to control the Errors object to display a pop out with a error message for a user trying to delete an exercise that is in a workout.... the relational mapping has the exercise as the parent entity and can't be deleted until all associations from workouts are deleted, but I think we should be fine without being able to delete exercises... and then there is the exact same problem with deleting records/tracked variables/metrics. Users are able to delete and add data points though, so I think that should be enough."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "974c0c0e-9c0b-4dd6-9e6a-3068c0575c36",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "I don't know if you saw, but I added a few cosmetic things to some pages. You can see all of them on the workouts/create page. There is just a sidebar and advertisement... I thought the page was a little too empty and looked better with more going on, if that's something you or Corey or Leonard are opposed to feel free to get rid of either of them!",
+    "ts": "1705419365.812859",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dGNSx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I don't know if you saw, but I added a few cosmetic things to some pages. You can see all of them on the workouts/create page. There is just a sidebar and advertisement... I thought the page was a little too empty and looked better with more going on, if that's something you or Corey or Leonard are opposed to feel free to get rid of either of them!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e1a5449b-a603-41b2-a4ab-abd485800318",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "It all looks good to me. Imo, I think if we have homepage buttons that aren't mapped to anything, we just comment them out just to simplify and clean up the home page.\n\nSince it seems like you have a good handle on the functionality and where things are being saved, I'll leave that to you unless you need some specific help. I can look into how to delete exercises. Are we able to delete workouts, it's just individual exercises that we can't delete?",
+    "ts": "1705419756.934179",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UjQAq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It all looks good to me. Imo, I think if we have homepage buttons that aren't mapped to anything, we just comment them out just to simplify and clean up the home page.\n\nSince it seems like you have a good handle on the functionality and where things are being saved, I'll leave that to you unless you need some specific help. I can look into how to delete exercises. Are we able to delete workouts, it's just individual exercises that we can't delete?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6bd2a77b-7f2a-4c5e-872f-fdad23d77d9b",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Yeah workouts are easy since they're the child entity but Exercises are hard since there can be in multiple workouts and Hibernate throws a bunch of errors if you try to delete an exercise mapped to a workout.",
+    "ts": "1705419901.323709",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V63cH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah workouts are easy since they're the child entity but Exercises are hard since there can be in multiple workouts and Hibernate throws a bunch of errors if you try to delete an exercise mapped to a workout."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1c2699c6-05f8-43c7-97d4-5c36e050d97c",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Ah, yea that makes sense. I feel like as long as we have full crud functionality of the workouts, that'll be fine. I'll look into deleting exercises. If you need anything, I'm fairly available the next couple of days.",
+    "ts": "1705420053.242649",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m56e5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ah, yea that makes sense. I feel like as long as we have full crud functionality of the workouts, that'll be fine. I'll look into deleting exercises. If you need anything, I'm fairly available the next couple of days."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0d26593d-ef91-417d-9c7b-5bbd44eec40b",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Ok I'm so close to getting them to save to userExercises lol This is so tedious",
+    "ts": "1705425467.806029",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "D41Ix",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok I'm so close to getting them to save to userExercises lol This is so tedious"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e6371b80-dd02-4921-b678-0ff32e04c60c",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "It works!",
+    "ts": "1705425887.657719",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MaqYm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It works!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9a658ac2-9772-4726-948c-f827d0d1c845",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Nice! That's awesome. The api stuff has been such a pain. Appreciate all the work you've put in on this.",
+    "ts": "1705425947.660419",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mkLId",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nice! That's awesome. The api stuff has been such a pain. Appreciate all the work you've put in on this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9dd7024c-e5be-4ebc-999f-0ae08f93dd3f",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Yeah of course! Thank you too!\n\nThere is a caveat... I think we're only going to get away with saving one api exercise at a time... If you want to try it I'll make a commit right now in \"Save-Api-Exercise\" branch",
+    "ts": "1705426287.982319",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QZW0Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah of course! Thank you too!\n\nThere is a caveat... I think we're only going to get away with saving one api exercise at a time... If you want to try it I'll make a commit right now in \"Save-Api-Exercise\" branch"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a242ff2c-4bfe-4f64-8758-8779b26abfc1",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Yea, if you want to push it to the branch, I'll take a look at it in a bit.",
+    "ts": "1705426540.460959",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "c+BTP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yea, if you want to push it to the branch, I'll take a look at it in a bit."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a2b549d0-98e2-437b-8620-50286a647d2d",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "I changed the search results to a drop down menu... Let me know if that works",
+    "ts": "1705426851.636189",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UEjnf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I changed the search results to a drop down menu... Let me know if that works"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F9384264-3EA8-4555-A390-3F0ECE7C5C87",
+    "type": "message",
+    "user": "U0574JUHBNH",
+    "text": "Also, as the time is winding down. Is there anything else that needs work on the front end?",
+    "ts": "1705439357.592999",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UUS5y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also, as the time is winding down. Is there anything else that needs work on the front end?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-01/6280497472354_b5d2d071c7d0de3339f3_72.png",
+      "first_name": "Leonard",
+      "real_name": "Leonard Stewart, Jr.",
+      "display_name": "Leonard Stewart, Jr.",
+      "team": "T050CSX3EMT",
+      "name": "leonardjr06",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "522e566b-2867-4890-95e4-72ca284e3989",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "I'm still not getting the apiExercises to showup in workouts. Like they show up in the list but when I click on the workout, it's only showing the user created exercises.",
+    "ts": "1705442394.760369",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "66oQw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm still not getting the apiExercises to showup in workouts. Like they show up in the list but when I click on the workout, it's only showing the user created exercises."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7B5FFBED-A79E-45C3-A03A-A1928CC0ECFC",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Are you searching for the exercises, and then, seeing on the next page a place to add notes and a button to save the exercise? It should take you to exercise/create API exercise right after you click on the drop-down menu and the submit button on the search page",
+    "ts": "1705444375.689739",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5b7if",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are you searching for the exercises, and then, seeing on the next page a place to add notes and a button to save the exercise? It should take you to exercise/create API exercise right after you click on the drop-down menu and the submit button on the search page"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "23994df4-8ea4-45aa-b4d4-639de7b53c06",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Yes, I get there. I add the exercise which takes me to create workout. The user Exercises and the api exercise both show up in the list, but when I create a workout, select all the exercises, go to workouts, click on the workout, only the user created exercises show up. \n\nIf all of that makes sense.",
+    "ts": "1705444518.685929",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DF7et",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes, I get there. I add the exercise which takes me to create workout. The user Exercises and the api exercise both show up in the list, but when I create a workout, select all the exercises, go to workouts, click on the workout, only the user created exercises show up. \n\nIf all of that makes sense."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D3EE5683-030E-4C1E-9927-F9ADDFE131D7",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "I think you may be on an older commit, because it should at no point take you to create a workout automatically. It should take you to a place to save the API exercise to the user exercises and it should show up in user exercises no different than a created exercise. I thought I pushed all of my commits. Did you double check if you updated development?",
+    "ts": "1705446084.283089",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9XxAo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think you may be on an older commit, because it should at no point take you to create a workout automatically"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " It should take you to a place to save the API exercise to the user exercises and it should show up in user exercises no different than a created exercise. I thought I pushed all of my commits. Did you double check if you updated development?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d1df2700-563d-4cc9-bed8-8a30661a81c4",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Updated everything. When I try to save the api exercise with createApiExercise I get a whitelabel error saying it needs an ID field basically.",
+    "ts": "1705446849.119669",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TMbR0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Updated everything. When I try to save the api exercise with createApiExercise I get a whitelabel error saying it needs an ID field basically."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "36750889-5F5F-425A-943A-4D5156ACF4E5",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Can you send me a screenshot of the error message? I’m at work but I’ll take a look at it in a few hours when I get home",
+    "ts": "1705447716.297089",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t/dzT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can you send me a screenshot of the error message? I’m at work but I’ll take a look at it in a few hours when I get home"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C67F5A24-6043-4198-96A4-06D6889813B2",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "I think my last commit to development was called bug fix does that match up with yours?",
+    "ts": "1705447737.298809",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3g4cs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think my last commit to development was called bug fix does that match up with yours?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

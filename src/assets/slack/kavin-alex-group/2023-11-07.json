@@ -1,0 +1,125 @@
+[
+  {
+    "client_msg_id": "759dc6cf-8202-4c9a-b140-5cffc6e3eb2f",
+    "type": "message",
+    "user": "U05EE11SB6D",
+    "text": "7:15 is starting time!",
+    "ts": "1699319412.253139",
+    "thread_ts": "1699319412.253139",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1699320303.985859"
+      }
+    ],
+    "latest_reply": "1699320303.985859",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U056FFS0C64"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CSFV6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "7:15 is starting time!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-26/5497688141409_c96e793d333a11ff6168_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Jove",
+      "display_name": "TA - Alex Jove",
+      "team": "T050CSX3EMT",
+      "name": "alexjmints",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057GPNUCG4"
+    ]
+  },
+  {
+    "client_msg_id": "f325fbef-533a-41e6-b1f7-2ff6419c5ee6",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi Alex sorry just fyi I will have to leave the studio around 815pm for a mtg.",
+    "ts": "1699320303.985859",
+    "thread_ts": "1699319412.253139",
+    "parent_user_id": "U05EE11SB6D",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U05EE11SB6D"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cSEY/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Alex sorry just fyi I will have to leave the studio around 815pm for a mtg."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

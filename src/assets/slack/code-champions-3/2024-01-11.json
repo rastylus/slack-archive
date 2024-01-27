@@ -1,0 +1,630 @@
+[
+  {
+    "client_msg_id": "83c5d592-aac7-43f0-bfdc-48afbb6f5023",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi guys, here's the update:\n\nI drafted the form display on the user profile page. You can find it on the new branch \"emily-userprofile\". Will need to finish the @PostMapping tmr so haven't sent a pull request yet.\n\n1. I made some changes to the User model and added User Profile, UserProfileDTO, and UserRepository.\n2. strongly recommend including HttpSession when testing the code, as all user activities will be stored in the session.",
+    "ts": "1704955774.171069",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0571TCPNAH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rkSmz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi guys, here's the update:\n\nI drafted the form display on the user profile page. You can find it on the new branch \"emily-userprofile\". Will need to finish the @PostMapping tmr so haven't sent a pull request yet.\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"I made some changes to the User model and added User Profile, UserProfileDTO, and UserRepository.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"strongly recommend including HttpSession when testing the code, as all user activities will be stored in the session.\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8ad59ebd-5a19-466e-864e-67a4d50277af",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "I noticed that all this is in the backend folder and is structured as a MVC application, are we not using react as a front end anymore?",
+    "ts": "1705012506.315419",
+    "thread_ts": "1705012506.315419",
+    "reply_count": 8,
+    "replies": [
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1705013566.471589"
+      },
+      {
+        "user": "U055B8PEEMV",
+        "ts": "1705014002.016009"
+      },
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1705014123.583669"
+      },
+      {
+        "user": "U0577402D4J",
+        "ts": "1705014374.029929"
+      },
+      {
+        "user": "U0577402D4J",
+        "ts": "1705014624.438569"
+      },
+      {
+        "user": "U055B8PEEMV",
+        "ts": "1705014780.287649"
+      },
+      {
+        "user": "U0577402D4J",
+        "ts": "1705014802.472579"
+      },
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1705014907.794269"
+      }
+    ],
+    "latest_reply": "1705014907.794269",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qQQGX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I noticed that all this is in the backend folder and is structured as a MVC application, are we not using react as a front end anymore?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U055B8PEEMV",
+      "U0577402D4J",
+      "U057GPNUCG4"
+    ]
+  },
+  {
+    "client_msg_id": "b3948d31-81fd-4246-a1fd-e6eab67136d9",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi Jesse, good question! We do need front end but Im trying to get the features run first. :rolling_on_the_floor_laughing: All my parts require back end to bind with mySQL.",
+    "ts": "1705013566.471589",
+    "thread_ts": "1705012506.315419",
+    "parent_user_id": "U0577402D4J",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NL1Nl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Jesse, good question! We do need front end but Im trying to get the features run first. "
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " All my parts require back end to bind with mySQL."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "391EB9FD-E5C5-4272-BFB1-F72AA689FF5F",
+    "type": "message",
+    "user": "U055B8PEEMV",
+    "text": "Is anyone working on the front end?",
+    "ts": "1705014002.016009",
+    "thread_ts": "1705012506.315419",
+    "parent_user_id": "U0577402D4J",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6/Chv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is anyone working on the front end?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5204638969172_2d7d943d02d4d367275b_72.png",
+      "first_name": "TA",
+      "real_name": "TA - Jay",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jay.lingelbach",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6a5de839-493a-41bd-a02f-54b7b86ec4aa",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "I think \u003c@U0571TCPNAH\u003e is working on it? I plan to finish the back end first then move to the front end",
+    "ts": "1705014123.583669",
+    "thread_ts": "1705012506.315419",
+    "parent_user_id": "U0577402D4J",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "60uVs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think "
+              },
+              {
+                "type": "user",
+                "user_id": "U0571TCPNAH"
+              },
+              {
+                "type": "text",
+                "text": " is working on it? I plan to finish the back end first then move to the front end"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "53dbb4af-9bf2-4da7-990b-87c078fa3524",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "If we are able to change how our application is structured I think we should switch and do a MVC application instead of having a react front end. since the work for it is already done.",
+    "ts": "1705014374.029929",
+    "thread_ts": "1705012506.315419",
+    "parent_user_id": "U0577402D4J",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057GPNUCG4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oL+WF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If we are able to change how our application is structured I think we should switch and do a MVC application instead of having a react front end. since the work for it is already done."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0c42ba92-cd41-451c-b524-526c7bcec305",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "I see dale has a decent start for the react front end in his draft pull request. so we either need to commit to one or the other.",
+    "ts": "1705014624.438569",
+    "thread_ts": "1705012506.315419",
+    "parent_user_id": "U0577402D4J",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xaRzk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I see dale has a decent start for the react front end in his draft pull request. so we either need to commit to one or the other."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "BCB0F554-491F-4233-B393-7D3E1BBE6196",
+    "type": "message",
+    "user": "U055B8PEEMV",
+    "text": "If work has been done I'd think hard about throwing it away. ",
+    "ts": "1705014780.287649",
+    "thread_ts": "1705012506.315419",
+    "parent_user_id": "U0577402D4J",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "k9ZKi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If work has been done I'd think hard about throwing it away"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5204638969172_2d7d943d02d4d367275b_72.png",
+      "first_name": "TA",
+      "real_name": "TA - Jay",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jay.lingelbach",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "aba4518c-7883-49fe-aae0-04b6a0476ffb",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "as of now I see work done for both",
+    "ts": "1705014802.472579",
+    "thread_ts": "1705012506.315419",
+    "parent_user_id": "U0577402D4J",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GGpUY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "as of now I see work done for both"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4df64b4c-41f8-4313-b947-7cbcf26db18b",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "I made registration, login, and user profile front end pages but with MVC not react",
+    "ts": "1705014907.794269",
+    "thread_ts": "1705012506.315419",
+    "parent_user_id": "U0577402D4J",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0571TCPNAH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/XjyB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I made registration, login, and user profile front end pages but with MVC not react"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a5c2780f-c9ec-46b6-9a33-48f770a9e6c3",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Running late, will be there in 15mins. Sorry!",
+    "ts": "1705016088.538289",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U055B8PEEMV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EDKWi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Running late, will be there in 15mins. Sorry!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

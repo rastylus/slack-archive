@@ -1,0 +1,255 @@
+[
+  {
+    "client_msg_id": "23439089-74a6-4664-b892-6067046b3cc7",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "I will work with that formatting. There were a few things that broke when I merged updates onto my feature branch.\nIf they controllers are working, I should be able to tweak a few things and get it working again. Was going to wait till most recent merge is complete and then debug.",
+    "ts": "1703983509.400679",
+    "thread_ts": "1703892742.991529",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bY6oD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I will work with that formatting. There were a few things that broke when I merged updates onto my feature branch.\nIf they controllers are working, I should be able to tweak a few things and get it working again. Was going to wait till most recent merge is complete and then debug."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C52C07D5-C33E-47AB-9698-C8D9532C9FCF",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I’m so sorry! :grimacing: If I need to change the controller back, please let me know!",
+    "ts": "1703983931.539979",
+    "thread_ts": "1703892742.991529",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZolCx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " so sorry! "
+              },
+              {
+                "type": "emoji",
+                "name": "grimacing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " If I need to change the controller back, please let me know!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "41f75083-094e-42b1-b138-782e9640ba5d",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "All good, just merged most recent updates. Everything loaded as normal. Just have to finish button and format the cards.",
+    "ts": "1703983990.805089",
+    "thread_ts": "1703892742.991529",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6CI7L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "All good, just merged most recent updates. Everything loaded as normal. Just have to finish button and format the cards."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "87A43E61-5695-4FC4-918A-F2758EC46EEA",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Awesome! Just let me know if you think there needs to be any changes/additions to how the CRUD is set up for what you need.",
+    "ts": "1703984089.404019",
+    "thread_ts": "1703892742.991529",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Nn+Bz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome! Just let me know if you think there needs to be any changes/additions to how the CRUD is set up for what you need."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d6fc9b93-294c-409e-b2cf-3278ab564a98",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Will do.",
+    "ts": "1703984117.043719",
+    "thread_ts": "1703892742.991529",
+    "parent_user_id": "U057UFP7YLQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IpTAq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Will do."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

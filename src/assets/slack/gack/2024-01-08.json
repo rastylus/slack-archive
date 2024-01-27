@@ -1,0 +1,155 @@
+[
+  {
+    "client_msg_id": "cd3e03ee-234c-4598-b8df-14ef7e98f94d",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Thanks! I had presumed so as well, but just wanted to be sure no one was waiting around.",
+    "ts": "1704672402.365499",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "af+H1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks! I had presumed so as well, but just wanted to be sure no one was waiting around."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4E19FA38-6B45-4B6C-8951-D9274F06A6F5",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": ":blush: ",
+    "ts": "1704672441.664669",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XG5XU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "blush",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b9408ec0-2660-466b-a140-f792b9c36236",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Hi all a quick update, I was able to merge drew's branch into my local branch, make my changes so that the Nextjs file structure remains, and push to the remote Marleny branch. so all that's needed to add my work to main branch is for me to push it to remote main and then to do a pull request with hopefully no merge conflicts",
+    "ts": "1704754934.124489",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U0571CCLKDL",
+          "U056WKE4W77"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EZ0x0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi all a quick update, I was able to merge drew's branch into my local branch, make my changes so that the Nextjs file structure remains, and push to the remote Marleny branch. so all that's needed to add my work to main branch is for me to push it to remote main and then to do a pull request with hopefully no merge conflicts"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

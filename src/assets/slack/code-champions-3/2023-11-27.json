@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "f7314530-e39f-4081-ad28-dff8b00c5bc3",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "I vote 3.",
+    "ts": "1701124309.243049",
+    "thread_ts": "1700585988.646909",
+    "parent_user_id": "U0571TCPNAH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ka0Ie",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I vote 3."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7c97b8cd-8a19-4d10-8a53-f2324bfb2e2b",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "I added the info next to my name.",
+    "ts": "1701124433.221469",
+    "thread_ts": "1700596046.051299",
+    "parent_user_id": "U057GPNUCG4",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057GPNUCG4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t27yJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I added the info next to my name."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

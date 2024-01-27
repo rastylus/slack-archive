@@ -1,0 +1,98 @@
+[
+  {
+    "client_msg_id": "dab0ca90-ea68-47e5-b056-349e132fa851",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "\u003c@U05EE11SB6D\u003e we have questions. Can you come to the breakout room?",
+    "ts": "1701395343.661609",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IDVZC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05EE11SB6D"
+              },
+              {
+                "type": "text",
+                "text": " we have questions. Can you come to the breakout room?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c0582355-4bb1-4aac-9693-e246821f4f69",
+    "type": "message",
+    "user": "U05EE11SB6D",
+    "text": "Yes, I will be right there.",
+    "ts": "1701395353.370349",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iTpfJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes, I will be right there."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-26/5497688141409_c96e793d333a11ff6168_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Jove",
+      "display_name": "TA - Alex Jove",
+      "team": "T050CSX3EMT",
+      "name": "alexjmints",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

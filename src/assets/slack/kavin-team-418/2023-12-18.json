@@ -1,0 +1,3295 @@
+[
+  {
+    "client_msg_id": "fdb5abb5-1d76-4b07-9d1e-3babe25caccf",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "SendGrid wouldn't let me set up an account, for some reason, so I went with MailJet. They have a generous free level.",
+    "ts": "1702858886.044819",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CvQUW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "SendGrid wouldn't let me set up an account, for some reason, so I went with MailJet. They have a generous free level."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "710fb9a9-acbd-438e-b03f-1bf075706dc4",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "\u003c@U056FFS0C64\u003e, is it ok to use LaunchCode's URL as the \"organization website\" for signing up for APIs?",
+    "ts": "1702859099.206809",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2N7Fa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056FFS0C64"
+              },
+              {
+                "type": "text",
+                "text": ", is it ok to use LaunchCode's URL as the \"organization website\" for signing up for APIs?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fc48ac07-de3a-4318-a914-e86734ae395a",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Let's try with either a personal Github page, or any deployed websites you guys have first. I'll ask about it, but probably better not to use LaunchCode if it can be helped. I'll let you know for sure, but would still opt for using any other alternative first",
+    "ts": "1702859739.480719",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Zauk6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Let's try with either a personal Github page, or any deployed websites you guys have first. I'll ask about it, but probably better not to use LaunchCode if it can be helped. I'll let you know for sure, but would still opt for using any other alternative first"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5346061b-6cb2-45b9-9994-dffa4a102dd2",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "ok. In the meantime, I've submitted a ticket telling them we don't have a website and that we're a student group doing a capstone project.",
+    "ts": "1702861099.871869",
+    "thread_ts": "1702861099.871869",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702918766.435649"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702927781.102429"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702928640.100739"
+      }
+    ],
+    "latest_reply": "1702928640.100739",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HqLFu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok. In the meantime, I've submitted a ticket telling them we don't have a website and that we're a student group doing a capstone project."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05724ACLVB",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "725a637c-ef09-4690-a259-eaea7f377227",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Ah okay, does it have to be an official organization? Otherwise I think any personally deployed website might work. But yeah, please let me know what they say.\n\nI'll keep you guys posted about what the official word is on using the LaunchCode domain",
+    "ts": "1702861255.546529",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z5TZ7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ah okay, does it have to be an official organization? Otherwise I think any personally deployed website might work. But yeah, please let me know what they say.\n\nI'll keep you guys posted about what the official word is on using the LaunchCode domain"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c49d38a5-c5a8-405d-84c7-2e4bc7ecd4d6",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yeah, the idea is they want to make sure you're not a spammer.",
+    "ts": "1702861295.159679",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lVu6S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, the idea is they want to make sure you're not a spammer."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5ddaa5d8-c58e-4acf-b6c5-d0f56f2cd896",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I've asked for temporary usage through the end of February. I'll see what they say.\n\nIf we can't actually _send_ anything, it might not be a big deal, as long as we can implement the API.",
+    "ts": "1702861342.256579",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U056FFS0C64",
+          "U05744248P7"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YhUK0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I've asked for temporary usage through the end of February. I'll see what they say.\n\nIf we can't actually "
+              },
+              {
+                "type": "text",
+                "text": "send",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " anything, it might not be a big deal, as long as we can implement the API."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7748e1b7-c248-4ada-94fc-bebfc806983d",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "\u003c@U056FFS0C64\u003e, who does our project checkpoint reviews, you or someone else?",
+    "ts": "1702861618.022659",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GlJkg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056FFS0C64"
+              },
+              {
+                "type": "text",
+                "text": ", who does our project checkpoint reviews, you or someone else?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ccdae1f8-0057-4097-83f0-a7fc535a04f8",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Another TA chosen at random for every student",
+    "ts": "1702861666.488089",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2llIU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Another TA chosen at random for every student"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "50a23e71-c2f0-482b-ab81-88111d8a077c",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Ok, thanks!",
+    "ts": "1702862013.439439",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "lc-gif",
+        "count": 1,
+        "users": [
+          "U056FFS0C64"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "50AI6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok, thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "65f98cd0-b86b-4ab0-a686-3aeaa3980882",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Quick update yall: For sure let's steer clear of using LaunchCode's domain for any registration/usage cases. Again, I know at least a couple of you have a personal page/website. Let's try using those if absolutely needed.\n\nEither way, I don't think this will present any real hindrance. You guys are killing it!",
+    "ts": "1702918001.227859",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 1,
+        "users": [
+          "U05744248P7"
+        ]
+      },
+      {
+        "name": "gratitude-thank-you",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XGiR5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Quick update yall: For sure let's steer clear of using LaunchCode's domain for any registration/usage cases. Again, I know at least a couple of you have a personal page/website. Let's try using those if absolutely needed.\n\nEither way, I don't think this will present any real hindrance. You guys are killing it!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4ac5e571-9e09-4605-8219-ea3fd7130739",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "\u003chttps://ha-x-3.github.io/portfolio-site/\u003e\n\nYou can use this URL for my portfolio site. It’s obviously not a business but if you just need a URL, maybe that will suffice.",
+    "ts": "1702918766.435649",
+    "thread_ts": "1702861099.871869",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/xdP4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://ha-x-3.github.io/portfolio-site/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nYou can use this URL for my portfolio site. It’s obviously not a business but if you just need a URL, maybe that will suffice."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b175658b-dffa-47fa-aec4-d49ee4abeb59",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I'm still waiting to hear back from MailJet on student usage. This may be a non-issue, and in any case, we can probably still code the API even if we don't have permissions to send e-mails.",
+    "ts": "1702927723.478319",
+    "thread_ts": "1702927723.478319",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05744248P7",
+        "ts": "1702929259.684359"
+      }
+    ],
+    "latest_reply": "1702929259.684359",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BDuFG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm still waiting to hear back from MailJet on student usage. This may be a non-issue, and in any case, we can probably still code the API even if we don't have permissions to send e-mails."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05744248P7"
+    ]
+  },
+  {
+    "client_msg_id": "ac13953f-6377-4a17-ad1d-b157f4b94c3f",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Ok, I'll see what happens if I try that, but I don't want to try until I've given them a day to get back to me.\n\nIf they don't get back to me by tomorrow morning, I'll try that link.",
+    "ts": "1702927781.102429",
+    "thread_ts": "1702861099.871869",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GHH1D",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok, I'll see what happens if I try that, but I don't want to try until I've given them a day to get back to me.\n\nIf they don't get back to me by tomorrow morning, I'll try that link."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "73772486-8435-4f4e-9e15-42dca7366ce5",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "They got back to me and asked for more information.",
+    "ts": "1702928640.100739",
+    "thread_ts": "1702861099.871869",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QG9JV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "They got back to me and asked for more information."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d0fecdb1-cd2d-4ad1-a60c-1c6a93ed112b",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Sounds good!",
+    "ts": "1702929259.684359",
+    "thread_ts": "1702927723.478319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "O3To4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sounds good!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "80fd721b-daa4-4bec-9802-db3558c05ca5",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Wwooo! Got some data to come through! Looks a bit messy, but on the right track I think.",
+    "ts": "1702932959.509779",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 2,
+        "users": [
+          "U05724ACLVB",
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3exhS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Wwooo! Got some data to come through! Looks a bit messy, but on the right track I think."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "78f275ed-909e-42b9-a124-e7c5873f6b43",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "I decided for each per Equipment Card, all assigned filters will show.",
+    "ts": "1702933131.426409",
+    "files": [
+      {
+        "id": "F06APT52WCT",
+        "created": 1702933126,
+        "timestamp": 1702933126,
+        "name": "filtercard.PNG",
+        "title": "filtercard.PNG",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U05744248P7",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 17165,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06APT52WCT/filtercard.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06APT52WCT/download/filtercard.png",
+        "original_h": 485,
+        "original_w": 435,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06APT52WCT-478e420e14/filtercard_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06APT52WCT-478e420e14/filtercard_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06APT52WCT-478e420e14/filtercard_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06APT52WCT-478e420e14/filtercard_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 323,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06APT52WCT-478e420e14/filtercard_480.png",
+        "thumb_480_w": 431,
+        "thumb_480_h": 480,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05744248P7/F06APT52WCT/filtercard.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06APT52WCT-00fecb4872",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LidmS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I decided for each per Equipment Card, all assigned filters will show."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ebba63cf-bee9-4713-a7ce-91cc7ffe4f79",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "That looks great!",
+    "ts": "1702933187.075599",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8jr0c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That looks great!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ea2165cb-9024-48fd-bf45-9744b87d4a6f",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Guys, I'm looking at the Project Checkpoint Learner Guide, and I've got serious doubts about whether I'll pass. Unfortunately, we won't know until after interview day.\n\nI'll do my best, though!",
+    "ts": "1702933266.277319",
+    "thread_ts": "1702933266.277319",
+    "reply_count": 26,
+    "replies": [
+      {
+        "user": "U05744248P7",
+        "ts": "1702933359.720229"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702933437.983929"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702939444.910599"
+      },
+      {
+        "user": "U056FFS0C64",
+        "ts": "1702939614.850339"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702939803.760339"
+      },
+      {
+        "user": "U056FFS0C64",
+        "ts": "1702939915.049429"
+      },
+      {
+        "user": "U056FFS0C64",
+        "ts": "1702939927.500559"
+      },
+      {
+        "user": "U056FFS0C64",
+        "ts": "1702939994.529379"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702941156.076969"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702941246.492319"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702941266.126369"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702941271.045929"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702941277.726219"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702941278.213439"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702941290.743649"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702941298.004949"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702941339.068559"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702941367.401189"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702941386.314379"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702941400.517829"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702941408.237339"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702941467.211039"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702941470.460039"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702941586.567959"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702941596.265979"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702941618.148449"
+      }
+    ],
+    "latest_reply": "1702941618.148449",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+O+Ac",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Guys, I'm looking at the Project Checkpoint Learner Guide, and I've got serious doubts about whether I'll pass. Unfortunately, we won't know until after interview day.\n\nI'll do my best, though!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U056FFS0C64",
+      "U05724ACLVB",
+      "U05744248P7",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "ca427254-3e0b-4865-a20b-c5682063ca6a",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Let me know if there is anything I can do to help!",
+    "ts": "1702933359.720229",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7EffL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Let me know if there is anything I can do to help!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "013c21e2-84bb-40d3-882c-ca2837b71286",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Thanks, Austin! I've been looking at the potential questions and formulating responses to them as best I can. I have \"real\" work to do between now and class, so I'm just going to have to hope that my answers will be adequate.",
+    "ts": "1702933437.983929",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MLQRq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks, Austin! I've been looking at the potential questions and formulating responses to them as best I can. I have \"real\" work to do between now and class, so I'm just going to have to hope that my answers will be adequate."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1857bd22-1d9c-40fa-860d-176f5077e479",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I feel really good about our progress, but I guess we’ll see tonight. I’m always here to help.",
+    "ts": "1702939444.910599",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AlYiK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I feel really good about our progress, but I guess we’ll see tonight. I’m always here to help."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ea895d36-0f30-40ec-a364-2b466415738d",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "I see you have 3 commits! If your feature has been started/worked on, I think you will be fine tbh. You know what this project is about and I don't doubt your ability in the least to talk about it further!",
+    "ts": "1702939614.850339",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QcSYg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I see you have 3 commits! If your feature has been started/worked on, I think you will be fine tbh. You know what this project is about and I don't doubt your ability in the least to talk about it further!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "44d376dc-b16b-4115-b1b1-dd236378bcdb",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Thanks, Brittney!\n\nThere's nothing for me to code, yet, Kavin.",
+    "ts": "1702939803.760339",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "llCiZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks, Brittney!\n\nThere's nothing for me to code, yet, Kavin."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "557aab1d-4f32-427f-bf67-1c7335af3c11",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Hmm ... it's tight, but if you can pick out any other feature in the project proposal to work on, that would help! I hadn't realized you didn't submit any actual code yet.",
+    "ts": "1702939915.049429",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uvgG1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hmm ... it's tight, but if you can pick out any other feature in the project proposal to work on, that would help! I hadn't realized you didn't submit any actual code yet."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5a460bc1-4136-49cc-bf4f-a94bd6f012dd",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Pick the smallest feature, it's totally doable",
+    "ts": "1702939927.500559",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vd/7u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Pick the smallest feature, it's totally doable"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8e0514cb-ac16-4c70-b876-b60020d8121e",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Maybe someone in the group can pair with Tracy for a bit if anyone has the bandwidth to spare. Lmk how I can help!",
+    "ts": "1702939994.529379",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xajwS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Maybe someone in the group can pair with Tracy for a bit if anyone has the bandwidth to spare. Lmk how I can help!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4ae826f2-ea9d-42f6-8d9d-b6f68e083e1b",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Austin's going to help me out.",
+    "ts": "1702941156.076969",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U056FFS0C64"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DZIn8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Austin's going to help me out."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eba4d729-2de5-4298-bbf2-b3b9f81c128b",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I was able to create a full account for SendGrid using email \u003cmailto:beppers87@hotmail.com|beppers87@hotmail.com\u003e password: HomebaseHomebase1",
+    "ts": "1702941246.492319",
+    "thread_ts": "1702933266.277319",
+    "edited": {
+      "user": "U057UFP7YLQ",
+      "ts": "1702941257.000000"
+    },
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ueSBQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was able to create a full account for SendGrid using email "
+              },
+              {
+                "type": "link",
+                "url": "mailto:beppers87@hotmail.com",
+                "text": "beppers87@hotmail.com"
+              },
+              {
+                "type": "text",
+                "text": " password: HomebaseHomebase1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a1fa764b-bb84-4c19-9c37-5e2b82001284",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Excellent!",
+    "ts": "1702941266.126369",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6Rjsv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Excellent!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0ba4fa19-c472-4753-bea4-e065e2bfdfa6",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "It has $15.50 free to use",
+    "ts": "1702941271.045929",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QGtQi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It has $15.50 free to use"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e34cf073-bffe-4c85-97f3-9e0b6b6d32ee",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Sweet.",
+    "ts": "1702941277.726219",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bOZ5j",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sweet."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7a1e25d3-6c60-4386-9cc1-ede27b6bf692",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Here is the API key",
+    "ts": "1702941278.213439",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V1syl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Here is the API key"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "57de6d61-af8d-44c4-8a44-8e69697d9ff6",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Uh, do you have Signal?",
+    "ts": "1702941290.743649",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uEJjn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Uh, do you have Signal?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0b193e61-bd38-4101-a18a-951a09a02ab0",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Prolly not safe to send in Slack.",
+    "ts": "1702941298.004949",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H7f7q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Prolly not safe to send in Slack."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4df0d708-6225-40f7-99dc-b97882a5b2f1",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I’m not too worried at this point.",
+    "ts": "1702941339.068559",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H0ruH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m not too worried at this point."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b99ee222-6b80-4a1e-8dc7-7c833c7f577b",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "ts": "1702941367.401189",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "files": [
+      {
+        "id": "F06AA2KK939",
+        "created": 1702941363,
+        "timestamp": 1702941363,
+        "name": "IMG_4157.PNG",
+        "title": "IMG_4157.PNG",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057UFP7YLQ",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 417511,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06AA2KK939/img_4157.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06AA2KK939/download/img_4157.png",
+        "original_h": 2532,
+        "original_w": 1170,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA2KK939-64026582b3/img_4157_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA2KK939-64026582b3/img_4157_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA2KK939-64026582b3/img_4157_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA2KK939-64026582b3/img_4157_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 166,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA2KK939-64026582b3/img_4157_480.png",
+        "thumb_480_w": 222,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA2KK939-64026582b3/img_4157_720.png",
+        "thumb_720_w": 333,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA2KK939-64026582b3/img_4157_960.png",
+        "thumb_960_w": 444,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA2KK939-64026582b3/img_4157_1024.png",
+        "thumb_1024_w": 473,
+        "thumb_1024_h": 1024,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057UFP7YLQ/F06AA2KK939/img_4157.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06AA2KK939-30f4850f99",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "59fddf0a-97f4-460b-90c3-8465da0953a8",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Thanks!",
+    "ts": "1702941386.314379",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cSYv0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "74259a57-0271-40d7-86ea-e8bc5384c081",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Let me know if you need any verification numbers that are texted to me for authentication.  I will try to keep an eye out.",
+    "ts": "1702941400.517829",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KxP5m",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Let me know if you need any verification numbers that are texted to me for authentication.  I will try to keep an eye out."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bf8e6ac4-fb18-416d-a640-98f26eb080d6",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Ok.",
+    "ts": "1702941408.237339",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dffj7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "58babeb1-4a17-4166-8685-a2c5e2799c1d",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Can you join us?",
+    "ts": "1702941467.211039",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TrPrP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can you join us?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8a6a3996-6b28-40fa-a26e-3449bfca66b3",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "On Zoom?",
+    "ts": "1702941470.460039",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IrSUP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "On Zoom?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "530b3ba8-616e-4221-867f-a47df1f560ce",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Austin and I are on Zoom, right now, if you and Liam want to join us.\n\n\u003chttps://us05web.zoom.us/j/2786476607?pwd=RUp3MHhrR2V0M3ZsdFpKUUFaeVEyZz09\u003e",
+    "ts": "1702941512.527799",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "muscle",
+        "count": 1,
+        "users": [
+          "U056FFS0C64"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "O5Ser",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Austin and I are on Zoom, right now, if you and Liam want to join us.\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://us05web.zoom.us/j/2786476607?pwd=RUp3MHhrR2V0M3ZsdFpKUUFaeVEyZz09",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f7eace66-1a7e-4123-8fff-d9d55a59d5e7",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I’m still getting ready for class but good luck!",
+    "ts": "1702941560.911429",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "F6Uu5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m still getting ready for class but good luck!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "19e5a6b5-8fcb-4aab-9fc9-72f1b19ae6a1",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "\u003chttps://github.com/sendgrid/sendgrid-java\u003e",
+    "ts": "1702941586.567959",
+    "thread_ts": "1702933266.277319",
+    "attachments": [
+      {
+        "color": "24292f",
+        "fallback": "sendgrid/sendgrid-java",
+        "id": 1,
+        "title": "sendgrid/sendgrid-java",
+        "text": "The Official Twilio SendGrid Led, Community Driven Java API Library",
+        "fields": [
+          {
+            "title": "Website",
+            "value": "\u003chttps://sendgrid.com\u003e",
+            "short": true
+          },
+          {
+            "title": "Stars",
+            "value": "474",
+            "short": true
+          }
+        ],
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7mIV7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/sendgrid/sendgrid-java",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3437fb38-27f5-45c7-aee1-13a441016a73",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I’m still getting ready for class, sorry!",
+    "ts": "1702941596.265979",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wOHiz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m still getting ready for class, sorry!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f1003b65-bcaf-4473-8340-5ea09d0893f8",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yeah, have that, thanks!",
+    "ts": "1702941618.148449",
+    "thread_ts": "1702933266.277319",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bFYW/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, have that, thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a42c0883-b037-4f67-b66c-09bcda4ff533",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I created a PR to add an API controller to the back end.",
+    "ts": "1702941869.749859",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XHXR2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I created a PR to add an API controller to the back end."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4ed189ef-13a4-4ccc-a869-64ed5a560b4c",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Dunno whether we'll need it, but it's at least something.",
+    "ts": "1702941878.483669",
+    "thread_ts": "1702941878.483669",
+    "reply_count": 7,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702941958.965129"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702941971.400799"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702941984.183009"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702942027.878969"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702942071.275259"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702942116.855539"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702942125.602379"
+      }
+    ],
+    "latest_reply": "1702942125.602379",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uDMYI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Dunno whether we'll need it, but it's at least something."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05724ACLVB",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "723861b9-f556-46ab-afe6-c7dc97c7a8de",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I merged it!",
+    "ts": "1702941958.965129",
+    "thread_ts": "1702941878.483669",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pFxtj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I merged it!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "00fe1be4-29bd-4e46-8a31-09f5dae96e30",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Thanks!",
+    "ts": "1702941971.400799",
+    "thread_ts": "1702941878.483669",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cSYv0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "afedf792-9499-4ba3-bc81-65eb3350cf98",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "You’re all up in there! :418:",
+    "ts": "1702941984.183009",
+    "thread_ts": "1702941878.483669",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Tszr4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You’re all up in there! "
+              },
+              {
+                "type": "emoji",
+                "name": "418",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2a293845-239f-4508-8cdf-f7e365ef797c",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "We'll see what happens.",
+    "ts": "1702942027.878969",
+    "thread_ts": "1702941878.483669",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xH580",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We'll see what happens."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8d8e96e9-ad63-4872-a68f-b44f93f19238",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "If I don't pass, it's been great working with you all. I'm sorry I've been so behind, but as you know, sick. This has kicked my butt. Hope you all stay healthy!",
+    "ts": "1702942071.275259",
+    "thread_ts": "1702941878.483669",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "k6lyD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If I don't pass, it's been great working with you all. I'm sorry I've been so behind, but as you know, sick. This has kicked my butt. Hope you all stay healthy!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "73eb7d0e-3520-4677-b834-7f899c5c3d79",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Don’t be so hard on yourself!",
+    "ts": "1702942116.855539",
+    "thread_ts": "1702941878.483669",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OakS2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Don’t be so hard on yourself!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9c0d37bb-e7c6-4a4b-b067-a5f8d87aee48",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Thanks!",
+    "ts": "1702942125.602379",
+    "thread_ts": "1702941878.483669",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cSYv0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "234588C3-16D3-42EB-952C-AC08B4F97F0B",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Hey guys,\n\nI am still out until Wednesday, and am in zion so almost no service! ",
+    "ts": "1702943880.182859",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U056FFS0C64",
+          "U05744248P7",
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EPHMP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys,\n\nI am still out until Wednesday"
+              },
+              {
+                "type": "text",
+                "text": ","
+              },
+              {
+                "type": "text",
+                "text": " and am in zion so almost no service! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "04cc6a04-0fd7-4485-854c-421e08689df9",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Have you told them, so you can get your checkpoint passed when you have service?\n\nJust don't want you to get dropped for no good reason, since you've worked so hard on this!",
+    "ts": "1702943915.284809",
+    "edited": {
+      "user": "U05724ACLVB",
+      "ts": "1702943983.000000"
+    },
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/r0GM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Have you told them, so you can get your checkpoint passed when you have service?\n\nJust don't want you to get dropped for no good reason, since you've worked so hard on this!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

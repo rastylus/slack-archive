@@ -1,0 +1,469 @@
+[
+  {
+    "client_msg_id": "97a3791a-41f4-4b6a-b463-27c3edb4b16b",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "so possibly dumb question but how do I know if a git pull was successful?  It's stopped giving me issues but I'm not sure if it's pulling the code correctly.",
+    "ts": "1704937810.456729",
+    "thread_ts": "1704937810.456729",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U057A523Z6H",
+        "ts": "1704937908.284779"
+      },
+      {
+        "user": "U055N4UL5DL",
+        "ts": "1704938668.611089"
+      },
+      {
+        "user": "U057A523Z6H",
+        "ts": "1704946219.400869"
+      }
+    ],
+    "latest_reply": "1704946219.400869",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZLIKt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so possibly dumb question but how do I know if a git pull was successful?  It's stopped giving me issues but I'm not sure if it's pulling the code correctly."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U055N4UL5DL",
+      "U057A523Z6H"
+    ]
+  },
+  {
+    "client_msg_id": "6370b368-0b57-4f48-aed1-226bd5703030",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "On top of that, I'm done with the calendar (I think) and might want to do a PR but  won't until I know for sure.",
+    "ts": "1704937908.284779",
+    "thread_ts": "1704937810.456729",
+    "parent_user_id": "U057A523Z6H",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G8R5X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "On top of that, I'm done with the calendar (I think) and might want to do a PR but  won't until I know for sure."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9fd354d4-1d6c-470c-9c27-d895a8870d27",
+    "type": "message",
+    "user": "U055N4UL5DL",
+    "text": "You should have a spot that tells you where you are at, with respect to, the branch you are in. 2 commits ahead or behind.... If you pull, you should be +0",
+    "ts": "1704938668.611089",
+    "thread_ts": "1704937810.456729",
+    "parent_user_id": "U057A523Z6H",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4qZCE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You should have a spot that tells you where you are at, with respect to, the branch you are in. 2 commits ahead or behind.... If you pull, you should be +0"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/dd31a4a84b06d66fa9479b2b404ce2e7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "TA",
+      "real_name": "TA Shawn (He/His)",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "scooter4356",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ee36c8d3-28f3-4687-b23c-39675ea6fbe3",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "I have completed my 3 features and merged with main branch and its working as expected. Please fetch and pull from the branch before working further and you can check the feature I added. Do get back to me if any concerns.",
+    "ts": "1704943438.312079",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U057A523Z6H",
+          "U05750B4K1Q"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lZU6f",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have completed my 3 features and merged with main branch and its working as expected. Please fetch and pull from the branch before working further and you can check the feature I added. Do get back to me if any concerns."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3fb3367a-98a9-4081-90d7-8598c7b57225",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "\u003c@U05750B4K1Q\u003e I hope your are doing login registeration feature. Just wanted to let u know i am just waiting for the my next feature. Once u have completed please let me know.",
+    "ts": "1704943536.461539",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5iaNM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05750B4K1Q"
+              },
+              {
+                "type": "text",
+                "text": " I hope your are doing login registeration feature. Just wanted to let u know i am just waiting for the my next feature. Once u have completed please let me know."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "91fea545-bb3a-4318-9a1d-f3e5735abb61",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "okay, thanks! back to square one...",
+    "ts": "1704946219.400869",
+    "thread_ts": "1704937810.456729",
+    "parent_user_id": "U057A523Z6H",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sllPn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay, thanks! back to square one..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e5a654f8-91c4-454c-891e-5e612d10ac0c",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Hey Priya, I am working on it- work has been crazy this week so I'm a little behind schedule. I will let you know when I push the feature (by the end of today)",
+    "ts": "1704968489.258139",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0575DF8MA6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7j5W4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Priya, I am working on it- work has been crazy this week so I'm a little behind schedule. I will let you know when I push the feature (by the end of today)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2942273a-f348-48c0-9fad-d97a47f29782",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "\u003c@U0575DF8MA6\u003e I believe the registration page is done, I just can't remember how to set up the connection to mysql to check and make sure the information is being stored in our database. I pushed what I have to my github branch if you want to look at it.",
+    "ts": "1705015499.552919",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Szi7J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0575DF8MA6"
+              },
+              {
+                "type": "text",
+                "text": " I believe the registration page is done, I just can't remember how to set up the connection to mysql to check and make sure the information is being stored in our database. I pushed what I have to my github branch if you want to look at it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1f913d92-3a4b-4492-8426-e5f83bcc0da9",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "Sure. I will help to setup the connection. we will do it in class now",
+    "ts": "1705016112.517059",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L+MAq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sure. I will help to setup the connection. we will do it in class now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,784 @@
+[
+  {
+    "client_msg_id": "8406401A-5B1C-4D83-BA7C-D49B49355B5A",
+    "type": "message",
+    "user": "U057B2M3K6G",
+    "text": "I finally got it to work. The Bcryptpassword encoder works \u0026 the log in :sweat_smile: i also added basic security configurations so we can get rid of the other one in main. Only issue is a problem with the Tutor Subjects field \u003c@U056YAQ412S\u003e \u003c@U057EEC9J23\u003e ",
+    "ts": "1705349071.061939",
+    "thread_ts": "1705349071.061939",
+    "edited": {
+      "user": "U057B2M3K6G",
+      "ts": "1705349965.000000"
+    },
+    "reply_count": 10,
+    "replies": [
+      {
+        "user": "U057B2M3K6G",
+        "ts": "1705349079.847329"
+      },
+      {
+        "user": "U056YAQ412S",
+        "ts": "1705350086.008229"
+      },
+      {
+        "user": "U057B2M3K6G",
+        "ts": "1705350435.071809"
+      },
+      {
+        "user": "U057B2M3K6G",
+        "ts": "1705350651.869279"
+      },
+      {
+        "user": "U056YAQ412S",
+        "ts": "1705352679.952639"
+      },
+      {
+        "user": "U056YAQ412S",
+        "ts": "1705353275.611559"
+      },
+      {
+        "user": "U057B2M3K6G",
+        "ts": "1705353597.066009"
+      },
+      {
+        "user": "U057B2M3K6G",
+        "ts": "1705353618.047199"
+      },
+      {
+        "user": "U056YAQ412S",
+        "ts": "1705353642.831539"
+      },
+      {
+        "user": "U057B2M3K6G",
+        "ts": "1705353651.670749"
+      }
+    ],
+    "latest_reply": "1705353651.670749",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 1,
+        "users": [
+          "U056YAQ412S"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8IcGv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I finally got it to work. The Bcryptpassword encoder works \u0026 the log in "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " i also added basic security configurations so we can get rid of the other one in main. Only issue is a problem with the Tutor Subjects field "
+              },
+              {
+                "type": "user",
+                "user_id": "U056YAQ412S"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U057EEC9J23"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5240037731606_618dd92477618f8e8867_72.png",
+      "first_name": "Miracle",
+      "real_name": "Miracle W.",
+      "display_name": "Miracle W.",
+      "team": "T050CSX3EMT",
+      "name": "miraclewilliams.phila",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056YAQ412S",
+      "U057B2M3K6G"
+    ]
+  },
+  {
+    "client_msg_id": "D2C42B38-29A4-49CF-B67A-D53AC0349D9F",
+    "type": "message",
+    "user": "U057B2M3K6G",
+    "text": "Its on my usera\u0026amp;a branch",
+    "ts": "1705349079.847329",
+    "thread_ts": "1705349071.061939",
+    "parent_user_id": "U057B2M3K6G",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "psEAa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Its on my usera\u0026a branch"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5240037731606_618dd92477618f8e8867_72.png",
+      "first_name": "Miracle",
+      "real_name": "Miracle W.",
+      "display_name": "Miracle W.",
+      "team": "T050CSX3EMT",
+      "name": "miraclewilliams.phila",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "61e88b16-5227-4005-bea6-0c0107dcdd7a",
+    "type": "message",
+    "user": "U056YAQ412S",
+    "text": "Great!  Do you want to merge it with main?  Once Vinitha gets the subject enum to work, we can do the same thing with grade level.  I've been adding some bootstrap/styling while working on the nav bar and it is looking like a real site!",
+    "ts": "1705350086.008229",
+    "thread_ts": "1705349071.061939",
+    "parent_user_id": "U057B2M3K6G",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ew83F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Great!  Do you want to merge it with main?  Once Vinitha gets the subject enum to work, we can do the same thing with grade level.  I've been adding some bootstrap/styling while working on the nav bar and it is looking like a real site!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228432964807_071cc8b5e96dd5d1765c_72.png",
+      "first_name": "Lori",
+      "real_name": "Lori Kovarik",
+      "display_name": "Lori",
+      "team": "T050CSX3EMT",
+      "name": "kovarik.lori",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "855B1AE9-5F0C-423B-A768-DB5E843C366F",
+    "type": "message",
+    "user": "U057B2M3K6G",
+    "text": "I just fixed the error I was getting for main. I didnt test tutor login yet but student works. I merged. ",
+    "ts": "1705350435.071809",
+    "thread_ts": "1705349071.061939",
+    "parent_user_id": "U057B2M3K6G",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yxAjP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just fixed the error I was getting for main. I didnt test tutor login yet but student works. I merged. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5240037731606_618dd92477618f8e8867_72.png",
+      "first_name": "Miracle",
+      "real_name": "Miracle W.",
+      "display_name": "Miracle W.",
+      "team": "T050CSX3EMT",
+      "name": "miraclewilliams.phila",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B98DD018-CB75-456C-A0A2-0E9F88A4AE41",
+    "type": "message",
+    "user": "U057B2M3K6G",
+    "text": "let me know if student login \u0026 bcrypt works on ur database/end \u003c@U056YAQ412S\u003e ",
+    "ts": "1705350651.869279",
+    "thread_ts": "1705349071.061939",
+    "edited": {
+      "user": "U057B2M3K6G",
+      "ts": "1705350681.000000"
+    },
+    "parent_user_id": "U057B2M3K6G",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "54mJ1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "let me know if student login \u0026 bcrypt works on ur database/end "
+              },
+              {
+                "type": "user",
+                "user_id": "U056YAQ412S"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5240037731606_618dd92477618f8e8867_72.png",
+      "first_name": "Miracle",
+      "real_name": "Miracle W.",
+      "display_name": "Miracle W.",
+      "team": "T050CSX3EMT",
+      "name": "miraclewilliams.phila",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f2f124ad-d7de-4e08-b714-5acbf4b39b60",
+    "type": "message",
+    "user": "U056YAQ412S",
+    "text": "ok the link to the login page gives an error in main, but it worked for me when I checked out your usera\u0026amp;a branch",
+    "ts": "1705352679.952639",
+    "thread_ts": "1705349071.061939",
+    "parent_user_id": "U057B2M3K6G",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YJ74/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok the link to the login page gives an error in main, but it worked for me when I checked out your usera\u0026a branch"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228432964807_071cc8b5e96dd5d1765c_72.png",
+      "first_name": "Lori",
+      "real_name": "Lori Kovarik",
+      "display_name": "Lori",
+      "team": "T050CSX3EMT",
+      "name": "kovarik.lori",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c28144df-89e4-44cc-be30-83067bba426c",
+    "type": "message",
+    "user": "U056YAQ412S",
+    "text": "It may be a local issue",
+    "ts": "1705353275.611559",
+    "thread_ts": "1705349071.061939",
+    "parent_user_id": "U057B2M3K6G",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9CxAP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It may be a local issue"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228432964807_071cc8b5e96dd5d1765c_72.png",
+      "first_name": "Lori",
+      "real_name": "Lori Kovarik",
+      "display_name": "Lori",
+      "team": "T050CSX3EMT",
+      "name": "kovarik.lori",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6690A44C-0EAC-4541-A6AE-1FC7A66898B9",
+    "type": "message",
+    "user": "U057B2M3K6G",
+    "text": "I tested the functionality on the main on my computer \u0026amp; it was working.",
+    "ts": "1705353597.066009",
+    "thread_ts": "1705349071.061939",
+    "parent_user_id": "U057B2M3K6G",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rr5Xz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I tested the functionality on the main on my computer \u0026 it was working."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5240037731606_618dd92477618f8e8867_72.png",
+      "first_name": "Miracle",
+      "real_name": "Miracle W.",
+      "display_name": "Miracle W.",
+      "team": "T050CSX3EMT",
+      "name": "miraclewilliams.phila",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3513CE98-9DEC-4E67-9026-0AAB9BD70D9B",
+    "type": "message",
+    "user": "U057B2M3K6G",
+    "text": "did you do a pull request?",
+    "ts": "1705353618.047199",
+    "thread_ts": "1705349071.061939",
+    "parent_user_id": "U057B2M3K6G",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3gWjQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "did you do a pull request?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5240037731606_618dd92477618f8e8867_72.png",
+      "first_name": "Miracle",
+      "real_name": "Miracle W.",
+      "display_name": "Miracle W.",
+      "team": "T050CSX3EMT",
+      "name": "miraclewilliams.phila",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "942735b6-9fbc-4f88-989e-96a66748a43f",
+    "type": "message",
+    "user": "U056YAQ412S",
+    "text": "It was a local issue, I got it to work.  Also tutor reg works if you comment out the subjects on the reg form.",
+    "ts": "1705353642.831539",
+    "thread_ts": "1705349071.061939",
+    "parent_user_id": "U057B2M3K6G",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5uDoW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It was a local issue, I got it to work.  Also tutor reg works if you comment out the subjects on the reg form."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228432964807_071cc8b5e96dd5d1765c_72.png",
+      "first_name": "Lori",
+      "real_name": "Lori Kovarik",
+      "display_name": "Lori",
+      "team": "T050CSX3EMT",
+      "name": "kovarik.lori",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E99E334E-8569-4DCD-B62A-376E29F0225D",
+    "type": "message",
+    "user": "U057B2M3K6G",
+    "text": "ok great",
+    "ts": "1705353651.670749",
+    "thread_ts": "1705349071.061939",
+    "parent_user_id": "U057B2M3K6G",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H1JBV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok great"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5240037731606_618dd92477618f8e8867_72.png",
+      "first_name": "Miracle",
+      "real_name": "Miracle W.",
+      "display_name": "Miracle W.",
+      "team": "T050CSX3EMT",
+      "name": "miraclewilliams.phila",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b8064db6-4f45-49aa-a342-5b3f19c739f7",
+    "type": "message",
+    "user": "U057EEC9J23",
+    "text": "calendar is connected to profile and when we create a session it will create for a particular tutor.\nI am still working on loading events for a particular tutor...",
+    "ts": "1705359722.865839",
+    "thread_ts": "1705359722.865839",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057B2M3K6G",
+        "ts": "1705365174.247099"
+      }
+    ],
+    "latest_reply": "1705365174.247099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KQH57",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "calendar is connected to profile and when we create a session it will create for a particular tutor.\nI am still working on loading events for a particular tutor..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5252488423895_5337f292839c33bb0b36_72.png",
+      "first_name": "Vinitha",
+      "real_name": "Vinitha Kamesh",
+      "display_name": "Vinitha Kamesh",
+      "team": "T050CSX3EMT",
+      "name": "vinivinitha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057B2M3K6G"
+    ]
+  },
+  {
+    "client_msg_id": "401feab8-38e3-48b4-82d8-67902124ebf0",
+    "type": "message",
+    "user": "U057EEC9J23",
+    "text": "Good luck to both of you on your interview today",
+    "ts": "1705359749.131919",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056YAQ412S"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AVDoy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good luck to both of you on your interview today"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5252488423895_5337f292839c33bb0b36_72.png",
+      "first_name": "Vinitha",
+      "real_name": "Vinitha Kamesh",
+      "display_name": "Vinitha Kamesh",
+      "team": "T050CSX3EMT",
+      "name": "vinivinitha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "87298493-4706-42d9-b38b-b2b404ed14c6",
+    "type": "message",
+    "user": "U056YAQ412S",
+    "text": "Thanks, you too!  Also, can you fix the subjects enum so it writes to the sql database?  Right now if it is uncommented on the registration form it throws an error.",
+    "ts": "1705361191.568489",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4Z+ul",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks, you too!  Also, can you fix the subjects enum so it writes to the sql database?  Right now if it is uncommented on the registration form it throws an error."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228432964807_071cc8b5e96dd5d1765c_72.png",
+      "first_name": "Lori",
+      "real_name": "Lori Kovarik",
+      "display_name": "Lori",
+      "team": "T050CSX3EMT",
+      "name": "kovarik.lori",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

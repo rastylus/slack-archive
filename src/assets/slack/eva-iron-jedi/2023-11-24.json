@@ -1,0 +1,63 @@
+[
+  {
+    "client_msg_id": "0E3C8E5F-DD75-4179-9767-B5C9759E3F07",
+    "type": "message",
+    "user": "U056ZNNEALF",
+    "text": "I’m not sure if I received the invite",
+    "ts": "1700850549.117309",
+    "thread_ts": "1700850549.117309",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057UQR6VDW",
+        "ts": "1700872840.310079"
+      }
+    ],
+    "latest_reply": "1700872840.310079",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8TTsy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " not sure if I received the invite"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5237770526439_b10065524afd4a0a3755_72.png",
+      "first_name": "Temesgen",
+      "real_name": "Temesgen Ghidey",
+      "display_name": "Temesgen Ghidey",
+      "team": "T050CSX3EMT",
+      "name": "tghidey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057UQR6VDW"
+    ]
+  }
+]

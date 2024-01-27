@@ -1,0 +1,71 @@
+[
+  {
+    "client_msg_id": "265f4414-2e34-419e-bc9a-9858f1851aef",
+    "type": "message",
+    "user": "U055RLVGECB",
+    "text": "I recall having this same issue when I did my assignment #4. Here's a good resource to checkout:\n\u003chttps://www.baeldung.com/jpa-joincolumn-vs-mappedby\u003e",
+    "ts": "1698965840.660219",
+    "thread_ts": "1698768020.328699",
+    "attachments": [
+      {
+        "fallback": "Baeldung: Difference Between @JoinColumn and mappedBy | Baeldung",
+        "id": 1,
+        "title": "Difference Between @JoinColumn and mappedBy | Baeldung",
+        "title_link": "https://www.baeldung.com/jpa-joincolumn-vs-mappedby",
+        "text": "Learn about the difference between @JoinColumn and mappedBy and how to use them in a one-to-many bidirectional relationship.",
+        "image_url": "https://www.baeldung.com/wp-content/uploads/2016/10/social-Persistence-On-Baeldung-1.jpg",
+        "service_name": "Baeldung",
+        "service_icon": "https://www.baeldung.com/wp-content/themes/baeldung/favicon/apple-touch-icon-57x57.png",
+        "from_url": "https://www.baeldung.com/jpa-joincolumn-vs-mappedby",
+        "original_url": "https://www.baeldung.com/jpa-joincolumn-vs-mappedby",
+        "blocks": null,
+        "ts": 1542823632
+      }
+    ],
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Sdjhc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I recall having this same issue when I did my assignment #4. Here's a good resource to checkout:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.baeldung.com/jpa-joincolumn-vs-mappedby",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5199690404373_f5b2dee4a67558ffd533_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Mitchell",
+      "display_name": "TA - Ariel (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "ariel.l.makowski",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

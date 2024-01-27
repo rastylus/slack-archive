@@ -1,0 +1,75 @@
+[
+  {
+    "client_msg_id": "5853896c-906f-4d29-bef5-41b4f3665e11",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "Have we learned how to use @JoinColumn? It’s in GA 4 task 3 but I can’t find it in the textbook or in Carrie’s last set of lecture slides. I’ve tried looking up documentation but all the examples I can find use such different syntax to what we’ve learned that I can’t follow them.",
+    "ts": "1698768020.328699",
+    "thread_ts": "1698768020.328699",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U055RLVGECB",
+        "ts": "1698965840.660219"
+      }
+    ],
+    "latest_reply": "1698965840.660219",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "plus-one",
+        "count": 8,
+        "users": [
+          "U057521BQP5",
+          "U05724ACLVB",
+          "U056Q5F0LLX",
+          "U0574GLGECB",
+          "U057K4K1QDP",
+          "U057V3BHX9N",
+          "U056K1U9R1V",
+          "U057ULA7CJC"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YKAbN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Have we learned how to use @JoinColumn? It’s in GA 4 task 3 but I can’t find it in the textbook or in Carrie’s last set of lecture slides. I’ve tried looking up documentation but all the examples I can find use such different syntax to what we’ve learned that I can’t follow them."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U055RLVGECB"
+    ]
+  }
+]

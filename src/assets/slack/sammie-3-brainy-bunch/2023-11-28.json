@@ -1,0 +1,65 @@
+[
+  {
+    "client_msg_id": "3003104e-65f1-4771-954d-9b68bcf94d2a",
+    "type": "message",
+    "user": "U05656EM4EM",
+    "text": "\u003chttps://github.com/sammierosado/liftoff-group-3\u003e",
+    "ts": "1701133633.872049",
+    "attachments": [
+      {
+        "color": "24292f",
+        "fallback": "sammierosado/liftoff-group-3",
+        "id": 1,
+        "title": "sammierosado/liftoff-group-3",
+        "fields": [
+          {
+            "title": "Last updated",
+            "value": "4 hours ago",
+            "short": true
+          }
+        ],
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/PRk8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/sammierosado/liftoff-group-3",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-08/5546028551765_ef5cfd16f93e919dda43_72.jpg",
+      "first_name": "TA",
+      "real_name": "TA Sammie Mendez (she/her)",
+      "display_name": "TA - Sammie",
+      "team": "T050CSX3EMT",
+      "name": "sammierosado",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

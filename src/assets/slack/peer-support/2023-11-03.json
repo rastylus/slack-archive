@@ -1,0 +1,503 @@
+[
+  {
+    "client_msg_id": "4b335c7f-e2c8-4423-bbaf-12af7a58a3f7",
+    "type": "message",
+    "user": "U056Q4RGKB9",
+    "text": "In GA4 my home page of the web app does not list the jobs like the demo app. Is it supposed to? It has no related tests and i can't find anything in the instructions for it. All other functionality of the web app works but the home page just displays TechJobs on the top",
+    "ts": "1698977382.135849",
+    "thread_ts": "1698977382.135849",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U056Q4RGKB9",
+        "ts": "1698977468.521439"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1698977790.856619"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1698980108.372109"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699020690.000349"
+      },
+      {
+        "user": "U056Q4RGKB9",
+        "ts": "1699047770.833119"
+      }
+    ],
+    "latest_reply": "1699047770.833119",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lewTa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "In GA4 my home page of the web app does not list the jobs like the demo app. Is it supposed to? It has no related tests and i can't find anything in the instructions for it. All other functionality of the web app works but the home page just displays TechJobs on the top"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/7ce143e46861ef03027a9a5392b5d72b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "Braden",
+      "real_name": "Braden Evans",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "bradene0",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056Q4RGKB9",
+      "U056Y707Y14",
+      "U05724ACLVB"
+    ]
+  },
+  {
+    "client_msg_id": "8d93535a-6e3e-4882-8206-c4591a9b36f5",
+    "type": "message",
+    "user": "U056Q4RGKB9",
+    "text": "This is what it shows specifically",
+    "ts": "1698977468.521439",
+    "thread_ts": "1698977382.135849",
+    "parent_user_id": "U056Q4RGKB9",
+    "files": [
+      {
+        "id": "F06435BEJ3U",
+        "created": 1698977456,
+        "timestamp": 1698977456,
+        "name": "techjobspersistent4.png",
+        "title": "techjobspersistent4.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056Q4RGKB9",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 9117,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06435BEJ3U/techjobspersistent4.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06435BEJ3U/download/techjobspersistent4.png",
+        "original_h": 485,
+        "original_w": 580,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06435BEJ3U-509752cb84/techjobspersistent4_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06435BEJ3U-509752cb84/techjobspersistent4_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06435BEJ3U-509752cb84/techjobspersistent4_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06435BEJ3U-509752cb84/techjobspersistent4_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 301,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06435BEJ3U-509752cb84/techjobspersistent4_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 401,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056Q4RGKB9/F06435BEJ3U/techjobspersistent4.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06435BEJ3U-30d954a869",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u6QO+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is what it shows specifically"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/7ce143e46861ef03027a9a5392b5d72b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "Braden",
+      "real_name": "Braden Evans",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "bradene0",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ddaf544a-c1ac-411f-9032-c5085552ac42",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yes, it's supposed to. Check your HomeController.",
+    "ts": "1698977790.856619",
+    "thread_ts": "1698977382.135849",
+    "parent_user_id": "U056Q4RGKB9",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tLLpH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes, it's supposed to. Check your HomeController."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3ea55d2d-6950-4b98-bb89-cd82035665ee",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "mine didn’t do that automatically, I had to pass some additional information into the model to get it to work (though it doesn’t seem to affect the tests either way)",
+    "ts": "1698980108.372109",
+    "thread_ts": "1698977382.135849",
+    "parent_user_id": "U056Q4RGKB9",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2TFeN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "mine didn’t do that automatically, I had to pass some additional information into the model to get it to work (though it doesn’t seem to affect the tests either way)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4d5f6d86-8925-4977-aac2-5163b979dafd",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "Is anyone still up and able to assist me with my Spring Boot \"Hello Spring\" app? I still get the error page when the video is getting the \"Hello Spring!\" text. I think it has to do with my folders and their types.",
+    "ts": "1698983142.399079",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jWSen",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is anyone still up and able to assist me with my Spring Boot \"Hello Spring\" app? I still get the error page when the video is getting the \"Hello Spring!\" text. I think it has to do with my folders and their types."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2AB699AC-9197-4C67-9C91-1BC601BB6C56",
+    "type": "message",
+    "user": "U056WKD8RRT",
+    "text": "D\n",
+    "ts": "1698983614.299699",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=TE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "D"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5258951854693_c258a719a5ff97defcfb_72.png",
+      "first_name": "Noah",
+      "real_name": "Noah Brandwein",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "noah.brandwein98",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8c8e4b3c-0a45-48f3-83d1-60cd85ca3476",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yeah, there's a lot of stuff that you need to do that is not directly addressed in the instructions.",
+    "ts": "1699020690.000349",
+    "thread_ts": "1698977382.135849",
+    "parent_user_id": "U056Q4RGKB9",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U056Q9W022K"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7Rgfr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, there's a lot of stuff that you need to do that is not directly addressed in the instructions."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "35FD4BED-24D3-4FBF-8DF0-455304BE0BC5",
+    "type": "message",
+    "user": "U056Q4RGKB9",
+    "text": "Thank you I got it figured out!",
+    "ts": "1699047770.833119",
+    "thread_ts": "1698977382.135849",
+    "parent_user_id": "U056Q4RGKB9",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YPFF2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you I got it figured out"
+              },
+              {
+                "type": "text",
+                "text": "!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/7ce143e46861ef03027a9a5392b5d72b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "Braden",
+      "real_name": "Braden Evans",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "bradene0",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

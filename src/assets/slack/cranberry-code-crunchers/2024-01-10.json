@@ -1,0 +1,639 @@
+[
+  {
+    "client_msg_id": "71F67916-9020-44E1-ACE5-FCFDC8FE69E3",
+    "type": "message",
+    "user": "U056ZDW8083",
+    "text": "Hey all I got a new labtop today and am configuring everything accurately so can you all verify if you use jdk 17 or 20? I usually use 17 but it’s now recommending I use jdk 20 for our api so want to make sure we all have the same build",
+    "ts": "1704848026.525339",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z5JFN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all I got a new labtop today and am configuring everything accurately so can you all verify if you use jdk 17 or 20? I usually use 17 but "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " now recommending I use jdk 20 for our api so want to make sure we all have the same build"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5276126219072_9bf4e4d6843b8b91ecb6_72.png",
+      "first_name": "Mac",
+      "real_name": "Mac Calhoun",
+      "display_name": "Mac (they/them)",
+      "team": "T050CSX3EMT",
+      "name": "mcalhoun133",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "96d0ea83-2fa5-4a33-8f82-e553a2bbaa29",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "I have 17 for both repos",
+    "ts": "1704904352.941979",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RiRTf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have 17 for both repos"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7c048cf2-4c99-4971-a4f1-d0e486d7c7d9",
+    "type": "message",
+    "user": "U056ZDW8083",
+    "text": "Okay thank you!",
+    "ts": "1704904801.492339",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "60ZZK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5276126219072_9bf4e4d6843b8b91ecb6_72.png",
+      "first_name": "Mac",
+      "real_name": "Mac Calhoun",
+      "display_name": "Mac (they/them)",
+      "team": "T050CSX3EMT",
+      "name": "mcalhoun133",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "82e4ffe4-3f24-4a70-a7a8-90d76e50d17c",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "\u003c@U05763FB2F4\u003e  have you been creating feature branches for your code or working straight out of main?",
+    "ts": "1704910033.876149",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UeJg9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05763FB2F4"
+              },
+              {
+                "type": "text",
+                "text": "  have you been creating feature branches for your code or working straight out of main?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3406dee0-173f-44d8-88da-93289717bbe6",
+    "type": "message",
+    "user": "U05763FB2F4",
+    "text": "I am creating feature branches",
+    "ts": "1704910058.100409",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lh0o/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am creating feature branches"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ca89ec5fb6ef1422f53f69d6ef4edc9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Dhana",
+      "real_name": "Dhana P",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "prathi.kamaraju",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c25cf1d8-55b7-4a7b-b06f-378500d58b2a",
+    "type": "message",
+    "user": "U05763FB2F4",
+    "text": "Those are the prs which i shared right",
+    "ts": "1704910069.460159",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cx3ae",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Those are the prs which i shared right"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ca89ec5fb6ef1422f53f69d6ef4edc9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Dhana",
+      "real_name": "Dhana P",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "prathi.kamaraju",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "481eafb6-9d9c-4f0c-b560-ab6873a532e2",
+    "type": "message",
+    "user": "U05763FB2F4",
+    "text": "\u003chttps://github.com/Moerfiane/liftoff-cranberry-code-crunchers-api/tree/ListofResturantsUiIntegration\u003e\n\u003chttps://github.com/Moerfiane/liftoff-cranberry-code-crunchers-api/tree/resturantsYelpSearchAPi\u003e\n\u003chttps://github.com/Moerfiane/liftoff-cranberry-code-crunchers-ui/tree/listResturants\u003e\n\u003c@U0577EKQS9Z\u003e These are my features Branches which i worked on",
+    "ts": "1704910424.645809",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vz7VM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/Moerfiane/liftoff-cranberry-code-crunchers-api/tree/ListofResturantsUiIntegration",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/Moerfiane/liftoff-cranberry-code-crunchers-api/tree/resturantsYelpSearchAPi",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/Moerfiane/liftoff-cranberry-code-crunchers-ui/tree/listResturants",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U0577EKQS9Z"
+              },
+              {
+                "type": "text",
+                "text": " These are my features Branches which i worked on"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ca89ec5fb6ef1422f53f69d6ef4edc9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Dhana",
+      "real_name": "Dhana P",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "prathi.kamaraju",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "908979ab-90fa-45c8-b41e-1c3c1d73f52c",
+    "type": "message",
+    "user": "U05763FB2F4",
+    "text": "Let me know if you have any further questions",
+    "ts": "1704910443.891429",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B4X6K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Let me know if you have any further questions"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ca89ec5fb6ef1422f53f69d6ef4edc9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Dhana",
+      "real_name": "Dhana P",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "prathi.kamaraju",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4A07BDC3-3573-455C-AA8F-B833BC85C7D4",
+    "type": "message",
+    "user": "U056ZDW8083",
+    "text": "Hey y’all I’m not really comfortable messaging anymore in a separate DM chat and I’m not even sure why that started to begin with. If we could communicate through this channel only I would appreciate it. Thank you!",
+    "ts": "1704911257.376729",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05763FB2F4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PykLc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey "
+              },
+              {
+                "type": "text",
+                "text": "y’all"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " not really comfortable messaging anymore in a separate DM chat and "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " not even sure why that started to begin with. If we could communicate through this channel only I would appreciate it. Thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5276126219072_9bf4e4d6843b8b91ecb6_72.png",
+      "first_name": "Mac",
+      "real_name": "Mac Calhoun",
+      "display_name": "Mac (they/them)",
+      "team": "T050CSX3EMT",
+      "name": "mcalhoun133",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7c9e3c86-9b68-4337-990d-88ae46dcc722",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "I agree! It's easier this way too!",
+    "ts": "1704911291.929219",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JolWR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I agree! It's easier this way too!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5AAC2DF5-D941-4167-8DD0-A506587DE234",
+    "type": "message",
+    "user": "U056ZDW8083",
+    "text": "Way easier :sparkles: ",
+    "ts": "1704911367.636199",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "94Xok",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Way easier "
+              },
+              {
+                "type": "emoji",
+                "name": "sparkles",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5276126219072_9bf4e4d6843b8b91ecb6_72.png",
+      "first_name": "Mac",
+      "real_name": "Mac Calhoun",
+      "display_name": "Mac (they/them)",
+      "team": "T050CSX3EMT",
+      "name": "mcalhoun133",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6be49fe2-5e02-493e-bf2d-eb993efdc525",
+    "type": "message",
+    "user": "U05763FB2F4",
+    "text": "Other Task i have on my name Crud of resturants , which i think i need login user info to save the favorite resturants for the logged user\nI will try to use sample data and start working on it",
+    "ts": "1704911570.514659",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q5ptC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Other Task i have on my name Crud of resturants , which i think i need login user info to save the favorite resturants for the logged user\nI will try to use sample data and start working on it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ca89ec5fb6ef1422f53f69d6ef4edc9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Dhana",
+      "real_name": "Dhana P",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "prathi.kamaraju",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "client_msg_id": "fe0ea182-0c90-4a9f-ba0e-c92adb57c29a",
+    "type": "message",
+    "user": "U056Z3RQFJT",
+    "text": "happy new year everyone",
+    "ts": "1704236339.874349",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "fireworks",
+        "count": 1,
+        "users": [
+          "U057C73ABDX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ph9PF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "happy new year everyone"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5251578399251_476929090d178895b1c1_72.jpg",
+      "first_name": "Dimitri",
+      "real_name": "Dimitri   Torres",
+      "display_name": "Dimitri Torres",
+      "team": "T050CSX3EMT",
+      "name": "dimitritorres34",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

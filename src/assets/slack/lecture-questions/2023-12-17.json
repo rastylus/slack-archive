@@ -1,0 +1,139 @@
+[
+  {
+    "client_msg_id": "e44aba5e-b786-4e6f-8498-1e2d633bb0f3",
+    "type": "message",
+    "user": "U057SN9D9J5",
+    "text": "Hey all, just checking the project checkpoint requirements for tomorrow, it says we need to be listed as a contributor on our project repo, does that mean we need to have contributed to Main specifically or is contributing to a branch sufficient?",
+    "ts": "1702845660.216959",
+    "thread_ts": "1702845660.216959",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702849144.925049"
+      },
+      {
+        "user": "U0625KF6RLH",
+        "ts": "1702915215.241509"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1702928972.395359"
+      },
+      {
+        "user": "U05765HGT46",
+        "ts": "1702940451.598699"
+      },
+      {
+        "user": "U066ED0A4DU",
+        "ts": "1702940931.656629"
+      },
+      {
+        "user": "U05765HGT46",
+        "ts": "1702941623.658589"
+      }
+    ],
+    "latest_reply": "1702941623.658589",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l8yFl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all, just checking the project checkpoint requirements for tomorrow, it says we need to be listed as a contributor on our project repo, does that mean we need to have contributed to Main specifically or is contributing to a branch sufficient?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5237581017271_ad8dcae42408d92c161a_72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Neeter",
+      "display_name": "Josh Neeter",
+      "team": "T050CSX3EMT",
+      "name": "jneeter15",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 5,
+    "reply_users": [
+      "U056Q9W022K",
+      "U0575U6RCKC",
+      "U05765HGT46",
+      "U0625KF6RLH",
+      "U066ED0A4DU"
+    ]
+  },
+  {
+    "client_msg_id": "9C78DD81-A4C8-433E-94B6-13FF667A96C6",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I think you have to have merged at least one pull request to main to show up as a contributor. At least that’s how it was on ours. ",
+    "ts": "1702849144.925049",
+    "thread_ts": "1702845660.216959",
+    "parent_user_id": "U057SN9D9J5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z9A2w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think you have to have merged at least one pull request to main to show up as a contributor. At least "
+              },
+              {
+                "type": "text",
+                "text": "that’s"
+              },
+              {
+                "type": "text",
+                "text": " how it was on ours. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

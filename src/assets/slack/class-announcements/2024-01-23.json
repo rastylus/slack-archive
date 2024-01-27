@@ -1,0 +1,77 @@
+[
+  {
+    "client_msg_id": "4f53553c-9e34-4cc9-9d1a-4c0e5dfd1b58",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "Hey everybody - there is no attendance code for this evening! Break a leg on retro/demos!",
+    "ts": "1705970940.505909",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-5",
+        "count": 1,
+        "users": [
+          "U057SCV767K"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 7,
+        "users": [
+          "U05743K5BHT",
+          "U057J8HJZMF",
+          "U057GLCQK1A",
+          "U0579KDG6A0",
+          "U056Q9W022K",
+          "U056WKE4W77",
+          "U057P8WPFT2"
+        ]
+      },
+      {
+        "name": "lc-gif",
+        "count": 1,
+        "users": [
+          "U056ZDW8083"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xcl/L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey everybody - there is no attendance code for this evening! Break a leg on retro/demos!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

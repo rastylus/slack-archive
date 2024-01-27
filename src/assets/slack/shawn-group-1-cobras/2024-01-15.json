@@ -1,0 +1,650 @@
+[
+  {
+    "client_msg_id": "dc87bf09-9dc9-4d29-a62f-2fafa1fc1e9a",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "\u003c@U05750B4K1Q\u003e do you want me to create the zoom link?",
+    "ts": "1705277122.605899",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vb1XP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05750B4K1Q"
+              },
+              {
+                "type": "text",
+                "text": " do you want me to create the zoom link?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7310c4aa-f658-4613-8069-99f336c4f039",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "\u003chttps://us04web.zoom.us/j/76935890015?pwd=Knb0aKl96aU5FWeooOt4hZ503jEkcB.1\u003e",
+    "ts": "1705277127.148889",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0575DF8MA6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fl3BY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://us04web.zoom.us/j/76935890015?pwd=Knb0aKl96aU5FWeooOt4hZ503jEkcB.1",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e446f312-aa70-4477-bf46-4073a57ba7d1",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Sorry, lost track of time!",
+    "ts": "1705277136.393949",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4RydC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry, lost track of time!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5d19296b-70c6-44c0-b533-5a0bea02cc25",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "\u003c@U0575DF8MA6\u003e I'm still working on the issues with my features, still getting error 403 with cors",
+    "ts": "1705337636.251159",
+    "thread_ts": "1705337636.251159",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705340894.167019"
+      },
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1705341356.305349"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705350229.417929"
+      }
+    ],
+    "latest_reply": "1705350229.417929",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wkz8r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0575DF8MA6"
+              },
+              {
+                "type": "text",
+                "text": " I'm still working on the issues with my features, still getting error 403 with cors"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05750B4K1Q",
+      "U0575DF8MA6"
+    ]
+  },
+  {
+    "client_msg_id": "181eddc0-3d64-44bb-9275-4045ed355664",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "From googling it looks like there might be something in spring security that is affecting the authentication of the requests. I saw there is an authentication filter in the models folder, are there any other files that deal with security in the backend?",
+    "ts": "1705340894.167019",
+    "thread_ts": "1705337636.251159",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oAHu+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "From googling it looks like there might be something in spring security that is affecting the authentication of the requests. I saw there is an authentication filter in the models folder, are there any other files that deal with security in the backend?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3dcac08d-8ee4-490e-9c6a-713bd9e9c749",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "I too got the same error while implementing my feature. To resolve CORS error replace cross origin =\"*\" instead of giving url in server coding.",
+    "ts": "1705341356.305349",
+    "thread_ts": "1705337636.251159",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W2HAK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I too got the same error while implementing my "
+              },
+              {
+                "type": "text",
+                "text": "feature. To",
+                "style": {}
+              },
+              {
+                "type": "text",
+                "text": " resolve CORS error replace cross origin =\"*\" instead of giving url in server coding."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fec6a7c3-7253-4e6f-9d8f-f1635fe4252a",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "I did use the * symbol for CrossOrigin and it still isn't working :disappointed:",
+    "ts": "1705350229.417929",
+    "thread_ts": "1705337636.251159",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h3Cqf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I did use the * symbol for CrossOrigin and it still isn't working "
+              },
+              {
+                "type": "emoji",
+                "name": "disappointed",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bce7dfe1-9e0e-44a4-b48e-a57f27f1954a",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "maybe a dumb question, but are you two using bootrun in IntelliJ to launch the app?  I've tried using npm start in VSCode but it keeps giving me an error.",
+    "ts": "1705359025.737109",
+    "thread_ts": "1705359025.737109",
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1705359348.449399"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1705359431.255259"
+      },
+      {
+        "user": "U057A523Z6H",
+        "ts": "1705361171.208089"
+      },
+      {
+        "user": "U057A523Z6H",
+        "ts": "1705363033.214609"
+      }
+    ],
+    "latest_reply": "1705363033.214609",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fIkE9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "maybe a dumb question, but are you two using bootrun in IntelliJ to launch the app?  I've tried using npm start in VSCode but it keeps giving me an error."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U05750B4K1Q",
+      "U0575DF8MA6",
+      "U057A523Z6H"
+    ]
+  },
+  {
+    "client_msg_id": "fcfdb781-e873-45b3-857b-4a5f89343a26",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "yes. you have to bootrun in backend \u0026amp; then you can start your frontend application.",
+    "ts": "1705359348.449399",
+    "thread_ts": "1705359025.737109",
+    "parent_user_id": "U057A523Z6H",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RH4vQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes. you have to bootrun in backend \u0026 then you can start your frontend application."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "84b189c1-132e-42e9-907f-5c7cd81781fa",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Yeah, open both at the same time. and Mysql if you're testing crud operations",
+    "ts": "1705359431.255259",
+    "thread_ts": "1705359025.737109",
+    "parent_user_id": "U057A523Z6H",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8cB3k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, open both at the same time. and Mysql if you're testing crud operations"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2025cc0f-44a7-4c73-95d6-e9761ca29fc9",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "alright, thanks!",
+    "ts": "1705361171.208089",
+    "thread_ts": "1705359025.737109",
+    "parent_user_id": "U057A523Z6H",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f6ktF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "alright, thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "119aee7b-a978-4bf8-bcd1-b5baa16ea9b9",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "darn, so I got bootrun going but still have an issue with npm start. It says I'm \"Missing script: start\" but checking the package.json I am not in fact missing it :face_with_raised_eyebrow:",
+    "ts": "1705363033.214609",
+    "thread_ts": "1705359025.737109",
+    "parent_user_id": "U057A523Z6H",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/t5Tx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "darn, so I got bootrun going but still have an issue with npm start. It says I'm \"Missing script: start\" but checking the package.json I am not in fact missing it "
+              },
+              {
+                "type": "emoji",
+                "name": "face_with_raised_eyebrow",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

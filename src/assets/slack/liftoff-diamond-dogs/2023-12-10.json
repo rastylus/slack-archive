@@ -1,0 +1,242 @@
+[
+  {
+    "client_msg_id": "12ccc1d0-d712-461d-8376-1646217ca82a",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "so in lieu of an admin panel, considering we were going to use it for analytics, I went ahead and incorporated google analytics to the app and was able to post it online through ngrok. When you have a sec, without the React app running, confirm from any device that the link is working. \u003chttps://080c-2605-a601-af0b-f500-e109-1c05-c6aa-4338.ngrok-free.app\u003e",
+    "ts": "1702166658.504109",
+    "thread_ts": "1702166658.504109",
+    "attachments": [
+      {
+        "fallback": "React App",
+        "id": 1,
+        "title": "React App",
+        "title_link": "https://080c-2605-a601-af0b-f500-e109-1c05-c6aa-4338.ngrok-free.app/",
+        "text": "Web site created using create-react-app",
+        "service_name": "080c-2605-a601-af0b-f500-e109-1c05-c6aa-4338.ngrok-free.app",
+        "service_icon": "https://080c-2605-a601-af0b-f500-e109-1c05-c6aa-4338.ngrok-free.app/logo192.png",
+        "from_url": "https://080c-2605-a601-af0b-f500-e109-1c05-c6aa-4338.ngrok-free.app/",
+        "original_url": "https://080c-2605-a601-af0b-f500-e109-1c05-c6aa-4338.ngrok-free.app",
+        "blocks": null
+      }
+    ],
+    "last_read": "1702192543.278089",
+    "subscribed": true,
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056RCF9G87",
+        "ts": "1702192543.278089"
+      }
+    ],
+    "latest_reply": "1702192543.278089",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5qeLf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so in lieu of an admin panel, considering we were going to use it for analytics, I went ahead and incorporated google analytics to the app and was able to post it online through ngrok. When you have a sec, without the React app running, confirm from any device that the link is working. "
+              },
+              {
+                "type": "link",
+                "url": "https://080c-2605-a601-af0b-f500-e109-1c05-c6aa-4338.ngrok-free.app",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056RCF9G87"
+    ]
+  },
+  {
+    "client_msg_id": "685a5109-dc27-4235-a214-bdfaefa84ee4",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "Nothing specific is being tracked right now - we can decide what needs to be tracked once we have more of a UI and the Perenual API is working with our site",
+    "ts": "1702166705.985319",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zZe6X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nothing specific is being tracked right now - we can decide what needs to be tracked once we have more of a UI and the Perenual API is working with our site"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A78529F6-C435-428C-B41B-B019AA2F5A6F",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "Yep, works from my phone at least.",
+    "ts": "1702192543.278089",
+    "thread_ts": "1702166658.504109",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GqXaa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yep, works from my phone at least."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a9fa871d-c5c3-40a2-819a-3a833fe54caa",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Hello gentlemen. I rage quit my original api branch this weekend and created the new api branch called api-base. I got a lot of work done this weekend. We can make the following get requests from my branch of our website:\n• Getting a specific plant by species id\n• Getting a list of species/plant data\n• Getting a list of  species/plant data sorted by sunlight needs, water needs, and growth cycle respectively\n• Getting a list of multiple pages at once. The api only allows us to fetch 1 page (30 plants) at once, so I wrote code for us to fetch many pages.\nI'm meeting with Cory at some point tomorrow because I can't make get requests to sort the list by common name right now, which I feel like is very important. I've been starting at my computer screen all weekend and I'm about to go crazy, so I just need another set of eyes looking at this.",
+    "ts": "1702252520.108669",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U05756M4E1H"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sbA6o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello gentlemen. I rage quit my original api branch this weekend and created the new api branch called api-base. I got a lot of work done this weekend. We can make the following get requests from my branch of our website:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Getting a specific plant by species id\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Getting a list of species\\/plant data\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Getting a list of  species\\/plant data sorted by sunlight needs, water needs, and growth cycle respectively\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Getting a list of multiple pages at once. The api only allows us to fetch 1 page (30 plants) at once, so I wrote code for us to fetch many pages.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nI'm meeting with Cory at some point tomorrow because I can't make get requests to sort the list by common name right now, which I feel like is very important. I've been starting at my computer screen all weekend and I'm about to go crazy, so I just need another set of eyes looking at this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "a186a861-f50d-47b6-aa99-dd4101177459",
+    "type": "message",
+    "user": "U056Z3RQFJT",
+    "text": "Yes , Im taking care of the controller class atm . However I am unsure to how test it , Would you have any Idea",
+    "ts": "1702256224.638479",
+    "thread_ts": "1702240702.215429",
+    "parent_user_id": "U056Z3RQFJT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZyDrk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes , Im taking care of the controller class atm . However I am unsure to how test it , Would you have any Idea"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5251578399251_476929090d178895b1c1_72.jpg",
+      "first_name": "Dimitri",
+      "real_name": "Dimitri   Torres",
+      "display_name": "Dimitri Torres",
+      "team": "T050CSX3EMT",
+      "name": "dimitritorres34",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "93b2f9b5-eca5-4576-b677-1007973ab32f",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "That's actually where I'm a bit stuck. I have the user model, controller \u0026amp; repository and I need to test if the database connection works but I'm not sure how yet.  I was looking at the last graded assignment and it's tests for ideas.",
+    "ts": "1702256365.176739",
+    "thread_ts": "1702240702.215429",
+    "parent_user_id": "U056Z3RQFJT",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056Z3RQFJT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aG5U1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That's actually where I'm a bit stuck. I have the user model, controller \u0026 repository and I need to test if the database connection works but I'm not sure how yet.  I was looking at the last graded assignment and it's tests for ideas."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

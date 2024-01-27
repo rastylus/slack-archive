@@ -1,0 +1,128 @@
+[
+  {
+    "client_msg_id": "bc1ef40f-5f3c-45b9-a243-f9f80ba117be",
+    "type": "message",
+    "user": "U056Q5F0LLX",
+    "text": "Hello!",
+    "ts": "1700183100.531939",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "wave",
+        "count": 2,
+        "users": [
+          "U056FFS0C64",
+          "U056R914DAT"
+        ]
+      },
+      {
+        "name": "wave::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tUK8G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5262025549890_cc792b23f1201d62ef84_72.jpg",
+      "first_name": "Tammy",
+      "real_name": "Tammy Walls",
+      "display_name": "Tammy Walls",
+      "team": "T050CSX3EMT",
+      "name": "tammylwalls",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b4ad1727-b023-4f57-bc15-3c430e820a3f",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Hello gang!",
+    "ts": "1700183453.913479",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "wave::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      },
+      {
+        "name": "wave",
+        "count": 2,
+        "users": [
+          "U056FFS0C64",
+          "U056R914DAT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PP+l9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello gang!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

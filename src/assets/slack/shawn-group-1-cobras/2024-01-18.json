@@ -1,0 +1,771 @@
+[
+  {
+    "client_msg_id": "e0a9c9ad-37f9-4410-8568-1a9cf73c20cf",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Still working on it. I'm getting a 400 error when sending the forms- I think it's related to passing the userId in with the fetch request.",
+    "ts": "1705541267.028279",
+    "thread_ts": "1705523586.538509",
+    "parent_user_id": "U0575DF8MA6",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BPb6e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Still working on it. I'm getting a 400 error when sending the forms- I think it's related to passing the userId in with the fetch request."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1da5f850-b371-40dd-a350-b1c1b6737bfd",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "which branch are you working currently? i will look and let u know if i get any clue.",
+    "ts": "1705548204.156579",
+    "thread_ts": "1705464474.599049",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7vgbL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "which branch are you working currently? i will look and let u know if i get any clue."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "faca8b11-c6f7-419f-b916-b83b4648e638",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "I got it working :slightly_smiling_face:",
+    "ts": "1705548235.078339",
+    "thread_ts": "1705464474.599049",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0575DF8MA6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dH8BZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I got it working "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f3b714cf-081a-45e1-b1bc-baebd058352c",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "\u003c@U0575DF8MA6\u003e do you have all of your changes saved locally as well as on git hub? Do you care to push to main again?",
+    "ts": "1705550312.290179",
+    "thread_ts": "1705464474.599049",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "O+NtS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0575DF8MA6"
+              },
+              {
+                "type": "text",
+                "text": " do you have all of your changes saved locally as well as on git hub? Do you care to push to main again?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "26b87827-1135-43fb-815f-48fcd6b9c88d",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "nevermind, I'm dumb. Figured it out!",
+    "ts": "1705550529.560579",
+    "thread_ts": "1705464474.599049",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "n40GS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "nevermind, I'm dumb. Figured it out!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4a2a2dd3-e420-489e-9807-eb562ad55ee4",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "yes. All my changes merged with main.",
+    "ts": "1705550565.718169",
+    "thread_ts": "1705464474.599049",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T1V66",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes. All my changes merged with main."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5a38daeb-e4cf-4103-af09-44f80bb581c6",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "\u003c@U05750B4K1Q\u003e i just go through your  authentication branch code. u are adding some  settings variables in user class. if you modify the user class, login won't work. pls check once again. pls correct me if i m wrong.",
+    "ts": "1705552101.496289",
+    "thread_ts": "1705464474.599049",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Y/xR9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05750B4K1Q"
+              },
+              {
+                "type": "text",
+                "text": " i just go through your  authentication branch code. u are adding some  settings variables in user class. if you modify the user class, login won't work. pls check once again. pls correct me if i m wrong."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7ddf6f16-29de-4952-984b-4e530919936c",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Hey Priya, I just tested everything out and it works perfectly :slightly_smiling_face: i'll push the final code now.",
+    "ts": "1705553470.343899",
+    "thread_ts": "1705464474.599049",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CoWy+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Priya, I just tested everything out and it works perfectly "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " i'll push the final code now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a1b29bdb-8d36-4229-bc06-d5027c2c532e",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "I didn't realize you made new pages for login, register, and user homepage instead of modifying the existing ones so that's why I was confused earlier.",
+    "ts": "1705553658.554269",
+    "thread_ts": "1705464474.599049",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JJMnr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I didn't realize you made new pages for login, register, and user homepage instead of modifying the existing ones so that's why I was confused earlier."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "80b0cf83-bbb5-4dba-ba8f-b447be972f76",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "can please  check login \u0026amp; registration page once again. If it works good then okay.",
+    "ts": "1705553971.005169",
+    "thread_ts": "1705464474.599049",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pqyw9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "can please  check login \u0026 registration page once again. If it works good then okay."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2572c373-c99a-47b3-ba25-1b14ce3bf92a",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Yep, works great and saves to database",
+    "ts": "1705554023.175779",
+    "thread_ts": "1705464474.599049",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TcsYc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yep, works great and saves to database"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cbd3c2c5-fa84-4c1b-8ffd-72d8ba2cd259",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "They only thing that is questionable is that the users don't register with an email, so we can't make a 'forgot password\" button that sends the link to their email.",
+    "ts": "1705554059.570589",
+    "thread_ts": "1705464474.599049",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nhcup",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "They only thing that is questionable is that the users don't register with an email, so we can't make a 'forgot password\" button that sends the link to their email."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "11564aca-3794-43e3-9bda-4c4343ee6ee5",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "ok. got it.",
+    "ts": "1705554220.537909",
+    "thread_ts": "1705464474.599049",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q27wn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok. got it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ec7ac543-4856-4a2e-a927-ad88b2a2421d",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Are we completing our slide deck together as a group, or individually?",
+    "ts": "1705608117.287799",
+    "thread_ts": "1705608117.287799",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1705608286.723599"
+      }
+    ],
+    "latest_reply": "1705608286.723599",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eXKue",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are we completing our slide deck together as a group, or individually?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0575DF8MA6"
+    ]
+  },
+  {
+    "client_msg_id": "f88d3efd-8d7c-4e48-ac15-a220904848cf",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "individually",
+    "ts": "1705608286.723599",
+    "thread_ts": "1705608117.287799",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05750B4K1Q"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5kPYW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "individually"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

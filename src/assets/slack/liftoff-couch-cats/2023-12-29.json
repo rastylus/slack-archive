@@ -1,0 +1,113 @@
+[
+  {
+    "client_msg_id": "4c0bca43-3675-4715-ad96-5d539f15b69b",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U056Y707Y14\u003e just submitted a merge request for review when you have time.\n\nAnd within it, I took a stab at updating the getUserDetailsById method using a UserDetailsDTO and noted this for your review as I am suggesting replacing the method you had in progress. I commented out your method for now (which could be outdated as I'm not sure my local code had your latest version).",
+    "ts": "1703819278.411429",
+    "thread_ts": "1703368924.465509",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2mGBB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056Y707Y14"
+              },
+              {
+                "type": "text",
+                "text": " just submitted a merge request for review when you have time.\n\nAnd within it, I took a stab at updating the getUserDetailsById method using a UserDetailsDTO and noted this for your review as I am suggesting replacing the method you had in progress. I commented out your method for now (which could be outdated as I'm not sure my local code had your latest version)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "88d36552-cddc-4dd9-becf-966152c3b150",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "note I kept watchlist separate as you have it because I assume that this is used to return details for maybe the profile page (_what else?_), but the watchlist would likely be it's own page.\n\nHowever, perhaps we need something that tells the front end if the particular user's watchlist is empty or not so they know if they should display a \"view my watchlist\" button or a \"create a watchlist\" button on the profile page? Food for thought...",
+    "ts": "1703819659.815839",
+    "thread_ts": "1703368924.465509",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "U/Icq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "note I kept watchlist separate as you have it because I assume that this is used to return details for maybe the profile page ("
+              },
+              {
+                "type": "text",
+                "text": "what else?",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "), but the watchlist would likely be it's own page.\n\nHowever, perhaps we need something that tells the front end if the particular user's watchlist is empty or not so they know if they should display a \"view my watchlist\" button or a \"create a watchlist\" button on the profile page? Food for thought..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

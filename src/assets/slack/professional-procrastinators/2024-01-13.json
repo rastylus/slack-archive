@@ -1,0 +1,532 @@
+[
+  {
+    "client_msg_id": "1FECEFD0-364D-45AE-A837-F66C33CCA772",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "Are we using Spring Security for Auth or like what Carrie showed in the lesson example? ",
+    "ts": "1705116764.476079",
+    "thread_ts": "1705116764.476079",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U05765HGT46",
+        "ts": "1705116948.760429"
+      },
+      {
+        "user": "U057C9DPMC3",
+        "ts": "1705116968.020489"
+      },
+      {
+        "user": "U057C9DPMC3",
+        "ts": "1705117000.907549"
+      },
+      {
+        "user": "U057C9DPMC3",
+        "ts": "1705117015.315969"
+      },
+      {
+        "user": "U05765HGT46",
+        "ts": "1705117090.914229"
+      }
+    ],
+    "latest_reply": "1705117090.914229",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gi+DE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are we using Spring Security for Auth or like what Carrie showed in the lesson example? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05765HGT46",
+      "U057C9DPMC3"
+    ]
+  },
+  {
+    "client_msg_id": "3DA98D11-13BB-45C7-B22E-3C529E5EF30F",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "\u003c@U056K1WRCCX\u003e \u003c@U057C9DPMC3\u003e ",
+    "ts": "1705116948.760429",
+    "thread_ts": "1705116764.476079",
+    "parent_user_id": "U05765HGT46",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Lt/mU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056K1WRCCX"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U057C9DPMC3"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "92b505b1-35dc-4eaf-9cbd-d0a46f97141e",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "i believe so",
+    "ts": "1705116968.020489",
+    "thread_ts": "1705116764.476079",
+    "parent_user_id": "U05765HGT46",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7rbQt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i believe so"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "be2d0cc6-9b78-46c1-ab9a-b11d4cdf3220",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "i was going to work on changing the user authentication to work with spring but i havent gotten to my computer today",
+    "ts": "1705117000.907549",
+    "thread_ts": "1705116764.476079",
+    "parent_user_id": "U05765HGT46",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z5vLM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i was going to work on changing the user authentication to work with spring but i havent gotten to my computer today"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d368dcc0-b497-4afd-9210-d618dd33f0f2",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "ill probably have to get to it later tonight",
+    "ts": "1705117015.315969",
+    "thread_ts": "1705116764.476079",
+    "parent_user_id": "U05765HGT46",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uUz38",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ill probably have to get to it later tonight"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0931AF44-FED6-492C-B5DC-22BFBA3CFCD9",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "It’s ok, I was checking because I found a way to work with spring security on the profile page to get the username. It doesn’t have to be set up yet for me to type it, but I didn’t want to use it if we weren’t using spring security. ",
+    "ts": "1705117090.914229",
+    "thread_ts": "1705116764.476079",
+    "parent_user_id": "U05765HGT46",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tF6Vu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It’s"
+              },
+              {
+                "type": "text",
+                "text": " ok, I was checking because I found a way to work with spring security on the profile page to get the username. It "
+              },
+              {
+                "type": "text",
+                "text": "doesn’t"
+              },
+              {
+                "type": "text",
+                "text": " have to be set up yet for me to type it, but I "
+              },
+              {
+                "type": "text",
+                "text": "didn’t"
+              },
+              {
+                "type": "text",
+                "text": " want to use it if we "
+              },
+              {
+                "type": "text",
+                "text": "weren’t"
+              },
+              {
+                "type": "text",
+                "text": " using spring security. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4a953f89-ca5e-4c6d-85ef-08cbc28d8cdb",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "we should have a small checkup tomorrow to see how everyone is doing, because I think Wednesday might be cutting it pretty soon, and I suppose we can still have Wednesday to demo our features to each other.",
+    "ts": "1705185830.166389",
+    "thread_ts": "1705185830.166389",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05765HGT46",
+        "ts": "1705186009.023299"
+      }
+    ],
+    "latest_reply": "1705186009.023299",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "toekg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we should have a small checkup tomorrow to see how everyone is doing, because I think Wednesday might be cutting it pretty soon, and I suppose we can still have Wednesday to demo our features to each other."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05765HGT46"
+    ]
+  },
+  {
+    "client_msg_id": "2EE09FE5-618B-45A8-A5D3-88CE13FEE30D",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "Agreed! I’m still working on my api, but I think on my other features I’m set, hopefully :crossed_fingers::skin-tone-2:.",
+    "ts": "1705186009.023299",
+    "thread_ts": "1705185830.166389",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VfSc1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Agreed! "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " still working on my api, but I think on my other features "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " set, hopefully "
+              },
+              {
+                "type": "emoji",
+                "name": "crossed_fingers",
+                "skin_tone": 2
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3c11b562-b470-4ae1-9b60-9c4bb69c2ffa",
+    "type": "message",
+    "user": "U056K1WRCCX",
+    "text": "I was able to push to development because Patrick literally looked at the screen then it decided to work.\nTaking a mental break then diving back in",
+    "ts": "1705188988.449509",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JC3iw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was able to push to development because Patrick literally looked at the screen then it decided to work.\nTaking a mental break then diving back in"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5b1c1010ffb2de24b2b6e2857ccb3361.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "John",
+      "real_name": "John Clowers",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "clowerj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

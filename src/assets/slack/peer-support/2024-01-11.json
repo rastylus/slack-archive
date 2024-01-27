@@ -1,0 +1,115 @@
+[
+  {
+    "client_msg_id": "9aefe12f-d7df-464f-b4fe-8618cae418cb",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "\u003c@U056Y707Y14\u003e did you have any luck with this? :crossed_fingers::skin-tone-2: I’m guessing you just had to define the logic somehow? You could do it in React where if you’re not getting a valid session token, those pages just aren’t visible?",
+    "ts": "1704937830.415559",
+    "thread_ts": "1704561353.674119",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RVCMt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056Y707Y14"
+              },
+              {
+                "type": "text",
+                "text": " did you have any luck with this? "
+              },
+              {
+                "type": "emoji",
+                "name": "crossed_fingers",
+                "skin_tone": 2
+              },
+              {
+                "type": "text",
+                "text": " I’m guessing you just had to define the logic somehow? You could do it in React where if you’re not getting a valid session token, those pages just aren’t visible?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1d4f03d2-6fcd-47cd-8ebc-7da7c8df35d5",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "something like\n```if (!validUser) { \u0026lt;h1\u0026gt;Sorry, you're not logged in\u0026lt;/h1\u0026gt; } else { return \u0026lt;WhaverProtectedComponent /\u0026gt;}```",
+    "ts": "1704937910.691719",
+    "thread_ts": "1704561353.674119",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J16lA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "something like\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"if (!validUser) { \u003ch1\u003eSorry, you're not logged in\u003c\\/h1\u003e } else { return \u003cWhaverProtectedComponent \\/\u003e}\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

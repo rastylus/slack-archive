@@ -1,0 +1,574 @@
+[
+  {
+    "client_msg_id": "ed6394c7-f63b-4890-91af-22be8c7ce28b",
+    "type": "message",
+    "user": "U056K1U9R1V",
+    "text": "Hiya! What's a good way to know what my final data tables should look like, like what columns should be present on each table?",
+    "ts": "1699198295.125159",
+    "thread_ts": "1699198295.125159",
+    "reply_count": 10,
+    "replies": [
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699198506.103079"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699198547.367949"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1699200124.740839"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699200164.631319"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1699202699.162339"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699202733.596319"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1699202783.585799"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699202802.614539"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699209923.833279"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1699283242.489699"
+      }
+    ],
+    "latest_reply": "1699283242.489699",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6Yui6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hiya! What's a good way to know what my final data tables should look like, like what columns should be present on each table?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-21/5298968476898_8771134baeb75bcab23b_72.jpg",
+      "first_name": "Sharion",
+      "real_name": "Sharion Cranston",
+      "display_name": "Sharion Cranston",
+      "team": "T050CSX3EMT",
+      "name": "sharion06",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056Q9W022K",
+      "U056SERBK2B",
+      "U05724ACLVB"
+    ]
+  },
+  {
+    "client_msg_id": "5c4b0fe6-b06a-4a75-882a-9414dd9af739",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Ooooh, that's a good one.\n\nYou don't want _too much_ info in each table, such that data is unnecessarily duplicated across tables.\n\nThe best thing to do, IMO, is to make sure your app is working correctly. If it's working like the demo app, then your tables should be ok.\n\nOnce you think your app is working more or less (maybe not entirely, but at least somewhat), then drop your tables and restart your app. You'll need to create new data from scratch, but dropping your tables will get rid of any bogus data or table structures that may have been created during development.",
+    "ts": "1699198506.103079",
+    "thread_ts": "1699198295.125159",
+    "edited": {
+      "user": "U05724ACLVB",
+      "ts": "1699198592.000000"
+    },
+    "parent_user_id": "U056K1U9R1V",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LyAXp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ooooh, that's a good one.\n\nYou don't want "
+              },
+              {
+                "type": "text",
+                "text": "too much",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " info in each table, such that data is unnecessarily duplicated across tables.\n\nThe best thing to do, IMO, is to make sure your app is working correctly. If it's working like the demo app, then your tables should be ok.\n\nOnce you think your app is working more or less (maybe not entirely, but at least somewhat), then drop your tables and restart your app. You'll need to create new data from scratch, but dropping your tables will get rid of any bogus data or table structures that may have been created during development."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9129bd20-f0e1-461d-87c1-e658304d8d69",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Hot tip:  For your SQL queries, make sure you test them in MySQL Workbench before you copy/paste them into queries.sql.",
+    "ts": "1699198547.367949",
+    "thread_ts": "1699198295.125159",
+    "parent_user_id": "U056K1U9R1V",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U056K1U9R1V"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oUXET",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hot tip:  For your SQL queries, make sure you test them in MySQL Workbench before you copy/paste them into queries.sql."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "95e57a13-16d4-4dd6-ad80-30f4123b431b",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "\u003c@U05724ACLVB\u003e you can just save your queries.sql. It is stored in the project and will update it in IntelliJ.",
+    "ts": "1699200124.740839",
+    "thread_ts": "1699198295.125159",
+    "parent_user_id": "U056K1U9R1V",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kFAMj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05724ACLVB"
+              },
+              {
+                "type": "text",
+                "text": " you can just save your queries.sql. It is stored in the project and will update it in IntelliJ."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "21ddbcbc-da18-4537-acdd-8fdf5cbc6da2",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yes, you can! But I tested all mine in Workbench, first, because I'm like that. LOL!",
+    "ts": "1699200164.631319",
+    "thread_ts": "1699198295.125159",
+    "parent_user_id": "U056K1U9R1V",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0I9gL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes, you can! But I tested all mine in Workbench, first, because I'm like that. LOL!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2994de16-5e5f-43f7-b6f4-07712b8cb006",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "I tested first as well. I just didn't copy and paste into IntelliJ. I am using the queries.sql saved in the project and I hit save after testing and it updates what is stored in the project.",
+    "ts": "1699202699.162339",
+    "thread_ts": "1699198295.125159",
+    "parent_user_id": "U056K1U9R1V",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mSST2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I tested first as well. I just didn't copy and paste into IntelliJ. I am using the queries.sql saved in the project and I hit save after testing and it updates what is stored in the project."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3b869e98-38a5-4eae-93b8-21d2e53b405d",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Oh! I didn't know it would do that! I'll try that out. Thanks!",
+    "ts": "1699202733.596319",
+    "thread_ts": "1699198295.125159",
+    "parent_user_id": "U056K1U9R1V",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sb1fB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh! I didn't know it would do that! I'll try that out. Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e19547a5-5186-4980-aa0f-ad2cbe03e8fc",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "You have to make sure that you are working in the query saved in the project.",
+    "ts": "1699202783.585799",
+    "thread_ts": "1699198295.125159",
+    "parent_user_id": "U056K1U9R1V",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T2vpc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You have to make sure that you are working in the query saved in the project."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cba218d6-5515-44aa-8fa7-77d39295a53d",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Ok, thanks!",
+    "ts": "1699202802.614539",
+    "thread_ts": "1699198295.125159",
+    "parent_user_id": "U056K1U9R1V",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "50AI6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok, thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cdabaa43-e9ac-40e5-b6d2-c150451d8b08",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Oh, \u003c@U056SERBK2B\u003e, that's frickin' awesome. I didn't even think to open that file in Workbench. Thanks so much!",
+    "ts": "1699209923.833279",
+    "thread_ts": "1699198295.125159",
+    "parent_user_id": "U056K1U9R1V",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2tJec",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh, "
+              },
+              {
+                "type": "user",
+                "user_id": "U056SERBK2B"
+              },
+              {
+                "type": "text",
+                "text": ", that's frickin' awesome. I didn't even think to open that file in Workbench. Thanks so much!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

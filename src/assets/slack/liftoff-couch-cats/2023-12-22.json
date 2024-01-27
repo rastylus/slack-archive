@@ -1,0 +1,662 @@
+[
+  {
+    "client_msg_id": "751d086e-92ee-4594-af5b-5e1b3d92d915",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "done with my interview! did people want to meet tonight at all?",
+    "ts": "1703209321.001129",
+    "thread_ts": "1703209321.001129",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057C75RYBB",
+        "ts": "1703209411.657349"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1703209429.158099"
+      }
+    ],
+    "latest_reply": "1703209429.158099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AwuDY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "done with my interview! did people want to meet tonight at all?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Y707Y14",
+      "U057C75RYBB"
+    ]
+  },
+  {
+    "client_msg_id": "db0a7af5-4648-4202-9e4a-47a0d6ccad68",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Unless you need, I was just going to take the night off.",
+    "ts": "1703209411.657349",
+    "thread_ts": "1703209321.001129",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "klYx0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Unless you need, I was just going to take the night off."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7dfdfe59-7cf8-41b8-9bd3-c1489248a048",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "sounds good!",
+    "ts": "1703209429.158099",
+    "thread_ts": "1703209321.001129",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Iq4Hs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sounds good!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1e51cacc-da21-4122-a1ab-ac5a95bd0bd4",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Quick update going into the weekend: I successfully set up session ids/cookies for authentication/authorization and verified setting them/passing them in the header with the HTTP response and as a Cookie via postman (see screenshots)! I need to create logout method to wipe the ID as well as expire it after a certain period of time; followed by the filter with handlers for whitelisting pages that don't require a user to be logged in, but it's getting there!\n\nAlso \u003c@U056Y707Y14\u003e heads up that I will be splitting my functions out into a Service and DTO class (my part of the UserController is getting really dense). After I do that, I can walk you through what I did and you can decide if you think the getUserDetailsById method should follow suit or not, but no action right now or maybe even at all.",
+    "ts": "1703272804.693939",
+    "thread_ts": "1703272804.693939",
+    "edited": {
+      "user": "U056Q9W022K",
+      "ts": "1703272828.000000"
+    },
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U056Y707Y14",
+        "ts": "1703272900.381939"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1703272980.778679"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1703275933.422579"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1703275966.177269"
+      }
+    ],
+    "latest_reply": "1703275966.177269",
+    "files": [
+      {
+        "id": "F06BAGGD2BF",
+        "created": 1703272608,
+        "timestamp": 1703272608,
+        "name": "Screenshot 2023-12-22 at 11.52.59 AM.png",
+        "title": "Screenshot 2023-12-22 at 11.52.59 AM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056Q9W022K",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 151229,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06BAGGD2BF/screenshot_2023-12-22_at_11.52.59_am.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06BAGGD2BF/download/screenshot_2023-12-22_at_11.52.59_am.png",
+        "original_h": 764,
+        "original_w": 2368,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BAGGD2BF-7fdcaee187/screenshot_2023-12-22_at_11.52.59_am_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BAGGD2BF-7fdcaee187/screenshot_2023-12-22_at_11.52.59_am_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BAGGD2BF-7fdcaee187/screenshot_2023-12-22_at_11.52.59_am_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BAGGD2BF-7fdcaee187/screenshot_2023-12-22_at_11.52.59_am_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 116,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BAGGD2BF-7fdcaee187/screenshot_2023-12-22_at_11.52.59_am_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 155,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BAGGD2BF-7fdcaee187/screenshot_2023-12-22_at_11.52.59_am_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 232,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BAGGD2BF-7fdcaee187/screenshot_2023-12-22_at_11.52.59_am_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 310,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BAGGD2BF-7fdcaee187/screenshot_2023-12-22_at_11.52.59_am_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 330,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056Q9W022K/F06BAGGD2BF/screenshot_2023-12-22_at_11.52.59_am.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06BAGGD2BF-e8f4390f75",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F06BFTRC72Q",
+        "created": 1703272610,
+        "timestamp": 1703272610,
+        "name": "Screenshot 2023-12-22 at 11.52.49 AM.png",
+        "title": "Screenshot 2023-12-22 at 11.52.49 AM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056Q9W022K",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 241971,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06BFTRC72Q/screenshot_2023-12-22_at_11.52.49_am.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06BFTRC72Q/download/screenshot_2023-12-22_at_11.52.49_am.png",
+        "original_h": 1250,
+        "original_w": 2424,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BFTRC72Q-ce6e232212/screenshot_2023-12-22_at_11.52.49_am_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BFTRC72Q-ce6e232212/screenshot_2023-12-22_at_11.52.49_am_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BFTRC72Q-ce6e232212/screenshot_2023-12-22_at_11.52.49_am_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BFTRC72Q-ce6e232212/screenshot_2023-12-22_at_11.52.49_am_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 186,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BFTRC72Q-ce6e232212/screenshot_2023-12-22_at_11.52.49_am_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 248,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BFTRC72Q-ce6e232212/screenshot_2023-12-22_at_11.52.49_am_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 371,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BFTRC72Q-ce6e232212/screenshot_2023-12-22_at_11.52.49_am_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 495,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06BFTRC72Q-ce6e232212/screenshot_2023-12-22_at_11.52.49_am_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 528,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056Q9W022K/F06BFTRC72Q/screenshot_2023-12-22_at_11.52.49_am.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06BFTRC72Q-63daa862d6",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 1,
+        "users": [
+          "U057C75RYBB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4w3Ms",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Quick update going into the weekend: I successfully set up session ids/cookies for authentication/authorization and verified setting them/passing them in the header with the HTTP response and as a Cookie via postman (see screenshots)! I need to create logout method to wipe the ID as well as expire it after a certain period of time; followed by the filter with handlers for whitelisting pages that don't require a user to be logged in, but it's getting there!\n\nAlso "
+              },
+              {
+                "type": "user",
+                "user_id": "U056Y707Y14"
+              },
+              {
+                "type": "text",
+                "text": " heads up that I will be splitting my functions out into a Service and DTO class (my part of the UserController is getting really dense). After I do that, I can walk you through what I did and you can decide if you think the getUserDetailsById method should follow suit or not, but no action right now or maybe even at all."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U056Y707Y14"
+    ]
+  },
+  {
+    "client_msg_id": "88987328-17dc-4530-b1c0-c79d2740f488",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "yay, exciting!! I’ve been thinking I should do a Service class but haven’t quite been able to figure it out so I would definitely be interested in hearing how you did it!",
+    "ts": "1703272900.381939",
+    "thread_ts": "1703272804.693939",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eyGgu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yay, exciting!! I’ve been thinking I should do a Service class but haven’t quite been able to figure it out so I would definitely be interested in hearing how you did it!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dfdfbcba-1702-4704-ad87-96b92a69f559",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "(whenever you’re ready, I mean! I’m trying to get the movie log feature working before picking up anything else, but I think I’m getting close on that)",
+    "ts": "1703272980.778679",
+    "thread_ts": "1703272804.693939",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qtOMz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "(whenever you’re ready, I mean! I’m trying to get the movie log feature working before picking up anything else, but I think I’m getting close on that)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B4FD36FA-D327-4559-9D55-942292C6FBDF",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "My goal is to have all of this working and then I’m just going to move the method into a service class and call it from the controller. So I’ll take notes on how I do it/what adjustments I make if any so I can share! I won’t tackle that until next week! ",
+    "ts": "1703275933.422579",
+    "thread_ts": "1703272804.693939",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "46tgN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My goal is to have all of this working and then "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " just going to move the method into a service class and call it from the controller. So "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " take notes on how I do it/what adjustments I make if any so I can share! I "
+              },
+              {
+                "type": "text",
+                "text": "won’t"
+              },
+              {
+                "type": "text",
+                "text": " tackle that until next week! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c35add89-72bf-4bf7-a41d-5d812eb9fda1",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "that sounds great, thank you!",
+    "ts": "1703275966.177269",
+    "thread_ts": "1703272804.693939",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "30GN9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that sounds great, thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ecca4504-a82d-482d-94bc-a2866f7082d5",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "quick update on my stuff: I have the movie log feature (with date added and star rating) mostly working, but I want to add a few features to that and test it a little more. I’ll do a pull request with a working version (maybe minus a few features) sometime tomorrow. I aspire to be completely offline from the 24th-26th but will be back after that to keep working on this. \u003c@U057C75RYBB\u003e if you still want to check in about the back end stuff I could do that now-ish, sometime tomorrow or any time after the 26th!",
+    "ts": "1703278667.062609",
+    "thread_ts": "1703278667.062609",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057C75RYBB",
+        "ts": "1703290052.420679"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1703295997.755169"
+      }
+    ],
+    "latest_reply": "1703295997.755169",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YMIJg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "quick update on my stuff: I have the movie log feature (with date added and star rating) mostly working, but I want to add a few features to that and test it a little more. I’ll do a pull request with a working version (maybe minus a few features) sometime tomorrow. I aspire to be completely offline from the 24th-26th but will be back after that to keep working on this. "
+              },
+              {
+                "type": "user",
+                "user_id": "U057C75RYBB"
+              },
+              {
+                "type": "text",
+                "text": " if you still want to check in about the back end stuff I could do that now-ish, sometime tomorrow or any time after the 26th!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Y707Y14",
+      "U057C75RYBB"
+    ]
+  }
+]

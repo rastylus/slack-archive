@@ -1,0 +1,429 @@
+[
+  {
+    "client_msg_id": "b21b1d5f-502c-46ce-8336-cfcddc83fd26",
+    "type": "message",
+    "user": "U056YAQ412S",
+    "text": "Merged my work from today with no conflicts- main has the updated code.  Registration works and redirects to individual profiles.\nMiracle, Login has issues, also the pwHash is storing actual passwords in sql- this may be the issue with login.  I tried to add bcrypt to studentauthcontroller and tutorauthcontroller (approx lines 30 \u0026amp; 94 on both, and for this I added a config package/class), but the issue is not fixed.  The student and tutor login code is now in the login controller so there is only one link for both types of logins, also the added login repository is what sets the roles for students and tutors in the login table.  The registration controllers remained where they were/separate.\nVinitha, the subjects are added to the registration form but I can't get them to populate in the tables.  I tried via the authcontrollers where the new record is being created (line 94) but there kept being issues.  I need you to get the enum to populate in sql.\nTried to get the calendar to display on the tutor profile, working on that/filling in the rest of the profiles and the nav bars tomorrow.  Miracle there is a space for payment info on each of the profile templates, I couldn't remember which needed it, or maybe both do. LMK if you have any questions. Thx",
+    "ts": "1705126297.995169",
+    "thread_ts": "1705126297.995169",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057B2M3K6G",
+        "ts": "1705158261.621129"
+      }
+    ],
+    "latest_reply": "1705158261.621129",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "N4mYB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Merged my work from today with no conflicts- main has the updated code.  Registration works and redirects to individual profiles.\nMiracle, Login has issues, also the pwHash is storing actual passwords in sql- this may be the issue with login.  I tried to add bcrypt to studentauthcontroller and tutorauthcontroller (approx lines 30 \u0026 94 on both, and for this I added a config package/class), but the issue is not fixed.  The student and tutor login code is now in the login controller so there is only one link for both types of logins, also the added login repository is what sets the roles for students and tutors in the login table.  The registration controllers remained where they were/separate.\nVinitha, the subjects are added to the registration form but I can't get them to populate in the tables.  I tried via the authcontrollers where the new record is being created (line 94) but there kept being issues.  I need you to get the enum to populate in sql.\nTried to get the calendar to display on the tutor profile, working on that/filling in the rest of the profiles and the nav bars tomorrow.  Miracle there is a space for payment info on each of the profile templates, I couldn't remember which needed it, or maybe both do. LMK if you have any questions. Thx"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228432964807_071cc8b5e96dd5d1765c_72.png",
+      "first_name": "Lori",
+      "real_name": "Lori Kovarik",
+      "display_name": "Lori",
+      "team": "T050CSX3EMT",
+      "name": "kovarik.lori",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057B2M3K6G"
+    ]
+  },
+  {
+    "client_msg_id": "c666fdff-a60d-4601-ad2e-91f086aa1e0c",
+    "type": "message",
+    "user": "U057EEC9J23",
+    "text": "Sorry..my laptop died on me on Thursday and for some reason slack is not letting me login on my computer",
+    "ts": "1705154558.264239",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jy+Nw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry..my laptop died on me on Thursday and for some reason slack is not letting me login on my computer"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5252488423895_5337f292839c33bb0b36_72.png",
+      "first_name": "Vinitha",
+      "real_name": "Vinitha Kamesh",
+      "display_name": "Vinitha Kamesh",
+      "team": "T050CSX3EMT",
+      "name": "vinivinitha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "96755f5e-4403-4121-96e2-fc0f4f026f4c",
+    "type": "message",
+    "user": "U057EEC9J23",
+    "text": "I put the code for populating the subjects from enum in the list page and list controller has the code to read the enum..is that what you are looking for",
+    "ts": "1705154745.918169",
+    "thread_ts": "1705154745.918169",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056YAQ412S",
+        "ts": "1705167608.631419"
+      }
+    ],
+    "latest_reply": "1705167608.631419",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C8/F2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I put the code for populating the subjects from enum in the list page and list controller has the code to read the enum..is that what you are looking for"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5252488423895_5337f292839c33bb0b36_72.png",
+      "first_name": "Vinitha",
+      "real_name": "Vinitha Kamesh",
+      "display_name": "Vinitha Kamesh",
+      "team": "T050CSX3EMT",
+      "name": "vinivinitha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056YAQ412S"
+    ]
+  },
+  {
+    "client_msg_id": "34F7B384-3C40-4C12-A879-D623EBFCF8B5",
+    "type": "message",
+    "user": "U057B2M3K6G",
+    "text": "I work this entire weekend so I won’t be able to look at it until Sunday night. Will update then. ",
+    "ts": "1705158261.621129",
+    "thread_ts": "1705126297.995169",
+    "parent_user_id": "U056YAQ412S",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CIvZ8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I work this entire weekend so I won’t be able to look at it until Sunday night. Will update then. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5240037731606_618dd92477618f8e8867_72.png",
+      "first_name": "Miracle",
+      "real_name": "Miracle W.",
+      "display_name": "Miracle W.",
+      "team": "T050CSX3EMT",
+      "name": "miraclewilliams.phila",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "71F34B25-637A-40E1-8C9E-D18D5DF54650",
+    "type": "message",
+    "user": "U057B2M3K6G",
+    "text": "Ok I changed my schedule around so I could look at the code this morning \u0026amp; i’m honestly ready to give up on this project. There are so many things not together \u0026amp; that were moved around in the code that I can’t even figure out whats wrong since its so much already pulled into main \u0026amp; its becoming overwhelming for me",
+    "ts": "1705165225.178279",
+    "thread_ts": "1705165225.178279",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056YAQ412S",
+        "ts": "1705168092.927809"
+      },
+      {
+        "user": "U057EEC9J23",
+        "ts": "1705173395.328769"
+      }
+    ],
+    "latest_reply": "1705173395.328769",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qlS+r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok I changed my schedule around so I could look at the code this morning \u0026 i’m honestly ready to give up on this project. There are so many things not together \u0026 that were moved around in the code that I can’t even figure out whats wrong since its so much already pulled into main \u0026 its becoming overwhelming for me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5240037731606_618dd92477618f8e8867_72.png",
+      "first_name": "Miracle",
+      "real_name": "Miracle W.",
+      "display_name": "Miracle W.",
+      "team": "T050CSX3EMT",
+      "name": "miraclewilliams.phila",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056YAQ412S",
+      "U057EEC9J23"
+    ]
+  },
+  {
+    "client_msg_id": "ccb945f4-5439-4ead-a5bd-cc380ab1d1a5",
+    "type": "message",
+    "user": "U056YAQ412S",
+    "text": "the enum values from the registration form are not populating in sql- i need you to get them to populate there. I tried making the subjects class an entity, and tried passing them through the tutorauth controller and I can't get them into sql database.",
+    "ts": "1705167608.631419",
+    "thread_ts": "1705154745.918169",
+    "parent_user_id": "U057EEC9J23",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8BVh8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the enum values from the registration form are not populating in sql- i need you to get them to populate there. I tried making the subjects class an entity, and tried passing them through the tutorauth controller and I can't get them into sql database."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228432964807_071cc8b5e96dd5d1765c_72.png",
+      "first_name": "Lori",
+      "real_name": "Lori Kovarik",
+      "display_name": "Lori",
+      "team": "T050CSX3EMT",
+      "name": "kovarik.lori",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5b380a27-96d1-453d-a43d-12d8ba6f65ee",
+    "type": "message",
+    "user": "U056YAQ412S",
+    "text": "I know a lot has changed, a lot of the code you wrote is the same, with some things added to it or rearranged.  It took forever for me to get it to run- I didn't think it would ever work.  I had  a lot of long convos with chat gpt, and searching google, and rewatching class lecture/pdfs.\nI don't know if the security config i added is necessary or not, i just noticed that the pwHash field in sql was displaying the actual password.  Maybe walking through the authentication pdfs/class lecture again could help?\nI can try to help with this, its just hard when the code is completely separate until its merged.  I plan on working on this all day tomorrow and monday so if you want to meet at all, I'm available or if you are working and can't get to it I can try, just let me know.   I still don't feel like I fully understand it all but I think we will be able to make it work -eventually :face_with_spiral_eyes:",
+    "ts": "1705168092.927809",
+    "thread_ts": "1705165225.178279",
+    "parent_user_id": "U057B2M3K6G",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0PXwg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I know a lot has changed, a lot of the code you wrote is the same, with some things added to it or rearranged.  It took forever for me to get it to run- I didn't think it would ever work.  I had  a lot of long convos with chat gpt, and searching google, and rewatching class lecture/pdfs.\nI don't know if the security config i added is necessary or not, i just noticed that the pwHash field in sql was displaying the actual password.  Maybe walking through the authentication pdfs/class lecture again could help?\nI can try to help with this, its just hard when the code is completely separate until its merged.  I plan on working on this all day tomorrow and monday so if you want to meet at all, I'm available or if you are working and can't get to it I can try, just let me know.   I still don't feel like I fully understand it all but I think we will be able to make it work -eventually "
+              },
+              {
+                "type": "emoji",
+                "name": "face_with_spiral_eyes",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228432964807_071cc8b5e96dd5d1765c_72.png",
+      "first_name": "Lori",
+      "real_name": "Lori Kovarik",
+      "display_name": "Lori",
+      "team": "T050CSX3EMT",
+      "name": "kovarik.lori",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9e8d1cdb-6452-4fbf-b039-ff7afd53c2a4",
+    "type": "message",
+    "user": "U057EEC9J23",
+    "text": "I have not touched registration and login code at all yet....but for adding subjects to registration back end now, I have to change tutor authentication controller or tutor controller..should I do it now or wait for you guys to fix the login..\n\u003c@U056YAQ412S\u003e if u are working on profile tomm or Monday I will work with you to integrate.\nmeanwhile I am working on connecting calendar to tutor and student id",
+    "ts": "1705173395.328769",
+    "thread_ts": "1705165225.178279",
+    "parent_user_id": "U057B2M3K6G",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3qMs/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have not touched registration and login code at all yet....but for adding subjects to registration back end now, I have to change tutor authentication controller or tutor controller..should I do it now or wait for you guys to fix the login..\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U056YAQ412S"
+              },
+              {
+                "type": "text",
+                "text": " if u are working on profile tomm or Monday I will work with you to integrate.\nmeanwhile I am working on connecting calendar to tutor and student id"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5252488423895_5337f292839c33bb0b36_72.png",
+      "first_name": "Vinitha",
+      "real_name": "Vinitha Kamesh",
+      "display_name": "Vinitha Kamesh",
+      "team": "T050CSX3EMT",
+      "name": "vinivinitha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,291 @@
+[
+  {
+    "client_msg_id": "b832135d-7dd8-420f-9426-3287e8d13585",
+    "type": "message",
+    "user": "U05777BLCPN",
+    "text": "So make-api-available-to-front-end is working for me on localhost but when I switch to origin/main it's having issues importing and won't successfully run it. I did git bisect and found this commit to be the one that is causing issues:\n```commit 2d813ca40cf78e8b84e78cb5454a98db05732e85\nAuthor: Nikolai \u0026lt;nikolaiptukhin@gmail.com\u0026gt;\nDate:   Sun Dec 10 23:59:40 2023 -0500\n\n    Authentication without some imports and couples TODO and Redirect```\nis anyone able to run origin/main successfully and if so please let me know what my issue is! thanks!",
+    "ts": "1703124237.387689",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ksswH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So make-api-available-to-front-end is working for me on localhost but when I switch to origin/main it's having issues importing and won't successfully run it. I did git bisect and found this commit to be the one that is causing issues:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"commit 2d813ca40cf78e8b84e78cb5454a98db05732e85\\nAuthor: Nikolai \u003cnikolaiptukhin@gmail.com\u003e\\nDate:   Sun Dec 10 23:59:40 2023 -0500\\n\\n    Authentication without some imports and couples TODO and Redirect\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nis anyone able to run origin/main successfully and if so please let me know what my issue is! thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-12/5255179561091_977940a39e063a34a12f_72.png",
+      "first_name": "Ami",
+      "real_name": "Ami Patel",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amitrpatel502",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2895a105-978b-4f87-962e-a0114d8cca5e",
+    "type": "message",
+    "user": "U05777BLCPN",
+    "text": "\u003c@U056ZJ34X42\u003e I'm trying to access the API and I keep getting an error that says:\n```Access to XMLHttpRequest at '\u003chttp://localhost:8080/movie/search?searchTerm=Interstellar\u003e' from origin '\u003chttp://localhost:3000\u003e' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.```\nFrom the research I did it seems there needs to be a header added to the response from the server so that the front end can access the server for the backend. This stack overflow post was super helpful \u003chttps://stackoverflow.com/questions/45975135/access-control-origin-header-error-using-axios\u003e. When you get some time could you add the response so I can access it from the front end?",
+    "ts": "1703131425.157479",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Qb8eH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056ZJ34X42"
+              },
+              {
+                "type": "text",
+                "text": " I'm trying to access the API and I keep getting an error that says:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"Access to XMLHttpRequest at '\"},{\"type\":\"link\",\"url\":\"http:\\/\\/localhost:8080\\/movie\\/search?searchTerm=Interstellar\"},{\"type\":\"text\",\"text\":\"' from origin '\"},{\"type\":\"link\",\"url\":\"http:\\/\\/localhost:3000\"},{\"type\":\"text\",\"text\":\"' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource.\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "From the research I did it seems there needs to be a header added to the response from the server so that the front end can access the server for the backend. This stack overflow post was super helpful "
+              },
+              {
+                "type": "link",
+                "url": "https://stackoverflow.com/questions/45975135/access-control-origin-header-error-using-axios",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": ". When you get some time could you add the response so I can access it from the front end?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-12/5255179561091_977940a39e063a34a12f_72.png",
+      "first_name": "Ami",
+      "real_name": "Ami Patel",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amitrpatel502",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4165bc74-b4c5-44e4-9a52-ebf62ebf39c3",
+    "type": "message",
+    "user": "U05777BLCPN",
+    "text": "And actually I tried it on my local branch to see if it works and it fixed the issue for me. SO if at the controller level in your 'Movie Controller' you could add the annotation: @CrossOrigin(origins = \"*\"), that should fix the problem. My origin/main isn't working otherwise I would make a merge request and do it! This was the documentation if you wanted to look at it: \u003chttps://spring.io/guides/gs/rest-service-cors/\u003e",
+    "ts": "1703132055.819249",
+    "attachments": [
+      {
+        "fallback": "Getting Started | Enabling Cross Origin Requests for a RESTful Web Service",
+        "id": 1,
+        "title": "Getting Started | Enabling Cross Origin Requests for a RESTful Web Service",
+        "title_link": "https://spring.io/guides/gs/rest-service-cors/",
+        "text": "Learn how to create a RESTful web service with Spring that support Cross-Origin Resource Sharing (CORS).",
+        "image_url": "https://spring.io/img/og-spring.png",
+        "service_name": "spring.io",
+        "service_icon": "https://spring.io/icons/icon-48x48.png?v=96334d577af708644f6f0495dd1c7bc8",
+        "from_url": "https://spring.io/guides/gs/rest-service-cors/",
+        "original_url": "https://spring.io/guides/gs/rest-service-cors/",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V2hA2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And actually I tried it on my local branch to see if it works and it fixed the issue for me. SO if at the controller level in your 'Movie Controller' you could add the annotation: @CrossOrigin(origins = \"*\"), that should fix the problem. My origin/main isn't working otherwise I would make a merge request and do it! This was the documentation if you wanted to look at it: "
+              },
+              {
+                "type": "link",
+                "url": "https://spring.io/guides/gs/rest-service-cors/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-12/5255179561091_977940a39e063a34a12f_72.png",
+      "first_name": "Ami",
+      "real_name": "Ami Patel",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amitrpatel502",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0b190479-29bd-48d0-990c-ed59b3ef7a3d",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "Thanks Ami! Yes, good call, I'll add that annotation. Sorry I haven't been able to work on this as much as I'd have liked recently, I caught something and have been quite sick. Hopefully on the mend and will be able to clock in a few more changes",
+    "ts": "1703202132.092629",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zAxKB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks Ami! Yes, good call, I'll add that annotation. Sorry I haven't been able to work on this as much as I'd have liked recently, I caught something and have been quite sick. Hopefully on the mend and will be able to clock in a few more changes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a9ffe98f-b80d-4071-b2e1-523da9aa9633",
+    "type": "message",
+    "user": "U05777BLCPN",
+    "text": "No worries! Hope you feel better!",
+    "ts": "1703203114.732789",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hapUL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No worries! Hope you feel better!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-12/5255179561091_977940a39e063a34a12f_72.png",
+      "first_name": "Ami",
+      "real_name": "Ami Patel",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amitrpatel502",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

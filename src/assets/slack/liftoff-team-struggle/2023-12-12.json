@@ -1,0 +1,117 @@
+[
+  {
+    "client_msg_id": "ae33041f-4c49-4a4e-849e-078e783c79dd",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "\u003c@U05777BLCPN\u003e Converted the API endpoints to return JSON objects! I think that's what we need to make the Axios thing work; try it out on the branch \"make-api-available-to-front-end\"",
+    "ts": "1702353599.305759",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U05777BLCPN",
+          "U0574SA4NJ2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q9Apj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05777BLCPN"
+              },
+              {
+                "type": "text",
+                "text": " Converted the API endpoints to return JSON objects! I think that's what we need to make the Axios thing work; try it out on the branch \"make-api-available-to-front-end\""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "CFA2CA36-4F41-4011-AA2A-ED60E7AD71CF",
+    "type": "message",
+    "user": "U05777BLCPN",
+    "text": "Awesome I will try and give it a look before Thursday!! Thank you!",
+    "ts": "1702353881.001569",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U056ZJ34X42"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QGAzV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome I will try and give it a look before Thursday!! Thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-12/5255179561091_977940a39e063a34a12f_72.png",
+      "first_name": "Ami",
+      "real_name": "Ami Patel",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amitrpatel502",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

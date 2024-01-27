@@ -1,0 +1,177 @@
+[
+  {
+    "client_msg_id": "DD3620DE-E257-4ECE-BDFD-AFAA3BD8F824",
+    "type": "message",
+    "user": "U0578C4TKCK",
+    "text": "Having a small surgery this afternoon, may be back in time for studio. If not, here's my notice that I'm going to miss it! :)",
+    "ts": "1702574062.154379",
+    "thread_ts": "1702574062.154379",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056K1UHEGP",
+        "ts": "1702574424.701069"
+      },
+      {
+        "user": "U0574GXK1A9",
+        "ts": "1702575323.461099"
+      }
+    ],
+    "latest_reply": "1702575323.461099",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 1,
+        "users": [
+          "U057UDJDKKJ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A4mBU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Having a small surgery this afternoon, may be back in time for studio. If not, here's my notice that I'm going to miss it! :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5232007116311_53d7458c44834e167288_72.png",
+      "first_name": "Andrew",
+      "real_name": "Andrew Lanning - KC - he/him",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "lanningsimulation",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056K1UHEGP",
+      "U0574GXK1A9"
+    ]
+  },
+  {
+    "client_msg_id": "CFD2AEE4-570C-46D5-8BAD-9DED1CD8683C",
+    "type": "message",
+    "user": "U056K1UHEGP",
+    "text": "Take care ! :) ",
+    "ts": "1702574424.701069",
+    "thread_ts": "1702574062.154379",
+    "parent_user_id": "U0578C4TKCK",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hxsks",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Take care ! :) "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/13e306b805121fa81ffc3395068bf579.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Sneha",
+      "real_name": "Sneha Chitre",
+      "display_name": "Sneha Chitre (KC)",
+      "team": "T050CSX3EMT",
+      "name": "sneha.chitre.usa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E7E7D27A-74C5-435A-83B4-729ADFED57F0",
+    "type": "message",
+    "user": "U0574GXK1A9",
+    "text": "Take care \u003c@U0578C4TKCK\u003e ",
+    "ts": "1702575323.461099",
+    "thread_ts": "1702574062.154379",
+    "parent_user_id": "U0578C4TKCK",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lJglC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Take care "
+              },
+              {
+                "type": "user",
+                "user_id": "U0578C4TKCK"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-31/5352874414530_e7a209da9cc15e3491b1_72.png",
+      "first_name": "Muhammad",
+      "real_name": "Muhammad Qayyum",
+      "display_name": "Muhammad Qayyum",
+      "team": "T050CSX3EMT",
+      "name": "msqgrewal123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

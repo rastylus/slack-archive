@@ -1,0 +1,513 @@
+[
+  {
+    "client_msg_id": "d9df531d-9125-4495-bff7-fe284d64b477",
+    "type": "message",
+    "user": "U055S98U8G2",
+    "text": "\u003c@U056Q9W022K\u003e So i have been looking into this service layer that you mentioned the other day, and yes, you are right that it is not needed because there are already CRUD functions that exist within SpringBoot. This service layer is being used for encapsulation, which has its benefits like keep the code clean and functionality separate. But it can in your case over complicate a project that is on a skinny timeline. If you want to do it, I would add it as an extra feature if you all finish your project features and want something else to add to it.",
+    "ts": "1702341079.659909",
+    "thread_ts": "1702054757.514889",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zIR91",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056Q9W022K"
+              },
+              {
+                "type": "text",
+                "text": " So i have been looking into this service layer that you mentioned the other day, and yes, you are right that it is not needed because there are already CRUD functions that exist within SpringBoot. This service layer is being used for encapsulation, which has its benefits like keep the code clean and functionality separate. But it can in your case over complicate a project that is on a skinny timeline. If you want to do it, I would add it as an extra feature if you all finish your project features and want something else to add to it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5208942534833_61c4df60725855ac84c1_72.jpg",
+      "first_name": "Cory",
+      "real_name": "Cory Pride",
+      "display_name": "TA-Cory Pride (He/Him)",
+      "team": "T050CSX3EMT",
+      "name": "cory.pride83",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "46533334-343a-4369-b15c-e3cd16600633",
+    "type": "message",
+    "user": "U055S98U8G2",
+    "text": "It is not best or worse practice, it seems to be about preference.",
+    "ts": "1702341110.803469",
+    "thread_ts": "1702054757.514889",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g57CN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It is not best or worse practice, it seems to be about preference."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5208942534833_61c4df60725855ac84c1_72.jpg",
+      "first_name": "Cory",
+      "real_name": "Cory Pride",
+      "display_name": "TA-Cory Pride (He/Him)",
+      "team": "T050CSX3EMT",
+      "name": "cory.pride83",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8375736d-1b38-4008-ad46-1379b1422d5f",
+    "type": "message",
+    "user": "U055S98U8G2",
+    "ts": "1702346301.622149",
+    "files": [
+      {
+        "id": "F069PEQEBGS",
+        "created": 1702346298,
+        "timestamp": 1702346298,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U055S98U8G2",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 598787,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F069PEQEBGS/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F069PEQEBGS/download/image.png",
+        "original_h": 943,
+        "original_w": 1528,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F069PEQEBGS-bba2eb70df/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F069PEQEBGS-bba2eb70df/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F069PEQEBGS-bba2eb70df/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F069PEQEBGS-bba2eb70df/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 222,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F069PEQEBGS-bba2eb70df/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 296,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F069PEQEBGS-bba2eb70df/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 444,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F069PEQEBGS-bba2eb70df/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 592,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F069PEQEBGS-bba2eb70df/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 632,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U055S98U8G2/F069PEQEBGS/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F069PEQEBGS-4ac3245be6",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5208942534833_61c4df60725855ac84c1_72.jpg",
+      "first_name": "Cory",
+      "real_name": "Cory Pride",
+      "display_name": "TA-Cory Pride (He/Him)",
+      "team": "T050CSX3EMT",
+      "name": "cory.pride83",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DCE99484-83DF-4DA1-8251-291C5F660519",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "\u003chttps://www.githubdesktop.com/github-desktop-resolve-conflicts/|https://www.githubdesktop.com/github-desktop-resolve-conflicts/\u003e",
+    "ts": "1702347854.703629",
+    "attachments": [
+      {
+        "fallback": "Github Desktop - Github Desktop client app windows, linux, mac, android, ios current latest version.Github desktop download, It is an open source development platform with more than 25 million users worldwide.: Github Desktop Resolve Conflicts",
+        "id": 1,
+        "title": "Github Desktop Resolve Conflicts",
+        "title_link": "https://www.githubdesktop.com/github-desktop-resolve-conflicts/",
+        "text": "When you try to merge or rebase branches, conflicts may occur if the same lines of code have been modified in different branches. In GitHub Desktop, you can resolve conflicts by using the built-in merge tool. Here are the steps to resolve conflicts using GitHub Desktop: Open GitHub Desktop and navigate to the repository that",
+        "service_name": "Github Desktop - Github Desktop client app windows, linux, mac, android, ios current latest version.Github desktop download, It is an open source development platform with more than 25 million users worldwide.",
+        "service_icon": "https://www.githubdesktop.com/wp-content/uploads/2021/12/cropped-Octocat-180x180.webp",
+        "from_url": "https://www.githubdesktop.com/github-desktop-resolve-conflicts/",
+        "original_url": "https://www.githubdesktop.com/github-desktop-resolve-conflicts/",
+        "blocks": null,
+        "ts": 1674836448
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2HkF+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.githubdesktop.com/github-desktop-resolve-conflicts/",
+                "text": "https://www.githubdesktop.com/github-desktop-resolve-conflicts/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d5cfe227-59f1-4919-b78f-41bd50e00b35",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "not sure if people saw this yet but our proposal passed!",
+    "ts": "1702399429.539669",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "meow_party",
+        "count": 1,
+        "users": [
+          "U056Q9W022K"
+        ]
+      },
+      {
+        "name": "tada",
+        "count": 3,
+        "users": [
+          "U056Q9W022K",
+          "U057C75RYBB",
+          "U0578M93BPE"
+        ]
+      },
+      {
+        "name": "heart_eyes_cat",
+        "count": 1,
+        "users": [
+          "U056Q9W022K"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SC7sF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not sure if people saw this yet but our proposal passed!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dcbada65-6b41-4f90-b52b-684798a7e8a1",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "I believe I've fixed the merge conflicts if anybody wants to give the merge a go.",
+    "ts": "1702423704.993079",
+    "thread_ts": "1702423704.993079",
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702424961.322479"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1702425054.971119"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702426256.671759"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702426334.933399"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1702427062.898929"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702427613.852009"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702427624.866179"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1702427884.629539"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702428267.380459"
+      }
+    ],
+    "latest_reply": "1702428267.380459",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TEICr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I believe I've fixed the merge conflicts if anybody wants to give the merge a go."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Y707Y14",
+      "U057C75RYBB"
+    ]
+  },
+  {
+    "client_msg_id": "9282816f-e504-4b9e-ab63-93edcf531d50",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "finishing up something in my controller but I can take a look in a few minutes!",
+    "ts": "1702424961.322479",
+    "thread_ts": "1702423704.993079",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "83fPy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "finishing up something in my controller but I can take a look in a few minutes!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bcb2f231-631c-48ba-b86f-f100ca836024",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Thanks!",
+    "ts": "1702425054.971119",
+    "thread_ts": "1702423704.993079",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cSYv0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

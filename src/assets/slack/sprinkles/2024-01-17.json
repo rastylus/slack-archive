@@ -1,0 +1,65 @@
+[
+  {
+    "client_msg_id": "E6F3D35B-28BE-4936-9D89-64FA3DE54D81",
+    "type": "message",
+    "user": "U056FFR2KJ4",
+    "text": "Grades for interviews should be posted.",
+    "ts": "1705518074.376809",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05777MT72P"
+        ]
+      },
+      {
+        "name": "saltbae",
+        "count": 2,
+        "users": [
+          "U057HGZ7W8Z",
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sdPs0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Grades for interviews should be posted."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5219535207040_bd2448d9a5bf3331f15d_72.png",
+      "first_name": "Fred",
+      "real_name": "Fred Hodgman",
+      "display_name": "TA Fred",
+      "team": "T050CSX3EMT",
+      "name": "fredhodgman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

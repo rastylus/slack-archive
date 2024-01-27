@@ -1,0 +1,216 @@
+[
+  {
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "\u003c@U050FMK1S83\u003e has joined the channel",
+    "ts": "1700525054.224839",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d748da6c-ae5a-4bbc-890e-6b3f204eaeca",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "I am getting an error invalid meeting id.",
+    "ts": "1700526506.305809",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sBTrW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am getting an error invalid meeting id."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cb4a943e-f922-4afa-857d-149aa9d3e1f3",
+    "type": "message",
+    "user": "U05EE11SB6D",
+    "text": "Hmm... Okay. Let me figure this out. One moment please.",
+    "ts": "1700526540.952369",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A+VER",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hmm... Okay. Let me figure this out. One moment please."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-26/5497688141409_c96e793d333a11ff6168_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Jove",
+      "display_name": "TA - Alex Jove",
+      "team": "T050CSX3EMT",
+      "name": "alexjmints",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "790790e2-e115-4282-8735-a2fac278f821",
+    "type": "message",
+    "user": "U05EE11SB6D",
+    "text": "\u003chttps://us02web.zoom.us/j/8733864168\u003e",
+    "ts": "1700526693.985159",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Slqzg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://us02web.zoom.us/j/8733864168",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-26/5497688141409_c96e793d333a11ff6168_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Jove",
+      "display_name": "TA - Alex Jove",
+      "team": "T050CSX3EMT",
+      "name": "alexjmints",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f7141ead-815e-405c-b187-4e665e13d2cd",
+    "type": "message",
+    "user": "U05EE11SB6D",
+    "text": "Alright, try this link",
+    "ts": "1700526698.299129",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3Xxjb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Alright, try this link"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-26/5497688141409_c96e793d333a11ff6168_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Jove",
+      "display_name": "TA - Alex Jove",
+      "team": "T050CSX3EMT",
+      "name": "alexjmints",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

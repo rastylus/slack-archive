@@ -1,0 +1,59 @@
+[
+  {
+    "client_msg_id": "da09b9d1-834d-4286-8920-5b664aabf69d",
+    "type": "message",
+    "user": "U0574K7SCF5",
+    "text": "I am, so reach out if you have any other issues!",
+    "ts": "1702451007.471679",
+    "thread_ts": "1702345263.892079",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05750B4K1Q"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "U80fG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am, so reach out if you have any other issues!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/25636fcae015399f5543db2ec0c827f0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Riley",
+      "real_name": "Riley Neuville",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "riley.neuville",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

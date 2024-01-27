@@ -1,0 +1,672 @@
+[
+  {
+    "client_msg_id": "78d68ea1-3d8e-415d-aa3e-3fe7c7339fc0",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "Hey, team! If anyone is ready for resume review, please let me know. :slightly_smiling_face: In the meantime, I'll tweak my own and hopefully we have some remaining time to tackle the rest of our project proposal!",
+    "ts": "1701392516.689749",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U059D0BNJ1G"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cy+gU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey, team! If anyone is ready for resume review, please let me know. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " In the meantime, I'll tweak my own and hopefully we have some remaining time to tackle the rest of our project proposal!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "961bbd50-0fd3-4a0f-966a-4caae0b76a8a",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "ts": "1701396998.789339",
+    "pinned_to": [
+      "C066DF07ERL"
+    ],
+    "files": [
+      {
+        "id": "F06826Q1DKP",
+        "created": 1701396995,
+        "timestamp": 1701396995,
+        "name": "Screenshot 2023-11-30 201615.png",
+        "title": "Screenshot 2023-11-30 201615.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057C9DPMC3",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 211309,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06826Q1DKP/screenshot_2023-11-30_201615.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06826Q1DKP/download/screenshot_2023-11-30_201615.png",
+        "original_h": 1135,
+        "original_w": 1935,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06826Q1DKP-f62f390e7e/screenshot_2023-11-30_201615_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06826Q1DKP-f62f390e7e/screenshot_2023-11-30_201615_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06826Q1DKP-f62f390e7e/screenshot_2023-11-30_201615_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06826Q1DKP-f62f390e7e/screenshot_2023-11-30_201615_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 211,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06826Q1DKP-f62f390e7e/screenshot_2023-11-30_201615_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 282,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06826Q1DKP-f62f390e7e/screenshot_2023-11-30_201615_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 422,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06826Q1DKP-f62f390e7e/screenshot_2023-11-30_201615_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 563,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06826Q1DKP-f62f390e7e/screenshot_2023-11-30_201615_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 601,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057C9DPMC3/F06826Q1DKP/screenshot_2023-11-30_201615.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06826Q1DKP-732bd73af8",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "sloth",
+        "count": 2,
+        "users": [
+          "U05765HGT46",
+          "U05722VQ4S0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4a5abf27-1e17-4d35-a2b3-6030750b41e2",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "So looking at the sample Project Proposal, it looks like they divvied it up by feature rather than languages/Stack",
+    "ts": "1701397974.964819",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fReIp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So looking at the sample Project Proposal, it looks like they divvied it up by feature rather than languages/Stack"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4926CEB8-4EF8-4C76-8175-2CA99FA4CC49",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "So I just submitted our form, but saw after that it’s one submission per group. So we should be good to go on turning the form in. Sorry if that throws anybody off, I was worried I would forget. Also I know we’re still working on it, but it was just the link to it and not a pdf this time. ",
+    "ts": "1701398775.425609",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05722VQ4S0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "c/ZSU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So I just submitted our form, but saw after that "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " one submission per group. So we should be good to go on turning the form in. Sorry if that throws anybody off, I was worried I would forget. Also I know "
+              },
+              {
+                "type": "text",
+                "text": "we’re"
+              },
+              {
+                "type": "text",
+                "text": " still working on it, but it was just the link to it and not a pdf this time. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cdd90660-052c-4a47-866f-70119a03ae8f",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "All right, I added some stuff to the full features list and I added the \"vacations\" page functionality to my work division. If I need to tweak mine, please let me know. I know we probably need to tackle Auth, the profile page and activities",
+    "ts": "1701398940.909949",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "sloth",
+        "count": 1,
+        "users": [
+          "U05765HGT46"
+        ]
+      },
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U059D0BNJ1G"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lUWXd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "All right, I added some stuff to the full features list and I added the \"vacations\" page functionality to my work division. If I need to tweak mine, please let me know. I know we probably need to tackle Auth, the profile page and activities"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b011fae6-2bf6-4003-8683-e2dd6752aa4a",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "Also please add stuff to the full features list if anything is missing!",
+    "ts": "1701398976.342809",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iasa3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also please add stuff to the full features list if anything is missing!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "487e5b6f-50e2-4ce9-92ad-db47854de0ac",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "\u003chttps://obsidian.md/\u003e",
+    "ts": "1701465592.780889",
+    "attachments": [
+      {
+        "fallback": "Obsidian - Sharpen your thinking",
+        "id": 1,
+        "title": "Obsidian - Sharpen your thinking",
+        "title_link": "https://obsidian.md/",
+        "text": "Obsidian is the private and flexible note‑taking app that adapts to the way you think.",
+        "image_url": "https://obsidian.md/images/banner.png",
+        "service_name": "obsidian.md",
+        "service_icon": "https://obsidian.md/apple-touch-icon.png",
+        "from_url": "https://obsidian.md/",
+        "original_url": "https://obsidian.md/",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JijXp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://obsidian.md/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9e232e50-eaaa-4fe3-9ba7-997ac6d0fe73",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "heres the program i use for notes and such, its open source and free so it has an insane amount of compatability",
+    "ts": "1701465621.108019",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0/MST",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "heres the program i use for notes and such, its open source and free so it has an insane amount of compatability"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a3f29d36-63a2-4a3a-b785-bc8f78dbbbe5",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "I checked and it even has Kanban and a full calendar style plugins as well that look really professional. Another thing that people really like is that its all made with .md files, so its all 100% stored on your computer so you wont lose your notes if somehow the company disappeared.",
+    "ts": "1701465814.752469",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "sloth",
+        "count": 1,
+        "users": [
+          "U05722VQ4S0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RtWgc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I checked and it even has Kanban and a full calendar style plugins as well that look really professional. Another thing that people really like is that its all made with .md files, so its all 100% stored on your computer so you wont lose your notes if somehow the company disappeared."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b318a6d1-538e-4687-bfc1-2523bf1fd038",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "it is also written in java, uses css and html and since it is open source, other peoples plugins show you exactly how they are working, you can look and edit the html and everything exactly how you want it to be.",
+    "ts": "1701465889.037149",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "X6KxC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it is also written in java, uses css and html and since it is open source, other peoples plugins show you exactly how they are working, you can look and edit the html and everything exactly how you want it to be."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2580E042-555E-4CDA-A3BA-BF0C41E7256C",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "This site was awesome for starting the wireframe! Also, I saw in class announcements that they want us to use GitHub Projects instead on Monday.com, so we should work on migrating everything from Monday to Projects over the weekend so we are ready for lab :grin: Does anyone want to take the lead on this? \u003c@U056K1WRCCX\u003e  This might be a good chance to catch up from what we discussed on Wednesday if you haven’t had a chance to yet",
+    "ts": "1701472649.795479",
+    "edited": {
+      "user": "U05722VQ4S0",
+      "ts": "1701472713.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TmeNF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This site was awesome for starting the wireframe! Also, I saw in class announcements that they want us to use GitHub Projects instead on Monday.com, so we should work on migrating everything from Monday to Projects over the weekend so we are ready for lab "
+              },
+              {
+                "type": "emoji",
+                "name": "grin",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Does anyone want to take the lead on this? "
+              },
+              {
+                "type": "user",
+                "user_id": "U056K1WRCCX"
+              },
+              {
+                "type": "text",
+                "text": "  This might be a good chance to catch up from what we discussed on Wednesday if you haven’t had a chance to yet"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

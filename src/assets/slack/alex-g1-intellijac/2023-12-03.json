@@ -1,0 +1,56 @@
+[
+  {
+    "client_msg_id": "e083a6c0-fc65-45d7-9a80-1d4677e72a26",
+    "type": "message",
+    "user": "U056SVBQSES",
+    "text": "Hi guys! I have made some updates to the form solving the issues pointed out to me. Lexi suggested to split the CRUD functionality in two, so I talked to Jialing, since she was also interested in this, and she will take care of the update part (instead of the number of attempts feature), if that's ok with everybody.\n\nWe still have to decide what to do with the API. \u003c@U0579UMAPCL\u003e, is that something that would fall under your part?",
+    "ts": "1701637547.562459",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JU3lV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi guys! I have made some updates to the form solving the issues pointed out to me. Lexi suggested to split the CRUD functionality in two, so I talked to Jialing, since she was also interested in this, and she will take care of the update part (instead of the number of attempts feature), if that's ok with everybody.\n\nWe still have to decide what to do with the API. "
+              },
+              {
+                "type": "user",
+                "user_id": "U0579UMAPCL"
+              },
+              {
+                "type": "text",
+                "text": ", is that something that would fall under your part?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274449962768_b6d8928e25cd1da2d413_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Pablo (JP) Barragan",
+      "display_name": "JP Barragan",
+      "team": "T050CSX3EMT",
+      "name": "jpbarragann",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

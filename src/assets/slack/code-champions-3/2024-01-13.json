@@ -1,0 +1,536 @@
+[
+  {
+    "client_msg_id": "4a15352e-73ed-4da7-92d6-58cd0a5641c0",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi guys, the leaving comments feature is still being tested. Currently there's a bug after clicking the submit button:sob:. I'm gonna keep working on it today.\n\nOne thing to discuss. I had a research that it looks like having front end in React and back end on Spring Boot requires JWT(JSON web token).\n\nMay I discuss with you which is the better solution? These are the two options in my head but you are welcome to share other ideas!\n\n1. *Focus on Java(Spring Boot) + mySQL for now and upgrade our project after the review day* \n• *PROS:* Considering the limit of time left, this way I feel like we would have more chance to meet the minimum criteria of the project expectations. (btw, we will at least need to add the 'delete' functionality and an external API usage. We will also need templates to show activities in Spring Boot etc to pass the project review.)\n• *CONS:* Lack of React, but we can learn JWT and get it involved later. \n*2. Learn JWT very quick to get React involved*\n\n• *PROS:* it would show us more professional. Full stack on all the tools we learned.\n• *CONS:* Not sure if you have experience with JWT? I'm afraid I will take a while to learn the tech and personally have some concern if we can make the project by the deadline.  \nWhat do you think? \u003c@U05722MU892\u003e \u003c@U0571TCPNAH\u003e \u003c@U0577402D4J\u003e (LC project expectations will be attached below.)\n\nHi Jay \u003c@U055B8PEEMV\u003e, your opinion will be very appreciated too!",
+    "ts": "1705166570.630539",
+    "edited": {
+      "user": "U057GPNUCG4",
+      "ts": "1705252532.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CAH6X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi guys, the leaving comments feature is still being tested. Currently there's a bug after clicking the submit button"
+              },
+              {
+                "type": "emoji",
+                "name": "sob",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ". I'm gonna keep working on it today.\n\nOne thing to discuss. I had a research that it looks like having front end in React and back end on Spring Boot requires JWT(JSON web token).\n\nMay I discuss with you which is the better solution? These are the two options in my head but you are welcome to share other ideas!\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Focus on Java(Spring Boot) + mySQL for now and upgrade our project after the review day \",\"style\":{\"bold\":true}}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"PROS: \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"Considering the limit of time left, this way I feel like we would have more chance to meet the minimum criteria of the project expectations. (btw, we will at least need to add the 'delete' functionality and an external API usage. We will also need templates to show activities in Spring Boot etc to pass the project review.)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"CONS: \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"Lack of React, but we can learn JWT and get it involved later. \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "2. Learn JWT very quick to get React involved",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"PROS:\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" it would show us more professional. Full stack on all the tools we learned.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"CONS: \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"Not sure if you have experience with JWT? I'm afraid I will take a while to learn the tech and personally have some concern if we can make the project by the deadline.  \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nWhat do you think? "
+              },
+              {
+                "type": "user",
+                "user_id": "U05722MU892"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0571TCPNAH"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0577402D4J"
+              },
+              {
+                "type": "text",
+                "text": " (LC project expectations will be attached below.)\n\nHi Jay "
+              },
+              {
+                "type": "user",
+                "user_id": "U055B8PEEMV"
+              },
+              {
+                "type": "text",
+                "text": ", your opinion will be very appreciated too!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c17eec4a-788d-4101-844c-cac5b1d70c82",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "ts": "1705166608.862619",
+    "files": [
+      {
+        "id": "F06DCD7808P",
+        "created": 1705166606,
+        "timestamp": 1705166606,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057GPNUCG4",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 77336,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06DCD7808P/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06DCD7808P/download/image.png",
+        "original_h": 533,
+        "original_w": 532,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCD7808P-d4a607567d/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCD7808P-d4a607567d/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCD7808P-d4a607567d/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCD7808P-d4a607567d/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 359,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCD7808P-d4a607567d/image_480.png",
+        "thumb_480_w": 479,
+        "thumb_480_h": 480,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057GPNUCG4/F06DCD7808P/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06DCD7808P-113be353e2",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "157559f6-1cf5-4166-91f4-bafe5acf40b6",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "\u003c@U05722MU892\u003e Hi Mark, any luck regarding the external API? :smile: If there are any questions/problems, we can work together! :handshake:",
+    "ts": "1705166752.681669",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EudzA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05722MU892"
+              },
+              {
+                "type": "text",
+                "text": " Hi Mark, any luck regarding the external API? "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " If there are any questions/problems, we can work together! "
+              },
+              {
+                "type": "emoji",
+                "name": "handshake",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "01887507-845e-432a-aefe-0a26f9e4f926",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "P.S. Leaving comments feature works now!!:tada: Im going to Costco for a walk :rolling_on_the_floor_laughing:",
+    "ts": "1705168990.386729",
+    "thread_ts": "1705168990.386729",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U055B8PEEMV",
+        "ts": "1705169042.501949"
+      },
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1705169109.425779"
+      }
+    ],
+    "latest_reply": "1705169109.425779",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "joy",
+        "count": 1,
+        "users": [
+          "U0571TCPNAH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "blPU/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "P.S. Leaving comments feature works now!!"
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Im going to Costco for a walk "
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U055B8PEEMV",
+      "U057GPNUCG4"
+    ]
+  },
+  {
+    "client_msg_id": "346227E2-A0DB-49C6-B166-3FD10041F2C1",
+    "type": "message",
+    "user": "U055B8PEEMV",
+    "text": ":rolling_on_the_floor_laughing: :rolling_on_the_floor_laughing: :rolling_on_the_floor_laughing:  I'm going to Costco later. If I ever decide to get out of my warm bed. Lol. ",
+    "ts": "1705169042.501949",
+    "thread_ts": "1705168990.386729",
+    "parent_user_id": "U057GPNUCG4",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UET1H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "  I'm going to Costco later"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " If I ever decide to get out of my warm bed"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Lol"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5204638969172_2d7d943d02d4d367275b_72.png",
+      "first_name": "TA",
+      "real_name": "TA - Jay",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jay.lingelbach",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f8d06c51-037a-4a30-b8db-a0eaf69fcad8",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "I know... the temp is insane. :rolling_on_the_floor_laughing: Stay warm!",
+    "ts": "1705169109.425779",
+    "thread_ts": "1705168990.386729",
+    "parent_user_id": "U057GPNUCG4",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "k6ggk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I know... the temp is insane. "
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " Stay warm!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

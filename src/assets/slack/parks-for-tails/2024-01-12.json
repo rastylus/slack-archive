@@ -1,0 +1,386 @@
+[
+  {
+    "client_msg_id": "c867d70a-7f8e-47ef-9b70-0425c3ad0cc9",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "I may have solved the evil mySQL error. Started the project yet again in Spring Initializer but used the older stable version. I've only filled in the classes needed for UserController so far but it runs. It does still have the wonky only login page thing but that can be worked on. I'm going to finish adding the rest of the classes and include everything from your other 2 recent branches. When I push it, I'll let you guys know.",
+    "ts": "1705085130.395429",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2D7no",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I may have solved the evil mySQL error. Started the project yet again in Spring Initializer but used the older stable version. I've only filled in the classes needed for UserController so far but it runs. It does still have the wonky only login page thing but that can be worked on. I'm going to finish adding the rest of the classes and include everything from your other 2 recent branches. When I push it, I'll let you guys know."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9e550796-a3da-4556-a464-f2bd95b786a7",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "ts": "1705085168.547799",
+    "files": [
+      {
+        "id": "F06DQ7MJERH",
+        "created": 1705085161,
+        "timestamp": 1705085161,
+        "name": "springinit3.png",
+        "title": "springinit3.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057C73ABDX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 77169,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06DQ7MJERH/springinit3.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06DQ7MJERH/download/springinit3.png",
+        "original_h": 909,
+        "original_w": 1536,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQ7MJERH-32bf498a70/springinit3_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQ7MJERH-32bf498a70/springinit3_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQ7MJERH-32bf498a70/springinit3_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQ7MJERH-32bf498a70/springinit3_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 213,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQ7MJERH-32bf498a70/springinit3_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 284,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQ7MJERH-32bf498a70/springinit3_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 426,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQ7MJERH-32bf498a70/springinit3_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 568,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQ7MJERH-32bf498a70/springinit3_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 606,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057C73ABDX/F06DQ7MJERH/springinit3.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06DQ7MJERH-56719852bc",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f23db20d-0532-4b8b-afc6-488830c2d3ac",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "(as a side note, the SQL dependency there is wrong; that's for a MS product but subbing in the mySQL equivalent was easy)",
+    "ts": "1705085248.870549",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Drmct",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "(as a side note, the SQL dependency there is wrong; that's for a MS product but subbing in the mySQL equivalent was easy)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7bbbb7fe-206d-46c0-8eb3-860886c57399",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "All right, \u003c@U056FFR2KJ4\u003e, our new \"main\" branch needs to be the one named  \"initial_java\" when you get things sorted.",
+    "ts": "1705099051.956499",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7B/pd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "All right, "
+              },
+              {
+                "type": "user",
+                "user_id": "U056FFR2KJ4"
+              },
+              {
+                "type": "text",
+                "text": ", our new \"main\" branch needs to be the one named  \"initial_java\" when you get things sorted."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "efd5a0ad-7757-4877-a50d-527f7e075606",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "Otherwise, the branch off of that branch,  \"ij_park-comments\",  is the the one to clone or checkout to work on. It's as up to date as I could manage and isn't throwing any errors for me. It does still only go to the login page so that's an issue to fix. I did make a few consistency changes like swap the one CrudRepository to JPARepository so they're all the same. There are a few more things like that. I didn't make our use of Long vs Int consistent  but I made the usages internally consistent so the code would stop breaking.",
+    "ts": "1705099375.512579",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/8piz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Otherwise, the branch off of that branch,  \"ij_park-comments\",  is the the one to clone or checkout to work on. It's as up to date as I could manage and isn't throwing any errors for me. It does still only go to the login page so that's an issue to fix. I did make a few consistency changes like swap the one CrudRepository to JPARepository so they're all the same. There are a few more things like that. I didn't make our use of Long vs Int consistent  but I made the usages internally consistent so the code would stop breaking."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "32637c9a-456c-430e-809e-77b6cbac7f46",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "Whenever it's convenient, you guys should test the \"ij_park-comments\" branch and make sure it works for all of us.",
+    "ts": "1705099463.023739",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xq03h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Whenever it's convenient, you guys should test the \"ij_park-comments\" branch and make sure it works for all of us."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "AE8B5A2C-B2F8-4583-8064-C7B3D64F1793",
+    "type": "message",
+    "user": "U056Z3RQFJT",
+    "text": "Alright thank you Jen it sounds great . I’m working all week end but will try to run this Sunday ",
+    "ts": "1705102182.732109",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e7jrU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Alright thank you Jen it sounds great . "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " working all week end but will try to run this Sunday "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5251578399251_476929090d178895b1c1_72.jpg",
+      "first_name": "Dimitri",
+      "real_name": "Dimitri   Torres",
+      "display_name": "Dimitri Torres",
+      "team": "T050CSX3EMT",
+      "name": "dimitritorres34",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

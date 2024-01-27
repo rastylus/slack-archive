@@ -1,0 +1,1460 @@
+[
+  {
+    "client_msg_id": "5a2a6a3e-6567-4423-bc69-c111c22dc2ed",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "\u003c@U0574FFA3L5\u003e I'm having a lot of issues working off the development branch because of the security and data layers... I am making a more bare bones branch/repository for easier testing and sharing until I get some of the more basic functionality out of the way",
+    "ts": "1701997372.973699",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZWT7I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0574FFA3L5"
+              },
+              {
+                "type": "text",
+                "text": " I'm having a lot of issues working off the development branch because of the security and data layers... I am making a more bare bones branch/repository for easier testing and sharing until I get some of the more basic functionality out of the way"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5282fda5-2575-4d24-a7ec-066a4e991937",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Ok Sounds good. Yea, it's the spring boot security stuff so I'm working on trying to figure out how to get it to initially load into a homepage. I did figure out how to get thru the login page. If you put \"user\" and then copy the password that pops up in intellij it'll at least take you to an error screen which I'm assuming is because we don't have any front end stuff",
+    "ts": "1701997626.556399",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WL1VU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok Sounds good. Yea, it's the spring boot security stuff so I'm working on trying to figure out how to get it to initially load into a homepage. I did figure out how to get thru the login page. If you put \"user\" and then copy the password that pops up in intellij it'll at least take you to an error screen which I'm assuming is because we don't have any front end stuff"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "293CA74D-C2FA-41C6-BEF2-664082E383B6",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "Idk if you guys seen this but spring needs these added to build.gradle implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'\n```implementation 'org.springframework.boot:spring-boot-starter-validation'```",
+    "ts": "1701997743.574359",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vFwzV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Idk if you guys seen this but spring needs these added to build.gradle implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"implementation 'org.springframework.boot:spring-boot-starter-validation'\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "CCB3A976-86D8-4856-A0F4-22C2A0F4A4B9",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "And when I get home I can give you guys my home page template and fragments template if you need them to test your code idk what part you are working on and if it will help or not, I know when I was testing the templates I made a home controller to execute my templates with a path to (/) for testing",
+    "ts": "1701997912.028339",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "swEZc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And when I get home I can give you guys my home page template and fragments template if you need them to test your code idk what part you are working on and if it will help or not, I know when I was testing the templates I made a home controller to execute my templates with a path to (/) for testing"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2f86ae0c-908f-49d9-b966-33216ee8b4e0",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "That would be awesome. Thanks Carl",
+    "ts": "1701998021.589269",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FVmMk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That would be awesome. Thanks Carl"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "392B7C77-B415-4120-BA9E-999B783CEE79",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "```implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'\nimplementation 'org.springframework.boot:spring-boot-starter-validation'```",
+    "ts": "1701998037.349989",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Bwdnr",
+        "elements": [
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'\"},{\"type\":\"text\",\"text\":\"\\n\"},{\"type\":\"text\",\"text\":\"implementation 'org.springframework.boot:spring-boot-starter-validation'\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "37FAFF5D-7C09-4D40-AF71-BB694C695C9B",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "I will when I get home it will be a couple hours or so sorry guys I did not expect to be out tonight",
+    "ts": "1701998073.196769",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A7NKn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I will when I get home it will be a couple hours or so sorry guys I did not expect to be out tonight"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0baf1657-14cb-4006-a259-4502f8bbb9c6",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "No worries at all.",
+    "ts": "1701999139.449239",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "29Sl/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No worries at all."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b055fa83-c56c-4a62-804a-59f22ff8fe2c",
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "Hi, Group please send me the link to your proposal document and your GitHub Projects Page",
+    "ts": "1702000764.064809",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "edkb7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi, Group please send me the link to your proposal document and your GitHub Projects Page"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6af3a077-e246-40a5-ace0-98abe8b20632",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Proposal document: \u003chttps://docs.google.com/document/d/1xuR6Lc10MEo-MzdAzT1G8s30Qhj0A9YcOvEdZ8wPAuw/edit?pli=1#heading=h.2xylt4f7ezns\u003e\n\nGithub Projects: \u003chttps://github.com/orgs/TheLancers01/projects/2\u003e",
+    "ts": "1702001210.461259",
+    "pinned_to": [
+      "C066LUS88TV"
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "F10jL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Proposal document: "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1xuR6Lc10MEo-MzdAzT1G8s30Qhj0A9YcOvEdZ8wPAuw/edit?pli=1#heading=h.2xylt4f7ezns",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nGithub Projects: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/orgs/TheLancers01/projects/2",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8ef2cff1-c50f-4891-ac2d-190e7e2b3212",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Thank for doing that Cory!",
+    "ts": "1702004448.058899",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Lvapn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank for doing that Cory!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "29e8cb2f-81bb-49b6-8fd2-fd25a3b3e085",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "I added a new repo to our channel for quick sharing and testing of features",
+    "ts": "1702004498.205099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pE2Js",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I added a new repo to our channel for quick sharing and testing of features"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9f3e7dea-cd1c-40ac-bcfa-0d8c0cb061d4",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "fragments",
+    "ts": "1702010158.174789",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Il1FA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "fragments"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "212c7c82-5420-41a2-be7d-1038a7d8efdc",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "```\u003c!DOCTYPE html\u003e\n\u0026lt;html lang=\"en\" xmlns:th=\"\u003chttp://www.thymeleaf.org\u003e\"\u0026gt;\n\u0026lt;head th:fragment=\"head\"\u0026gt;\n    \u0026lt;meta charset=\"UTF-8\"/\u0026gt;\n    \u0026lt;title\u0026gt;Lancer's Fitness App\u0026lt;/title\u0026gt;\n    \u0026lt;link rel=\"stylesheet\" href=\"\u003chttps://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css\u003e\"\u0026gt;\n    \u0026lt;link rel=\"stylesheet\" th:href=\"@{/css/bootstrap.css}\" /\u0026gt;\n    \u0026lt;script src=\"\u003chttps://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js\u003e\"\u0026gt;\u0026lt;/script\u0026gt;\n\u0026lt;/head\u0026gt;\n\u0026lt;body\u0026gt;\n\u0026lt;div th:fragment=\"header\"\u0026gt;\n    \u0026lt;header\u0026gt;\n        \u0026lt;div class=\"company-name\"\u0026gt;Lancer's Fitness App\u0026lt;/div\u0026gt;\n        \u0026lt;nav\u0026gt;\n            \u0026lt;ul classs=\"nav\"\u0026gt;\n                \u0026lt;li class=\"nav-item1\"\u0026gt;\u0026lt;a th:href=\"@{/account}\"\u0026gt;Account Management\u0026lt;/a\u0026gt;\u0026lt;/li\u0026gt;\n                \u0026lt;li class=\"nav-item2\"\u0026gt;\u0026lt;a th:href=\"@{/workout-plans}\"\u0026gt;Workout Plans\u0026lt;/a\u0026gt;\u0026lt;/li\u0026gt;\n                \u0026lt;li class=\"nav-item3\"\u0026gt;\u0026lt;a th:href=\"@{/search-exercises}\"\u0026gt;Search Exercises\u0026lt;/a\u0026gt;\u0026lt;/li\u0026gt;\n            \u0026lt;/ul\u0026gt;\n        \u0026lt;/nav\u0026gt;\n    \u0026lt;/header\u0026gt;\n\u0026lt;/div\u0026gt;\n\u0026lt;div th:fragment=\"footer\"\u0026gt;\n    \u0026lt;footer class=\"footer\"\u0026gt;\n        Ⓒ Lancers Fitness 2023\n    \u0026lt;/footer\u0026gt;\n\u0026lt;/div\u0026gt;\n\u0026lt;/body\u0026gt;\n\u0026lt;/html\u0026gt;```\n",
+    "ts": "1702010172.122579",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T75DA",
+        "elements": [
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"\u003c!DOCTYPE html\u003e\\n\u003chtml lang=\\\"en\\\" xmlns:th=\\\"\"},{\"type\":\"link\",\"url\":\"http:\\/\\/www.thymeleaf.org\"},{\"type\":\"text\",\"text\":\"\\\"\u003e\\n\u003chead th:fragment=\\\"head\\\"\u003e\\n    \u003cmeta charset=\\\"UTF-8\\\"\\/\u003e\\n    \u003ctitle\u003eLancer's Fitness App\u003c\\/title\u003e\\n    \u003clink rel=\\\"stylesheet\\\" href=\\\"\"},{\"type\":\"link\",\"url\":\"https:\\/\\/stackpath.bootstrapcdn.com\\/bootstrap\\/4.4.1\\/css\\/bootstrap.min.css\"},{\"type\":\"text\",\"text\":\"\\\"\u003e\\n    \u003clink rel=\\\"stylesheet\\\" th:href=\\\"@{\\/css\\/bootstrap.css}\\\" \\/\u003e\\n    \u003cscript src=\\\"\"},{\"type\":\"link\",\"url\":\"https:\\/\\/stackpath.bootstrapcdn.com\\/bootstrap\\/4.4.1\\/js\\/bootstrap.min.js\"},{\"type\":\"text\",\"text\":\"\\\"\u003e\u003c\\/script\u003e\\n\u003c\\/head\u003e\\n\u003cbody\u003e\\n\u003cdiv th:fragment=\\\"header\\\"\u003e\\n    \u003cheader\u003e\\n        \u003cdiv class=\\\"company-name\\\"\u003eLancer's Fitness App\u003c\\/div\u003e\\n        \u003cnav\u003e\\n            \u003cul classs=\\\"nav\\\"\u003e\\n                \u003cli class=\\\"nav-item1\\\"\u003e\u003ca th:href=\\\"@{\\/account}\\\"\u003eAccount Management\u003c\\/a\u003e\u003c\\/li\u003e\\n                \u003cli class=\\\"nav-item2\\\"\u003e\u003ca th:href=\\\"@{\\/workout-plans}\\\"\u003eWorkout Plans\u003c\\/a\u003e\u003c\\/li\u003e\\n                \u003cli class=\\\"nav-item3\\\"\u003e\u003ca th:href=\\\"@{\\/search-exercises}\\\"\u003eSearch Exercises\u003c\\/a\u003e\u003c\\/li\u003e\\n            \u003c\\/ul\u003e\\n        \u003c\\/nav\u003e\\n    \u003c\\/header\u003e\\n\u003c\\/div\u003e\\n\u003cdiv th:fragment=\\\"footer\\\"\u003e\\n    \u003cfooter class=\\\"footer\\\"\u003e\\n        \\u24b8 Lancers Fitness 2023\\n    \u003c\\/footer\u003e\\n\u003c\\/div\u003e\\n\u003c\\/body\u003e\\n\u003c\\/html\u003e\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2234c19f-1708-4dc6-94a0-4c31a0d72c2f",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "homepage",
+    "ts": "1702010220.947199",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ldat0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "homepage"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c96425f1-941b-4080-b6ba-3f8b36263ad8",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "```\u003c!DOCTYPE html\u003e\n\u0026lt;html lang=\"en\" xmlns:th=\"\u003chttp://www.thymeleaf.org\u003e\"\u0026gt;\n\u0026lt;head th:replace=\"fragments :: head\"\u0026gt;\n    \u0026lt;meta charset=\"UTF-8\"/\u0026gt;\n    \u0026lt;title\u0026gt;Lancer's Fitness App\u0026lt;/title\u0026gt;\n\u0026lt;/head\u0026gt;\n\u0026lt;body\u0026gt;\n\n\u0026lt;div class=\"top-bar\"\u0026gt;\n    \u0026lt;h1\u0026gt;Lancer's Fitness\u0026lt;/h1\u0026gt;\n    \u0026lt;a th:href=\"@{/create-account}\" class=\"btn btn-primary\"\u0026gt;Create Account\u0026lt;/a\u0026gt;\n\u0026lt;/div\u0026gt;\n\n\u0026lt;div class=\"content-wrap flex-grow-1\"\u0026gt;\n    \u0026lt;section class=\"feature\"\u0026gt;\n        \u0026lt;h2\u0026gt;Search for Exercises\u0026lt;/h2\u0026gt;\n        \u0026lt;p\u0026gt;Find the best exercises tailored to your needs.\u0026lt;/p\u0026gt;\n\u0026lt;!--        \u0026lt;img th:src=\"@{/images/exercise-search.jpg}\" alt=\"Exercise Search\" class=\"feature-image\"/\u0026gt;--\u0026gt;\n    \u0026lt;/section\u0026gt;\n    \n    \u0026lt;section class=\"feature\"\u0026gt;\n        \u0026lt;h2\u0026gt;Schedule Your Exercises\u0026lt;/h2\u0026gt;\n        \u0026lt;p\u0026gt;Plan your workouts with our intuitive calendar.\u0026lt;/p\u0026gt;\n\u0026lt;!--        \u0026lt;img th:src=\"@{/images/exercise-schedule.jpg}\" alt=\"Exercise Schedule\" class=\"feature-image\"/\u0026gt;--\u0026gt;\n    \u0026lt;/section\u0026gt;\n    \n    \u0026lt;section class=\"feature\"\u0026gt;\n        \u0026lt;h2\u0026gt;Track Your Progress\u0026lt;/h2\u0026gt;\n        \u0026lt;p\u0026gt;Monitor your improvements and milestones.\u0026lt;/p\u0026gt;\n\u0026lt;!--        \u0026lt;img th:src=\"@{/images/progress-tracking.jpg}\" alt=\"Progress Tracking\" class=\"feature-image\"/\u0026gt;--\u0026gt;\n    \u0026lt;/section\u0026gt;\n    \n    \u0026lt;section class=\"feature\"\u0026gt;\n        \u0026lt;h2\u0026gt;Better Your Health\u0026lt;/h2\u0026gt;\n        \u0026lt;p\u0026gt;Engage in activities that boost your overall well-being.\u0026lt;/p\u0026gt;\n\u0026lt;!--        \u0026lt;img th:src=\"@{/images/better-health.jpg}\" alt=\"Better Health\" class=\"feature-image\"/\u0026gt;--\u0026gt;\n    \u0026lt;/section\u0026gt;\n\u0026lt;/div\u0026gt;\n\n\u0026lt;div th:replace=\"fragments :: footer\"\u0026gt;\u0026lt;/div\u0026gt;\n\n\u0026lt;/body\u0026gt;\n\u0026lt;/html\u0026gt;```\n",
+    "ts": "1702010227.208429",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eQVqc",
+        "elements": [
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"\u003c!DOCTYPE html\u003e\\n\u003chtml lang=\\\"en\\\" xmlns:th=\\\"\"},{\"type\":\"link\",\"url\":\"http:\\/\\/www.thymeleaf.org\"},{\"type\":\"text\",\"text\":\"\\\"\u003e\\n\u003chead th:replace=\\\"fragments :: head\\\"\u003e\\n    \u003cmeta charset=\\\"UTF-8\\\"\\/\u003e\\n    \u003ctitle\u003eLancer's Fitness App\u003c\\/title\u003e\\n\u003c\\/head\u003e\\n\u003cbody\u003e\\n\\n\u003cdiv class=\\\"top-bar\\\"\u003e\\n    \u003ch1\u003eLancer's Fitness\u003c\\/h1\u003e\\n    \u003ca th:href=\\\"@{\\/create-account}\\\" class=\\\"btn btn-primary\\\"\u003eCreate Account\u003c\\/a\u003e\\n\u003c\\/div\u003e\\n\\n\u003cdiv class=\\\"content-wrap flex-grow-1\\\"\u003e\\n    \u003csection class=\\\"feature\\\"\u003e\\n        \u003ch2\u003eSearch for Exercises\u003c\\/h2\u003e\\n        \u003cp\u003eFind the best exercises tailored to your needs.\u003c\\/p\u003e\\n\u003c!--        \u003cimg th:src=\\\"@{\\/images\\/exercise-search.jpg}\\\" alt=\\\"Exercise Search\\\" class=\\\"feature-image\\\"\\/\u003e--\u003e\\n    \u003c\\/section\u003e\\n    \\n    \u003csection class=\\\"feature\\\"\u003e\\n        \u003ch2\u003eSchedule Your Exercises\u003c\\/h2\u003e\\n        \u003cp\u003ePlan your workouts with our intuitive calendar.\u003c\\/p\u003e\\n\u003c!--        \u003cimg th:src=\\\"@{\\/images\\/exercise-schedule.jpg}\\\" alt=\\\"Exercise Schedule\\\" class=\\\"feature-image\\\"\\/\u003e--\u003e\\n    \u003c\\/section\u003e\\n    \\n    \u003csection class=\\\"feature\\\"\u003e\\n        \u003ch2\u003eTrack Your Progress\u003c\\/h2\u003e\\n        \u003cp\u003eMonitor your improvements and milestones.\u003c\\/p\u003e\\n\u003c!--        \u003cimg th:src=\\\"@{\\/images\\/progress-tracking.jpg}\\\" alt=\\\"Progress Tracking\\\" class=\\\"feature-image\\\"\\/\u003e--\u003e\\n    \u003c\\/section\u003e\\n    \\n    \u003csection class=\\\"feature\\\"\u003e\\n        \u003ch2\u003eBetter Your Health\u003c\\/h2\u003e\\n        \u003cp\u003eEngage in activities that boost your overall well-being.\u003c\\/p\u003e\\n\u003c!--        \u003cimg th:src=\\\"@{\\/images\\/better-health.jpg}\\\" alt=\\\"Better Health\\\" class=\\\"feature-image\\\"\\/\u003e--\u003e\\n    \u003c\\/section\u003e\\n\u003c\\/div\u003e\\n\\n\u003cdiv th:replace=\\\"fragments :: footer\\\"\u003e\u003c\\/div\u003e\\n\\n\u003c\\/body\u003e\\n\u003c\\/html\u003e\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6f5c365c-3ec4-47a8-8ec8-c3edc2439405",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "there is css and bootstrap but just for testing it out i don't think you will need it if u do let me know",
+    "ts": "1702010275.038939",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5zw6n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "there is css and bootstrap but just for testing it out i don't think you will need it if u do let me know"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c6aa7678-362a-4490-94fb-9c7375ebd0d6",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Awesome. Yea so now with that added when we login with \"user\" and the password that is generated in intellij, it takes us to the homepage. I just need to figure out how to get it to initially go to the homepage instead of like an admin login page",
+    "ts": "1702055106.885639",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "USUVz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome. Yea so now with that added when we login with \"user\" and the password that is generated in intellij, it takes us to the homepage. I just need to figure out how to get it to initially go to the homepage instead of like an admin login page"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B98C8BA1-27D6-4E52-A337-3AE85197D53C",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "Yeah that’s pretty weird man ",
+    "ts": "1702056319.597149",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UAX7Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah "
+              },
+              {
+                "type": "text",
+                "text": "that’s"
+              },
+              {
+                "type": "text",
+                "text": " pretty weird man "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "180e4985-e53b-4160-b4df-2ff54874a51a",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "It probably has something to do with the persistence of a security feature... I remember Carrie going over it in class saying that if the current user doesn't have a valid \"session\" then they can't see most pages on the website.... I'm pretty sure theres a way to add a home page to be excluded from this... I'll rewatch the class and see if I can post when she talks about it.",
+    "ts": "1702061346.147489",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Nqlyl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It probably has something to do with the persistence of a security feature... I remember Carrie going over it in class saying that if the current user doesn't have a valid \"session\" then they can't see most pages on the website.... I'm pretty sure theres a way to add a home page to be excluded from this... I'll rewatch the class and see if I can post when she talks about it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "078cf558-fef0-4145-9055-9cd962bdb099",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Let me know what you find. From research it's a very common problem. I know there's a way to set up the http session and stuff but just haven't found a method that works yet",
+    "ts": "1702061744.998899",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CTlVe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Let me know what you find. From research it's a very common problem. I know there's a way to set up the http session and stuff but just haven't found a method that works yet"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "be631caa-5c86-4556-adde-990b41148fb5",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Side note I just uploaded a very rough draft for a function to add custom exercises on to \"Basic Development\"\u003chttps://github.com/TheLancers01/BasicDevelopment\u003e\nIf you want to test it go to /create/exercise.",
+    "ts": "1702062117.772079",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0574FFA3L5"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HVWAI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Side note I just uploaded a very rough draft for a function to add custom exercises on to \"Basic Development\""
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/TheLancers01/BasicDevelopment",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\nIf you want to test it go to /create/exercise."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1e9dc2fd-92df-4715-bc87-b3c3848e2e03",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "\u003chttps://www.youtube.com/watch?v=r7sYAQJvN3g\u003e",
+    "ts": "1702063084.934249",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: Unit 2 Class 19 Lecture — Chapter 19 (Authentication)",
+        "id": 1,
+        "author_name": "Code with Carrie",
+        "author_link": "https://www.youtube.com/@CodeWithCarrie",
+        "title": "Unit 2 Class 19 Lecture — Chapter 19 (Authentication)",
+        "title_link": "https://www.youtube.com/watch?v=r7sYAQJvN3g",
+        "thumb_url": "https://i.ytimg.com/vi/r7sYAQJvN3g/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://www.youtube.com/watch?v=r7sYAQJvN3g",
+        "original_url": "https://www.youtube.com/watch?v=r7sYAQJvN3g",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/ydQp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=r7sYAQJvN3g",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "56c0c204-918c-4016-9421-9353f4834165",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "1:16:30",
+    "ts": "1702063113.064929",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5xGu6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "1:16:30"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "387c46b1-39a1-4288-b14f-4fea0384926c",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Ok, I think I cleaned a bunch of stuff up. We'll probably have to adjust the paths as we integrate html stuff. But if you add:\n```@SpringBootApplication( exclude = { SecurityAutoConfiguration.class})```\nThat'll allow the app to open to the homepage as opposed to the default security login page",
+    "ts": "1702073896.583439",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dZob6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok, I think I cleaned a bunch of stuff up. We'll probably have to adjust the paths as we integrate html stuff. But if you add:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"@SpringBootApplication( exclude = { SecurityAutoConfiguration.class})\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That'll allow the app to open to the homepage as opposed to the default security login page"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8C5370DF-4BD0-4038-8A46-C9C6FA628798",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "How does this look guys?",
+    "ts": "1702077101.459449",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kR88H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How does this look guys?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "596AA52F-30C4-4C76-9ACD-A07B2AB99D27",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "ts": "1702077119.595699",
+    "files": [
+      {
+        "id": "F069A4M7HGD",
+        "created": 1702077106,
+        "timestamp": 1702077106,
+        "name": "IMG_0290.jpg",
+        "title": "IMG_0290",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U056YG34CS2",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2927367,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F069A4M7HGD/img_0290.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F069A4M7HGD/download/img_0290.jpg",
+        "original_h": 4284,
+        "original_w": 5712,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F069A4M7HGD-4e6c54a1e7/img_0290_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F069A4M7HGD-4e6c54a1e7/img_0290_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F069A4M7HGD-4e6c54a1e7/img_0290_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F069A4M7HGD-4e6c54a1e7/img_0290_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F069A4M7HGD-4e6c54a1e7/img_0290_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F069A4M7HGD-4e6c54a1e7/img_0290_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F069A4M7HGD-4e6c54a1e7/img_0290_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F069A4M7HGD-4e6c54a1e7/img_0290_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056YG34CS2/F069A4M7HGD/img_0290.jpg",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F069A4M7HGD-d7efe3b9bb",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8E9273DE-B267-467C-B1C2-049EBF1B6D2D",
+    "type": "message",
+    "user": "U056YG34CS2",
+    "text": "Do we want to color the create button differently?",
+    "ts": "1702077129.134759",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YwH7L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do we want to color the create button differently?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5275744225248_3a31d4a4f16610cb68ea_72.png",
+      "first_name": "Carl",
+      "real_name": "Carl Wallace",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "carlwall123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "be1ee9ce-6f9c-4f11-8185-6014cbaaf974",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "That looks good. I think the blue create button really pops so it's easy to find.",
+    "ts": "1702077773.399429",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dPvtJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That looks good. I think the blue create button really pops so it's easy to find."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,796 @@
+[
+  {
+    "client_msg_id": "ec2770ef-25d2-4e38-a305-6f40cb6f3d20",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Hey guys, your Project Proposal looks mostly fine but there were a few issues highlighted by Lexi. Let's get these taken care of asap please.",
+    "ts": "1701550757.589859",
+    "files": [
+      {
+        "id": "F067Y0F8K5M",
+        "created": 1701550720,
+        "timestamp": 1701550720,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056FFS0C64",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 139403,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F067Y0F8K5M/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F067Y0F8K5M/download/image.png",
+        "original_h": 596,
+        "original_w": 1221,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F067Y0F8K5M-2683d4f176/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F067Y0F8K5M-2683d4f176/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F067Y0F8K5M-2683d4f176/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F067Y0F8K5M-2683d4f176/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 176,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F067Y0F8K5M-2683d4f176/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 234,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F067Y0F8K5M-2683d4f176/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 351,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F067Y0F8K5M-2683d4f176/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 469,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F067Y0F8K5M-2683d4f176/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 500,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056FFS0C64/F067Y0F8K5M/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F067Y0F8K5M-dd4b88d13e",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vpBSs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys, your Project Proposal looks mostly fine but there were a few issues highlighted by Lexi. Let's get these taken care of asap please."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b64fa086-633b-492e-99ec-b13cb291ac02",
+    "type": "message",
+    "user": "U057VQXCWF2",
+    "text": "I checked the github, and it's set to public and seems to be in working order. Is there something else that needs to be done to set it up?",
+    "ts": "1701550993.404799",
+    "thread_ts": "1701550993.404799",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056FFS0C64",
+        "ts": "1701551038.240429"
+      }
+    ],
+    "latest_reply": "1701551038.240429",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bPjIQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I checked the github, and it's set to public and seems to be in working order. Is there something else that needs to be done to set it up?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246642724244_2ca7673e298680ccbb11_72.png",
+      "first_name": "Joe",
+      "real_name": "Joe Minor",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "joeminor8533",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056FFS0C64"
+    ]
+  },
+  {
+    "client_msg_id": "36321744-29a1-4199-a5b9-d027d92a3ccd",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Yup, you guys are good. I just now changed the visibility settings so that point is taken care of!",
+    "ts": "1701551038.240429",
+    "thread_ts": "1701550993.404799",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g5eX6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yup, you guys are good. I just now changed the visibility settings so that point is taken care of!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "36321744-29a1-4199-a5b9-d027d92a3ccd",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Yup, you guys are good. I just now changed the visibility settings so that point is taken care of!",
+    "ts": "1701551038.240429",
+    "thread_ts": "1701550993.404799",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g5eX6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yup, you guys are good. I just now changed the visibility settings so that point is taken care of!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8dd96a03-861f-42c4-b8de-6063c10c496a",
+    "type": "message",
+    "user": "U057VQXCWF2",
+    "text": "Oh ok, thanks Kavin!",
+    "ts": "1701551444.546199",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056FFS0C64"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nYbp6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh ok, thanks Kavin!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246642724244_2ca7673e298680ccbb11_72.png",
+      "first_name": "Joe",
+      "real_name": "Joe Minor",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "joeminor8533",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9969cb29-9a20-4c11-bec4-27701bfc9e26",
+    "type": "message",
+    "user": "U057VQXCWF2",
+    "text": "One more question Kavin, at the top of the page where it says \"Project Proposal\", should I fill that in with the name of our project also, or is that something different?",
+    "ts": "1701552704.286099",
+    "thread_ts": "1701552704.286099",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U056FFS0C64",
+        "ts": "1701553277.272159"
+      },
+      {
+        "user": "U057VQXCWF2",
+        "ts": "1701555389.535429"
+      },
+      {
+        "user": "U056FFS0C64",
+        "ts": "1701555435.095559"
+      }
+    ],
+    "latest_reply": "1701555435.095559",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zjAkZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "One more question Kavin, at the top of the page where it says \"Project Proposal\", should I fill that in with the name of our project also, or is that something different?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246642724244_2ca7673e298680ccbb11_72.png",
+      "first_name": "Joe",
+      "real_name": "Joe Minor",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "joeminor8533",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056FFS0C64",
+      "U057VQXCWF2"
+    ]
+  },
+  {
+    "client_msg_id": "cd33e5b6-e43f-489e-9a20-172ed44b49d5",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "No, it's fine to leave that as \"Project Proposal\"",
+    "ts": "1701553277.272159",
+    "thread_ts": "1701552704.286099",
+    "parent_user_id": "U057VQXCWF2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hZnLc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No, it's fine to leave that as \"Project Proposal\""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "81c1725c-6b4a-435b-9f87-711da155d36d",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Here's the sample for you guys to reference. Try to get your template satisfying this template as closely as you can!",
+    "ts": "1701553468.535489",
+    "files": [
+      {
+        "id": "F0685U4J3CN",
+        "created": 1701553445,
+        "timestamp": 1701553445,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056FFS0C64",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 149451,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F0685U4J3CN/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F0685U4J3CN/download/image.png",
+        "original_h": 1649,
+        "original_w": 650,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F0685U4J3CN-f6ee92d09b/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F0685U4J3CN-f6ee92d09b/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F0685U4J3CN-f6ee92d09b/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F0685U4J3CN-f6ee92d09b/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 142,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F0685U4J3CN-f6ee92d09b/image_480.png",
+        "thumb_480_w": 189,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F0685U4J3CN-f6ee92d09b/image_720.png",
+        "thumb_720_w": 284,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F0685U4J3CN-f6ee92d09b/image_960.png",
+        "thumb_960_w": 378,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F0685U4J3CN-f6ee92d09b/image_1024.png",
+        "thumb_1024_w": 404,
+        "thumb_1024_h": 1024,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056FFS0C64/F0685U4J3CN/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F0685U4J3CN-11aa4ab122",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U0625KF6RLH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WszbE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Here's the sample for you guys to reference. Try to get your template satisfying this template as closely as you can!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0a013f7d-d699-4df9-a085-3436f602c6d0",
+    "type": "message",
+    "user": "U057VQXCWF2",
+    "text": "Alright, I was just making sure since it was highlighted as well, thanks",
+    "ts": "1701555389.535429",
+    "thread_ts": "1701552704.286099",
+    "parent_user_id": "U057VQXCWF2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EovGG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Alright, I was just making sure since it was highlighted as well, thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246642724244_2ca7673e298680ccbb11_72.png",
+      "first_name": "Joe",
+      "real_name": "Joe Minor",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "joeminor8533",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c606be6e-0d2e-42e5-a8ac-3693a5d4c8fa",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Yup! I've seen it both ways, so unless it's explicitly mentioned I wouldn't worry about it!",
+    "ts": "1701555435.095559",
+    "thread_ts": "1701552704.286099",
+    "parent_user_id": "U057VQXCWF2",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057VQXCWF2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xGhLI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yup! I've seen it both ways, so unless it's explicitly mentioned I wouldn't worry about it!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9c52af94-4358-428e-aeca-b8acf2651acd",
+    "type": "message",
+    "user": "U057VQXCWF2",
+    "text": "Do we need to resubmit the proposal, or just let you know that we've made the changes, Kavin?",
+    "ts": "1701555993.740599",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2qXr1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do we need to resubmit the proposal, or just let you know that we've made the changes, Kavin?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246642724244_2ca7673e298680ccbb11_72.png",
+      "first_name": "Joe",
+      "real_name": "Joe Minor",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "joeminor8533",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "384b6018-6260-4b44-b7cd-ce5fca1a4940",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Great question. For now I would mark the tasks as completed by checking the arrow on the comments. I'm pretty sure this will notify Lexi that the requests were completed!\n\nOtherwise, yes, we can always re-submit down the road for good measure. But for now I think checking off the comments will work until we're told otherwise.",
+    "ts": "1701556189.341529",
+    "edited": {
+      "user": "U056FFS0C64",
+      "ts": "1701556270.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oRpl+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Great question. For now I would mark the tasks as completed by checking the arrow on the comments. I'm pretty sure this will notify Lexi that the requests were completed!\n\nOtherwise, yes, we can always re-submit down the road for good measure. But for now I think checking off the comments will work until we're told otherwise."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b37edb21-7cf7-417a-8dc1-f1af80a303db",
+    "type": "message",
+    "user": "U057VQXCWF2",
+    "text": "Sounds good!",
+    "ts": "1701556406.678339",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "O3To4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sounds good!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246642724244_2ca7673e298680ccbb11_72.png",
+      "first_name": "Joe",
+      "real_name": "Joe Minor",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "joeminor8533",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

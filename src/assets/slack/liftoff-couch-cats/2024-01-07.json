@@ -1,0 +1,1726 @@
+[
+  {
+    "client_msg_id": "45052259-ca1c-4c7e-a176-e83eecddabba",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "Thanks for writing this up, it all sounds good to me! A few quick additions:\n\n• To get to the correct number of features for the proposal we said we’d do a movie log where users can record star ratings for movies they’ve already watched. I also set this up to record the date they logged the movie. We should probably also display this on the profile page, maybe under the watchlist (hopefully we can reuse a lot of the code for displaying the watchlist to do this)\n• Maybe in addition to ‘add to watchlist’, we can have a ‘log’ or ‘add to log’ button that displays when a logged in user is looking at a movie? We’ll probably also need a very simple interface to let the user rate the movie (currently set up to take a number out of 5 stars but this is easy to adjust)\n• I think it would be nice if the ‘add to watchlist’/‘add to log’ changes to ‘remove from watchlist’/‘remove from log’ if the user has already saved that movie, and/or they see an icon (a star? an eye?) indicating that that movie appears on one of their lists, or the star rating they gave it, or something. Probably not the most essential thing at this point, but I think it would be a nice touch if we have time\nHow does this sound to people?",
+    "ts": "1704647695.510529",
+    "thread_ts": "1704576378.954599",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xTWQB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks for writing this up, it all sounds good to me! A few quick additions:\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"To get to the correct number of features for the proposal we said we\\u2019d do a movie log where users can record star ratings for movies they\\u2019ve already watched. I also set this up to record the date they logged the movie. We should probably also display this on the profile page, maybe under the watchlist (hopefully we can reuse a lot of the code for displaying the watchlist to do this)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Maybe in addition to \\u2018add to watchlist\\u2019, we can have a \\u2018log\\u2019 or \\u2018add to log\\u2019 button that displays when a logged in user is looking at a movie? We\\u2019ll probably also need a very simple interface to let the user rate the movie (currently set up to take a number out of 5 stars but this is easy to adjust)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"I think it would be nice if the \\u2018add to watchlist\\u2019\\/\\u2018add to log\\u2019 changes to \\u2018remove from watchlist\\u2019\\/\\u2018remove from log\\u2019 if the user has already saved that movie, and\\/or they see an icon (a star? an eye?) indicating that that movie appears on one of their lists, or the star rating they gave it, or something. Probably not the most essential thing at this point, but I think it would be a nice touch if we have time\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How does this sound to people?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "62A041F7-BB23-4C10-B053-5117B7B37CBA",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "That all makes sense to me w one question, should the term be more like “rate and move to watched” — that’s probably too long but just thinking if the functionality is just to remove from watchlist and move to a list that tracks what I’ve watched as a user and my rating of that, log is maybe a less intuitive term. But also you can tell me I’m splitting hairs and to shush :upside_down_face:\n\nI like the idea of an eye for watched. Maybe log is just the code term and I misunderstood.\n\nAnd for bullet 3. On click is actually fairly easy, I figured out how to send a post to logout on button click last night which is what I think your do to achieve that. ",
+    "ts": "1704650052.123019",
+    "thread_ts": "1704576378.954599",
+    "edited": {
+      "user": "U056Q9W022K",
+      "ts": "1704650495.000000"
+    },
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/fc/b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That all makes sense to me w one question, should the term be more like “rate and move to watched” — that’s probably too long but just thinking if the functionality is just to remove from watchlist and move to a list that tracks what I’ve watched as a user and my rating of that, log is maybe a less intuitive term. But also you can tell me I’m splitting hairs and to shush "
+              },
+              {
+                "type": "emoji",
+                "name": "upside_down_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nI like the idea of an eye for watched. Maybe log is just the code term and I misunderstood.\n\nAnd for bullet 3. On click is actually fairly easy, I figured out how to send a post to logout on button click last night which is what I think your do to achieve that. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "27ABBAF7-C94B-4126-9678-CCDDD2121159",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "And we won’t build this now but just thinking ahead to talking points for our demos (that we could speak to as future things of that comes up,) and what this feature would allow us to do / build upon is also pretty cool! \n\ntwo things that popped into my head are:\n\n1. Eventually display two ratings on movies— the one be from TMDB and the one from CouchCat users\n2. Eventually add the ability for a user to exclude movies they have already watched from their results if they want",
+    "ts": "1704650227.226889",
+    "thread_ts": "1704576378.954599",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pnfSo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And we won’t build this now but just thinking ahead to talking points for our demos "
+              },
+              {
+                "type": "text",
+                "text": "("
+              },
+              {
+                "type": "text",
+                "text": "that we could speak to as future things of that comes up,"
+              },
+              {
+                "type": "text",
+                "text": ") "
+              },
+              {
+                "type": "text",
+                "text": "and what this feature would allow us to do / build upon is also pretty cool"
+              },
+              {
+                "type": "text",
+                "text": "! \n\ntwo things that popped into my head are:\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Eventually display two ratings on movies\\u2014 the one be from TMDB and the one from CouchCat users\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Eventually add the a\"},{\"type\":\"text\",\"text\":\"bility for a user to exclude movies they have already watched from their results\"},{\"type\":\"text\",\"text\":\" if they want\"}]}],\"style\":\"ordered\",\"indent\":0,\"offset\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0C3304F1-2D4C-47F4-80B5-1853DB80FD51",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "I like “rate and move to watched”! I think we initially said “favorites” but I think that’s confusing if it’s movie ratings since presumably people will sometimes be rating things they didn’t like, and I also thought about “watched” or “watched list” but that sounds too similar to “watchlist”. I think it could work for the button to say “rate and move to watched” and then the list displays as something like “watched movies,” “logged movies” or “rated movies”?",
+    "ts": "1704650898.824869",
+    "thread_ts": "1704576378.954599",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JB4yy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I like “rate and move to watched”! I think we initially said “favorites” but I think "
+              },
+              {
+                "type": "text",
+                "text": "that’s"
+              },
+              {
+                "type": "text",
+                "text": " confusing if "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " movie ratings since presumably people will sometimes be rating things they "
+              },
+              {
+                "type": "text",
+                "text": "didn’t"
+              },
+              {
+                "type": "text",
+                "text": " like, and I also thought about “watched” or “watched list” but that sounds too similar to “watchlist”"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " I think it could work for the button to say “rate and move to watched” and then the list displays as something like “watched movies,” “logged movies” or “rated movies”?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5dbcda8d-2917-415f-812b-83adbe7a86cc",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "I just think for now we still focus on the MVP and get what we have planned done. I like the ideas but I'm already feel a little overwhelmed with what we have left to get done before the 18th.\n\nI do plan on adding the star rating to the watch list to finish the CRUD (update).",
+    "ts": "1704658860.293339",
+    "thread_ts": "1704576378.954599",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ydh7w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just think for now we still focus on the MVP and get what we have planned done. I like the ideas but I'm already feel a little overwhelmed with what we have left to get done before the 18th.\n\nI do plan on adding the star rating to the watch list to finish the CRUD (update)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "40B9277F-1733-4812-B9AB-2D1BD4E8A72E",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "To be clear, the things I threw out were not things. I’m suggesting tackling now — they are things that I think we can use to talk about in our demo about how we would expand upon the base feature that Yuma is building.\n\nI keep trying to think about the demo bc I’m also panicking a bit",
+    "ts": "1704663468.112229",
+    "thread_ts": "1704576378.954599",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0Dvm2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "To be clear, the things I threw out were not things. I’m suggesting tackling now "
+              },
+              {
+                "type": "text",
+                "text": "—"
+              },
+              {
+                "type": "text",
+                "text": " they are things that I think we can use to talk about in our demo about how we would expand upon the base feature that Yuma is building.\n\nI keep trying to think about the demo bc "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " also panicking a bit"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "29B3B71D-4B96-49C0-A27B-46769F808E4A",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Yep. All good. I’m just nervous about it haha\n\n\u003c@U056Y707Y14\u003e what’re you working on now?",
+    "ts": "1704663988.798409",
+    "thread_ts": "1704576378.954599",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hLKrp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yep. All good. I’m just nervous about it haha\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U056Y707Y14"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "what’re"
+              },
+              {
+                "type": "text",
+                "text": " you working on now?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4C8CA49C-3679-4C72-8005-2AA8B5D34E24",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "I’m trying to figure out how to get React to track which user is logged in and return details about them using the back end stuff that Erin set up. Slow going so far since I haven’t done anything with React since that unit so I’m having to reorient myself, but I’m working on it. (Can also switch over to something else if there’s another priority)",
+    "ts": "1704664203.801789",
+    "thread_ts": "1704576378.954599",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1Y1/s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " trying to figure out how to get React to track which user is logged in and return details about them using the back end stuff that Erin set up"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Slow going so far since I "
+              },
+              {
+                "type": "text",
+                "text": "haven’t"
+              },
+              {
+                "type": "text",
+                "text": " done anything with React since that unit so "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " having to reorient myself, but "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " working on it"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " (Can also switch over to something else if "
+              },
+              {
+                "type": "text",
+                "text": "there’s"
+              },
+              {
+                "type": "text",
+                "text": " another priority)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "EFBAE553-93CA-4EA2-B597-C880A6FCAE21",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Just curious so we don’t overlap. I remember talking about that so my bad.\n\nIf you need any help with react, let me know.",
+    "ts": "1704665348.130669",
+    "thread_ts": "1704576378.954599",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Nav4q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just curious so we "
+              },
+              {
+                "type": "text",
+                "text": "don’t"
+              },
+              {
+                "type": "text",
+                "text": " overlap. I remember talking about that so my bad.\n\nIf you need any help with react, let me know."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6ec3ef84-677f-4adf-aca6-4b0a7ca9b3ce",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "thank you, I will almost certainly take you up on that soon!",
+    "ts": "1704665428.813689",
+    "thread_ts": "1704576378.954599",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "br+2J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you, I will almost certainly take you up on that soon!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7F619D66-A549-4B58-A7D9-71101E6DF220",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U056Y707Y14\u003e- Since I figured out the logout stuff and it uses the session ID I can pass along what I figured out there, which may be useful. ",
+    "ts": "1704665813.171249",
+    "thread_ts": "1704576378.954599",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EyaAy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056Y707Y14"
+              },
+              {
+                "type": "text",
+                "text": "- Since I figured out the logout stuff and it uses the session ID I can pass along what I figured out there, which may be useful. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "223D9CF3-BDD4-4F6E-83D6-0391FB5F71AE",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Or the very least I need to spend a tiny bit of time getting my code cleaned up, adding some comments and then I can commit so you can use the hard coded login test user for testing (not a form fill) so you have something to work with and the logout function as reference for passing the session id ",
+    "ts": "1704665925.153069",
+    "thread_ts": "1704576378.954599",
+    "edited": {
+      "user": "U056Q9W022K",
+      "ts": "1704666317.000000"
+    },
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tTUBd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Or the very least I need to spend a tiny bit of time getting my code cleaned up, adding some comments and then I can commit so you can use the hard coded login test user for testing (not a form fill) so you have something to work with and the logout function as reference for passing the session id "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d8222b70-2221-401c-933b-a10095126428",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Does everybody code still work after my most recent pull request? I just want to make sure before I delete my fork and start anew. I'm having one weird error with the registration page so I just want to make sure to clean that up.",
+    "ts": "1704666134.440819",
+    "thread_ts": "1704666134.440819",
+    "edited": {
+      "user": "U057C75RYBB",
+      "ts": "1704666147.000000"
+    },
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704666357.199199"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1704666357.898929"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1704666405.941489"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704666432.115369"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1704666446.048929"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1704666483.654539"
+      },
+      {
+        "user": "U0578M93BPE",
+        "ts": "1704666497.241079"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1704666524.994509"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1704666543.373789"
+      }
+    ],
+    "latest_reply": "1704666543.373789",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "91r9n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Does everybody code still work after my most recent pull request? I just want to make sure before I delete my fork and start anew. I'm having one weird error with the registration page so I just want to make sure to clean that up."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U056Q9W022K",
+      "U056Y707Y14",
+      "U0578M93BPE",
+      "U057C75RYBB"
+    ]
+  },
+  {
+    "client_msg_id": "5c2230f6-b7e4-4df7-9de7-afd8ef7908dc",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "sounds good, thank you!",
+    "ts": "1704666285.076039",
+    "thread_ts": "1704576378.954599",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "is8Wd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sounds good, thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "25767042-B916-4028-A77F-D99432B076BC",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Mine worked as of 2am last night, was there a new one since then? If not, all good",
+    "ts": "1704666357.199199",
+    "thread_ts": "1704666134.440819",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "abU9c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Mine worked as of 2am last night, was there a new one since then? If not, all good"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0c9bc686-5a7c-406b-b04e-a204242edf92",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "I’m actually getting a weird error when I try to search now, but it might be a problem with my local setup",
+    "ts": "1704666357.898929",
+    "thread_ts": "1704666134.440819",
+    "parent_user_id": "U057C75RYBB",
+    "files": [
+      {
+        "id": "F06CQ8FRCPP",
+        "created": 1704666353,
+        "timestamp": 1704666353,
+        "name": "Screen Shot 2024-01-07 at 5.25.16 PM.png",
+        "title": "Screen Shot 2024-01-07 at 5.25.16 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056Y707Y14",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 624080,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06CQ8FRCPP/screen_shot_2024-01-07_at_5.25.16_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06CQ8FRCPP/download/screen_shot_2024-01-07_at_5.25.16_pm.png",
+        "original_h": 900,
+        "original_w": 1440,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ8FRCPP-ca62831b0b/screen_shot_2024-01-07_at_5.25.16_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ8FRCPP-ca62831b0b/screen_shot_2024-01-07_at_5.25.16_pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ8FRCPP-ca62831b0b/screen_shot_2024-01-07_at_5.25.16_pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ8FRCPP-ca62831b0b/screen_shot_2024-01-07_at_5.25.16_pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 225,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ8FRCPP-ca62831b0b/screen_shot_2024-01-07_at_5.25.16_pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 300,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ8FRCPP-ca62831b0b/screen_shot_2024-01-07_at_5.25.16_pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 450,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ8FRCPP-ca62831b0b/screen_shot_2024-01-07_at_5.25.16_pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 600,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CQ8FRCPP-ca62831b0b/screen_shot_2024-01-07_at_5.25.16_pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 640,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056Y707Y14/F06CQ8FRCPP/screen_shot_2024-01-07_at_5.25.16_pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06CQ8FRCPP-875f448641",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AaCZm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m actually getting a weird error when I try to search now, but it might be a problem with my local setup"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1B935ADA-AB1A-4D6D-AE7C-B8B092EA4573",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "That’s an error when the watchlist is null.",
+    "ts": "1704666405.941489",
+    "thread_ts": "1704666134.440819",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PqQGM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That’s"
+              },
+              {
+                "type": "text",
+                "text": " an error when the watchlist is null."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7164B9E0-51F0-4FE5-8782-06EB41B1C54A",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Nvm",
+    "ts": "1704666432.115369",
+    "thread_ts": "1704666134.440819",
+    "edited": {
+      "user": "U056Q9W022K",
+      "ts": "1704666445.000000"
+    },
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fp+2O",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nvm"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bd1dbcc0-3e1f-40c3-b377-292e9f295ccd",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "pretty sure I’m up to date with everything",
+    "ts": "1704666446.048929",
+    "thread_ts": "1704666134.440819",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1lJaU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "pretty sure I’m up to date with everything"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "38C74F6E-57F3-4171-A219-2715363C5208",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "I’ll make a safeguard.\n\nI’d just make sure you’re pulling from the database and there is a user id in the App.js state.",
+    "ts": "1704666483.654539",
+    "thread_ts": "1704666134.440819",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kuABg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " make a safeguard.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "I’d"
+              },
+              {
+                "type": "text",
+                "text": " just make sure "
+              },
+              {
+                "type": "text",
+                "text": "you’re"
+              },
+              {
+                "type": "text",
+                "text": " pulling from the database and there is a user id in the App.js state."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f16382d6-88aa-43a1-9dc2-911e61310a8a",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "no problem",
+    "ts": "1704666497.241079",
+    "thread_ts": "1704666134.440819",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mn6e8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no problem"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6FAF9BA5-630A-4CBB-A5ED-C1B1D2B0E212",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Or just comment out that code that is in MovieDisplay.js",
+    "ts": "1704666524.994509",
+    "thread_ts": "1704666134.440819",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EnRn6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Or just comment "
+              },
+              {
+                "type": "text",
+                "text": "out"
+              },
+              {
+                "type": "text",
+                "text": " that code that is in MovieDisplay.js"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0dcfb443-0c80-4b50-b0bd-21de5be8f2c6",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "ok, thanks!",
+    "ts": "1704666543.373789",
+    "thread_ts": "1704666134.440819",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BTTMc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok, thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "84943893-ae10-4614-9f23-e7f9679526c8",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "With a new clone, this error persists when opening the Registration page. Have you ran into this?",
+    "ts": "1704667849.511649",
+    "thread_ts": "1704667849.511649",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U056Y707Y14",
+        "ts": "1704671547.191489"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704677560.422499"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1704679176.459929"
+      }
+    ],
+    "latest_reply": "1704679176.459929",
+    "files": [
+      {
+        "id": "F06CVLK3K2Q",
+        "created": 1704667730,
+        "timestamp": 1704667730,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057C75RYBB",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 212319,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06CVLK3K2Q/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06CVLK3K2Q/download/image.png",
+        "original_h": 707,
+        "original_w": 2432,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CVLK3K2Q-b6171d937a/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CVLK3K2Q-b6171d937a/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CVLK3K2Q-b6171d937a/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CVLK3K2Q-b6171d937a/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 105,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CVLK3K2Q-b6171d937a/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 140,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CVLK3K2Q-b6171d937a/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 209,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CVLK3K2Q-b6171d937a/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 279,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CVLK3K2Q-b6171d937a/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 298,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057C75RYBB/F06CVLK3K2Q/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06CVLK3K2Q-f8c7993885",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yqD1l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "With a new clone, this error persists when opening the Registration page. Have you ran into this?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056Q9W022K",
+      "U056Y707Y14",
+      "U057C75RYBB"
+    ]
+  },
+  {
+    "client_msg_id": "0f15a32e-df9a-4e70-ba20-ecc83faa1399",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "This looks like only instance of disable in RegisterComponent. (line 204)",
+    "ts": "1704667867.292549",
+    "edited": {
+      "user": "U057C75RYBB",
+      "ts": "1704667883.000000"
+    },
+    "files": [
+      {
+        "id": "F06CT7CE6LS",
+        "created": 1704667850,
+        "timestamp": 1704667850,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057C75RYBB",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 14629,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06CT7CE6LS/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06CT7CE6LS/download/image.png",
+        "original_h": 166,
+        "original_w": 627,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CT7CE6LS-d4b6a59262/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CT7CE6LS-d4b6a59262/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CT7CE6LS-d4b6a59262/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CT7CE6LS-d4b6a59262/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 95,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CT7CE6LS-d4b6a59262/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 127,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057C75RYBB/F06CT7CE6LS/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06CT7CE6LS-9e007cfa84",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MTE5C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This looks like only instance of disable in RegisterComponent. (line 204)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "987adb2a-3ce5-403f-9788-4302352dd355",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "weird, I don’t think I’ve seen this before (though I haven’t done that much work with the front end)",
+    "ts": "1704671547.191489",
+    "thread_ts": "1704667849.511649",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iV9Oz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "weird, I don’t think I’ve seen this before (though I haven’t done that much work with the front end)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

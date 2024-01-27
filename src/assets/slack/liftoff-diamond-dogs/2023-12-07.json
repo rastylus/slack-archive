@@ -1,0 +1,828 @@
+[
+  {
+    "client_msg_id": "105AEFAB-D552-4935-B876-709DC663AA6F",
+    "type": "message",
+    "user": "U055S98U8G2",
+    "text": "\u003c@U057UNE3XPS\u003e  Are u logged in under the same email that u gave me and did u accept the invite ",
+    "ts": "1701910814.061079",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3OUz8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057UNE3XPS"
+              },
+              {
+                "type": "text",
+                "text": "  Are u logged in under the same email that u gave me and did u accept the invite "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5208942534833_61c4df60725855ac84c1_72.jpg",
+      "first_name": "Cory",
+      "real_name": "Cory Pride",
+      "display_name": "TA-Cory Pride (He/Him)",
+      "team": "T050CSX3EMT",
+      "name": "cory.pride83",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d353a2e8-a5bc-43be-a442-ec3adb6dbf83",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "And that's all folks.",
+    "ts": "1701913204.453349",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G8qEi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And that's all folks."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fc2ca99a-5352-483f-8fb1-ebbfe76efe21",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Do we need a few more minutes?",
+    "ts": "1701913226.104039",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hbA4m",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do we need a few more minutes?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3a02e451-2a86-40e8-a35a-124cacba6403",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "I'll continue to work on auth, maybe to add some customization and db for users",
+    "ts": "1701913273.701349",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PeFJT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll continue to work on auth, maybe to add some customization and db for users"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6640c86f-9aec-4a5c-b99d-e44774fdb9fb",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "i might need some help for a few minutes",
+    "ts": "1701913280.826759",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0AwMP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i might need some help for a few minutes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bc90eb7e-0fbc-4a56-aaa4-0ab052226bb1",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "looks like i can’t start another zoom for 8 minutes",
+    "ts": "1701913311.890189",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m59Zn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "looks like i can’t start another zoom for 8 minutes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bfe9e240-395a-4c2f-b5b7-5ad1a9afaa07",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Let me see if I can.",
+    "ts": "1701913322.288719",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jQEu/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Let me see if I can."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9f708e14-7e09-4699-8973-a98e0ab2f310",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "\u003chttps://us04web.zoom.us/j/79674461670?pwd=moIqDljY5CggFFbGKp52je3lMDLr2L.1\u003e",
+    "ts": "1701913366.362899",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "94HBh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://us04web.zoom.us/j/79674461670?pwd=moIqDljY5CggFFbGKp52je3lMDLr2L.1",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dd10f72f-2dd3-43c8-94e1-ec26b902a2e6",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "so when i try to run “npm install” and then “npm start” I get this:",
+    "ts": "1701914130.985389",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GxUbw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so when i try to run “npm install” and then “npm start” I get this:"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fa69529c-4920-45a8-9054-df908869a163",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "tforsythe@macbook-pro-7 diamonddogs                     (custom404) $ npm start\nnpm ERR! Missing script: “start”\nnpm ERR!\nnpm ERR! Did you mean one of these?\nnpm ERR!     npm star # Mark your favorite packages\nnpm ERR!     npm stars # View packages marked as favorites\nnpm ERR!\nnpm ERR! To see a list of scripts, run:\nnpm ERR!   npm run\n\nnpm ERR! A complete log of this run can be found in: /Users/tforsythe/.npm/_logs/2023-12-07T01_54_09_534Z-debug-0.log",
+    "ts": "1701914133.737509",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ELisY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "tforsythe@macbook-pro-7 diamonddogs                     (custom404) $ npm start\nnpm ERR! Missing script: “start”\nnpm ERR!\nnpm ERR! Did you mean one of these?\nnpm ERR!     npm star # Mark your favorite packages\nnpm ERR!     npm stars # View packages marked as favorites\nnpm ERR!\nnpm ERR! To see a list of scripts, run:\nnpm ERR!   npm run\n\nnpm ERR! A complete log of this run can be found in: /Users/tforsythe/.npm/_logs/2023-12-07T01_54_09_534Z-debug-0.log"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "059b4bfb-9292-40ec-bd1f-3df95bf89f0a",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "when i run the program bootRun in IntelliJ, it looks successful and the console reads “Started HappyrootsApplication”. but when i try to input npm start in VS Code, i get those errors. Not sure if I’m missing something to install to at least get this inital program to work",
+    "ts": "1701915162.191999",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LdTRf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "when i run the program bootRun in IntelliJ, it looks successful and the console reads “Started HappyrootsApplication”. but when i try to input npm start in VS Code, i get those errors. Not sure if I’m missing something to install to at least get this inital program to work"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7f1f9dab-e41d-45f8-8c13-256ea3a15e14",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "i tried to run an old react app we made from class and it ran just fine, but i noticed that orbit report app had a node_modules directory. I don’t see that in happyroots-react folder. Should thta be there?",
+    "ts": "1701918838.054099",
+    "thread_ts": "1701918838.054099",
+    "last_read": "1701962773.644409",
+    "subscribed": true,
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056RCF9G87",
+        "ts": "1701933090.931959"
+      },
+      {
+        "user": "U057UNE3XPS",
+        "ts": "1701962773.644409"
+      }
+    ],
+    "latest_reply": "1701962773.644409",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Nq86E",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i tried to run an old react app we made from class and it ran just fine, but i noticed that orbit report app had a node_modules directory. I don’t see that in happyroots-react folder. Should thta be there?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056RCF9G87",
+      "U057UNE3XPS"
+    ]
+  },
+  {
+    "client_msg_id": "58F8C987-DEA4-4816-9154-F0AC91891B9C",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "I think you might need to run npm install in the happyroots-react folder to get those modules. I think they’re part of the gitignore file because there’s like 40,000 of them.",
+    "ts": "1701933090.931959",
+    "thread_ts": "1701918838.054099",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2z7V7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think you might need to run npm install in the happyroots-react folder to get those modules. I think "
+              },
+              {
+                "type": "text",
+                "text": "they’re"
+              },
+              {
+                "type": "text",
+                "text": " part of the gitignore file because "
+              },
+              {
+                "type": "text",
+                "text": "there’s"
+              },
+              {
+                "type": "text",
+                "text": " like 40,000 of them."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2a443522-c1f9-4751-919a-64cdc2703a66",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "did that, looks like that worked",
+    "ts": "1701962773.644409",
+    "thread_ts": "1701918838.054099",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WUG3F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "did that, looks like that worked"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e1e55776-0f5a-4c76-ac88-c07074f6261d",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "finished implementing the 404 page. Right now it’s just some copy and a link to Home, but it works",
+    "ts": "1701973151.038939",
+    "thread_ts": "1701973151.038939",
+    "last_read": "1701982073.027049",
+    "subscribed": true,
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056RCF9G87",
+        "ts": "1701982073.027049"
+      }
+    ],
+    "latest_reply": "1701982073.027049",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mZcG7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "finished implementing the 404 page. Right now it’s just some copy and a link to Home, but it works"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056RCF9G87"
+    ]
+  },
+  {
+    "client_msg_id": "C054154A-7E85-4C8F-B1AE-56D843929199",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "Awesome. I’m down to try another pull/merge soon to see if I’m understanding it correctly. I’ve got some basic page routing for some of the nav bar links that are working at the moment, but I keep breaking the grade build somehow so I’ve been pushing them up more frequently just in case I have to reclone again(which I’ve already done a handful of times).",
+    "ts": "1701982073.027049",
+    "thread_ts": "1701973151.038939",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E3hxJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome. "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " down to try another pull/merge soon to see if I’m understanding it correctly. "
+              },
+              {
+                "type": "text",
+                "text": "I’ve"
+              },
+              {
+                "type": "text",
+                "text": " got some basic page routing for some of the nav bar links that are working at the moment, but I keep breaking the grade build somehow so "
+              },
+              {
+                "type": "text",
+                "text": "I’ve"
+              },
+              {
+                "type": "text",
+                "text": " been pushing them up more frequently just in case I have to reclone again(which "
+              },
+              {
+                "type": "text",
+                "text": "I’ve"
+              },
+              {
+                "type": "text",
+                "text": " already done a handful of times)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

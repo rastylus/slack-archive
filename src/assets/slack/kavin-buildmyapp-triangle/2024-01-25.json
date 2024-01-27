@@ -1,0 +1,239 @@
+[
+  {
+    "client_msg_id": "aed8d5b9-9663-45f5-9a62-ee20676eab5a",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "They wanted me to merge everything for a better score, so I went ahead and merged it and made some minor fixes on my end.\nIs it possible for you to take in the Pull Request before 5:30 \u003c@U056VF0MDPH\u003e?",
+    "ts": "1706212564.841149",
+    "thread_ts": "1706212564.841149",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U056FFS0C64",
+        "ts": "1706218944.736299"
+      },
+      {
+        "user": "U056VF0MDPH",
+        "ts": "1706221841.082249"
+      },
+      {
+        "user": "U056R914DAT",
+        "ts": "1706223909.192529"
+      }
+    ],
+    "latest_reply": "1706223909.192529",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pJmvD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "They wanted me to merge everything for a better score, so I went ahead and merged it and made some minor fixes on my end.\nIs it possible for you to take in the Pull Request before 5:30 "
+              },
+              {
+                "type": "user",
+                "user_id": "U056VF0MDPH"
+              },
+              {
+                "type": "text",
+                "text": "?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056FFS0C64",
+      "U056R914DAT",
+      "U056VF0MDPH"
+    ]
+  },
+  {
+    "client_msg_id": "d7d2091c-78fd-48ed-9fae-5d3535c2b2a5",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Ping me if someone else can't get to it by 5 and I'll review the PR for you",
+    "ts": "1706218944.736299",
+    "thread_ts": "1706212564.841149",
+    "parent_user_id": "U056R914DAT",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056R914DAT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kUxa9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ping me if someone else can't get to it by 5 and I'll review the PR for you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "aa088cf0-cbb0-4e71-9e22-717c9a8f1bb4",
+    "type": "message",
+    "user": "U056VF0MDPH",
+    "text": "its been taken care of.",
+    "ts": "1706221841.082249",
+    "thread_ts": "1706212564.841149",
+    "parent_user_id": "U056R914DAT",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U056FFS0C64"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ocfq+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "its been taken care of."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5233510792727_27f43d51e25b2ef600fa_72.png",
+      "first_name": "Seth",
+      "real_name": "Seth Woodrow",
+      "display_name": "Seth Woodrow",
+      "team": "T050CSX3EMT",
+      "name": "seth.woodrow0",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fa7fc20a-1f2b-4a89-9a45-6021d82df9c7",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "Thanks!",
+    "ts": "1706223909.192529",
+    "thread_ts": "1706212564.841149",
+    "parent_user_id": "U056R914DAT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cSYv0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

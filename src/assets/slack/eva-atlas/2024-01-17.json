@@ -1,0 +1,1133 @@
+[
+  {
+    "client_msg_id": "8d08730a-6451-4715-bc59-c5d6d6fd0215",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "\u003c@U0574U0BKQA\u003e \u003c@U057MA0AHEG\u003e",
+    "ts": "1705451462.793589",
+    "thread_ts": "1705385601.308059",
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e5deK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0574U0BKQA"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U057MA0AHEG"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2f395ece-0457-4399-a5f1-49cf3806c2b2",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "Noting this for our call:\n\nMajor differences in how the User is implemented in this 'tour-creation' branch against my most recent implementation in my 'user-authentication' branch are:\n\n- I do not extend my class from AbstractEntity\n- I have the ID of the user's id as 'userID' and it is defined directly in User.java\n- I have the username of the user's defined as 'username' and directly in User.java\n- tour-creation: userEmail member; user-auth: emailAddress\n- passwordHash defined on User and acocmpanying methods\n- I handle parameterized @Validations in the user sign-up DTO\n- UserGroup associations are defined in a Set\u0026lt;UserGroup\u0026gt; attribute; with a @ManyToMany relationship\n- Methods to add and remove UserGroup to the 'userGroups' Set; as well as getter and setters\n- Set up a @OneToOne relationship between User and UserProfileDetails\n- Moved firstName, lastName, location (and added aboutMe) to UserProfileDetails class\n- Moved List\u0026lt;Tour\u0026gt; and List\u0026lt;UserReview\u0026gt; properties to UserProfileDetails class\n- Slightly varied constructors\n- Other getters and setters",
+    "ts": "1705451465.179669",
+    "thread_ts": "1705385601.308059",
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KcSZU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Noting this for our call:\n\nMajor differences in how the User is implemented in this 'tour-creation' branch against my most recent implementation in my 'user-authentication' branch are:\n\n- I do not extend my class from AbstractEntity\n- I have the ID of the user's id as 'userID' and it is defined directly in User.java\n- I have the username of the user's defined as 'username' and directly in User.java\n- tour-creation: userEmail member; user-auth: emailAddress\n- passwordHash defined on User and acocmpanying methods\n- I handle parameterized @Validations in the user sign-up DTO\n- UserGroup associations are defined in a Set\u003cUserGroup\u003e attribute; with a @ManyToMany relationship\n- Methods to add and remove UserGroup to the 'userGroups' Set; as well as getter and setters\n- Set up a @OneToOne relationship between User and UserProfileDetails\n- Moved firstName, lastName, location (and added aboutMe) to UserProfileDetails class\n- Moved List\u003cTour\u003e and List\u003cUserReview\u003e properties to UserProfileDetails class\n- Slightly varied constructors\n- Other getters and setters"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "99793b6c-41a2-402f-8d1a-d3f2d2c6b3ca",
+    "type": "message",
+    "user": "U0574U0BKQA",
+    "text": "Thanks for the context \u003c@U057UGWMN48\u003e\n\nJust give me a ping when it's a good time to jump on",
+    "ts": "1705455391.287309",
+    "thread_ts": "1705385601.308059",
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "as8do",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks for the context "
+              },
+              {
+                "type": "user",
+                "user_id": "U057UGWMN48"
+              },
+              {
+                "type": "text",
+                "text": "\n\nJust give me a ping when it's a good time to jump on"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245917112390_a678285ea0ed240e1e11_72.jpg",
+      "first_name": "Devon",
+      "real_name": "Devon Harris",
+      "display_name": "Devon H. (Philly)",
+      "team": "T050CSX3EMT",
+      "name": "devharris93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c77953c5-bd2a-4975-84b2-f7d1c475ba0e",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "\u003c@U0574U0BKQA\u003e Did you want to discuss independently or also with Landon?",
+    "ts": "1705455455.094719",
+    "thread_ts": "1705385601.308059",
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mvGLC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0574U0BKQA"
+              },
+              {
+                "type": "text",
+                "text": " Did you want to discuss independently or also with Landon?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dc4be941-bc7c-426e-9cf5-e8e7003215d0",
+    "type": "message",
+    "user": "U0574U0BKQA",
+    "text": "Group chat never hurts",
+    "ts": "1705455476.753649",
+    "thread_ts": "1705385601.308059",
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9oxS3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Group chat never hurts"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245917112390_a678285ea0ed240e1e11_72.jpg",
+      "first_name": "Devon",
+      "real_name": "Devon Harris",
+      "display_name": "Devon H. (Philly)",
+      "team": "T050CSX3EMT",
+      "name": "devharris93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D570C805-3971-4691-B635-25654EBDF8A7",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "I’ll be heading home here in a little bit and I can hop in discord. ",
+    "ts": "1705455494.108219",
+    "thread_ts": "1705385601.308059",
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U0574U0BKQA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h764X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " be heading home here in a little bit and I can hop in discord. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "FFDF79EA-125E-4487-A15A-A90E397F522D",
+    "type": "message",
+    "user": "U0576LJR97D",
+    "text": "I’m ready whenever you guys are. ",
+    "ts": "1705455531.401829",
+    "thread_ts": "1705385601.308059",
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+aQs/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " ready whenever you guys are"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/0506c54e2a1afb561a10fd6f6b340f65.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Madeline",
+      "real_name": "Madeline Lora",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "madelinelora95",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1e5f95b7-975c-4745-9988-59b65a5f3a84",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "If we're going to meet and chat later, I'll opt to keep working on my branch features for now",
+    "ts": "1705455553.073119",
+    "thread_ts": "1705385601.308059",
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j7g/x",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If we're going to meet and chat later, I'll opt to keep working on my branch features for now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8bea20b5-e2ce-497c-be8f-43903916585c",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "Working on getting the verification process finished by sending a hyperlink containing a token value associated with the User\\",
+    "ts": "1705455595.987819",
+    "thread_ts": "1705385601.308059",
+    "parent_user_id": "U057MA0AHEG",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aW9aZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Working on getting the verification process finished by sending a hyperlink containing a token value associated with the User\\"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "74830701-453c-40d5-8eb4-3c8986a3e9b0",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "Im home whenever everyone wants to hop in discord",
+    "ts": "1705457432.698519",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E1gq3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Im home whenever everyone wants to hop in discord"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3a2d4e9f-8344-4092-a478-1238204bb788",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "\u003c@U0574U0BKQA\u003e We're in Discord",
+    "ts": "1705458548.919169",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FN4bI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0574U0BKQA"
+              },
+              {
+                "type": "text",
+                "text": " We're in Discord"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5b83aa20-9000-443e-81aa-f6f7ea4a146e",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "\u003c@U057MA0AHEG\u003e ~I just did a test merge into my merge testing branch copy of my own and I think everything is working correctly~\n\nI created a new branch as a copy of my current feature one and merged tour-update into it pretty easily. I haven't noticed any major issues other than needing to move my EmailService class into 'services' package and updating the relationship in Tour from User to UserProfileDetails (along with the class attribute name/gett \u0026 setters)",
+    "ts": "1705467317.758649",
+    "edited": {
+      "user": "U057UGWMN48",
+      "ts": "1705467551.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SVZOA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057MA0AHEG"
+              },
+              {
+                "type": "text",
+                "text": " I just did a test merge into my merge testing branch copy of my own and I think everything is working correctly",
+                "style": {
+                  "strike": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nI created a new branch as a copy of my current feature one and merged tour-update into it pretty easily. I haven't noticed any major issues other than needing to move my EmailService class into 'services' package and updating the relationship in Tour from User to UserProfileDetails (along with the class attribute name/gett \u0026 setters)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a2701dd9-808c-4ace-9e36-f357d76e00a8",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "So thats bodes well",
+    "ts": "1705467561.761229",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U0574U0BKQA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HMxQf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So thats bodes well"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DA0A75DE-7473-4739-9C23-341F8F520F71",
+    "type": "message",
+    "user": "U0576LJR97D",
+    "text": "\u003c@U057MA0AHEG\u003e hey Landon. I was able to add my features for adding a city, tag, and category to the tour form but am not able to submit the form. When I hit submit the page reloads but the information I entered remains and nothing is saved in the database. Would you mind hopping on a call tonight to see if you could help me figure this out? ",
+    "ts": "1705528788.990719",
+    "thread_ts": "1705528788.990719",
+    "reply_count": 8,
+    "replies": [
+      {
+        "user": "U057MA0AHEG",
+        "ts": "1705529128.266589"
+      },
+      {
+        "user": "U0576LJR97D",
+        "ts": "1705529534.074999"
+      },
+      {
+        "user": "U057MA0AHEG",
+        "ts": "1705534395.044489"
+      },
+      {
+        "user": "U057MA0AHEG",
+        "ts": "1705534554.304289"
+      },
+      {
+        "user": "U0576LJR97D",
+        "ts": "1705534926.923649"
+      },
+      {
+        "user": "U057MA0AHEG",
+        "ts": "1705535801.911339"
+      },
+      {
+        "user": "U0576LJR97D",
+        "ts": "1705536257.921719"
+      },
+      {
+        "user": "U057MA0AHEG",
+        "ts": "1705542427.553509"
+      }
+    ],
+    "latest_reply": "1705542427.553509",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Jtvy1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057MA0AHEG"
+              },
+              {
+                "type": "text",
+                "text": " hey Landon"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " I was able to add my features for adding a city, tag, and category to the tour form but am not able to submit the form"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " When I hit submit the page reloads but the information I entered remains and nothing is saved in the database"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Would you mind hopping on a call tonight to see if you could help me figure this out? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/0506c54e2a1afb561a10fd6f6b340f65.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Madeline",
+      "real_name": "Madeline Lora",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "madelinelora95",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U0576LJR97D",
+      "U057MA0AHEG"
+    ]
+  },
+  {
+    "client_msg_id": "6395149e-8369-4c38-961f-5aa6d4ffca3f",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "Sure, I can do around the same time as last night. I can also try and look over your code on my laptop if you want to push your branch to git hub. You may just need to add the setter methods to the model in one of my methods for creation in the controller.",
+    "ts": "1705529128.266589",
+    "thread_ts": "1705528788.990719",
+    "parent_user_id": "U0576LJR97D",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o4bey",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sure, I can do around the same time as last night. I can also try and look over your code on my laptop if you want to push your branch to git hub. You may just need to add the setter methods to the model in one of my methods for creation in the controller."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "40418A50-AC42-493A-914C-697F323311B9",
+    "type": "message",
+    "user": "U0576LJR97D",
+    "text": "I just pushed my branch to GitHub if you wanted to take a look. I added getters and setters for these fields in the tour model, and also in the tour form dto. ",
+    "ts": "1705529534.074999",
+    "thread_ts": "1705528788.990719",
+    "parent_user_id": "U0576LJR97D",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/05P8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just pushed my branch to GitHub if you wanted to take a look"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " I added getters and setters for these fields in the tour model, and also in the tour form dto"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/0506c54e2a1afb561a10fd6f6b340f65.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Madeline",
+      "real_name": "Madeline Lora",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "madelinelora95",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0146c591-94b3-4ddd-aa6b-5d1c6584b06b",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "So i think I found where part of the issue lies. There are a couple of methods that are for converting the tourform dto object into the tour object and just a few of your setters needing to set some values from the form there and in another method you need to be able to capture the data into the tourForm object. I pulled it down and ill tinker a little bit with it. Im just chilling with family right now doing nothing pretty much.",
+    "ts": "1705534395.044489",
+    "thread_ts": "1705528788.990719",
+    "parent_user_id": "U0576LJR97D",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JFmXz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So i think I found where part of the issue lies. There are a couple of methods that are for converting the tourform dto object into the tour object and just a few of your setters needing to set some values from the form there and in another method you need to be able to capture the data into the tourForm object. I pulled it down and ill tinker a little bit with it. Im just chilling with family right now doing nothing pretty much."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0e7648b9-d58f-4f02-b4cf-909d2d9ca32e",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "We may need a dto since each of those fields you are trying to add are objects and not just simple fields. And then we can create a helper method like i did for the image and the stops to be able to add it to the tour.",
+    "ts": "1705534554.304289",
+    "thread_ts": "1705528788.990719",
+    "parent_user_id": "U0576LJR97D",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "c9Bq0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We may need a dto since each of those fields you are trying to add are objects and not just simple fields. And then we can create a helper method like i did for the image and the stops to be able to add it to the tour."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4C04D362-D08D-4586-9DEB-43D6869CB8B6",
+    "type": "message",
+    "user": "U0576LJR97D",
+    "text": "When I was working in my previous branch that wasn’t integrated with yours, I had a tagdto form but I just added the information I had there into your Tourform dto assuming it would accomplish the same thing. So should I take that out and re-establish the tag dto? That makes sense, but I didn’t think I had to add a dto for the category or city",
+    "ts": "1705534926.923649",
+    "thread_ts": "1705528788.990719",
+    "parent_user_id": "U0576LJR97D",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OAhC6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When I was working in my previous branch that "
+              },
+              {
+                "type": "text",
+                "text": "wasn’t"
+              },
+              {
+                "type": "text",
+                "text": " integrated with yours, I had a tagdto form but I just added the information I had there into your Tourform dto assuming it would accomplish the same thing"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " So should I take that out and re-establish the tag dto? That makes sense, but "
+              },
+              {
+                "type": "text",
+                "text": "I didn’t"
+              },
+              {
+                "type": "text",
+                "text": " think I had to add a dto for the category or city"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/0506c54e2a1afb561a10fd6f6b340f65.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Madeline",
+      "real_name": "Madeline Lora",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "madelinelora95",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "285f1ad8-4f3f-4560-a748-6b56c05063ca",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "Thats just at first glance. And during create on a tour, it is session managed inside the tourform too. I dont want you to waste youre time either, but that could be a fix. I can tinker more comfortably when I get back to my home computer. This laptop is super hard to work off of.",
+    "ts": "1705535801.911339",
+    "thread_ts": "1705528788.990719",
+    "parent_user_id": "U0576LJR97D",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YlclP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thats just at first glance. And during create on a tour, it is session managed inside the tourform too. I dont want you to waste youre time either, but that could be a fix. I can tinker more comfortably when I get back to my home computer. This laptop is super hard to work off of."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

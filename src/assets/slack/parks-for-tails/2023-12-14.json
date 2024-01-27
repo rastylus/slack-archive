@@ -1,0 +1,241 @@
+[
+  {
+    "client_msg_id": "86ba83bd-2f13-4874-b805-0f5227900169",
+    "type": "message",
+    "user": "U056Z3RQFJT",
+    "text": "Have you guys noticed how classes between controller and class in the service folder don't import properly ? the import path statement seems correct but somehow it s not working",
+    "ts": "1702516386.130939",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lpRc5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Have you guys noticed how classes between controller and class in the service folder don't import properly ? the import path statement seems correct but somehow it s not working"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5251578399251_476929090d178895b1c1_72.jpg",
+      "first_name": "Dimitri",
+      "real_name": "Dimitri   Torres",
+      "display_name": "Dimitri Torres",
+      "team": "T050CSX3EMT",
+      "name": "dimitritorres34",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "747497fb-415d-4753-975e-c8de9ac16b07",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "I haven't messed with that but I'll look at it. When I was having trouble with something like that before, the folder wasn't in quite the right place.",
+    "ts": "1702516829.417099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xmrXz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I haven't messed with that but I'll look at it. When I was having trouble with something like that before, the folder wasn't in quite the right place."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1c394e18-4e00-472e-87fd-608ab36e43fe",
+    "type": "message",
+    "user": "U056Z3RQFJT",
+    "text": "It was but somehow it wouldn't recognize the service folder so I created another folder named services and moved the GoogleMapsService.java in there and now it seems to import properly within the ParkController . why ? IDK but it works",
+    "ts": "1702520171.205849",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z3Qey",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It was but somehow it wouldn't recognize the service folder so I created another folder named services and moved the GoogleMapsService.java in there and now it seems to import properly within the ParkController . why ? IDK but it works"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5251578399251_476929090d178895b1c1_72.jpg",
+      "first_name": "Dimitri",
+      "real_name": "Dimitri   Torres",
+      "display_name": "Dimitri Torres",
+      "team": "T050CSX3EMT",
+      "name": "dimitritorres34",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3c2e4299-9c1e-45e3-a062-ccd6d693e81e",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "Huh, weird. We don't have many API examples from class but the final lecture example repo (\u003chttps://github.com/Carolista/java-lecture-examples-art-gallery/tree/class20-api-demo/art-gallery/src/main/java/org/launchcode/artgallery/data\u003e) has the api folder inside the controller folder. I'm not really sure if that's just for Rest, though.",
+    "ts": "1702520325.612919",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6AEzW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Huh, weird. We don't have many API examples from class but the final lecture example repo ("
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/Carolista/java-lecture-examples-art-gallery/tree/class20-api-demo/art-gallery/src/main/java/org/launchcode/artgallery/data",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": ") has the api folder inside the controller folder. I'm not really sure if that's just for Rest, though."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cf3d8a9a-1465-49a3-9d49-da812a0519ba",
+    "type": "message",
+    "user": "U056Z3RQFJT",
+    "text": "Yes I also noticed that I m actually rewatching that lecture right now to figure out how to test it with postman and I noticed the same thing .",
+    "ts": "1702588181.730019",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EFd5X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes I also noticed that I m actually rewatching that lecture right now to figure out how to test it with postman and I noticed the same thing ."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5251578399251_476929090d178895b1c1_72.jpg",
+      "first_name": "Dimitri",
+      "real_name": "Dimitri   Torres",
+      "display_name": "Dimitri Torres",
+      "team": "T050CSX3EMT",
+      "name": "dimitritorres34",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

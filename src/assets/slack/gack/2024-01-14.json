@@ -1,0 +1,3393 @@
+[
+  {
+    "client_msg_id": "8320a998-a9bc-4261-923c-a96107c799ba",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "\u003c@U0571CCLKDL\u003e Hey Drew, I saw that you made Header and Footer files. Is the header where a navbar will go? Would we be better off using \u0026lt;a href\u0026gt; for the nav bar links or do you know if useRouter is better for this?",
+    "ts": "1705203217.297419",
+    "thread_ts": "1705203217.297419",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1705206515.342939"
+      }
+    ],
+    "latest_reply": "1705206515.342939",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zrG7n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0571CCLKDL"
+              },
+              {
+                "type": "text",
+                "text": " Hey Drew, I saw that you made Header and Footer files. Is the header where a navbar will go? Would we be better off using \u003ca href\u003e for the nav bar links or do you know if useRouter is better for this?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0571CCLKDL"
+    ]
+  },
+  {
+    "client_msg_id": "5F2DB772-D2DD-491E-B167-F84D0864F712",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "I linked the admin page to the Nav bar",
+    "ts": "1705203279.156919",
+    "thread_ts": "1705203279.156919",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056WKE4W77",
+        "ts": "1705203491.284199"
+      },
+      {
+        "user": "U056WKE4W77",
+        "ts": "1705204115.319599"
+      }
+    ],
+    "latest_reply": "1705204115.319599",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U056WKE4W77",
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZKIqe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I linked the admin page to the Nav bar"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056WKE4W77"
+    ]
+  },
+  {
+    "client_msg_id": "9356e7e5-3290-4b66-ba4a-f9e9b5af6a59",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "Nice! Looking through your branch for that now",
+    "ts": "1705203491.284199",
+    "thread_ts": "1705203279.156919",
+    "parent_user_id": "U057SCV767K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YVWoj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nice! Looking through your branch for that now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "18391563-c68d-4ed5-bddf-70f0aecf5cf7",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "Not seeing it quite yet, guessing you haven't pushed that update or I'm missing it? Either way, \u0026lt;a href\u0026gt; seems like a pretty simple way to do it, but I'm not sure if there are disadvantages to doing it that way that I don't know about.",
+    "ts": "1705204115.319599",
+    "thread_ts": "1705203279.156919",
+    "parent_user_id": "U057SCV767K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1oyc/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Not seeing it quite yet, guessing you haven't pushed that update or I'm missing it? Either way, \u003ca href\u003e seems like a pretty simple way to do it, but I'm not sure if there are disadvantages to doing it that way that I don't know about."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "420f0c60-b3a1-4dac-8d2e-627860a4d748",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "import { Adamina } from 'next/font/google';\nexport default function Home() {\n    return (\n      \u0026lt;div\u0026gt;\n      \u0026lt;p\u0026gt;Nav bar \u0026lt;button type=\"admin\"\u0026gt;\u0026lt;a href=\"/user/admin\"\u0026gt; Admin\u0026lt;/a\u0026gt;\u0026lt;/button\u0026gt;\u0026lt;/p\u0026gt;\n      \u0026lt;p\u0026gt;Home page!\u0026lt;/p\u0026gt;\n      \u0026lt;LoginForm /\u0026gt;\n      \u0026lt;p class=\"mt-5\"\u0026gt;Tired of the same old stuff, are you? \u0026lt;a href=\"/createprofile\"\u0026gt;Register here.\u0026lt;/a\u0026gt;\u0026lt;/p\u0026gt;\n\n      \u0026lt;/div\u0026gt;\n    )\n  }",
+    "ts": "1705204231.141129",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AZEY3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "import { Adamina } from 'next/font/google';\nexport default function Home() {\n    return (\n      \u003cdiv\u003e\n      \u003cp\u003eNav bar \u003cbutton type=\"admin\"\u003e\u003ca href=\"/user/admin\"\u003e Admin\u003c/a\u003e\u003c/button\u003e\u003c/p\u003e\n      \u003cp\u003eHome page!\u003c/p\u003e\n      \u003cLoginForm /\u003e\n      \u003cp class=\"mt-5\"\u003eTired of the same old stuff, are you? \u003ca href=\"/createprofile\"\u003eRegister here.\u003c/a\u003e\u003c/p\u003e\n\n      \u003c/div\u003e\n    )\n  }"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "daa96c0e-dd6e-4eac-9ad7-5f8729aa5dbf",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "this is the home page on the front end",
+    "ts": "1705204245.627599",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1Jx2X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this is the home page on the front end"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "026dfef0-bf97-4b81-9bdb-835e7293c57d",
+    "type": "message",
+    "user": "U057SCV767K",
+    "ts": "1705204314.717479",
+    "files": [
+      {
+        "id": "F06DQN214LV",
+        "created": 1705204313,
+        "timestamp": 1705204313,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057SCV767K",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 19751,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06DQN214LV/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06DQN214LV/download/image.png",
+        "original_h": 237,
+        "original_w": 436,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQN214LV-890bab632c/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQN214LV-890bab632c/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQN214LV-890bab632c/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQN214LV-890bab632c/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 196,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057SCV767K/F06DQN214LV/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06DQN214LV-ff6fa503dc",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U056WKE4W77",
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "66fdba57-a8f9-4995-8551-e703a0eeb548",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "i guessed that is where it would go. i am not sure what else would go there",
+    "ts": "1705204349.683689",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cMA7G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i guessed that is where it would go. i am not sure what else would go there"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cf95ad7e-539a-4457-b5ac-8b4de0f19fbe",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "Oh looks great! Glad to see it and that you used a href too. Thanks for diving into that! I was thinking the nav bar could have a \"My Fridge\" and a \"Search for a friend's fridge\" area too. That'll have to be on the other pages since the user will need to login to access that stuff, but looks good!",
+    "ts": "1705204551.716959",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4pKty",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh looks great! Glad to see it and that you used a href too. Thanks for diving into that! I was thinking the nav bar could have a \"My Fridge\" and a \"Search for a friend's fridge\" area too. That'll have to be on the other pages since the user will need to login to access that stuff, but looks good!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "EA4F7FC8-0E10-4308-AC9D-598F8F2BFB58",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "I don’t think that will be hard to add. Even if it’s not functional. Just the button can be added. ",
+    "ts": "1705204872.066669",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ifA0U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I "
+              },
+              {
+                "type": "text",
+                "text": "don’t"
+              },
+              {
+                "type": "text",
+                "text": " think that will be hard to add"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Even if "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " not functional"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Just the button can be added"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "50EDD54E-2A10-470E-95C8-DA5CD32DC39E",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "Let me see real quick",
+    "ts": "1705204885.943339",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U056WKE4W77",
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "F8u0D",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Let me see real quick"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "33f8ffbe-2f1c-4f06-a0f9-1478c9db6eab",
+    "type": "message",
+    "user": "U057SCV767K",
+    "ts": "1705205050.448269",
+    "files": [
+      {
+        "id": "F06EGDUC7AL",
+        "created": 1705205048,
+        "timestamp": 1705205048,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057SCV767K",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 20324,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06EGDUC7AL/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06EGDUC7AL/download/image.png",
+        "original_h": 210,
+        "original_w": 471,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EGDUC7AL-2b9cf438c1/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EGDUC7AL-2b9cf438c1/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EGDUC7AL-2b9cf438c1/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EGDUC7AL-2b9cf438c1/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 161,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057SCV767K/F06EGDUC7AL/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06EGDUC7AL-fa2876bba7",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1f7f2cb1-68b6-4747-a392-8fd79faa95f3",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "Nice! Playing around with some CSS and will share soon",
+    "ts": "1705205461.154189",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TC+qu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nice! Playing around with some CSS and will share soon"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d3b9a654-94e1-4bb6-be56-10353acee18f",
+    "type": "message",
+    "user": "U057SCV767K",
+    "ts": "1705205598.750299",
+    "files": [
+      {
+        "id": "F06DM1RQHQE",
+        "created": 1705205596,
+        "timestamp": 1705205596,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057SCV767K",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 21760,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06DM1RQHQE/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06DM1RQHQE/download/image.png",
+        "original_h": 230,
+        "original_w": 428,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DM1RQHQE-6b72a40adf/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DM1RQHQE-6b72a40adf/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DM1RQHQE-6b72a40adf/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DM1RQHQE-6b72a40adf/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 193,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057SCV767K/F06DM1RQHQE/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06DM1RQHQE-c662a1acca",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "362bfb51-6752-4519-9e2f-2c8f452d2710",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "the my friends fridge links to the right page",
+    "ts": "1705205609.653979",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kj7Jk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the my friends fridge links to the right page"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a54ba41c-cee8-43f2-aec7-371a78f18ae5",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "but my fridge does not",
+    "ts": "1705205613.088459",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MgkxI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but my fridge does not"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a4b0dfca-f983-4c68-a3f3-bd5fa7b8238c",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "but...both buttons are there",
+    "ts": "1705205617.868439",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9rles",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but...both buttons are there"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "abcf3199-6795-4e5e-abd2-0b9af4a6c4c5",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "Threw in Create a Beer and Logout links though they don't yet work on my branch. Hovering over \"My Fridge\" currently so color is changed, which is nice.",
+    "ts": "1705205909.375279",
+    "files": [
+      {
+        "id": "F06DM1WQAS2",
+        "created": 1705205893,
+        "timestamp": 1705205893,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056WKE4W77",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 139452,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06DM1WQAS2/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06DM1WQAS2/download/image.png",
+        "original_h": 751,
+        "original_w": 1501,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DM1WQAS2-b033db8fe1/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DM1WQAS2-b033db8fe1/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DM1WQAS2-b033db8fe1/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DM1WQAS2-b033db8fe1/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 180,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DM1WQAS2-b033db8fe1/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 240,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DM1WQAS2-b033db8fe1/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 360,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DM1WQAS2-b033db8fe1/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 480,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DM1WQAS2-b033db8fe1/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 512,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056WKE4W77/F06DM1WQAS2/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06DM1WQAS2-3f12c152fb",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U057SCV767K",
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Szd5h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Threw in Create a Beer and Logout links though they don't yet work on my branch. Hovering over \"My Fridge\" currently so color is changed, which is nice."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "56A0EAD6-5E18-478F-95B9-E2FB477A6A14",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Heck yea, y'all. It's really starting to come together!",
+    "ts": "1705206383.494849",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-5",
+        "count": 1,
+        "users": [
+          "U057SCV767K"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056WKE4W77"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1gZG6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Heck yea, y'all. It's really starting to come together!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7D2F8809-C00A-481F-AFAF-2BCD75C046AC",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "I figured it would be tidiest, for we can just put the components in the layout.js file, and then not worry about having to type them into every page. The footer could also have some baloney copyright team gack contact info stuff too",
+    "ts": "1705206515.342939",
+    "thread_ts": "1705203217.297419",
+    "parent_user_id": "U056WKE4W77",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HzR8s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I figured it would be tidiest, for we can just put the components in the layout.js file, and then not worry about having to type them into every page. The footer could also have some baloney copyright team gack contact info stuff too"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dda23ac7-6ac4-44c6-a75e-687544365cab",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Hey yall I'll have the data object from the form for you shortly :+1::skin-tone-3:",
+    "ts": "1705257622.208119",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U056WKE4W77"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7J6Wb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey yall I'll have the data object from the form for you shortly "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 3
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "538172fe-e39a-4360-9ea0-3d9ea10958a7",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "for whoever needs it",
+    "ts": "1705257635.497859",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FJja+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for whoever needs it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a13df4c0-9a4c-41b6-9cba-7e1a3db9d6f2",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Hello! I come with a data object! uhh let me know if this is what you were looking for, \u003c@U0571CCLKDL\u003e\n\n```data {\nusername: String value,\nWolfenstein: String value,\nbarrelType: String value,\nbasic: number value,\nrecentPlace: String value,\nuserComments: String value;\n}```",
+    "ts": "1705261933.906039",
+    "edited": {
+      "user": "U057C70KL57",
+      "ts": "1705262160.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FMAoQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello! I come with a data object! uhh let me know if this is what you were looking for, "
+              },
+              {
+                "type": "user",
+                "user_id": "U0571CCLKDL"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"data {\\nusername: String value,\\nWolfenstein: String value,\\nbarrelType: String value,\\nbasic: number value,\\nrecentPlace: String value,\\nuserComments: String value;\\n}\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e43a0d32-8497-4b85-a8c4-9e40abf60d38",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "fucking fuck why do i ALWAYS do that lmao",
+    "ts": "1705261952.695999",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "24utN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "fucking fuck why do i ALWAYS do that lmao"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "001b965c-deef-42e8-9459-0e17d82911f7",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "should I leave the object name as data, or would it be better to change it?  I don't mind\nand for my fetch, should i be leaving it as /createbeer\n\n```await fetch(webUrl + \"/beercreated\", { //beercreated??\n            method: 'POST',\n            headers: {\n                \"Content-Type\": \"application/json\"```",
+    "ts": "1705262452.663579",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KHrOV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "should I leave the object name as data, or would it be better to change it?  I don't mind\nand for my fetch, should i be leaving it as /createbeer\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"await fetch(webUrl + \\\"\\/beercreated\\\", { \\/\\/beercreated??\\n            method: 'POST',\\n            headers: {\\n                \\\"Content-Type\\\": \\\"application\\/json\\\"\"}],\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ca73c68a-5a54-41a2-a242-28281b5367dc",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Oh and I'm trying to figure out how get the username to autopopulate on the create beer form, store into the data object and be able to send it off. It doesn't make sense for the user to enter their username if they are already logged in, so it would be nice if it was already there. if i can't figure it out by mon then I may need to either leave it off or have the user input it manually",
+    "ts": "1705262659.701909",
+    "thread_ts": "1705262659.701909",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1705263843.362869"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705264236.262609"
+      }
+    ],
+    "latest_reply": "1705264236.262609",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yBumv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh and I'm trying to figure out how get the username to autopopulate on the create beer form, store into the data object and be able to send it off. It doesn't make sense for the user to enter their username if they are already logged in, so it would be nice if it was already there. if i can't figure it out by mon then I may need to either leave it off or have the user input it manually"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U0571CCLKDL",
+      "U057C70KL57"
+    ]
+  },
+  {
+    "client_msg_id": "3471f0ac-a80b-49cc-abec-dc5de3b6c428",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "also lemme know if my object make sense i'm like that cat with watery eyes idk what i'm doing",
+    "ts": "1705262933.998849",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "joy",
+        "count": 1,
+        "users": [
+          "U056WKE4W77"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hUlMD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also lemme know if my object make sense i'm like that cat with watery eyes idk what i'm doing"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f86cd62b-bb63-460b-a77e-56909f056ba8",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "oh looks like the attribute to embed a piece of text is way easier than i thought. so what i would need is a way for my form, perhaps on load grabs/displays the username. we'll talk more about it later!",
+    "ts": "1705263310.456309",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TZtk/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "oh looks like the attribute to embed a piece of text is way easier than i thought. so what i would need is a way for my form, perhaps on load grabs/displays the username. we'll talk more about it later!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "59AC0563-5A93-478E-8F76-B63F7D0DF786",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "the username is stored in a cookie when logged in. you could get it from there",
+    "ts": "1705263843.362869",
+    "thread_ts": "1705262659.701909",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2EYct",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the username is stored in a cookie when logged in. you could get it from there"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7A6A3CE3-24A4-4962-BBDC-F198C10F83BF",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "essentially you just need to handle form submission so that the form data is saved in a repo on the backend, and then the user is redirected to the beercreated page on the front end. i still think that would be the most straight forward way to handle it. ",
+    "ts": "1705264020.491739",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Kw0J1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "essentially you just need to handle form submission so that the form data is saved in a repo on the backend, and then the user is redirected to the beercreated page on the front end. i still think that would be the most straight forward way to handle it. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1F3D099D-B8A9-4851-94E9-82683F99CBE7",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "once the data is saved and the user redirected, i can pick up the proverbial baton, access their most recent form data on load and then have a name generator button that calls the api. ",
+    "ts": "1705264105.839359",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T4wbx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "once the data is saved and the user redirected, i can pick up the proverbial baton, access their most recent form data on load and then have a name generator button that calls the api. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "624528f4-22fa-40d0-946b-d179168e77b1",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "That was my understanding :+1::skin-tone-3: so in the code snippet above for the fetch weburl would I put /pages/beercreated?",
+    "ts": "1705264186.062129",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IbND6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That was my understanding "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 3
+              },
+              {
+                "type": "text",
+                "text": " so in the code snippet above for the fetch weburl would I put /pages/beercreated?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c52f7f1d-90d3-4b22-8914-0ef606df6693",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "i already have the html for it, i would need the variable name or const of that cookie!",
+    "ts": "1705264236.262609",
+    "thread_ts": "1705262659.701909",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qP2Sl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i already have the html for it, i would need the variable name or const of that cookie!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "BF5DD9B8-333F-4F6F-94D3-DCEBB77B9D63",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "i dont think you'd include /beercreated in the fetch request. the fetch request needs to go to the backend post handler that you've made to store the form data in a repository. on my machine, /user/beercreated is the front end route that the user should be redirected to, upon form submission.",
+    "ts": "1705264462.290049",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U057C70KL57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E0SG/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i dont think you'd include /beercreated in the fetch request. the fetch request needs to go to the backend post handler that you've made to store the form data in a repository. on my machine, /user/beercreated is the front end route that the user should be redirected to, upon form submission."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a2f5c5b2-d3fb-4d19-9d1b-d6d6b618fb9a",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "that makes sense, thank you!",
+    "ts": "1705264581.959689",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xVO2M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that makes sense, thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d07f3315-6cb9-49cf-be2c-c880216a542e",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "Getting a maddening error in VSC upon trying to run npm run dev. Guessing no one's seen this before?",
+    "ts": "1705268219.633539",
+    "thread_ts": "1705268219.633539",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U056WKE4W77",
+        "ts": "1705268252.228199"
+      },
+      {
+        "user": "U057SCV767K",
+        "ts": "1705268818.871369"
+      },
+      {
+        "user": "U057SCV767K",
+        "ts": "1705268824.971259"
+      },
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1705269563.805959"
+      },
+      {
+        "user": "U056WKE4W77",
+        "ts": "1705269771.528219"
+      },
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1705271654.115979"
+      }
+    ],
+    "latest_reply": "1705271654.115979",
+    "files": [
+      {
+        "id": "F06DE7ZNQFR",
+        "created": 1705268174,
+        "timestamp": 1705268174,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056WKE4W77",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 23650,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06DE7ZNQFR/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06DE7ZNQFR/download/image.png",
+        "original_h": 292,
+        "original_w": 1182,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DE7ZNQFR-dc6b7fcce6/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DE7ZNQFR-dc6b7fcce6/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DE7ZNQFR-dc6b7fcce6/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DE7ZNQFR-dc6b7fcce6/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 89,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DE7ZNQFR-dc6b7fcce6/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 119,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DE7ZNQFR-dc6b7fcce6/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 178,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DE7ZNQFR-dc6b7fcce6/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 237,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DE7ZNQFR-dc6b7fcce6/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 253,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056WKE4W77/F06DE7ZNQFR/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06DE7ZNQFR-a0ce57a952",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XqgiK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Getting a maddening error in VSC upon trying to run npm run dev. Guessing no one's seen this before?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056WKE4W77",
+      "U0571CCLKDL",
+      "U057SCV767K"
+    ]
+  },
+  {
+    "client_msg_id": "f60ba1b8-7eda-462d-8b02-2014411b8f53",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "Was working fine last night, then had to open everything back up today and getting this.",
+    "ts": "1705268252.228199",
+    "thread_ts": "1705268219.633539",
+    "parent_user_id": "U056WKE4W77",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FDQQd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Was working fine last night, then had to open everything back up today and getting this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4B4ECBB8-783F-4812-8939-C8AC70068E72",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": ":disappointed: ",
+    "ts": "1705268818.871369",
+    "thread_ts": "1705268219.633539",
+    "parent_user_id": "U056WKE4W77",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9RU+a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "disappointed",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "20F16D1A-E88C-4D58-BB9F-9D994EE3AD41",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "I have not seen that before ",
+    "ts": "1705268824.971259",
+    "thread_ts": "1705268219.633539",
+    "parent_user_id": "U056WKE4W77",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "upside_down_face",
+        "count": 1,
+        "users": [
+          "U056WKE4W77"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "emlNp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have not seen that before "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "004c17aa-f9d0-45b5-9cbd-82094c163e8f",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "that is a new one for me. sorry to ask, but did you change anything at all between it running last night and this morning? code, branch, directory?",
+    "ts": "1705269563.805959",
+    "thread_ts": "1705268219.633539",
+    "parent_user_id": "U056WKE4W77",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MkZKT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that is a new one for me. sorry to ask, but did you change anything at all between it running last night and this morning? code, branch, directory?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "68041a5a-292d-4401-908e-9bd903fa3691",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "I gotta go make a sandwich real quick, but i'll be back in a moment",
+    "ts": "1705269689.400449",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U057C70KL57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Draj3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I gotta go make a sandwich real quick, but i'll be back in a moment"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9406cc18-617f-45f8-b156-72c9d12c41db",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "I don't think so. I think it was running up until I went to bed. I think my computer may've had some kinda update overnight because I had to open everything back up. I'll keep trying. Thank you both!",
+    "ts": "1705269771.528219",
+    "thread_ts": "1705268219.633539",
+    "parent_user_id": "U056WKE4W77",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9pDE5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I don't think so. I think it was running up until I went to bed. I think my computer may've had some kinda update overnight because I had to open everything back up. I'll keep trying. Thank you both!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "287867AC-9954-4885-8307-4B093834AE0B",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "Are we meeting today? ",
+    "ts": "1705269804.976329",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ji18Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are we meeting today? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5B37D530-1E1D-4F6B-8BF3-AF39973DF901",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "Or tomorrow?",
+    "ts": "1705269808.505299",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cNo0T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Or tomorrow"
+              },
+              {
+                "type": "text",
+                "text": "?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "502a1cf1-7ad7-4e5f-8fb0-cdd619ae0505",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "today",
+    "ts": "1705269920.446779",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056WKE4W77"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iAmEw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "today"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "47e117bd-8421-4685-bfc8-aace24abc358",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "if today is sunday haha",
+    "ts": "1705269928.052199",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "meYHj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if today is sunday haha"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6CC5608D-A3E0-404E-969B-10B8B252620F",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "Are we meeting now?",
+    "ts": "1705269944.779159",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dCP15",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are we meeting now?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "acf6c594-a9df-4333-af6f-5a9404571e3d",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "yes but no one's made the meeting yet",
+    "ts": "1705269974.548259",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QxuaI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes but no one's made the meeting yet"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9ab29ecb-4a6b-491a-9309-2768a8a4ef59",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "here ya go \u003chttps://meet.google.com/ofv-mxxp-tcf\u003e",
+    "ts": "1705270108.397669",
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "id": 1,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/ofv-mxxp-tcf",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "service_name": "meet.google.com",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "from_url": "https://meet.google.com/ofv-mxxp-tcf",
+        "original_url": "https://meet.google.com/ofv-mxxp-tcf",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ie1fN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "here ya go "
+              },
+              {
+                "type": "link",
+                "url": "https://meet.google.com/ofv-mxxp-tcf",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f5602f54-217c-40ec-9ad2-da9680c4778d",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "did you try npm install as well?",
+    "ts": "1705271654.115979",
+    "thread_ts": "1705268219.633539",
+    "parent_user_id": "U056WKE4W77",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zfjkL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "did you try npm install as well?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "608465f7-dabd-4193-b24e-8f3b000c7d02",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "\u003c@U057SCV767K\u003e this is for the window alert \u003chttps://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_alert\u003e",
+    "ts": "1705272794.240009",
+    "attachments": [
+      {
+        "fallback": "W3Schools online HTML editor",
+        "id": 1,
+        "title": "W3Schools online HTML editor",
+        "title_link": "https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_alert",
+        "text": "The W3Schools online code editor allows you to edit code and view the result in your browser",
+        "image_url": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
+        "service_name": "w3schools.com",
+        "service_icon": "https://www.w3schools.com/apple-touch-icon.png",
+        "from_url": "https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_alert",
+        "original_url": "https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_alert",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l45Ft",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057SCV767K"
+              },
+              {
+                "type": "text",
+                "text": " this is for the window alert "
+              },
+              {
+                "type": "link",
+                "url": "https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_alert",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3aeabf61-f0c6-4d7c-a996-91eed3f485bc",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "ts": "1705272946.589149",
+    "files": [
+      {
+        "id": "F06EHLG7URE",
+        "created": 1705272942,
+        "timestamp": 1705272942,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0571CCLKDL",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 303862,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06EHLG7URE/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06EHLG7URE/download/image.png",
+        "original_h": 347,
+        "original_w": 614,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EHLG7URE-da72938bf3/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EHLG7URE-da72938bf3/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EHLG7URE-da72938bf3/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EHLG7URE-da72938bf3/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 203,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EHLG7URE-da72938bf3/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 271,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0571CCLKDL/F06EHLG7URE/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06EHLG7URE-eaf95f2f72",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "fearful",
+        "count": 1,
+        "users": [
+          "U056WKE4W77"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e8c909ff-b4aa-4958-8944-4a8320da89b4",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "what is the name of our API? \u003c@U0571CCLKDL\u003e",
+    "ts": "1705275090.461649",
+    "edited": {
+      "user": "U057SCV767K",
+      "ts": "1705275155.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aGXwf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what is the name of our API? "
+              },
+              {
+                "type": "user",
+                "user_id": "U0571CCLKDL"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2176bd88-49ed-40d1-84c3-892b0b6e1610",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "i think we need to complete a presentation slide",
+    "ts": "1705275186.905879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xP6Uy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i think we need to complete a presentation slide"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a1995d7d-fba1-4dad-b8f0-cfe8fc512aa7",
+    "type": "message",
+    "user": "U057SCV767K",
+    "ts": "1705275235.918799",
+    "files": [
+      {
+        "id": "F06DS192JJH",
+        "created": 1705275233,
+        "timestamp": 1705275233,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057SCV767K",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 12964,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06DS192JJH/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06DS192JJH/download/image.png",
+        "original_h": 206,
+        "original_w": 675,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DS192JJH-9c208984b1/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DS192JJH-9c208984b1/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DS192JJH-9c208984b1/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DS192JJH-9c208984b1/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 110,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DS192JJH-9c208984b1/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 146,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057SCV767K/F06DS192JJH/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06DS192JJH-ea68b2ec88",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a611420f-b8e2-49a8-817f-299a4c3d4446",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "\u003chttps://punkapi.com/\u003e",
+    "ts": "1705275592.193729",
+    "attachments": [
+      {
+        "fallback": "Punk API: Brewdog's DIY Dog as an API",
+        "id": 1,
+        "title": "Punk API: Brewdog's DIY Dog as an API",
+        "title_link": "https://punkapi.com/",
+        "text": "Brewdog's DIY Dog as a searchable, filterable API",
+        "service_name": "punkapi.com",
+        "service_icon": "https://punkapi.com/favicon.ico",
+        "from_url": "https://punkapi.com/",
+        "original_url": "https://punkapi.com/",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "txV32",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://punkapi.com/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a7ed9a20-2b81-4331-91c3-2c25ac03b2ef",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "thank you",
+    "ts": "1705275623.334609",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oPGX0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

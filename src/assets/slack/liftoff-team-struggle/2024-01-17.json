@@ -1,0 +1,1109 @@
+[
+  {
+    "client_msg_id": "9e823ceb-92c5-4c27-a73d-c70f69b5b068",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "I just pulled down the latest main branch and I'm getting several errors, mostly related to watchlist and useState -- anyone know where those might be coming from?",
+    "ts": "1705450469.661529",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OY8Pt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just pulled down the latest main branch and I'm getting several errors, mostly related to watchlist and useState -- anyone know where those might be coming from?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B9EC3C25-7B31-4D84-91C4-AB4C2D701508",
+    "type": "message",
+    "user": "U05777BLCPN",
+    "text": "Is it right when it starts up? Or what point?",
+    "ts": "1705450586.405969",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "drWPx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is it right when it starts up? Or what point?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-12/5255179561091_977940a39e063a34a12f_72.png",
+      "first_name": "Ami",
+      "real_name": "Ami Patel",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amitrpatel502",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "25f00607-e8f5-4589-9059-2631bfb8d143",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "right when it starts up --\n\nERROR\n[eslint]\nsrc\\Components\\Watchlist.js\n  *Line 8:33:*  'useState' is not defined  no-undef",
+    "ts": "1705450638.936509",
+    "thread_ts": "1705450638.936509",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U056ZJ34X42",
+        "ts": "1705450743.175999"
+      },
+      {
+        "user": "U05777BLCPN",
+        "ts": "1705450768.535409"
+      },
+      {
+        "user": "U056ZJ34X42",
+        "ts": "1705450807.540729"
+      },
+      {
+        "user": "U05777BLCPN",
+        "ts": "1705450817.726659"
+      },
+      {
+        "user": "U056ZJ34X42",
+        "ts": "1705451123.189219"
+      }
+    ],
+    "latest_reply": "1705451123.189219",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ao/dU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "right when it starts up --\n\nERROR\n[eslint]\nsrc\\Components\\Watchlist.js\n  "
+              },
+              {
+                "type": "text",
+                "text": "Line 8:33:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  'useState' is not defined  no-undef"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056ZJ34X42",
+      "U05777BLCPN"
+    ]
+  },
+  {
+    "client_msg_id": "c3f511ae-2cc7-4c68-bdb8-0a516dd6713c",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "This might be related to my latest merge? my branch worked, but maybe I introduced an error when I resolved conflicts",
+    "ts": "1705450743.175999",
+    "thread_ts": "1705450638.936509",
+    "parent_user_id": "U056ZJ34X42",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1txD7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This might be related to my latest merge? my branch worked, but maybe I introduced an error when I resolved conflicts"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "488827C7-E424-4E3C-937D-784934823DB9",
+    "type": "message",
+    "user": "U05777BLCPN",
+    "text": "From what I can see you didn’t import it up top",
+    "ts": "1705450768.535409",
+    "thread_ts": "1705450638.936509",
+    "parent_user_id": "U056ZJ34X42",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Mef8M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "From what I can see you "
+              },
+              {
+                "type": "text",
+                "text": "didn’t"
+              },
+              {
+                "type": "text",
+                "text": " import it up top"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-12/5255179561091_977940a39e063a34a12f_72.png",
+      "first_name": "Ami",
+      "real_name": "Ami Patel",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amitrpatel502",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "93d8ab23-bca6-49fa-ab45-d36b7e25ec9e",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "phew - yes that's it!",
+    "ts": "1705450807.540729",
+    "thread_ts": "1705450638.936509",
+    "parent_user_id": "U056ZJ34X42",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U05777BLCPN"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QSgCK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "phew - yes that's it!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D246B939-4B91-4BF5-8544-28C57F3E7583",
+    "type": "message",
+    "user": "U05777BLCPN",
+    "text": "\u003chttps://github.com/corypride/teamStruggle/commit/f3dbb2b0152e6571c9fc1fab029547c181fd9890|https://github.com/corypride/teamStruggle/commit/f3dbb2b0152e6571c9fc1fab029547c181fd9890\u003e\n\nYou use it here but I don’t see it imported that could be it!",
+    "ts": "1705450817.726659",
+    "thread_ts": "1705450638.936509",
+    "parent_user_id": "U056ZJ34X42",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U056ZJ34X42"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bERBe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/corypride/teamStruggle/commit/f3dbb2b0152e6571c9fc1fab029547c181fd9890",
+                "text": "https://github.com/corypride/teamStruggle/commit/f3dbb2b0152e6571c9fc1fab029547c181fd9890"
+              },
+              {
+                "type": "text",
+                "text": "\n\nYou use it here but I "
+              },
+              {
+                "type": "text",
+                "text": "don’t"
+              },
+              {
+                "type": "text",
+                "text": " see it imported that could be it!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-12/5255179561091_977940a39e063a34a12f_72.png",
+      "first_name": "Ami",
+      "real_name": "Ami Patel",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amitrpatel502",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4091b24d-fc92-4cc0-9fc3-c5b1861ae0c2",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "nice, thanks for your help on a quick fix! I made that change and merged to main, main is working now",
+    "ts": "1705451123.189219",
+    "thread_ts": "1705450638.936509",
+    "parent_user_id": "U056ZJ34X42",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7Kg22",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "nice, thanks for your help on a quick fix! I made that change and merged to main, main is working now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "30E90DF4-DBA9-4843-BA57-37BB98AE8C1D",
+    "type": "message",
+    "user": "U05777BLCPN",
+    "text": "Do we need to have the project PowerPoint done by Thursday?",
+    "ts": "1705453807.307239",
+    "thread_ts": "1705453807.307239",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056ZJ34X42",
+        "ts": "1705456258.030569"
+      },
+      {
+        "user": "U0625KF6RLH",
+        "ts": "1705457194.587249"
+      }
+    ],
+    "latest_reply": "1705457194.587249",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OxJRq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "D"
+              },
+              {
+                "type": "text",
+                "text": "o we need to have the project PowerPoint done by Thursday?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-12/5255179561091_977940a39e063a34a12f_72.png",
+      "first_name": "Ami",
+      "real_name": "Ami Patel",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amitrpatel502",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056ZJ34X42",
+      "U0625KF6RLH"
+    ]
+  },
+  {
+    "client_msg_id": "beea172d-afe2-41f5-9bb4-04df4e158fb5",
+    "type": "message",
+    "user": "U0574SA4NJ2",
+    "text": "will anyone be around in like an hour for a zoom call? still trying to figure out the add friend front end and i feel like i'm almost there",
+    "ts": "1705455363.875139",
+    "thread_ts": "1705455363.875139",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056ZJ34X42",
+        "ts": "1705456917.986949"
+      },
+      {
+        "user": "U0574SA4NJ2",
+        "ts": "1705457039.468019"
+      }
+    ],
+    "latest_reply": "1705457039.468019",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6bdn0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "will anyone be around in like an hour for a zoom call? still trying to figure out the add friend front end and i feel like i'm almost there"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5234963029127_5ccb773117eb46af543c_72.png",
+      "first_name": "Marisa",
+      "real_name": "Marisa Starkweather",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "marisastarkweather",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056ZJ34X42",
+      "U0574SA4NJ2"
+    ]
+  },
+  {
+    "client_msg_id": "f09aa91d-8317-4b6c-b547-777c49442d21",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "the powerpoints are individual, I'm pretty sure",
+    "ts": "1705456258.030569",
+    "thread_ts": "1705453807.307239",
+    "parent_user_id": "U05777BLCPN",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gueoH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the powerpoints are individual, I'm pretty sure"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "736907e3-26b8-4764-ab69-29ed62fefaa3",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "I'll be working tonight but will probably be having dinner in an hour?\n\nBTW I left some comments on your PR, have you had a chance to look at those?",
+    "ts": "1705456917.986949",
+    "thread_ts": "1705455363.875139",
+    "parent_user_id": "U0574SA4NJ2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xUU1t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll be working tonight but will probably be having dinner in an hour?\n\nBTW I left some comments on your PR, have you had a chance to look at those?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9b7742fe-c597-422b-adc3-0fc8ec6ec699",
+    "type": "message",
+    "user": "U0574SA4NJ2",
+    "text": "i did yeah! thank you, that's actually what i worked on. you can deny that merge actually, since i've reworked the code with cory's help.",
+    "ts": "1705457039.468019",
+    "thread_ts": "1705455363.875139",
+    "parent_user_id": "U0574SA4NJ2",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U056ZJ34X42"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZmUyJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i did yeah! thank you, that's actually what i worked on. you can deny that merge actually, since i've reworked the code with cory's help."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5234963029127_5ccb773117eb46af543c_72.png",
+      "first_name": "Marisa",
+      "real_name": "Marisa Starkweather",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "marisastarkweather",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "31e896a8-5bb3-402a-9189-2d64fae5e12b",
+    "type": "message",
+    "user": "U0625KF6RLH",
+    "text": "yes, they are individually completed and yes they must be done by the end of the day tomorrow",
+    "ts": "1705457194.587249",
+    "thread_ts": "1705453807.307239",
+    "parent_user_id": "U05777BLCPN",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U056ZJ34X42"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iyZl8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes, they are individually completed and yes they must be done by the end of the day tomorrow"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-19/6068347004260_cd7e855b65583e9c6d43_72.jpg",
+      "first_name": "Melinda",
+      "real_name": "Melinda Stitzel",
+      "display_name": "Liftoff Program Manager - Melinda (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "melinda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d2f1d5ae-f996-423f-b693-8fa24accc98f",
+    "type": "message",
+    "user": "U0574SA4NJ2",
+    "text": "i created a pull request of what i have now for my features. they are not working at all. i'd really love to get these done so if anyone has the time to look through and help it would be greatly appreciated!",
+    "ts": "1705462888.393749",
+    "thread_ts": "1705462888.393749",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056ZJ34X42",
+        "ts": "1705463298.432699"
+      },
+      {
+        "user": "U0574SA4NJ2",
+        "ts": "1705465769.019169"
+      }
+    ],
+    "latest_reply": "1705465769.019169",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3J4q/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i created a pull request of what i have now for my features. they are not working at all. i'd really love to get these done so if anyone has the time to look through and help it would be greatly appreciated!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5234963029127_5ccb773117eb46af543c_72.png",
+      "first_name": "Marisa",
+      "real_name": "Marisa Starkweather",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "marisastarkweather",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056ZJ34X42",
+      "U0574SA4NJ2"
+    ]
+  },
+  {
+    "client_msg_id": "1693d777-2cc5-4d3d-83ab-fa7e2d61737a",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "Completed recommendations button feature! Sorry the HTML \u0026amp; CSS looks so janky - in a world with more time, I'd have tried a little harder in that arena but here we are :upside_down_face:",
+    "ts": "1705463292.616199",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2Vd0z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Completed recommendations button feature! Sorry the HTML \u0026 CSS looks so janky - in a world with more time, I'd have tried a little harder in that arena but here we are "
+              },
+              {
+                "type": "emoji",
+                "name": "upside_down_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "32a2d985-9659-4d1b-a4f2-ddc33b8ad741",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "I'll take a look",
+    "ts": "1705463298.432699",
+    "thread_ts": "1705462888.393749",
+    "parent_user_id": "U0574SA4NJ2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+1EAj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll take a look"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9d7dfe7e-55b5-4c73-b040-3b83fc58d38d",
+    "type": "message",
+    "user": "U0574SA4NJ2",
+    "text": "thank you!",
+    "ts": "1705465769.019169",
+    "thread_ts": "1705462888.393749",
+    "parent_user_id": "U0574SA4NJ2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "afEI5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5234963029127_5ccb773117eb46af543c_72.png",
+      "first_name": "Marisa",
+      "real_name": "Marisa Starkweather",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "marisastarkweather",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "26762c5d-d625-491f-8a9f-32aeb05a8e6f",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "I added one last merge in, adding a link to the MovieDetails page from the the Profile section when you click on a movie. Done for the night - best of luck to y'all still working :muscle:",
+    "ts": "1705466713.227699",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jxzxM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I added one last merge in, adding a link to the MovieDetails page from the the Profile section when you click on a movie. Done for the night - best of luck to y'all still working "
+              },
+              {
+                "type": "emoji",
+                "name": "muscle",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c16815e3-582e-4939-ad5b-83f1235cd0c0",
+    "type": "message",
+    "user": "U0574SA4NJ2",
+    "text": "thank you for the help gabe! i updated the friends list, and made a pull request but i'm getting this error:\n`java.lang.NullPointerException: Cannot invoke \"org.hibernate.mapping.ToOne.getReferencedEntityName()\" because \"toOne\" is null`",
+    "ts": "1705475456.231899",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2kxDj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you for the help gabe! i updated the friends list, and made a pull request but i'm getting this error:\n"
+              },
+              {
+                "type": "text",
+                "text": "java.lang.NullPointerException: Cannot invoke \"org.hibernate.mapping.ToOne.getReferencedEntityName()\" because \"toOne\" is null",
+                "style": {
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5234963029127_5ccb773117eb46af543c_72.png",
+      "first_name": "Marisa",
+      "real_name": "Marisa Starkweather",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "marisastarkweather",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

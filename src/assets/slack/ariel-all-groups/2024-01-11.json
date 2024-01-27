@@ -1,0 +1,103 @@
+[
+  {
+    "client_msg_id": "37a8eba4-ae31-4655-8fc0-80397e876775",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "Do we join directly to our project team?",
+    "ts": "1705016239.937599",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m3J8d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do we join directly to our project team?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "486f3c18-c475-4956-a322-1dc9d12278fe",
+    "type": "message",
+    "user": "U055RLVGECB",
+    "text": "i have your breakout rooms opened in our usual zoom meeting",
+    "ts": "1705016277.774099",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U057T1QUHB3"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yTVJI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i have your breakout rooms opened in our usual zoom meeting"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5199690404373_f5b2dee4a67558ffd533_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Mitchell",
+      "display_name": "TA - Ariel (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "ariel.l.makowski",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

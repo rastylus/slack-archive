@@ -1,0 +1,2410 @@
+[
+  {
+    "client_msg_id": "6fa53a57-5315-45d8-9515-01666e7abea0",
+    "type": "message",
+    "user": "U057534FBHQ",
+    "text": "Caused by: java.sql.SQLSyntaxErrorException: Access denied for user 'techjobs'@'%' to database 'techjobs'",
+    "ts": "1699851023.003769",
+    "thread_ts": "1699851023.003769",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1699884361.829519"
+      }
+    ],
+    "latest_reply": "1699884361.829519",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U057534FBHQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A3NXM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Caused by: java.sql.SQLSyntaxErrorException: Access denied for user 'techjobs'@'%' to database 'techjobs'"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5255734451745_4fe6d453b22fa9553c02_72.png",
+      "first_name": "Abdulrazig",
+      "real_name": "Abdulrazig Mohammed",
+      "display_name": "Abdulrazig Mohammed",
+      "team": "T050CSX3EMT",
+      "name": "abduadam688",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057P8PCXT2"
+    ]
+  },
+  {
+    "client_msg_id": "F65301A9-FA79-4034-A1ED-8270B1065572",
+    "type": "message",
+    "user": "U056WKD8RRT",
+    "text": "How do I properly get started with My SQL workbench with GA4?",
+    "ts": "1699867189.751839",
+    "thread_ts": "1699867189.751839",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U05765HGT46",
+        "ts": "1699885282.608729"
+      },
+      {
+        "user": "U056WKD8RRT",
+        "ts": "1699885565.905319"
+      },
+      {
+        "user": "U056WKD8RRT",
+        "ts": "1699885581.161999"
+      }
+    ],
+    "latest_reply": "1699885581.161999",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "faAzF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How do I properly get started with My SQL workbench with GA4?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5258951854693_c258a719a5ff97defcfb_72.png",
+      "first_name": "Noah",
+      "real_name": "Noah Brandwein",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "noah.brandwein98",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056WKD8RRT",
+      "U05765HGT46"
+    ]
+  },
+  {
+    "client_msg_id": "04DDC55B-141F-459E-B22D-809B5C60B3F1",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Did you check to make sure your user dependencies in Intellij match your SQL user info?",
+    "ts": "1699884361.829519",
+    "thread_ts": "1699851023.003769",
+    "parent_user_id": "U057534FBHQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AAq6d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Did you check to make sure your user dependencies in Intellij match your SQL user info?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "60150D61-BD4A-47E0-8FA6-5A2CADD4EFC9",
+    "type": "message",
+    "user": "U056K1UHEGP",
+    "text": "Watch the orm part 1 video back in chapter intro to orm . U will find we did similar thing for coding events ",
+    "ts": "1699884725.620309",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 2,
+        "users": [
+          "U05765HGT46",
+          "U0571NR7G13"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "StLZd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Watch the orm part 1 video back in chapter intro to orm . U will find we did similar thing for coding events "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/13e306b805121fa81ffc3395068bf579.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Sneha",
+      "real_name": "Sneha Chitre",
+      "display_name": "Sneha Chitre (KC)",
+      "team": "T050CSX3EMT",
+      "name": "sneha.chitre.usa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7991F8E1-1C6C-46D2-8D36-2F0A89A6D15E",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "What Sneha said, also there’s a video through launchcode, Lesson 4.1, that helps you set up a persistent database. It’s in Chapter 17, Intro to ORM in the ORM section, setting up a persistent database. It walks you through setting up a persistent database. *edited for clarity",
+    "ts": "1699885282.608729",
+    "thread_ts": "1699867189.751839",
+    "edited": {
+      "user": "U05765HGT46",
+      "ts": "1699887363.000000"
+    },
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qeeP0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What Sneha said, also there’s a video through launchcode, Lesson 4.1, that helps you set up a persistent database. It’s in Chapter 17, Intro to ORM in the ORM section, setting up a persistent database. It walks you through setting up a persistent database"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " *edited for clarity"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7BA365F5-3545-482A-B5D3-EEF8500CEFB1",
+    "type": "message",
+    "user": "U056WKD8RRT",
+    "text": "I have the MySQL Workspace downloaded and set up I remember us using it but for the life of me I can’t remember how to link my GA4 project to it so that I can get started in GA4",
+    "ts": "1699885565.905319",
+    "thread_ts": "1699867189.751839",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oiydS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have the MySQL Workspace downloaded and set up I remember us using it but for the life of me "
+              },
+              {
+                "type": "text",
+                "text": "I can’t"
+              },
+              {
+                "type": "text",
+                "text": " remember how to link my GA4 project to it so that I can get started in GA4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5258951854693_c258a719a5ff97defcfb_72.png",
+      "first_name": "Noah",
+      "real_name": "Noah Brandwein",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "noah.brandwein98",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6B45A8BF-4436-4A6A-947C-5BC60FA587F1",
+    "type": "message",
+    "user": "U056WKD8RRT",
+    "text": "Thank you I will watch those videos you guys mentioned",
+    "ts": "1699885581.161999",
+    "thread_ts": "1699867189.751839",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05765HGT46"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1ZQGA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you I will watch those videos you guys mentioned"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5258951854693_c258a719a5ff97defcfb_72.png",
+      "first_name": "Noah",
+      "real_name": "Noah Brandwein",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "noah.brandwein98",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d9f65499-da93-4dee-aa9c-fa5ef243a8d5",
+    "type": "message",
+    "user": "U057534FBHQ",
+    "text": "I have this issue!",
+    "ts": "1699900494.614519",
+    "thread_ts": "1699900494.614519",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U05768C2NP4",
+        "ts": "1699901981.466689"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1699903259.537049"
+      }
+    ],
+    "latest_reply": "1699903259.537049",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tOKH3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have this issue!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5255734451745_4fe6d453b22fa9553c02_72.png",
+      "first_name": "Abdulrazig",
+      "real_name": "Abdulrazig Mohammed",
+      "display_name": "Abdulrazig Mohammed",
+      "team": "T050CSX3EMT",
+      "name": "abduadam688",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05768C2NP4",
+      "U057P8PCXT2"
+    ]
+  },
+  {
+    "client_msg_id": "8969012a-bc9f-48ba-9262-17fbccd5280f",
+    "type": "message",
+    "user": "U057534FBHQ",
+    "ts": "1699900498.886609",
+    "thread_ts": "1699900498.886609",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05725VUBJR",
+        "ts": "1699905236.734959"
+      }
+    ],
+    "latest_reply": "1699905236.734959",
+    "files": [
+      {
+        "id": "F065ETE7Y4D",
+        "created": 1699900496,
+        "timestamp": 1699900496,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057534FBHQ",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 192811,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F065ETE7Y4D/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F065ETE7Y4D/download/image.png",
+        "original_h": 768,
+        "original_w": 1366,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F065ETE7Y4D-2ea2f4e354/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F065ETE7Y4D-2ea2f4e354/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F065ETE7Y4D-2ea2f4e354/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F065ETE7Y4D-2ea2f4e354/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 202,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F065ETE7Y4D-2ea2f4e354/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 270,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F065ETE7Y4D-2ea2f4e354/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 405,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F065ETE7Y4D-2ea2f4e354/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 540,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F065ETE7Y4D-2ea2f4e354/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 576,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057534FBHQ/F065ETE7Y4D/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F065ETE7Y4D-b298b4ed8c",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5255734451745_4fe6d453b22fa9553c02_72.png",
+      "first_name": "Abdulrazig",
+      "real_name": "Abdulrazig Mohammed",
+      "display_name": "Abdulrazig Mohammed",
+      "team": "T050CSX3EMT",
+      "name": "abduadam688",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05725VUBJR"
+    ]
+  },
+  {
+    "client_msg_id": "f6c59504-e095-4809-96fb-d558cf28ec57",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Is it that you're not seeing any jobs being listed on your home page? Are jobs showing up in your database?",
+    "ts": "1699901981.466689",
+    "thread_ts": "1699900494.614519",
+    "parent_user_id": "U057534FBHQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lfZxm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is it that you're not seeing any jobs being listed on your home page? Are jobs showing up in your database?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A2543A30-3EE2-48AE-B9F7-05A762D2368D",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "You need to be way more specific with your question. What is the issue? Where is this issue occurring?",
+    "ts": "1699903259.537049",
+    "thread_ts": "1699900494.614519",
+    "edited": {
+      "user": "U057P8PCXT2",
+      "ts": "1699903354.000000"
+    },
+    "parent_user_id": "U057534FBHQ",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SFtgb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You need to be way more specific with your question. What is the issue? Where is this issue occurring?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1aab86ab-27f2-44cc-93d2-a4708ad8347c",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "When developing a website, it's usually a good idea to test in a few different browsers to make sure that your site works across platforms.\n\nWhat testing tools do people use for Safari, if they don't have iPhones?",
+    "ts": "1699903980.523939",
+    "thread_ts": "1699903980.523939",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U057C70KL57",
+        "ts": "1699905616.802489"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699905975.620219"
+      },
+      {
+        "user": "U056ZDVQRL3",
+        "ts": "1699913512.917219"
+      },
+      {
+        "user": "U056ZDVQRL3",
+        "ts": "1699913534.822329"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1699915045.688609"
+      }
+    ],
+    "latest_reply": "1699915045.688609",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eAVru",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When developing a website, it's usually a good idea to test in a few different browsers to make sure that your site works across platforms.\n\nWhat testing tools do people use for Safari, if they don't have iPhones?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U056Q9W022K",
+      "U056ZDVQRL3",
+      "U05724ACLVB",
+      "U057C70KL57"
+    ]
+  },
+  {
+    "client_msg_id": "b369f33c-432e-40ee-a7cd-1c0eee9952ed",
+    "type": "message",
+    "user": "U057EKTTBLP",
+    "text": "They find an old school computer, lol.",
+    "ts": "1699904344.745139",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fdXHQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "They find an old school computer, lol."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a7e783ee7383e696d6b0f1c5a54d9081.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "Robert",
+      "real_name": "Robert Tyler Weifenbach",
+      "display_name": "Tyler",
+      "team": "T050CSX3EMT",
+      "name": "rweifenbach24",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ea7efffc-6259-4b33-aba1-7aa01fa6bb94",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Safari is an iOS browser, though, so far as I am aware.",
+    "ts": "1699904373.648169",
+    "edited": {
+      "user": "U05724ACLVB",
+      "ts": "1699904393.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wOaSQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Safari is an iOS browser, though, so far as I am aware."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bde01750-c712-48a3-ad2e-2add26c87824",
+    "type": "message",
+    "user": "U057EKTTBLP",
+    "text": "Oh is it? Could've sworn I recall using Safari back in the day.",
+    "ts": "1699904393.537639",
+    "thread_ts": "1699904393.537639",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699904434.278799"
+      }
+    ],
+    "latest_reply": "1699904434.278799",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6qB2V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh is it? Could've sworn I recall using Safari back in the day."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a7e783ee7383e696d6b0f1c5a54d9081.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "Robert",
+      "real_name": "Robert Tyler Weifenbach",
+      "display_name": "Tyler",
+      "team": "T050CSX3EMT",
+      "name": "rweifenbach24",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05724ACLVB"
+    ]
+  },
+  {
+    "client_msg_id": "ab57dae1-df2a-4493-818b-7d4b43b9c454",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Netscape Navigator (now defunct), LOL!\n\n:older_adult::skin-tone-2:",
+    "ts": "1699904434.278799",
+    "thread_ts": "1699904393.537639",
+    "parent_user_id": "U057EKTTBLP",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "joy",
+        "count": 2,
+        "users": [
+          "U057EKTTBLP",
+          "U0579KDG6A0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0JbC0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Netscape Navigator (now defunct), LOL!\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "older_adult",
+                "skin_tone": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B6C2575F-505E-4AAD-A91F-A9E0B4CEBF32",
+    "type": "message",
+    "user": "U05725VUBJR",
+    "text": "Check the controller and make sure the model matches the template",
+    "ts": "1699905236.734959",
+    "thread_ts": "1699900498.886609",
+    "parent_user_id": "U057534FBHQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sOrnX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Check the controller and make sure the model matches the template"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-09/6026295546065_d15fff6d8b7e1d918b05_72.jpg",
+      "first_name": "Maurice",
+      "real_name": "Maurice Kratz",
+      "display_name": "Maurice",
+      "team": "T050CSX3EMT",
+      "name": "kratz.maurice",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c6fb4fbc-b411-4a1c-a40a-91daa9375cf5",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "This sounds like the setup to a Windows joke",
+    "ts": "1699905616.802489",
+    "thread_ts": "1699903980.523939",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 2,
+        "users": [
+          "U05724ACLVB",
+          "U0579KDG6A0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3vEII",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This sounds like the setup to a Windows joke"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f98e43ca-f587-4cd9-b358-9119ccc8a010",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I know, right?",
+    "ts": "1699905975.620219",
+    "thread_ts": "1699903980.523939",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6wYMA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I know, right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "08b5b548-9379-417a-8d23-0d95b3aeaac2",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I was in a meeting, today, where someone was talking about ecommerce. The speaker highly recommends Shopify, saying WordPress is hacked a lot because it's open-source.\n\nThis struck me as odd.\n\nIt doesn't seem to me as if the open-source nature of something is what opens it to hacking, but the fact that something is in widespread use, like Windows or WordPress.\n\nAnyone else have any insight?\n\nOne of my partner's businesses is an ecommerce business for which I built him a WordPress site using WooCommerce. I have made zero modifications to WooCommerce or to the payment gateway plugin, because I didn't want to risk anything, and I've got Really Simple SSL as a plugin to help handle security. The nature of the business is that Shopify would disallow it, which is why we (I) chose WordPress a few years ago when we were first starting the business. (My partner is clueless about any of this, so it was up to me.)\n\nI know that it's extremely important to keep WordPress and its themes and plugins updated religiously, which I do.\n\nBut now I'm paranoid. (Or more paranoid than I was, which was pretty paranoid.)\n\nDoes anyone have any words of wisdom?\n\nThere's NO WAY I would try to build an ecommerce site from scratch myself, using what we've learned so far in this boot camp, but I'm fairly confident that I'm capable of managing WordPress with WooCommerce and Authorize with no modifications. I would never do this for anyone other than myself or my partner, though.\n\nAm I kidding myself?",
+    "ts": "1699907719.139079",
+    "thread_ts": "1699907719.139079",
+    "edited": {
+      "user": "U05724ACLVB",
+      "ts": "1699907785.000000"
+    },
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U056ZDVQRL3",
+        "ts": "1699913878.676199"
+      },
+      {
+        "user": "U056ZDVQRL3",
+        "ts": "1699915056.491949"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699916026.588449"
+      }
+    ],
+    "latest_reply": "1699916026.588449",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NQo6k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was in a meeting, today, where someone was talking about ecommerce. The speaker highly recommends Shopify, saying WordPress is hacked a lot because it's open-source.\n\nThis struck me as odd.\n\nIt doesn't seem to me as if the open-source nature of something is what opens it to hacking, but the fact that something is in widespread use, like Windows or WordPress.\n\nAnyone else have any insight?\n\nOne of my partner's businesses is an ecommerce business for which I built him a WordPress site using WooCommerce. I have made zero modifications to WooCommerce or to the payment gateway plugin, because I didn't want to risk anything, and I've got Really Simple SSL as a plugin to help handle security. The nature of the business is that Shopify would disallow it, which is why we (I) chose WordPress a few years ago when we were first starting the business. (My partner is clueless about any of this, so it was up to me.)\n\nI know that it's extremely important to keep WordPress and its themes and plugins updated religiously, which I do.\n\nBut now I'm paranoid. (Or more paranoid than I was, which was pretty paranoid.)\n\nDoes anyone have any words of wisdom?\n\nThere's NO WAY I would try to build an ecommerce site from scratch myself, using what we've learned so far in this boot camp, but I'm fairly confident that I'm capable of managing WordPress with WooCommerce and Authorize with no modifications. I would never do this for anyone other than myself or my partner, though.\n\nAm I kidding myself?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056ZDVQRL3",
+      "U05724ACLVB"
+    ]
+  },
+  {
+    "client_msg_id": "029a7c6b-490d-4d42-97ee-7933b94be35d",
+    "type": "message",
+    "user": "U057RUURNTB",
+    "text": "My partner runs his own business that helps people w/their sites. His advice is to make sure you're on Nexcess.  They have dedicated WooCommerce Hosting.  It checks integrity \u0026amp; security nightly.  And also get WorkFence premium a firewall plugin.  Do not use any plugin that's not premium or paid \u0026amp; supported. You can  also use CodeCanon elite authors.",
+    "ts": "1699908602.037649",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zw/IZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My partner runs his own business that helps people w/their sites. His advice is to make sure you're on Nexcess.  They have dedicated WooCommerce Hosting.  It checks integrity \u0026 security nightly.  And also get WorkFence premium a firewall plugin.  Do not use any plugin that's not premium or paid \u0026 supported. You can  also use CodeCanon elite authors."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2e9d28eae59cece7c7d9c47ef40ef43a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Griffiths",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "antiphreeeze",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1F48BFD1-B67E-427A-A413-5197D80BCBF9",
+    "type": "message",
+    "user": "U056WKJH4VB",
+    "text": "Going back through some JS course material, React part 1 is using Vite.. is this a recent change to the course material? Thanks!",
+    "ts": "1699909985.974989",
+    "thread_ts": "1699909985.974989",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U050FPSA3DH",
+        "ts": "1699910026.956029"
+      },
+      {
+        "user": "U056WKJH4VB",
+        "ts": "1699910106.601349"
+      }
+    ],
+    "latest_reply": "1699910106.601349",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aTIlM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Going back through some JS course material, React part 1 is using Vite.. is this a recent change to the course material? Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-07/5414661887216_6c3cef08b17a3e4d1fdf_72.jpg",
+      "first_name": "AndrewBond",
+      "real_name": "AndrewBond",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "andrewbond_01",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U050FPSA3DH",
+      "U056WKJH4VB"
+    ]
+  },
+  {
+    "client_msg_id": "3fd0ef94-a1a6-4011-afad-37e8da2303eb",
+    "type": "message",
+    "user": "U050FPSA3DH",
+    "text": "Yes — brand new. I haven't even had a chance to review it yet. But `create-react-app` is being deprecated so it's an important change.",
+    "ts": "1699910026.956029",
+    "thread_ts": "1699909985.974989",
+    "parent_user_id": "U056WKJH4VB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-5",
+        "count": 2,
+        "users": [
+          "U057SCV767K",
+          "U057RUURNTB"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U05765HGT46",
+          "U0579KDG6A0",
+          "U056Q9W022K"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IwoFI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes — brand new. I haven't even had a chance to review it yet. But "
+              },
+              {
+                "type": "text",
+                "text": "create-react-app",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " is being deprecated so it's an important change."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5250305694433_62d56e5a7ac1aa48f553_72.jpg",
+      "first_name": "Carrie",
+      "real_name": "Carrie Jones",
+      "display_name": "Lead Instructor - Carrie Jones",
+      "team": "T050CSX3EMT",
+      "name": "cjones.renaissancewom",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "483F50D6-3D6F-40FB-9571-483CAEC7CFEA",
+    "type": "message",
+    "user": "U056WKJH4VB",
+    "text": "Thank you Carrie!",
+    "ts": "1699910106.601349",
+    "thread_ts": "1699909985.974989",
+    "parent_user_id": "U056WKJH4VB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U050FPSA3DH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9mlHt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you Carrie!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-07/5414661887216_6c3cef08b17a3e4d1fdf_72.jpg",
+      "first_name": "AndrewBond",
+      "real_name": "AndrewBond",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "andrewbond_01",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cd240d7f-2f6d-49ce-ac9c-32aa64a4829a",
+    "type": "message",
+    "user": "U056ZDVQRL3",
+    "text": "you can open the console. There is an option to view mobile. You can then select various layouts to see how things look.  You can also create a custom viewport if you know the approximate pixel sizes.  It's not a perfect solution, but it's a start. And it's free so it has that going for it. There are several professional tools out there that will do a top notch job at mimicking layouts based on viewport sizes, but you don't need to pay for those right now. Let the employer foot that bill!!!! :wink:",
+    "ts": "1699913512.917219",
+    "thread_ts": "1699903980.523939",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Y5Q93",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you can open the console. There is an option to view mobile. You can then select various layouts to see how things look.  You can also create a custom viewport if you know the approximate pixel sizes.  It's not a perfect solution, but it's a start. And it's free so it has that going for it. There are several professional tools out there that will do a top notch job at mimicking layouts based on viewport sizes, but you don't need to pay for those right now. Let the employer foot that bill!!!! "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5254288179559_8ccab3e3f6cddd72d402_72.jpg",
+      "first_name": "Christopher",
+      "real_name": "Christopher Deo",
+      "display_name": "Chris",
+      "team": "T050CSX3EMT",
+      "name": "chris",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "37747033-6b56-4079-a1aa-e395e283ce34",
+    "type": "message",
+    "user": "U056ZDVQRL3",
+    "text": "^^^  The same console we used in the Javascript section.",
+    "ts": "1699913534.822329",
+    "thread_ts": "1699903980.523939",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BxxTn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "^^^  The same console we used in the Javascript section."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5254288179559_8ccab3e3f6cddd72d402_72.jpg",
+      "first_name": "Christopher",
+      "real_name": "Christopher Deo",
+      "display_name": "Chris",
+      "team": "T050CSX3EMT",
+      "name": "chris",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "11155dd5-3d4f-4803-b957-5b6295f925ef",
+    "type": "message",
+    "user": "U056ZDVQRL3",
+    "text": "Crazy question...\nBut are we meeting for class tonight?  I missed the meetings on the next steps due to having to work a tad late and I can't recall where the recordings are stashed!  Old timer's is real, y'all!!!:rolling_on_the_floor_laughing:",
+    "ts": "1699913637.275369",
+    "thread_ts": "1699913637.275369",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U050FPSA3DH",
+        "ts": "1699916307.130539"
+      }
+    ],
+    "latest_reply": "1699916307.130539",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JQdLV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Crazy question...\nBut are we meeting for class tonight?  I missed the meetings on the next steps due to having to work a tad late and I can't recall where the recordings are stashed!  Old timer's is real, y'all!!!"
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5254288179559_8ccab3e3f6cddd72d402_72.jpg",
+      "first_name": "Christopher",
+      "real_name": "Christopher Deo",
+      "display_name": "Chris",
+      "team": "T050CSX3EMT",
+      "name": "chris",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U050FPSA3DH"
+    ]
+  },
+  {
+    "client_msg_id": "ae312679-fafc-4969-b2de-f932e1dc1c15",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "Studio time is available for those who are working on assignments but we will *not be meeting in lecture!* I have an announcement schedule to go off at 5 in \u003c#C050FRKHFCJ|class-announcements\u003e",
+    "ts": "1699913695.726419",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kF/ek",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Studio time is available for those who are working on assignments but we will "
+              },
+              {
+                "type": "text",
+                "text": "not be meeting in lecture!",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " I have an announcement schedule to go off at 5 in "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C050FRKHFCJ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7eff4da7-4640-4937-80d9-eb23bb627ec8",
+    "type": "message",
+    "user": "U056ZDVQRL3",
+    "text": "I have multiple e commerce sites running just fine on WP.  There are a couple added steps to ensure security, but there's lots of plugins to help in that area as well. That's one of the huge benefits of the WP platform!\n\nShopify is also an excellent alternative. But it comes at an added cost and complexity that many DIYers just can't handle. A statistically significant portion of the e-commerce sites out there are built on WP for that very reason.",
+    "ts": "1699913878.676199",
+    "thread_ts": "1699907719.139079",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9LLHv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have multiple e commerce sites running just fine on WP.  There are a couple added steps to ensure security, but there's lots of plugins to help in that area as well. That's one of the huge benefits of the WP platform!\n\nShopify is also an excellent alternative. But it comes at an added cost and complexity that many DIYers just can't handle. A statistically significant portion of the e-commerce sites out there are built on WP for that very reason."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5254288179559_8ccab3e3f6cddd72d402_72.jpg",
+      "first_name": "Christopher",
+      "real_name": "Christopher Deo",
+      "display_name": "Chris",
+      "team": "T050CSX3EMT",
+      "name": "chris",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dcab62e6-2d90-451e-ac17-50509d5e2fee",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "Does that mean we will go directly to studio after the announcements?",
+    "ts": "1699914418.141919",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xq6cS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Does that mean we will go directly to studio after the announcements?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "47adc51d-4586-4d31-8a34-93a4ede02275",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "It will be directly to studio - the only announcements will be written and posted at 5 CST!",
+    "ts": "1699914474.867539",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U057T1QUHB3"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-5",
+        "count": 2,
+        "users": [
+          "U05725VUBJR",
+          "U057SCV767K"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U05765HGT46",
+          "U056ZDVQRL3"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9Q0JY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It will be directly to studio - the only announcements will be written and posted at 5 CST!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "41f0547b-33a6-42e5-a89b-57a54d37b40b",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "So do we need to go to studio if we've finished all assignments?",
+    "ts": "1699915013.542269",
+    "thread_ts": "1699915013.542269",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U050FMK1S83",
+        "ts": "1699915197.427329"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699915930.626949"
+      }
+    ],
+    "latest_reply": "1699915930.626949",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TpTUY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So do we need to go to studio if we've finished all assignments?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U050FMK1S83",
+      "U05724ACLVB"
+    ]
+  },
+  {
+    "client_msg_id": "a06f9856-3487-4b4d-a7ed-bf843b8f7fef",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I QA regularly at my job and we use the console and then cross check with an actual device if we find something real weird to see if it's an actual issue. Most of the time when you find something in the console, it also shows up on a device, too.",
+    "ts": "1699915045.688609",
+    "thread_ts": "1699903980.523939",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056ZDVQRL3"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9tNYq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I QA regularly at my job and we use the console and then cross check with an actual device if we find something real weird to see if it's an actual issue. Most of the time when you find something in the console, it also shows up on a device, too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4d5f5298-3798-44e9-a55b-2cc073c9ec86",
+    "type": "message",
+    "user": "U056ZDVQRL3",
+    "text": "You already hit on one of the key considerations to WP security.\nKeep everything up to date...\nEnable auto updates if you have not already done so. (I bet you have!:wink:)\nUse only verified and trusted plugins from reputable authors.",
+    "ts": "1699915056.491949",
+    "thread_ts": "1699907719.139079",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7DO9g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You already hit on one of the key considerations to WP security.\nKeep everything up to date...\nEnable auto updates if you have not already done so. (I bet you have!"
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ")\nUse only verified and trusted plugins from reputable authors."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5254288179559_8ccab3e3f6cddd72d402_72.jpg",
+      "first_name": "Christopher",
+      "real_name": "Christopher Deo",
+      "display_name": "Chris",
+      "team": "T050CSX3EMT",
+      "name": "chris",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "de89a995-2477-4532-803a-b28b682de297",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "If you are finished with all of your assignments then you do not need to attend studio groups this evening. It'll be in the announcement at 5",
+    "ts": "1699915197.427329",
+    "thread_ts": "1699915013.542269",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-5",
+        "count": 1,
+        "users": [
+          "U057SCV767K"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g0MO3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you are finished with all of your assignments then you do not need to attend studio groups this evening. It'll be in the announcement at 5"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "aa18dcd0-9aad-48fd-a51a-edb6ee200c79",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Thanks, Colin!",
+    "ts": "1699915930.626949",
+    "thread_ts": "1699915013.542269",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U050FMK1S83"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R5AMy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks, Colin!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a14a1157-26bb-4ef7-9b36-3da1feca9b32",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yeah, this person was saying Shopify is so much easier for people who are not tech-savvy to manage and that you need to be a coder or have one handy to manage WP, but that hasn't been my experience, yet.\n\nI do have some experimental WP installations where I'm mucking about with CSS and PHP, but they're not e-commerce installations.",
+    "ts": "1699916026.588449",
+    "thread_ts": "1699907719.139079",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sUYGc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, this person was saying Shopify is so much easier for people who are not tech-savvy to manage and that you need to be a coder or have one handy to manage WP, but that hasn't been my experience, yet.\n\nI do have some experimental WP installations where I'm mucking about with CSS and PHP, but they're not e-commerce installations."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "61cc6d81-03b1-4222-9722-93676206e2e4",
+    "type": "message",
+    "user": "U050FPSA3DH",
+    "text": "Links to the YouTube playlists and other resources are bookmarked at the top of \u003c#C050FRKHFCJ|class-announcements\u003e",
+    "ts": "1699916307.130539",
+    "thread_ts": "1699913637.275369",
+    "parent_user_id": "U056ZDVQRL3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "33ALV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Links to the YouTube playlists and other resources are bookmarked at the top of "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C050FRKHFCJ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5250305694433_62d56e5a7ac1aa48f553_72.jpg",
+      "first_name": "Carrie",
+      "real_name": "Carrie Jones",
+      "display_name": "Lead Instructor - Carrie Jones",
+      "team": "T050CSX3EMT",
+      "name": "cjones.renaissancewom",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A9900B57-23B9-4221-A43F-E45B9FB90AC6",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "it feels so weird not having any homework to do right now????",
+    "ts": "1699919716.403519",
+    "thread_ts": "1699919716.403519",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056ZDVQRL3",
+        "ts": "1700003046.813099"
+      }
+    ],
+    "latest_reply": "1700003046.813099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pLoaz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it feels so weird not having any homework to do right now????"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056ZDVQRL3"
+    ]
+  },
+  {
+    "client_msg_id": "429E83B6-375A-446D-9775-37C25E302F9D",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "(she says right before we get slammed with having to do our capstone projects lmaooo)",
+    "ts": "1699919734.310279",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      },
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 15,
+        "users": [
+          "U05724ACLVB",
+          "U057P8MQU56",
+          "U05725VUBJR",
+          "U058L1CEFHN",
+          "U057521BQP5",
+          "U05765HGT46",
+          "U0579KDG6A0",
+          "U056Q9W022K",
+          "U0577EKQS9Z",
+          "U057B2M3K6G",
+          "U050FPSA3DH",
+          "U057UDD3JV6",
+          "U056K1UHEGP",
+          "U056K1U9R1V",
+          "U057UDJDKKJ"
+        ]
+      },
+      {
+        "name": "star-struck",
+        "count": 2,
+        "users": [
+          "U057SCV767K",
+          "U056Q9W022K"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U056Q5Q9R0F",
+          "U056Q4RGKB9",
+          "U056WKE4W77"
+        ]
+      },
+      {
+        "name": "man_dancing",
+        "count": 1,
+        "users": [
+          "U0571NR7G13"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U056K1UHEGP"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FCS/8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "(she says right before we get slammed with having to do our capstone projects lmaooo)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

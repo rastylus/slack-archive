@@ -1,0 +1,181 @@
+[
+  {
+    "client_msg_id": "4fb61727-1ea4-4bda-b3bd-2bedaf46efed",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "Hey, team! Are we meeting tomorrow at 7 to work on our project proposal?",
+    "ts": "1701222011.779049",
+    "thread_ts": "1701222011.779049",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U05765HGT46",
+        "ts": "1701234553.930949"
+      },
+      {
+        "user": "U05722VQ4S0",
+        "ts": "1701267465.892769"
+      }
+    ],
+    "latest_reply": "1701267465.892769",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057C9DPMC3"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pGqB3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey, team! Are we meeting tomorrow at 7 to work on our project proposal?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05722VQ4S0",
+      "U05765HGT46"
+    ]
+  },
+  {
+    "client_msg_id": "E933F217-9676-4C69-86ED-D237C14E68DC",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "That’s what I was planning on, but I also wasn’t sure if it was 7 or 8, or 7 until 8? ",
+    "ts": "1701234553.930949",
+    "thread_ts": "1701222011.779049",
+    "parent_user_id": "U05722VQ4S0",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZCeYu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That’s"
+              },
+              {
+                "type": "text",
+                "text": " what I was planning on, but I also "
+              },
+              {
+                "type": "text",
+                "text": "wasn’t"
+              },
+              {
+                "type": "text",
+                "text": " sure if it was 7 or 8, or 7 until 8? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "567282c1-daf8-470c-a0ab-ef84ac3e3720",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "I believe 7 until 8! And sweet, see you all then!",
+    "ts": "1701267465.892769",
+    "thread_ts": "1701222011.779049",
+    "parent_user_id": "U05722VQ4S0",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uKk5J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I believe 7 until 8! And sweet, see you all then!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

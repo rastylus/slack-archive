@@ -1,0 +1,644 @@
+[
+  {
+    "client_msg_id": "c1ea4a61-9199-4297-a098-3893cd0a08db",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "awesome! should I look over this and approve it tonight/tomorrow or do we want everyone to review it first? also, is there a best practice for doing this - should I just be looking at the code or running it on my local machine somehow to test it? (sorry, haven’t done this before and can’t remember covering it in class!)",
+    "ts": "1701571055.179249",
+    "thread_ts": "1701520627.156829",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ui/DB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "awesome! should I look over this and approve it tonight/tomorrow or do we want everyone to review it first? also, is there a best practice for doing this - should I just be looking at the code or running it on my local machine somehow to test it? (sorry, haven’t done this before and can’t remember covering it in class!)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "76448f41-b510-4b56-aebd-e7a2ea461402",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "thanks to both of you for handling this!!",
+    "ts": "1701571091.903509",
+    "thread_ts": "1701479601.262749",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pGWtJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thanks to both of you for handling this!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "aa1bc371-c6f4-4c82-93a9-3f396b45393b",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "I’m taking a stab at setting up a “Movie” model and data layer that we can eventually use to store data from the API since it seems like that needs to happen before I can start working on any of the other watchlist stuff. not 100% sure if this falls in my tasks or someone else’s so if anyone else was planning on doing that lmk",
+    "ts": "1701573266.835649",
+    "thread_ts": "1701573266.835649",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U057C75RYBB",
+        "ts": "1701624493.456019"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1701624960.043849"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1701625163.413419"
+      }
+    ],
+    "latest_reply": "1701625163.413419",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0NigJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m taking a stab at setting up a “Movie” model and data layer that we can eventually use to store data from the API since it seems like that needs to happen before I can start working on any of the other watchlist stuff. not 100% sure if this falls in my tasks or someone else’s so if anyone else was planning on doing that lmk"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Y707Y14",
+      "U057C75RYBB"
+    ]
+  },
+  {
+    "client_msg_id": "303c16e6-6eee-4424-b96d-d1b55eef918d",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "@\u003chttps://github.com/mervedogan1501|mervedogan1501\u003e",
+    "ts": "1701580965.083199",
+    "thread_ts": "1701482078.695939",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VTFGi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "@"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/mervedogan1501",
+                "text": "mervedogan1501"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c571d645-eac6-4b72-a05d-6e9a7d5122aa",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "Thank you so much",
+    "ts": "1701581971.284669",
+    "thread_ts": "1701479601.262749",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ujkvC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you so much"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "189722bc-a127-4023-b5ad-767cc2f68992",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "I was thinking about this and I mentioned saving a bunch of info about the movies in our database but do you think we would just need the ID that TMDB associates with the movie? then we just call their \"find by ID\" route and get all the information?",
+    "ts": "1701624493.456019",
+    "thread_ts": "1701573266.835649",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QTuzz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was thinking about this and I mentioned saving a bunch of info about the movies in our database but do you think we would just need the ID that TMDB associates with the movie? then we just call their \"find by ID\" route and get all the information?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1DC3CDD2-D562-449C-8F9F-C6A7FFCC1892",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "I’m not sure what makes the most sense, I’ll think about it and maybe we can talk through some pros and cons on Monday?",
+    "ts": "1701624960.043849",
+    "thread_ts": "1701573266.835649",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Lai0k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " not sure what makes the most sense, "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " think about it and maybe we can talk through some pros and cons on Monday?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "24781bcf-33f6-4efc-9d84-a9c71938c6d9",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Sounds good!",
+    "ts": "1701625163.413419",
+    "thread_ts": "1701573266.835649",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "O3To4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sounds good!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "54f583af-90a6-46e4-aa87-6f018724b8b1",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "\u003c@U056Q9W022K\u003e or anyone else who’s written Java code in our file - did you have any issues getting import statements to work? IntelliJ isn’t recognizing my import statements for CrudRepository or anything in jakarta and clearing the cache/restarting/leaving it and coming back isn’t working. trying to figure out if this is an issue with my IntelliJ or if the project is missing a dependency",
+    "ts": "1701642871.306109",
+    "thread_ts": "1701642871.306109",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1701651047.676119"
+      }
+    ],
+    "latest_reply": "1701651047.676119",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+1BNR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056Q9W022K"
+              },
+              {
+                "type": "text",
+                "text": " or anyone else who’s written Java code in our file - did you have any issues getting import statements to work? IntelliJ isn’t recognizing my import statements for CrudRepository or anything in jakarta and clearing the cache/restarting/leaving it and coming back isn’t working. trying to figure out if this is an issue with my IntelliJ or if the project is missing a dependency"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056Q9W022K"
+    ]
+  },
+  {
+    "client_msg_id": "05C01136-BBF2-4A9A-BA7C-C8985772F414",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Can you post the error message or a screenshot of the IDE?",
+    "ts": "1701643928.670029",
+    "thread_ts": "1701643928.670029",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056Y707Y14",
+        "ts": "1701646410.578559"
+      }
+    ],
+    "latest_reply": "1701646410.578559",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vNUl+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can you post the error message or a screenshot of the IDE?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056Y707Y14"
+    ]
+  },
+  {
+    "client_msg_id": "b0a147e9-baca-4b7d-8729-6e51bf2f7c78",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "sorry, just seeing this - I think I got it working!",
+    "ts": "1701646410.578559",
+    "thread_ts": "1701643928.670029",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057C75RYBB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xcwxy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sorry, just seeing this - I think I got it working!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dd4b4960-1aaf-4387-a0d1-f801bae5794c",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "mine is ydshiroma - thank you!!",
+    "ts": "1701647275.191919",
+    "thread_ts": "1701482078.695939",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jz1EC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "mine is ydshiroma - thank you!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

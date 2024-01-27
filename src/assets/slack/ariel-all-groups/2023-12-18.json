@@ -1,0 +1,511 @@
+[
+  {
+    "client_msg_id": "1AE9D871-5878-47D2-BFD1-E895773D5A25",
+    "type": "message",
+    "user": "U055RLVGECB",
+    "text": "\u003c!channel\u003e Good morning all! For those of you who have not yet been able to work on the main branch (ie the ones who created the project structure) or have completed a PR yet, Lexi suggested that each of you contribute some text to the READ.me file on main. Two birds, one stone: you’ll be shown as a contributor, and you’ll have work towards your READ.me (which, while not a requirement, you should have anyway). \n\nHere is a resource for what to include:\n\u003chttps://dev.to/merlos/how-to-write-a-good-readme-bog|https://dev.to/merlos/how-to-write-a-good-readme-bog\u003e\n\nBut for the time being, including information from your proposal would suffice: overview, problem your project is solving/why you’re making it, tech stack, features, etc. ",
+    "ts": "1702913955.303819",
+    "attachments": [
+      {
+        "fallback": "DEV Community: How to write a good README",
+        "id": 1,
+        "title": "How to write a good README",
+        "title_link": "https://dev.to/merlos/how-to-write-a-good-readme-bog",
+        "text": "The README file is the one-stop documentation file. Usually, it is not only the first file any person...",
+        "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--f6luyG9Y--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g52zia7v62gur6drtauc.png",
+        "service_name": "DEV Community",
+        "service_icon": "https://res.cloudinary.com/practicaldev/image/fetch/s--eWZ6RXEZ--/c_limit,f_png,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8j7kvp660rqzt99zui8e.png",
+        "from_url": "https://dev.to/merlos/how-to-write-a-good-readme-bog",
+        "original_url": "https://dev.to/merlos/how-to-write-a-good-readme-bog",
+        "blocks": null
+      }
+    ],
+    "edited": {
+      "user": "U055RLVGECB",
+      "ts": "1702914254.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8bATf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " Good morning all! For those of you who have not yet been able to work on the main branch (ie the ones who created the project structure) or have completed a PR yet, Lexi suggested that each of you contribute some text to the READ.me file on main. Two birds, one stone: you’ll be shown as a contributor, and you’ll have work towards your READ.me (which, while not a requirement, you should have anyway). \n\nHere is a resource for what to include:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://dev.to/merlos/how-to-write-a-good-readme-bog",
+                "text": "https://dev.to/merlos/how-to-write-a-good-readme-bog"
+              },
+              {
+                "type": "text",
+                "text": "\n\nBut for the time being, including information from your proposal would suffice: overview, problem your project is solving/why "
+              },
+              {
+                "type": "text",
+                "text": "you’re"
+              },
+              {
+                "type": "text",
+                "text": " making it, tech stack, features, etc"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5199690404373_f5b2dee4a67558ffd533_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Mitchell",
+      "display_name": "TA - Ariel (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "ariel.l.makowski",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "31c112d7-a209-44ca-8ff6-56042153ad41",
+    "type": "message",
+    "user": "U056TCXP71V",
+    "text": "sorry, what is PR again?",
+    "ts": "1702914016.060019",
+    "thread_ts": "1702914016.060019",
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U055RLVGECB",
+        "ts": "1702914034.899269"
+      },
+      {
+        "user": "U056TCXP71V",
+        "ts": "1702914042.990059"
+      },
+      {
+        "user": "U057USYHSMN",
+        "ts": "1702917665.716919"
+      },
+      {
+        "user": "U057T1QUHB3",
+        "ts": "1702921903.151649"
+      }
+    ],
+    "latest_reply": "1702921903.151649",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fJFSW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sorry, what is PR again?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5248470023892_41f1cdfc80c762fbea8b_72.jpg",
+      "first_name": "Jessica",
+      "real_name": "Jessica S",
+      "display_name": "Jess (philly)",
+      "team": "T050CSX3EMT",
+      "name": "saludadesj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U055RLVGECB",
+      "U056TCXP71V",
+      "U057T1QUHB3",
+      "U057USYHSMN"
+    ]
+  },
+  {
+    "client_msg_id": "C936410E-1F2A-46FB-9509-6ED236E15063",
+    "type": "message",
+    "user": "U055RLVGECB",
+    "text": "Pull request! ",
+    "ts": "1702914034.899269",
+    "thread_ts": "1702914016.060019",
+    "parent_user_id": "U056TCXP71V",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "52lxP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Pull request! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5199690404373_f5b2dee4a67558ffd533_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Mitchell",
+      "display_name": "TA - Ariel (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "ariel.l.makowski",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d30ea01d-2007-4389-94f3-37f7a6df41fb",
+    "type": "message",
+    "user": "U056TCXP71V",
+    "text": "Thank you!!",
+    "ts": "1702914042.990059",
+    "thread_ts": "1702914016.060019",
+    "parent_user_id": "U056TCXP71V",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U055RLVGECB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ewXvs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5248470023892_41f1cdfc80c762fbea8b_72.jpg",
+      "first_name": "Jessica",
+      "real_name": "Jessica S",
+      "display_name": "Jess (philly)",
+      "team": "T050CSX3EMT",
+      "name": "saludadesj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d5a529e9-830c-4835-8e50-b396198f8b20",
+    "type": "message",
+    "user": "U057USYHSMN",
+    "text": "\u003c@U055RLVGECB\u003e naw... it's public relations",
+    "ts": "1702917665.716919",
+    "thread_ts": "1702914016.060019",
+    "parent_user_id": "U056TCXP71V",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "O2ppP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U055RLVGECB"
+              },
+              {
+                "type": "text",
+                "text": " naw... it's public relations"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-20/5321062624960_429f8cee732f5cb11bd4_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Nicolas",
+      "display_name": "Tim Nicolas",
+      "team": "T050CSX3EMT",
+      "name": "timnicolas87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "77FE042D-E4F7-42AD-AAEC-FF1DD9982B2C",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "… or personal revelation (like when the solution seems to come from out of the blue)…\n\nOr personal responsibility… or product requirements…",
+    "ts": "1702921903.151649",
+    "thread_ts": "1702914016.060019",
+    "parent_user_id": "U056TCXP71V",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eqJqI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "…"
+              },
+              {
+                "type": "text",
+                "text": " or personal revelation (like when the solution seems to come from out of the blue)"
+              },
+              {
+                "type": "text",
+                "text": "…"
+              },
+              {
+                "type": "text",
+                "text": "\n\nOr personal responsibility"
+              },
+              {
+                "type": "text",
+                "text": "…"
+              },
+              {
+                "type": "text",
+                "text": " or product requirements"
+              },
+              {
+                "type": "text",
+                "text": "…"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7ca5c93b-b73f-4a9c-8548-5ef0f54c90e9",
+    "type": "message",
+    "user": "U057EKTTBLP",
+    "text": "When are the mock interviews? Tonight, or Thursday?",
+    "ts": "1702930896.111059",
+    "thread_ts": "1702930896.111059",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0625KF6RLH",
+        "ts": "1702931159.541289"
+      }
+    ],
+    "latest_reply": "1702931159.541289",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yXOZL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When are the mock interviews? Tonight, or Thursday?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a7e783ee7383e696d6b0f1c5a54d9081.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "Robert",
+      "real_name": "Robert Tyler Weifenbach",
+      "display_name": "Tyler",
+      "team": "T050CSX3EMT",
+      "name": "rweifenbach24",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0625KF6RLH"
+    ]
+  },
+  {
+    "client_msg_id": "7c543037-54aa-4d2a-a1b0-44e22e50dd7a",
+    "type": "message",
+    "user": "U0625KF6RLH",
+    "text": "Checkpoints are tonight. Interviews are Thursday",
+    "ts": "1702931159.541289",
+    "thread_ts": "1702930896.111059",
+    "parent_user_id": "U057EKTTBLP",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057EKTTBLP"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g2j/l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Checkpoints are tonight. Interviews are Thursday"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-19/6068347004260_cd7e855b65583e9c6d43_72.jpg",
+      "first_name": "Melinda",
+      "real_name": "Melinda Stitzel",
+      "display_name": "Liftoff Program Manager - Melinda (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "melinda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

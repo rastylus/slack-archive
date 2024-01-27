@@ -1,0 +1,785 @@
+[
+  {
+    "client_msg_id": "E40620DB-63F1-4884-BCBB-1CBAFDB3B624",
+    "type": "message",
+    "user": "U057UDD3JV6",
+    "text": "Hey guys! I just wanted to double check — we are still meeting today at 5 right? ",
+    "ts": "1701033267.621119",
+    "thread_ts": "1701033267.621119",
+    "reply_count": 8,
+    "replies": [
+      {
+        "user": "U057UDD3JV6",
+        "ts": "1701036758.364699"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1701037945.752859"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1701038049.435909"
+      },
+      {
+        "user": "U057UDD3JV6",
+        "ts": "1701038101.461819"
+      },
+      {
+        "user": "U057A523Z6H",
+        "ts": "1701039252.545469"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1701039333.881649"
+      },
+      {
+        "user": "U057A523Z6H",
+        "ts": "1701039361.145019"
+      },
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1701040068.641049"
+      }
+    ],
+    "latest_reply": "1701040068.641049",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yKJok",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys! I just wanted to double check — we are still meeting today at 5 right? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2028ffbf42dbb4064be8191be47a86d2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Taylor",
+      "real_name": "Taylor Richmond",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "taylorr.016",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U05750B4K1Q",
+      "U0575DF8MA6",
+      "U057A523Z6H",
+      "U057UDD3JV6"
+    ]
+  },
+  {
+    "client_msg_id": "97b8ced4-335a-4b58-8888-b652ec97b670",
+    "type": "message",
+    "user": "U055N4UL5DL",
+    "text": "\u003c@U057UDD3JV6\u003e are you able to use \u003c!channel\u003e here, or is that just with my elevated privileges?",
+    "ts": "1701036385.419089",
+    "thread_ts": "1701036385.419089",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057UDD3JV6",
+        "ts": "1701036684.655039"
+      }
+    ],
+    "latest_reply": "1701036684.655039",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TxyPa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057UDD3JV6"
+              },
+              {
+                "type": "text",
+                "text": " are you able to use "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " here, or is that just with my elevated privileges?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/dd31a4a84b06d66fa9479b2b404ce2e7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "TA",
+      "real_name": "TA Shawn (He/His)",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "scooter4356",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057UDD3JV6"
+    ]
+  },
+  {
+    "client_msg_id": "F8B46023-1177-46A8-9356-99167F1148DB",
+    "type": "message",
+    "user": "U057UDD3JV6",
+    "text": "Honestly, I’m not sure! I can give it a go though ",
+    "ts": "1701036684.655039",
+    "thread_ts": "1701036385.419089",
+    "parent_user_id": "U055N4UL5DL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/4nrR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Honestly, "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " not sure! I can give it a go though "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2028ffbf42dbb4064be8191be47a86d2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Taylor",
+      "real_name": "Taylor Richmond",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "taylorr.016",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3A9D2E01-F36B-4D4C-8F20-8774819F8555",
+    "type": "message",
+    "user": "U057UDD3JV6",
+    "text": "@Channel ",
+    "ts": "1701036758.364699",
+    "thread_ts": "1701033267.621119",
+    "parent_user_id": "U057UDD3JV6",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W+xMH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "@Channel "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2028ffbf42dbb4064be8191be47a86d2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Taylor",
+      "real_name": "Taylor Richmond",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "taylorr.016",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "213e0b8b-7bea-4135-89b9-6ae0f9f3d98e",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Hey Taylor! Would you be ok with doing 5:30?",
+    "ts": "1701037945.752859",
+    "thread_ts": "1701033267.621119",
+    "parent_user_id": "U057UDD3JV6",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+gV8c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Taylor! Would you be ok with doing 5:30?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3b0b8731-d8cb-4ced-9839-3bc0055fa1de",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "I can do 5, it'll just be tight",
+    "ts": "1701038049.435909",
+    "thread_ts": "1701033267.621119",
+    "parent_user_id": "U057UDD3JV6",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NSZnI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can do 5, it'll just be tight"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "CADB0297-7586-4326-A354-18AA1CF1B0C8",
+    "type": "message",
+    "user": "U057UDD3JV6",
+    "text": "I’m okay with any time! ",
+    "ts": "1701038101.461819",
+    "thread_ts": "1701033267.621119",
+    "parent_user_id": "U057UDD3JV6",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DojSF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " okay with any time! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2028ffbf42dbb4064be8191be47a86d2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Taylor",
+      "real_name": "Taylor Richmond",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "taylorr.016",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "21b2e0db-96d6-4469-b690-8d42188d0e1b",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "Are we just meeting in the zoom that is in Shawn-all-groups?",
+    "ts": "1701039252.545469",
+    "thread_ts": "1701033267.621119",
+    "parent_user_id": "U057UDD3JV6",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l7FU9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are we just meeting in the zoom that is in Shawn-all-groups?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e1a31722-b0f0-489f-bd38-6e47d012923e",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "I think Shawn would need to open it for us to meet there. I can set up a meeting and drop the link here at 5:30 if that's ok?",
+    "ts": "1701039333.881649",
+    "thread_ts": "1701033267.621119",
+    "parent_user_id": "U057UDD3JV6",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PI4DP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think Shawn would need to open it for us to meet there. I can set up a meeting and drop the link here at 5:30 if that's ok?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8f20a32f-4e2e-42cf-867c-6b0420b519a3",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "That works, thanks!",
+    "ts": "1701039361.145019",
+    "thread_ts": "1701033267.621119",
+    "parent_user_id": "U057UDD3JV6",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05750B4K1Q"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "46nBM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That works, thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ecf1848c-ec4f-4e80-a10a-58e6c56f6a5a",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "it works for me too.",
+    "ts": "1701040068.641049",
+    "thread_ts": "1701033267.621119",
+    "parent_user_id": "U057UDD3JV6",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05750B4K1Q"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hpNFw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it works for me too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cabb0385-b008-4972-9e17-0cb47aba74b3",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Brittany Copple is inviting you to a scheduled Zoom meeting.\n\nTopic: Picking a Project Idea\nTime: Nov 26, 2023 05:30 PM Central Time (US and Canada)\n\nJoin Zoom Meeting\n\u003chttps://us04web.zoom.us/j/77877693360?pwd=KBaWrEvlLcbQYbZ26UukZD3vbKV6dO.1\u003e\n\nMeeting ID: 778 7769 3360\nPasscode: A7suGf",
+    "ts": "1701041103.076529",
+    "thread_ts": "1701041103.076529",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1701041115.285789"
+      }
+    ],
+    "latest_reply": "1701041115.285789",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QK8Lb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Brittany Copple is inviting you to a scheduled Zoom meeting.\n\nTopic: Picking a Project Idea\nTime: Nov 26, 2023 05:30 PM Central Time (US and Canada)\n\nJoin Zoom Meeting\n"
+              },
+              {
+                "type": "link",
+                "url": "https://us04web.zoom.us/j/77877693360?pwd=KBaWrEvlLcbQYbZ26UukZD3vbKV6dO.1",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nMeeting ID: 778 7769 3360\nPasscode: A7suGf"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05750B4K1Q"
+    ]
+  },
+  {
+    "client_msg_id": "be620632-23b1-403a-bb24-1a1692aadb60",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "I'll be on in 5",
+    "ts": "1701041115.285789",
+    "thread_ts": "1701041103.076529",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ISIHH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll be on in 5"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fb46fcee-d8f6-4bdd-bb85-1943a6db9218",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "\u003c@U055N4UL5DL\u003e Are you online at the moment?",
+    "ts": "1701042486.618479",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NnXJc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U055N4UL5DL"
+              },
+              {
+                "type": "text",
+                "text": " Are you online at the moment?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

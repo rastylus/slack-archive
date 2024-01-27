@@ -1,0 +1,408 @@
+[
+  {
+    "client_msg_id": "57246773-a6e1-4294-adeb-84656857bffd",
+    "type": "message",
+    "user": "U057S95RQC9",
+    "text": "Hey all! We didn’t have time last night to create all the packages in our backend app. I followed Alex’s video and created them (I marked the Java folder as a Source root first). I called them controllers, models, and repository as shown in the image I attach below. If we all call those packages the same way, hopefully it avoids potential merge conflicts. Let me know what you guys think!",
+    "ts": "1702415906.935019",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aCdkr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all! We didn’t have time last night to create all the packages in our backend app. I followed Alex’s video and created them (I marked the Java folder as a Source root first). I called them controllers, models, and repository as shown in the image I attach below. If we all call those packages the same way, hopefully it avoids potential merge conflicts. Let me know what you guys think!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-28/6255059219110_09fcfa42a8921f231618_72.jpg",
+      "first_name": "Jialing",
+      "real_name": "Jialing Liu",
+      "display_name": "Jialing Liu",
+      "team": "T050CSX3EMT",
+      "name": "jialingl.liu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "54d4b289-0adc-4247-8325-41c377ef360c",
+    "type": "message",
+    "user": "U057S95RQC9",
+    "ts": "1702415935.621159",
+    "thread_ts": "1702415935.621159",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056SVBQSES",
+        "ts": "1702423644.853049"
+      }
+    ],
+    "latest_reply": "1702423644.853049",
+    "files": [
+      {
+        "id": "F06AJ1VFK6U",
+        "created": 1702415929,
+        "timestamp": 1702415929,
+        "name": "Screenshot 2023-12-12 at 4.11.35 PM.png",
+        "title": "Screenshot 2023-12-12 at 4.11.35 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057S95RQC9",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 348990,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06AJ1VFK6U/screenshot_2023-12-12_at_4.11.35_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06AJ1VFK6U/download/screenshot_2023-12-12_at_4.11.35_pm.png",
+        "original_h": 1628,
+        "original_w": 1004,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AJ1VFK6U-92018cfaa1/screenshot_2023-12-12_at_4.11.35_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AJ1VFK6U-92018cfaa1/screenshot_2023-12-12_at_4.11.35_pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AJ1VFK6U-92018cfaa1/screenshot_2023-12-12_at_4.11.35_pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AJ1VFK6U-92018cfaa1/screenshot_2023-12-12_at_4.11.35_pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 222,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AJ1VFK6U-92018cfaa1/screenshot_2023-12-12_at_4.11.35_pm_480.png",
+        "thumb_480_w": 296,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AJ1VFK6U-92018cfaa1/screenshot_2023-12-12_at_4.11.35_pm_720.png",
+        "thumb_720_w": 444,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AJ1VFK6U-92018cfaa1/screenshot_2023-12-12_at_4.11.35_pm_960.png",
+        "thumb_960_w": 592,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AJ1VFK6U-92018cfaa1/screenshot_2023-12-12_at_4.11.35_pm_1024.png",
+        "thumb_1024_w": 632,
+        "thumb_1024_h": 1024,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057S95RQC9/F06AJ1VFK6U/screenshot_2023-12-12_at_4.11.35_pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06AJ1VFK6U-09f6c4e23f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 3,
+        "users": [
+          "U056SVBQSES",
+          "U0579UMAPCL",
+          "U057HDRTJU9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-28/6255059219110_09fcfa42a8921f231618_72.jpg",
+      "first_name": "Jialing",
+      "real_name": "Jialing Liu",
+      "display_name": "Jialing Liu",
+      "team": "T050CSX3EMT",
+      "name": "jialingl.liu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056SVBQSES"
+    ]
+  },
+  {
+    "client_msg_id": "34d493f0-fc4b-4c55-81ae-f687560f87d4",
+    "type": "message",
+    "user": "U056SVBQSES",
+    "text": "Thanks Jialing! I did that. I also had to add an extra dependency to build.gradle so I could make some annotations work. I am adding a screenshot too.",
+    "ts": "1702423644.853049",
+    "thread_ts": "1702415935.621159",
+    "subtype": "thread_broadcast",
+    "parent_user_id": "U057S95RQC9",
+    "files": [
+      {
+        "id": "F069VMTJY67",
+        "created": 1702423638,
+        "timestamp": 1702423638,
+        "name": "Screenshot 2023-12-12 at 6.25.58 PM.png",
+        "title": "Screenshot 2023-12-12 at 6.25.58 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056SVBQSES",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 328316,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F069VMTJY67/screenshot_2023-12-12_at_6.25.58_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F069VMTJY67/download/screenshot_2023-12-12_at_6.25.58_pm.png",
+        "original_h": 1242,
+        "original_w": 2294,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 195,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 260,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 390,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 520,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 554,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056SVBQSES/F069VMTJY67/screenshot_2023-12-12_at_6.25.58_pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F069VMTJY67-31c5a96d18",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U057S95RQC9",
+          "U0579UMAPCL",
+          "U057HDRTJU9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EETiA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks Jialing! I did that. I also had to add an extra dependency to build.gradle so I could make some annotations work. I am adding a screenshot too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274449962768_b6d8928e25cd1da2d413_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Pablo (JP) Barragan",
+      "display_name": "JP Barragan",
+      "team": "T050CSX3EMT",
+      "name": "jpbarragann",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "34d493f0-fc4b-4c55-81ae-f687560f87d4",
+    "type": "message",
+    "user": "U056SVBQSES",
+    "text": "Thanks Jialing! I did that. I also had to add an extra dependency to build.gradle so I could make some annotations work. I am adding a screenshot too.",
+    "ts": "1702423644.853049",
+    "thread_ts": "1702415935.621159",
+    "subtype": "thread_broadcast",
+    "parent_user_id": "U057S95RQC9",
+    "files": [
+      {
+        "id": "F069VMTJY67",
+        "created": 1702423638,
+        "timestamp": 1702423638,
+        "name": "Screenshot 2023-12-12 at 6.25.58 PM.png",
+        "title": "Screenshot 2023-12-12 at 6.25.58 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056SVBQSES",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 328316,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F069VMTJY67/screenshot_2023-12-12_at_6.25.58_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F069VMTJY67/download/screenshot_2023-12-12_at_6.25.58_pm.png",
+        "original_h": 1242,
+        "original_w": 2294,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 195,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 260,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 390,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 520,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F069VMTJY67-b9fab30c5f/screenshot_2023-12-12_at_6.25.58_pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 554,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056SVBQSES/F069VMTJY67/screenshot_2023-12-12_at_6.25.58_pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F069VMTJY67-31c5a96d18",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U057S95RQC9",
+          "U0579UMAPCL",
+          "U057HDRTJU9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EETiA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks Jialing! I did that. I also had to add an extra dependency to build.gradle so I could make some annotations work. I am adding a screenshot too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274449962768_b6d8928e25cd1da2d413_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Pablo (JP) Barragan",
+      "display_name": "JP Barragan",
+      "team": "T050CSX3EMT",
+      "name": "jpbarragann",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

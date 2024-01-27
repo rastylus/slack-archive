@@ -1,0 +1,78 @@
+[
+  {
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "\u003c@U056FFMNKJL\u003e has joined the channel",
+    "ts": "1702319391.916109",
+    "subtype": "channel_join",
+    "inviter": "U050FMK1S83",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "898f322c-8768-4850-ae93-6509e41f18fc",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "Uh oh lol sounds like we need to get moving on our coding!",
+    "ts": "1702337627.481029",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5Px5G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Uh oh lol sounds like we need to get moving on our coding!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

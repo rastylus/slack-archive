@@ -1,0 +1,243 @@
+[
+  {
+    "client_msg_id": "0E27589B-5C5E-4507-A323-543C7849CBB7",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Is anyone else good for 11am today? \u003c@U05776GF9CL\u003e does that still work for you?",
+    "ts": "1704555706.298299",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8mmt+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is anyone else good for 11am today? "
+              },
+              {
+                "type": "user",
+                "user_id": "U05776GF9CL"
+              },
+              {
+                "type": "text",
+                "text": " does that still work for you?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7FBA607C-873B-458C-B13D-483B599DF017",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "Yup still works for me!",
+    "ts": "1704555733.729569",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05743K5BHT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UitiW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yup still works for me!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8F583215-5C71-45F0-8DF9-4846C6C33AF1",
+    "type": "message",
+    "user": "U05775TUWQ4",
+    "text": "Oops, I am working today. Will be free tomorrow. Will catch up. You guys carry on. ",
+    "ts": "1704555853.669809",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05743K5BHT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rEA4U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oops, I am working today. Will be free tomorrow. Will catch up. You guys carry on. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3144e3f86e67bf971fab36af5c233335.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "Pradeepa",
+      "real_name": "Pradeepa Senthilrajan",
+      "display_name": "Pradeepa Senthilrajan",
+      "team": "T050CSX3EMT",
+      "name": "pradeepa.senthil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8b68aaf5-68df-48a1-b7a2-61e9f9506ee7",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Hey guys! I just created a pull request that sets up our new file structure for frontend and backend. Please take a look when you can and let me know your thoughts. \u003chttps://github.com/SixFigureClub/ProcrastiNOT/pull/30\u003e",
+    "ts": "1704584333.532049",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "#30 Updated file structure",
+        "id": 1,
+        "title": "#30 Updated file structure",
+        "title_link": "https://github.com/SixFigureClub/ProcrastiNOT/pull/30",
+        "text": "In this PR, I have made significant changes to our project's directory structure to enhance organization and clarity. The changes include:\n\nCreation of 'Backend' Directory: All the existing root contents have been moved into a new directory named 'Backend'. This change aims to segregate backend-specific code and resources, making it easier to navigate and manage our backend development.\n\nAdditionally, 'Frontend' Directory: A new directory named 'Frontend' has been introduced. This directory now contains all of our frontend code, providing a dedicated space for frontend development. This separation ensures a clear distinction between the frontend and backend components of our project.\n\nThese changes are intended to streamline our development workflow and improve codebase maintainability. Please update your local repositories accordingly and feel free to reach out if you encounter any issues or have suggestions.",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/SixFigureClub/ProcrastiNOT|SixFigureClub/ProcrastiNOT\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1704583686
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05775TUWQ4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j30KR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys! I just created a pull request that sets up our new file structure for frontend and backend. Please take a look when you can and let me know your thoughts. "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/SixFigureClub/ProcrastiNOT/pull/30",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

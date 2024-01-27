@@ -1,0 +1,1153 @@
+[
+  {
+    "client_msg_id": "d2e195bd-49cd-4b9f-a81c-28ab89f649c3",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Hey team, I made updates to \u003chttps://ptwebdevallhu-iu32728.slack.com/canvas/C066FR88HV0|Action Items\u003e (linked) based on what I know but please correct anything I missed.\n\n_(\u003c@U0578M93BPE\u003e note the due date is Monday, 1/15 for adding watchlist button to the profile)_",
+    "ts": "1705161939.399499",
+    "files": [
+      {
+        "id": "F066JLM7GE9",
+        "created": 1700532877,
+        "timestamp": 1700532877,
+        "name": "Action_Items__Updated_1_15_24",
+        "title": "Action Items: Updated 1.15.24",
+        "mimetype": "application/vnd.slack-docs",
+        "image_exif_rotation": 0,
+        "filetype": "quip",
+        "pretty_type": "Canvas",
+        "user": "U056Q9W022K",
+        "mode": "quip",
+        "editable": true,
+        "is_external": false,
+        "external_type": "",
+        "size": 3373,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F066JLM7GE9/canvas",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F066JLM7GE9/download/canvas",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/canvas/C066FR88HV0",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F066JLM7GE9-6514845088",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8cu7b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey team, I made updates to "
+              },
+              {
+                "type": "link",
+                "url": "https://ptwebdevallhu-iu32728.slack.com/canvas/C066FR88HV0",
+                "text": "Action Items"
+              },
+              {
+                "type": "text",
+                "text": " (linked) based on what I know but please correct anything I missed.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "(",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U0578M93BPE",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " note the due date is Monday, 1/15 for adding watchlist button to the profile)",
+                "style": {
+                  "italic": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "abade8c3-309d-49de-baf0-754714726047",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Looks like we need an error handling message when login is failed. I can work on it but just a heads up.",
+    "ts": "1705171716.648359",
+    "thread_ts": "1705171716.648359",
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705185218.322769"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705185259.646149"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705185366.444869"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1705187270.529789"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705188065.207759"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705188094.616709"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705188132.013099"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705188155.771199"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705188309.239049"
+      }
+    ],
+    "latest_reply": "1705188309.239049",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HsE0+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Looks like we need an error handling message when login is failed. I can work on it but just a heads up."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U057C75RYBB"
+    ]
+  },
+  {
+    "client_msg_id": "323301E1-8839-4F99-9419-D4451D9FA84F",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U057C75RYBB\u003e I did that! ",
+    "ts": "1705185218.322769",
+    "thread_ts": "1705171716.648359",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZfagD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057C75RYBB"
+              },
+              {
+                "type": "text",
+                "text": " I did that! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "76F08ED6-917F-44D3-AE1C-CEADE9AAF958",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "If you did already too no worries. I haven’t committed ",
+    "ts": "1705185259.646149",
+    "thread_ts": "1705171716.648359",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sFgji",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you did already too no worries. I "
+              },
+              {
+                "type": "text",
+                "text": "haven’t"
+              },
+              {
+                "type": "text",
+                "text": " committed "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2ACBE63F-D87D-4247-9BD6-9C3720D9BB19",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I have watchlist button where it no longer shows if a user is not logged in fyi (not merged yet)",
+    "ts": "1705185305.016639",
+    "thread_ts": "1705185305.016639",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U057C75RYBB",
+        "ts": "1705187344.259829"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705188494.816309"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705188934.063189"
+      }
+    ],
+    "latest_reply": "1705188934.063189",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U057C75RYBB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1/4aT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have watchlist button where "
+              },
+              {
+                "type": "text",
+                "text": "it"
+              },
+              {
+                "type": "text",
+                "text": " no longer shows if a user is not logged in fyi (not merged yet)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U057C75RYBB"
+    ]
+  },
+  {
+    "client_msg_id": "F2BBB9D5-843D-486E-B4C7-886541283D34",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I guess I should confirm we’re talking about the same thing I noticed that if you log out and haven’t refreshed yet, the profile page is just blank and doesn’t tell you why. ",
+    "ts": "1705185366.444869",
+    "thread_ts": "1705171716.648359",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yGgUR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I guess I should confirm we’re talking about the same thing I noticed that if you log out and haven’t refreshed yet, the profile page is just blank and doesn’t tell you why. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "12C46C11-9388-4304-9286-D9E3308FFF99",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Nah. If you try and log in and it rejects it, I was just getting the same page with no additional warning like “email and/or password is incorrect”. I actually remember you showing Yumi and I that previously so I’ll have to go back and check the code but I didn’t get that when I had a rejected login.",
+    "ts": "1705187270.529789",
+    "thread_ts": "1705171716.648359",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NAz4l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nah. If you try and log in and it rejects it, I was just getting the same page with no additional warning like “email and/or password is incorrect”. I actually remember you showing Yumi and I that previously so "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " have to go back and check the code but "
+              },
+              {
+                "type": "text",
+                "text": "I didn’t"
+              },
+              {
+                "type": "text",
+                "text": " get that when I had a rejected login."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "09CE6C40-D5E9-4FEA-9BD1-6CE525F712D5",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Did you get it working from inside the watchlist component?",
+    "ts": "1705187344.259829",
+    "thread_ts": "1705185305.016639",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VwSzK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Did you get it working from inside the watchlist component?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ECD008A9-34FD-45C3-9803-44ADBE2BD2BD",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Weird I had that on there",
+    "ts": "1705188065.207759",
+    "thread_ts": "1705171716.648359",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yJRi8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Weird I had that on there"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "004F74DE-900D-4944-A5F5-3136C5F5F1BC",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I can fix",
+    "ts": "1705188094.616709",
+    "thread_ts": "1705171716.648359",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tc7Fp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can fix"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5B17DA23-7149-4885-A5AB-8AA0BCC405AD",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "It should say Invalid Credentials (pass through the response body from the backend)",
+    "ts": "1705188132.013099",
+    "thread_ts": "1705171716.648359",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NLN79",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It should say Invalid Credentials (pass through the response body from the backend)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2A0C9122-2141-4FBC-A603-1BAD27C64877",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Good catch!",
+    "ts": "1705188155.771199",
+    "thread_ts": "1705171716.648359",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8tIka",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good catch!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "16D7A1CA-7568-4200-80AC-A26CF30DFC35",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I’ll also check the registration form to make sure the appropriate error message(s) for backend errors are displaying too (like if someone tries to sign up with an email that is already associated with an account) ",
+    "ts": "1705188309.239049",
+    "thread_ts": "1705171716.648359",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dcIBr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " also check the registration form to make sure the appropriate error message(s) for backend errors are displaying too (like if someone tries to sign up with an email that is already associated with an account) "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7F6720EF-2749-412B-BBD2-C4E198EE4FF4",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I did not because it wouldn’t let me do it and use the useEffect within the conditional. I tried a bunch of different ways and got the same error \n\nFor now, I amended it to wherever I have the watchlist button on a nonsecure page. \n\nHowever, it looks like an alternate way to do it is to potentially put the entire button in a rapper which I haven’t tried yet ",
+    "ts": "1705188494.816309",
+    "thread_ts": "1705185305.016639",
+    "edited": {
+      "user": "U056Q9W022K",
+      "ts": "1705188518.000000"
+    },
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Qy9R6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I did not because it wouldn’t let me do it and use the useEffect within the conditional. I tried a bunch of different ways and got the same error \n\nFor now, I amended it to wherever I have the watchlist button on a nonsecure page. \n\nHowever, it looks like an alternate way to do it is to potentially put the entire button in a rapper which I haven’t tried yet "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E77267B3-60C5-4B96-8E8F-C0C9E0177AF1",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U057C75RYBB\u003e one thing I noticed that you’ll probably be faster at is that sometimes it’s like the handleWatchList method executes faster than the methods within MovieDisplay causing it to throw an undefined error on the director, topCast, release date in particular. Like if a movie has more than one director or case listed, I’ll get the error but then it goes away when it catches up. \n\nMy guess is because when we moved those to their own component and there isn’t an await/promise in place. But I don’t fully understand all of the ways that executes, what comes first etc to put that in place. \n\nI also can’t get the error to happen all the time, it’s random. ",
+    "ts": "1705188728.410529",
+    "thread_ts": "1705188728.410529",
+    "reply_count": 12,
+    "replies": [
+      {
+        "user": "U057C75RYBB",
+        "ts": "1705189006.004139"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1705253939.215789"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705259539.734989"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705259579.337599"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1705259646.193369"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705259675.301329"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705259697.085629"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1705259719.196059"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1705259725.821719"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705259764.057089"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705259805.663269"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1705260874.985969"
+      }
+    ],
+    "latest_reply": "1705260874.985969",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ayYLw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057C75RYBB"
+              },
+              {
+                "type": "text",
+                "text": " one thing I noticed that you’ll probably be faster at"
+              },
+              {
+                "type": "text",
+                "text": " is that sometimes "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " like the handleWatchList method executes faster than the methods within MovieDisplay causing it to throw an undefined error on the director, topCast, release date in particular. Like if a movie has more than one director or case listed, "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " get the error but then it goes away when it catches up. \n\nMy guess is because when we moved those to their own component and there "
+              },
+              {
+                "type": "text",
+                "text": "isn’t"
+              },
+              {
+                "type": "text",
+                "text": " an await/promise in place. But "
+              },
+              {
+                "type": "text",
+                "text": "I don’t"
+              },
+              {
+                "type": "text",
+                "text": " fully understand all of the ways that executes, what comes first etc to put that in place. \n\nI also "
+              },
+              {
+                "type": "text",
+                "text": "can’t"
+              },
+              {
+                "type": "text",
+                "text": " get the error to happen all the time, "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " random. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U057C75RYBB"
+    ]
+  },
+  {
+    "client_msg_id": "DE750832-6415-4305-8116-167B4E49DAB2",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Wrapper*",
+    "ts": "1705188934.063189",
+    "thread_ts": "1705185305.016639",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gJISa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Wrapper*"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F585CB12-32C0-4A15-87A8-8C34CE76369D",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "I’ll give it a look tomorrow. I haven’t seen it but that makes sense.",
+    "ts": "1705189006.004139",
+    "thread_ts": "1705188728.410529",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056Q9W022K"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Rileb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " give it a look tomorrow. "
+              },
+              {
+                "type": "text",
+                "text": "I haven’t"
+              },
+              {
+                "type": "text",
+                "text": " seen it but that makes sense."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

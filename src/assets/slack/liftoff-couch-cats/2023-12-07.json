@@ -1,0 +1,299 @@
+[
+  {
+    "client_msg_id": "898c85f6-4d4c-4cf5-b84b-dc50494be8fb",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "yep, it was that MySQL wasn't running. Man I feel dumb but also relieved that is all it was.\n\nthe odd thing is the GET worked though which was also dependent on the database so actually maybe that wasn't it. Either way it's working now.",
+    "ts": "1701912642.086399",
+    "thread_ts": "1701874788.082579",
+    "edited": {
+      "user": "U056Q9W022K",
+      "ts": "1701917138.000000"
+    },
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6g+zv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yep, it was that MySQL wasn't running. Man I feel dumb but also relieved that is all it was.\n\nthe odd thing is the GET worked though which was also dependent on the database so actually maybe that wasn't it. Either way it's working now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7075218a-9d88-41f4-9afd-bbb55796be08",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "sorry guys, had a bad week of scary medical stuff but everything is resolved now! I’m not 100% sure what we’re supposed to be doing but once we talk to Lexi I can spend some time on this tonight or tomorrow",
+    "ts": "1701986184.470399",
+    "thread_ts": "1701872364.337289",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xaKKz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sorry guys, had a bad week of scary medical stuff but everything is resolved now! I’m not 100% sure what we’re supposed to be doing but once we talk to Lexi I can spend some time on this tonight or tomorrow"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "259e9755-ae02-4591-84bb-8881d07cfdef",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "this is super helpful and helped me better understand what was going on in that one video we watched! though I also wonder if this is more complicated than what we need to do - some of the DAO stuff looks like a way of creating CRUD functionality without using CRUDRepository, I think…?",
+    "ts": "1701989046.756079",
+    "thread_ts": "1701828478.106279",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p5Wa7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this is super helpful and helped me better understand what was going on in that one video we watched! though I also wonder if this is more complicated than what we need to do - some of the DAO stuff looks like a way of creating CRUD functionality without using CRUDRepository, I think…?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cc59c0e9-9737-429f-8dda-8c11f983f9a6",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "I’m reading through this now and so far it’s looking pretty close to the thing we’re trying to do \u003chttps://www.baeldung.com/spring-boot-react-crud\u003e",
+    "ts": "1701989066.676449",
+    "thread_ts": "1701828478.106279",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0fhxB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m reading through this now and so far it’s looking pretty close to the thing we’re trying to do "
+              },
+              {
+                "type": "link",
+                "url": "https://www.baeldung.com/spring-boot-react-crud",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b52ffc04-d14c-4c97-b589-6af78ac4f3ee",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "That was my take as well (DAO isn't needed). I'll take a look at that article now.",
+    "ts": "1701992074.373549",
+    "thread_ts": "1701828478.106279",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m5PyV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That was my take as well (DAO isn't needed). I'll take a look at that article now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "07c7ed08-d330-46ed-9c29-ba78754d0cf1",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "you don't need to get caught up but if you want to, all you need to do is read the comments in the file and look at the example proposal that comes after ours.",
+    "ts": "1701992118.239769",
+    "thread_ts": "1701872364.337289",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "graOf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you don't need to get caught up but if you want to, all you need to do is read the comments in the file and look at the example proposal that comes after ours."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

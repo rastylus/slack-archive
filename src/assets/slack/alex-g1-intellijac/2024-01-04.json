@@ -1,0 +1,122 @@
+[
+  {
+    "client_msg_id": "2698864d-b09e-4329-a6a8-d0dfd74495c7",
+    "type": "message",
+    "user": "U057HDRTJU9",
+    "text": "Meet our team page is also ready to go!!..",
+    "ts": "1704328169.779879",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U056SVBQSES",
+          "U057S95RQC9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OnHU6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Meet our team page is also ready to go!!.."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243080667203_61e07f4b1448b0bfad86_72.jpg",
+      "first_name": "Charu",
+      "real_name": "Charu",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "charu91.sathish",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dd705ae2-4716-43b6-b402-d72d8469dc8d",
+    "type": "message",
+    "user": "U057HDRTJU9",
+    "text": "\u003chttps://github.com/AJmints/IntelliJAC-LiftOff/pull/20\u003e",
+    "ts": "1704328173.400559",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "#20 Charu meetourteam",
+        "id": 1,
+        "title": "#20 Charu meetourteam",
+        "title_link": "https://github.com/AJmints/IntelliJAC-LiftOff/pull/20",
+        "text": "Completed meet our team page!!",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/AJmints/IntelliJAC-LiftOff|AJmints/IntelliJAC-LiftOff\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1704328102
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/BTKd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/AJmints/IntelliJAC-LiftOff/pull/20",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243080667203_61e07f4b1448b0bfad86_72.jpg",
+      "first_name": "Charu",
+      "real_name": "Charu",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "charu91.sathish",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

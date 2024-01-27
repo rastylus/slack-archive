@@ -1,0 +1,50 @@
+[
+  {
+    "client_msg_id": "2f3040b8-33a2-4153-9710-0d2fedd0f117",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "there’s probably a more secure way to do this, but for now I can put a @JsonIgnore annotation on the User field in UserMovieLog, which should prevent any of that info from showing up in JSON representations of that class. you should be able to do the same thing on the password field in User if you want to hide that data",
+    "ts": "1703701703.659179",
+    "thread_ts": "1703368924.465509",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iE8Cz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "there’s probably a more secure way to do this, but for now I can put a @JsonIgnore annotation on the User field in UserMovieLog, which should prevent any of that info from showing up in JSON representations of that class. you should be able to do the same thing on the password field in User if you want to hide that data"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "client_msg_id": "f4486637-f703-4e14-ba60-47e1c68cd217",
+    "type": "message",
+    "user": "U057JSST597",
+    "text": "I think a few different options would be either a calendar api or a weather api (which would be easier probably but not super functional, more of just meeting the requirement)",
+    "ts": "1701565171.055839",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8LBBl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think a few different options would be either a calendar api or a weather api (which would be easier probably but not super functional, more of just meeting the requirement)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5252453710851_1c8ab4c8f861d9a71de2_72.jpg",
+      "first_name": "Anthony",
+      "real_name": "Anthony Silva",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "antsilva93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4b98eee2-a8c3-48d0-80f6-c59327d6e1cb",
+    "type": "message",
+    "user": "U0577LS7MDL",
+    "text": "I was looking at the REST API / Microsoft Graph REST API. It seems to work with Microsoft products including Office 365. Here is a like if anyone wants to take a look as well.\n\u003chttps://learn.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0\u003e",
+    "ts": "1701603527.799319",
+    "attachments": [
+      {
+        "fallback": "Microsoft Graph REST API v1.0 endpoint reference - Microsoft Graph v1.0",
+        "id": 1,
+        "title": "Microsoft Graph REST API v1.0 endpoint reference - Microsoft Graph v1.0",
+        "title_link": "https://learn.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0",
+        "text": "Documentation for the Microsoft Graph REST API v1.0 endpoint, which includes APIs in general availability (GA) status. Features common use cases in v1.0.",
+        "image_url": "https://learn.microsoft.com/en-us/media/open-graph-image.png",
+        "service_name": "learn.microsoft.com",
+        "service_icon": "https://learn.microsoft.com/favicon.ico",
+        "from_url": "https://learn.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0",
+        "original_url": "https://learn.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0",
+        "blocks": null
+      }
+    ],
+    "edited": {
+      "user": "U0577LS7MDL",
+      "ts": "1701603558.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0GcAW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was looking at the REST API / Microsoft Graph REST API. It seems to work with Microsoft products including Office 365. Here is a like if anyone wants to take a look as well.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://learn.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/567d982d608de757f7d0db5df7c1abe7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Mario",
+      "real_name": "Mario Dickerson",
+      "display_name": "Mario Dickerson",
+      "team": "T050CSX3EMT",
+      "name": "dai.dickerson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

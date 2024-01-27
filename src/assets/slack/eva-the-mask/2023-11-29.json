@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "31b3ef42-4ec9-439f-a8a0-a9f958799132",
+    "type": "message",
+    "user": "U0577LS7MDL",
+    "text": "Anyone had a chance to look at that project proposal form?",
+    "ts": "1701248752.857199",
+    "thread_ts": "1701248752.857199",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056Z4PDDFG",
+        "ts": "1701267705.172549"
+      }
+    ],
+    "latest_reply": "1701267705.172549",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l73aS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anyone had a chance to look at that project proposal form?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/567d982d608de757f7d0db5df7c1abe7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Mario",
+      "real_name": "Mario Dickerson",
+      "display_name": "Mario Dickerson",
+      "team": "T050CSX3EMT",
+      "name": "dai.dickerson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056Z4PDDFG"
+    ]
+  },
+  {
+    "client_msg_id": "d8b1110d-2925-4229-bbf3-d12bc741beb3",
+    "type": "message",
+    "user": "U056Z4PDDFG",
+    "text": "I found it in Pages on Canvas",
+    "ts": "1701267705.172549",
+    "thread_ts": "1701248752.857199",
+    "parent_user_id": "U0577LS7MDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "X1THb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I found it in Pages on Canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243639057747_935971920daa171f0237_72.png",
+      "first_name": "Kate",
+      "real_name": "Kate Khusainova",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "katekhusainova8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

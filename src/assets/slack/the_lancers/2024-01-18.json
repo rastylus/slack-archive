@@ -1,0 +1,308 @@
+[
+  {
+    "client_msg_id": "D8C67299-606A-4888-82E4-C57C781F7B66",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "I can when I get off work in about four hours but it’s pretty easy it’s the th:block in workouts/create. The second one that says selected exercises just commented out at first and you should see the difference and then you can just delete it",
+    "ts": "1705536372.808809",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NjBJX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can when I get off work in about four hours but it’s pretty easy it’s the th:block in workouts/create. The second one that says selected exercises just commented out at first and you should see the difference and then you can just delete it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "33215489-1784-48ac-a92a-17052d3b0a9e",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Awesome. Thanks, yea that fixed it.",
+    "ts": "1705536648.809029",
+    "thread_ts": "1705418634.269079",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qyh2H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome. Thanks, yea that fixed it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0ec73615-dc8b-4934-9356-443f9760785d",
+    "type": "message",
+    "user": "U0574JUHBNH",
+    "text": "I'm still having issues with the API key in the application.properties, which was the best way to eradicate this again?",
+    "ts": "1705579589.145779",
+    "files": [
+      {
+        "id": "F06EG817AF5",
+        "created": 1705579565,
+        "timestamp": 1705579565,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0574JUHBNH",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 74755,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06EG817AF5/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06EG817AF5/download/image.png",
+        "original_h": 451,
+        "original_w": 1722,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EG817AF5-642ad5a8a5/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EG817AF5-642ad5a8a5/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EG817AF5-642ad5a8a5/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EG817AF5-642ad5a8a5/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 94,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EG817AF5-642ad5a8a5/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 126,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EG817AF5-642ad5a8a5/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 189,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EG817AF5-642ad5a8a5/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 251,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EG817AF5-642ad5a8a5/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 268,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0574JUHBNH/F06EG817AF5/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06EG817AF5-4609440cf3",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B1sb/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm still having issues with the API key in the application.properties, which was the best way to eradicate this again?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-01/6280497472354_b5d2d071c7d0de3339f3_72.png",
+      "first_name": "Leonard",
+      "real_name": "Leonard Stewart, Jr.",
+      "display_name": "Leonard Stewart, Jr.",
+      "team": "T050CSX3EMT",
+      "name": "leonardjr06",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "048a8b14-1215-4cb0-9768-bf0f5d5d85fa",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "You have to create an environment variable in your configuration file.",
+    "ts": "1705590477.823009",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3Ubxv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You have to create an environment variable in your configuration file."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "991be42a-c60d-475e-acb5-df89e08c6eb6",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Ok the Main branch is fully up to date with everything working properly and should be good to demo. Make sure to update your local main branches with origin main and we should be good to go.",
+    "ts": "1705603762.195869",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056YG34CS2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EJNia",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok the Main branch is fully up to date with everything working properly and should be good to demo. Make sure to update your local main branches with origin main and we should be good to go."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "client_msg_id": "6B4FDC0D-BABE-41B7-9381-833B4C80FFF1",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "Testing in postman is very helpful. I figured out why phone number wasn’t saving and fixed that. I haven’t fixed the problem with the event saving but I did figure out the format needed. Now it’s not converting to an integer which I think needs to happen on the back end. I’ll work on that. ",
+    "ts": "1703898220.647769",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057HFYT7B3"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5Wbiy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Testing in postman is very helpful. I figured out why phone number "
+              },
+              {
+                "type": "text",
+                "text": "wasn’t"
+              },
+              {
+                "type": "text",
+                "text": " saving and fixed that. I "
+              },
+              {
+                "type": "text",
+                "text": "haven’t"
+              },
+              {
+                "type": "text",
+                "text": " fixed the problem with the event saving but I did figure out the format needed. Now "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " not converting to an integer which I think needs to happen"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "on the back end"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " work on that"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

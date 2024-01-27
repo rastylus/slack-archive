@@ -1,0 +1,372 @@
+[
+  {
+    "client_msg_id": "CC9E8D70-79F5-4BD2-8E1C-212993720370",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Hey everyone! Just wanted to update you all, I finally got the react login/register forms connected and working properly with the backend. I apologize for the delay! I know it’s been blocking some of your features. I was prioritizing preparing for the interviews and the user authorization feature turned out to be wayyy more complicated than I was expecting. Having to connect separate frontend and backend threw a massive wrench into it. But finally made it through :sweat_smile: \n\nI will push the updates and create a PR the next time I’m at my computer (hopefully tomorrow night)",
+    "ts": "1703453830.731819",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 1,
+        "users": [
+          "U05776GF9CL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZtiKD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey everyone! Just wanted to update you all, I finally got the react login/register forms connected and working properly with the backend. I apologize for the delay! I know "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " been blocking some of your features. I was prioritizing preparing for the interviews and the user authorization feature turned out to be wayyy more complicated than I was expecting. Having to connect separate frontend and backend threw a massive wrench into it. But finally made it through "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " \n\nI will push the updates and create a PR the next time "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " at my computer (hopefully tomorrow night)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "73D99713-C7CF-4572-8C61-79D4EC5D507F",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "FYI the styling and validation errors are a little wonky, but I’m workin on it. Baby steps :grimacing: \n\nAlso have to figure out a way to remove a session on logout and block users from getting to the home page without being logged in. But that’s an issue for a different day",
+    "ts": "1703453947.927019",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bAxXW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "FYI the styling and validation errors are a little wonky, but "
+              },
+              {
+                "type": "text",
+                "text": "I"
+              },
+              {
+                "type": "text",
+                "text": "’m workin on it. Baby steps "
+              },
+              {
+                "type": "emoji",
+                "name": "grimacing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " \n\nAlso have to figure out a way to remove a session on logout and block users from getting to the home page without being logged in. But "
+              },
+              {
+                "type": "text",
+                "text": "that’s"
+              },
+              {
+                "type": "text",
+                "text": " an issue for a different day"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "becccd11-8b60-4d63-91d3-55d8b020351a",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "No worries! Completely understandable about the interviews. I did the same and I'm in the tail end of a move. I was planning on cloning to my local tomorrow to work on a couple of mine :crossed_fingers::skin-tone-3:",
+    "ts": "1703454003.170039",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05743K5BHT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2boCE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No worries! Completely understandable about the interviews. I did the same and I'm in the tail end of a move. I was planning on cloning to my local tomorrow to work on a couple of mine "
+              },
+              {
+                "type": "emoji",
+                "name": "crossed_fingers",
+                "skin_tone": 3
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B86AD62E-D87C-4539-83AE-46A76302E52E",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "I’ll be out of town for the majority of the day tomorrow for the holiday but I should have some time in the afternoon to get that pushed for y’all to start working on!",
+    "ts": "1703454160.747949",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2x20f",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " be out of town for the majority of the day tomorrow for the holiday but I should have some time in the afternoon to get that pushed for "
+              },
+              {
+                "type": "text",
+                "text": "y’all"
+              },
+              {
+                "type": "text",
+                "text": " to start working on!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "391112d7-5129-4fb5-81fe-7fe9b498e09f",
+    "type": "message",
+    "user": "U05776GF9CL",
+    "text": "Oh, no don't spend any time tomorrow working on this. Enjoy your time off!",
+    "ts": "1703454217.359509",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "662uH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh, no don't spend any time tomorrow working on this. Enjoy your time off!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5239786837237_b2884301264da677dedf_72.png",
+      "first_name": "Derayvia",
+      "real_name": "Derayvia Grimes",
+      "display_name": "Derayvia G. (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "grime22d",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0572B461-940B-40F1-B42A-986427D33D92",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Then same goes for you!!",
+    "ts": "1703454319.159459",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U05776GF9CL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "caWZh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Then same goes for you!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

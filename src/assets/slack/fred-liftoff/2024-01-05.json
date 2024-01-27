@@ -1,0 +1,52 @@
+[
+  {
+    "client_msg_id": "7b98789b-732e-443a-8b9b-e193b188e478",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "\u003c@U056FFR2KJ4\u003e Are you free for 5 min?",
+    "ts": "1704421038.215209",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R/jc9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056FFR2KJ4"
+              },
+              {
+                "type": "text",
+                "text": " Are you free for 5 min?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

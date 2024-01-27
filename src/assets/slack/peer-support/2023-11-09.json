@@ -1,0 +1,347 @@
+[
+  {
+    "client_msg_id": "bdad26e0-0b74-44e0-a286-4af21dd64554",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "On Task 4 I have had this error for a while now and have no idea what it wants. I looked over my Skills class and it looks fine. \"testSkillJobsFieldHasCorrectType()\n```org.opentest4j.AssertionFailedError: expected: \u0026lt;true\u0026gt; but was: \u0026lt;false\u0026gt;\n\tat app//org.launchcode.techjobs.persistent.TestTaskFour.testSkillJobsFieldHasCorrectType(TestTaskFour.java:59)```\nAnyone has this issue or feedback or how to troubleshoot it? When I look at the unit test it doesn't really help either.",
+    "ts": "1699566440.180789",
+    "thread_ts": "1699566440.180789",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699566466.818929"
+      },
+      {
+        "user": "U0577EKQS9Z",
+        "ts": "1699566478.304589"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699566484.024129"
+      },
+      {
+        "user": "U0577EKQS9Z",
+        "ts": "1699566491.440009"
+      },
+      {
+        "user": "U0577EKQS9Z",
+        "ts": "1699566535.450119"
+      }
+    ],
+    "latest_reply": "1699566535.450119",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5xYkt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "On Task 4 I have had this error for a while now and have no idea what it wants. I looked over my Skills class and it looks fine. \"testSkillJobsFieldHasCorrectType()\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"org.opentest4j.AssertionFailedError: expected: \u003ctrue\u003e but was: \u003cfalse\u003e\\n\\tat app\\/\\/org.launchcode.techjobs.persistent.TestTaskFour.testSkillJobsFieldHasCorrectType(TestTaskFour.java:59)\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anyone has this issue or feedback or how to troubleshoot it? When I look at the unit test it doesn't really help either."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05724ACLVB",
+      "U0577EKQS9Z"
+    ]
+  },
+  {
+    "client_msg_id": "20823ace-c72f-4572-94fd-64b8176be18d",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Wanna Zoom?",
+    "ts": "1699566466.818929",
+    "thread_ts": "1699566440.180789",
+    "parent_user_id": "U0577EKQS9Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ze2tE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Wanna Zoom?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "315ef753-59fd-4b7c-87ad-1a388c9af845",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "Yes please!",
+    "ts": "1699566478.304589",
+    "thread_ts": "1699566440.180789",
+    "parent_user_id": "U0577EKQS9Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GQ+ko",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes please!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8fd9b15e-d18a-43cc-bc2d-52c0a10c8364",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Send me a link.",
+    "ts": "1699566484.024129",
+    "thread_ts": "1699566440.180789",
+    "parent_user_id": "U0577EKQS9Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cyaaZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Send me a link."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c030f332-3048-4c70-a0cb-111a13fc6006",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "ok one moment!",
+    "ts": "1699566491.440009",
+    "thread_ts": "1699566440.180789",
+    "parent_user_id": "U0577EKQS9Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ex98y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok one moment!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3cdd5b81-e0af-4a8e-89d2-7470386399c4",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "Sabriya is inviting you to a scheduled Zoom meeting.\n\nTopic: Sabriya's Personal Meeting Room\n\nJoin Zoom Meeting\n\u003chttps://us04web.zoom.us/j/4313126944?pwd=k52rqvbkye6qGgYDOa0LbC79PjBNVd.1\u003e\n\nMeeting ID: \u003ctel:4313126944|431 312 6944\u003e\nPasscode: EPqf9S",
+    "ts": "1699566535.450119",
+    "thread_ts": "1699566440.180789",
+    "parent_user_id": "U0577EKQS9Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LenZe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sabriya is inviting you to a scheduled Zoom meeting.\n\nTopic: Sabriya's Personal Meeting Room\n\nJoin Zoom Meeting\n"
+              },
+              {
+                "type": "link",
+                "url": "https://us04web.zoom.us/j/4313126944?pwd=k52rqvbkye6qGgYDOa0LbC79PjBNVd.1",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nMeeting ID: "
+              },
+              {
+                "type": "link",
+                "url": "tel:4313126944",
+                "text": "431 312 6944"
+              },
+              {
+                "type": "text",
+                "text": "\nPasscode: EPqf9S"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "client_msg_id": "12a76752-9e3d-406d-9b46-69e02908fe22",
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "Hi, all if you haven't sent me your GitHub handle, please feel free to do so today! I think I have all of Group 2's. Thanks.",
+    "ts": "1701286291.721389",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uk4Xb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi, all if you haven't sent me your GitHub handle, please feel free to do so today! I think I have all of Group 2's. Thanks."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1256d4e3-1583-4fd3-ab84-f4aebbafb125",
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "Project Proposal Template: \u003chttps://docs.google.com/document/d/1bvFNpPv3lpoKNTP32scAXqtIRGclLz8R0AQ5T8Nbvmc/edit#heading=h.2xylt4f7ezns\u003e",
+    "ts": "1701286372.563159",
+    "thread_ts": "1701286372.563159",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U05743K5BHT",
+        "ts": "1701302822.657129"
+      },
+      {
+        "user": "U05776GF9CL",
+        "ts": "1701306230.373049"
+      },
+      {
+        "user": "U056FFMNKJL",
+        "ts": "1701367878.678949"
+      }
+    ],
+    "latest_reply": "1701367878.678949",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DZbqM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Project Proposal Template: "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1bvFNpPv3lpoKNTP32scAXqtIRGclLz8R0AQ5T8Nbvmc/edit#heading=h.2xylt4f7ezns",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056FFMNKJL",
+      "U05743K5BHT",
+      "U05776GF9CL"
+    ]
+  },
+  {
+    "client_msg_id": "f0d9874f-fda9-47ac-a49f-7d94d74c0fb3",
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "GitHub Tasks Reminder:\nAssign the initial group GitHub master (you don't have to be a master at Github)\nAdd READMe\nAdd license (MIT recommended)\nAdd branches (main and development)\nAdd branch protection to main and development (to require pull request, code review and merge of feature branches)\nEach member clone repository into local computer (if you haven't done it yet)\nand create local feature branch(eg. feature-authentication)\n\n*Keep track of coding issues encountered yourself or as a group along with the solutions\n*Keep track of tech stack",
+    "ts": "1701301411.205299",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05743K5BHT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+2849",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "GitHub Tasks Reminder:\nAssign the initial group GitHub master (you don't have to be a master at Github)\nAdd READMe\nAdd license (MIT recommended)\nAdd branches (main and development)\nAdd branch protection to main and development (to require pull request, code review and merge of feature branches)\nEach member clone repository into local computer (if you haven't done it yet)\nand create local feature branch(eg. feature-authentication)\n\n*Keep track of coding issues encountered yourself or as a group along with the solutions\n*Keep track of tech stack"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

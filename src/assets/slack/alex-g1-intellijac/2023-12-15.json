@@ -1,0 +1,206 @@
+[
+  {
+    "client_msg_id": "8ab46a16-7411-494a-9cbe-8dded1c6b0b4",
+    "type": "message",
+    "user": "U057HDRTJU9",
+    "text": "Hey guys.. i have created a basic home page with login and register. I have coded the authentication part too.. but i coudnt connect frontend and backend.. tried working and coding @CrossOrigin too.. doesnt seem to work.. update in here if anyone's coding works with @CrossOrigin to connect frontend and backend..",
+    "ts": "1702617784.671139",
+    "thread_ts": "1702617784.671139",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056SVBQSES",
+        "ts": "1702668089.426289"
+      }
+    ],
+    "latest_reply": "1702668089.426289",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U056SVBQSES"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "moPNT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys.. i have created a basic home page with login and register. I have coded the authentication part too.. but i coudnt connect frontend and backend.. tried working and coding @CrossOrigin too.. doesnt seem to work.. update in here if anyone's coding works with @CrossOrigin to connect frontend and backend.."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243080667203_61e07f4b1448b0bfad86_72.jpg",
+      "first_name": "Charu",
+      "real_name": "Charu",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "charu91.sathish",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056SVBQSES"
+    ]
+  },
+  {
+    "client_msg_id": "D0E74623-446D-4FBF-9555-C4B512FA34A9",
+    "type": "message",
+    "user": "U056SVBQSES",
+    "text": "That’s great! I have not worked on the connection yet. I plan to do it Sunday, I’ll keep you posted if I make it work!",
+    "ts": "1702668089.426289",
+    "thread_ts": "1702617784.671139",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U057HDRTJU9",
+          "U0579UMAPCL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YU9yp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That’s"
+              },
+              {
+                "type": "text",
+                "text": " great! I have not worked on the connection yet. I plan to do it Sunday, "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " keep you posted if I make it work!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274449962768_b6d8928e25cd1da2d413_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Pablo (JP) Barragan",
+      "display_name": "JP Barragan",
+      "team": "T050CSX3EMT",
+      "name": "jpbarragann",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D0E74623-446D-4FBF-9555-C4B512FA34A9",
+    "type": "message",
+    "user": "U056SVBQSES",
+    "text": "That’s great! I have not worked on the connection yet. I plan to do it Sunday, I’ll keep you posted if I make it work!",
+    "ts": "1702668089.426289",
+    "thread_ts": "1702617784.671139",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U057HDRTJU9",
+          "U0579UMAPCL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YU9yp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That’s"
+              },
+              {
+                "type": "text",
+                "text": " great! I have not worked on the connection yet. I plan to do it Sunday, "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " keep you posted if I make it work!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274449962768_b6d8928e25cd1da2d413_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Pablo (JP) Barragan",
+      "display_name": "JP Barragan",
+      "team": "T050CSX3EMT",
+      "name": "jpbarragann",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

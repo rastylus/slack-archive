@@ -1,0 +1,82 @@
+[
+  {
+    "client_msg_id": "7A11AE7C-B8D4-4721-BFA2-98EA68F75ED2",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I didn’t know it did that either! Thanks for the tip \u003c@U056SERBK2B\u003e !",
+    "ts": "1699283242.489699",
+    "thread_ts": "1699198295.125159",
+    "parent_user_id": "U056K1U9R1V",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U057C70KL57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jYDGL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I "
+              },
+              {
+                "type": "text",
+                "text": "didn’t"
+              },
+              {
+                "type": "text",
+                "text": " know it did that either! Thanks for the tip "
+              },
+              {
+                "type": "user",
+                "user_id": "U056SERBK2B"
+              },
+              {
+                "type": "text",
+                "text": " !"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

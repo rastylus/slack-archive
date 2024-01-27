@@ -1,0 +1,353 @@
+[
+  {
+    "client_msg_id": "dca7b844-0d30-415d-9fc2-463d0160208e",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "I am working through the second part of the chapter and have my code setup for tags, however instead of creating a tag table in my coding events schema it is adding tags to my techjobs schema. I have coding events selected in my workbench. Is there a reason this is happening?",
+    "ts": "1698773835.862999",
+    "thread_ts": "1698773835.862999",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U050FPSA3DH",
+        "ts": "1698773886.560699"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1698773907.242609"
+      },
+      {
+        "user": "U050FPSA3DH",
+        "ts": "1698774094.817289"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1698774496.227669"
+      },
+      {
+        "user": "U057C73ABDX",
+        "ts": "1698774658.799999"
+      }
+    ],
+    "latest_reply": "1698774658.799999",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ehfu4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am working through the second part of the chapter and have my code setup for tags, however instead of creating a tag table in my coding events schema it is adding tags to my techjobs schema. I have coding events selected in my workbench. Is there a reason this is happening?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U050FPSA3DH",
+      "U056SERBK2B",
+      "U057C73ABDX"
+    ]
+  },
+  {
+    "client_msg_id": "5bea1100-9f48-4e67-b4db-59c5d15f4664",
+    "type": "message",
+    "user": "U050FPSA3DH",
+    "text": "Did you double-click on the schema so it turns bold? Whichever schema is in bold is the one it will apply queries to",
+    "ts": "1698773886.560699",
+    "thread_ts": "1698773835.862999",
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JgrqX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Did you double-click on the schema so it turns bold? Whichever schema is in bold is the one it will apply queries to"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5250305694433_62d56e5a7ac1aa48f553_72.jpg",
+      "first_name": "Carrie",
+      "real_name": "Carrie Jones",
+      "display_name": "Lead Instructor - Carrie Jones",
+      "team": "T050CSX3EMT",
+      "name": "cjones.renaissancewom",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "efbb6493-fa2e-4e0b-b806-905653c69f2e",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "Yes",
+    "ts": "1698773907.242609",
+    "thread_ts": "1698773835.862999",
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZHR45",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3a91e877-d99d-4fbb-8053-1d1e1199d722",
+    "type": "message",
+    "user": "U050FPSA3DH",
+    "text": "I mean that should only matter if you were running queries in SLQ Workbench directly, but if you are generating things with Hibernate from your Spring project, then it's just about the settings in your `application.properties` file. Or the values being used in your environmental variables configuration",
+    "ts": "1698774094.817289",
+    "thread_ts": "1698773835.862999",
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z/Cts",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I mean that should only matter if you were running queries in SLQ Workbench directly, but if you are generating things with Hibernate from your Spring project, then it's just about the settings in your "
+              },
+              {
+                "type": "text",
+                "text": "application.properties",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " file. Or the values being used in your environmental variables configuration"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5250305694433_62d56e5a7ac1aa48f553_72.jpg",
+      "first_name": "Carrie",
+      "real_name": "Carrie Jones",
+      "display_name": "Lead Instructor - Carrie Jones",
+      "team": "T050CSX3EMT",
+      "name": "cjones.renaissancewom",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "35929353-909c-4754-a75e-da40bdbfcb22",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "Well thats weird. I don't know how that got changed.",
+    "ts": "1698774496.227669",
+    "thread_ts": "1698773835.862999",
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tEilI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Well thats weird. I don't know how that got changed."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DF616581-DAF1-4E14-A2C3-220E6649AE25",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "\u003chttps://ptwebdevallhu-iu32728.slack.com/archives/C055X6L5482/p1698756732737129|https://ptwebdevallhu-iu32728.slack.com/archives/C055X6L5482/p1698756732737129\u003e\nCould it be connected to the issue in this comment over in the PeerSupport group?",
+    "ts": "1698774658.799999",
+    "thread_ts": "1698773835.862999",
+    "attachments": [
+      {
+        "fallback": "[October 31st, 2023 5:52 AM] erinmuzughi: If you are going through chapter 18 part 2 in chapter videos with Chris, and you use the actual branches they tell you to use, be wary that the add-tags branch application properties is set up right now to connect to a sql database called techjobs which is what I called my database for GA#4. It's highly unlikely it'll mess anything up unless you set your username and password to be the same as what's in there, but just in case wanted to flag it. \u003c@U050FMK1S83\u003e",
+        "id": 1,
+        "author_id": "U056Q9W022K",
+        "author_name": "Erin Muzughi",
+        "author_subname": "Erin Muzughi",
+        "author_link": "https://ptwebdevallhu-iu32728.slack.com/team/U056Q9W022K",
+        "author_icon": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_48.png",
+        "text": "If you are going through chapter 18 part 2 in chapter videos with Chris, and you use the actual branches they tell you to use, be wary that the add-tags branch application properties is set up right now to connect to a sql database called techjobs which is what I called my database for GA#4. It's highly unlikely it'll mess anything up unless you set your username and password to be the same as what's in there, but just in case wanted to flag it. \u003c@U050FMK1S83\u003e",
+        "from_url": "https://ptwebdevallhu-iu32728.slack.com/archives/C055X6L5482/p1698756732737129",
+        "original_url": "https://ptwebdevallhu-iu32728.slack.com/archives/C055X6L5482/p1698756732737129",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "Slack Conversation",
+        "ts": 1698756732.737129
+      }
+    ],
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EFNt1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://ptwebdevallhu-iu32728.slack.com/archives/C055X6L5482/p1698756732737129",
+                "text": "https://ptwebdevallhu-iu32728.slack.com/archives/C055X6L5482/p1698756732737129"
+              },
+              {
+                "type": "text",
+                "text": "\nCould it be connected to the issue in this comment over in the PeerSupport group?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

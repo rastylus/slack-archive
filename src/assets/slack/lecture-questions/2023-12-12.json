@@ -1,0 +1,769 @@
+[
+  {
+    "client_msg_id": "3b5aa8af-70eb-4114-be4f-53aaba3679f4",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "\u003c@U066ED0A4DU\u003e do we pass or fail the checkin as a group? If not what happens if part of your group is dropped?",
+    "ts": "1702339386.164199",
+    "thread_ts": "1702339386.164199",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U066ED0A4DU",
+        "ts": "1702340018.863029"
+      }
+    ],
+    "latest_reply": "1702340018.863029",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "plus-one",
+        "count": 3,
+        "users": [
+          "U05743K5BHT",
+          "U0577EKQS9Z",
+          "U057HMJ9QTB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YdVpj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U066ED0A4DU"
+              },
+              {
+                "type": "text",
+                "text": " do we pass or fail the checkin as a group? If not what happens if part of your group is dropped?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U066ED0A4DU"
+    ]
+  },
+  {
+    "client_msg_id": "f6da22a4-3bb4-4871-a474-188d53550b8e",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "How do you handle it if someone's code is really messy, therefore hard to understand?",
+    "ts": "1702339867.937229",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RPvx9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How do you handle it if someone's code is really messy, therefore hard to understand?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dd97cd4e-e409-4ff4-8e29-f2bbdf2dd413",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Like no consistency in indentation, Yes",
+    "ts": "1702339968.787629",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "79q65",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Like no consistency in indentation, Yes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3ecc9fe6-af1d-4006-95e6-81bba07252cf",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I mean some indented, some not, etc.",
+    "ts": "1702339998.532039",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RBXgJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I mean some indented, some not, etc."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3477f873-5ebb-4cc6-b6c4-2efc14b213d9",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Thanks!",
+    "ts": "1702340013.465789",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cSYv0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "245055f2-66f5-49a6-aa25-3e929a6c95dc",
+    "type": "message",
+    "user": "U066ED0A4DU",
+    "text": "Hi Melany, the project checkpoint is based on individuals, not on entire groups.\n\nWe’ll have a class on re-scoping a project after the drop point to offer some more context on what that looks like. In the event that some members of your group are dropped, there will be conversations about how to redistribute the work to make sure that you can complete an MVP by the end of class",
+    "ts": "1702340018.863029",
+    "thread_ts": "1702339386.164199",
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 1,
+        "users": [
+          "U05743K5BHT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WAr6y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Melany, the project checkpoint is based on individuals, not on entire groups.\n\nWe’ll have a class on re-scoping a project after the drop point to offer some more context on what that looks like. In the event that some members of your group are dropped, there will be conversations about how to redistribute the work to make sure that you can complete an MVP by the end of class"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-20/6222153280613_25c32eb42d9b05bf45f0_72.png",
+      "first_name": "Lexi",
+      "real_name": "Lexi B",
+      "display_name": "Lexi B - LC Staff",
+      "team": "T050CSX3EMT",
+      "name": "lexi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1acdb334-7eee-43f8-8600-7aab735af01c",
+    "type": "message",
+    "user": "U057HMJ9QTB",
+    "text": "lifesaver!! thank you Erin",
+    "ts": "1702340115.362909",
+    "thread_ts": "1702337941.845089",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZEC7h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "lifesaver!! thank you Erin"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-25/5326654072450_71a5e4b1297fa94e715a_72.png",
+      "first_name": "Jay",
+      "real_name": "Jay Hamrick",
+      "display_name": "Jay Hamrick",
+      "team": "T050CSX3EMT",
+      "name": "jhamrick2126",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "631f641a-38b9-48ca-a465-0e7de3865f7a",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "happy my compulsion to organize things can benefit others!",
+    "ts": "1702340342.288709",
+    "thread_ts": "1702337941.845089",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 2,
+        "users": [
+          "U05724ACLVB",
+          "U057HMJ9QTB"
+        ]
+      },
+      {
+        "name": "revolving_hearts",
+        "count": 2,
+        "users": [
+          "U057HMJ9QTB",
+          "U057C70KL57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jHq7o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "happy my compulsion to organize things can benefit others!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "60f42035-ea38-4651-8e2d-a42992d20cea",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "In our case are we pulling feature branches to our development branch?",
+    "ts": "1702340646.139479",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ge9G1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "In our case are we pulling feature branches to our development branch?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "769aed33-a27a-4c20-bd91-d3cb7a79ca5f",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "when merging a feature branch into a main branch, does that get rid of the feature branch?",
+    "ts": "1702340665.299709",
+    "thread_ts": "1702340665.299709",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702340824.775859"
+      }
+    ],
+    "latest_reply": "1702340824.775859",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x+wP1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "when merging a feature branch into a main branch, does that get rid of the feature branch?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056Q9W022K"
+    ]
+  },
+  {
+    "client_msg_id": "419fe5a3-7170-4363-adda-8d28f99b9730",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "no, the branch still exists after the merge",
+    "ts": "1702340824.775859",
+    "thread_ts": "1702340665.299709",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U057C70KL57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+v+Rh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no, the branch still exists after the merge"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0086d4d4-0528-4ab6-8f48-3d1a10da64a1",
+    "type": "message",
+    "user": "U057HMJ9QTB",
+    "text": "When a branch is deleted is there a way to view old/removed branches in the future?",
+    "ts": "1702341227.652659",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XLiNU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When a branch is deleted is there a way to view old/removed branches in the future?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-25/5326654072450_71a5e4b1297fa94e715a_72.png",
+      "first_name": "Jay",
+      "real_name": "Jay Hamrick",
+      "display_name": "Jay Hamrick",
+      "team": "T050CSX3EMT",
+      "name": "jhamrick2126",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ce1b1be5-4d02-4f83-9968-26a27a11e39b",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "shawn what was that site you showed at the very beginning of the pull request section? Where you could review open source pull requests?",
+    "ts": "1702341246.828669",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yLv6r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "shawn what was that site you showed at the very beginning of the pull request section? Where you could review open source pull requests?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "508a38a8-361a-4de4-8aa5-383e266e6f80",
+    "type": "message",
+    "user": "U065L4THRPF",
+    "text": "\u003chttps://github.com/tighten/ozzie\u003e",
+    "ts": "1702341476.351109",
+    "attachments": [
+      {
+        "color": "24292f",
+        "fallback": "tighten/ozzie",
+        "id": 1,
+        "title": "tighten/ozzie",
+        "text": "Open source project monitor for Tighten",
+        "fields": [
+          {
+            "title": "Website",
+            "value": "\u003chttps://ozzie.tighten.co\u003e",
+            "short": true
+          },
+          {
+            "title": "Stars",
+            "value": "55",
+            "short": true
+          }
+        ],
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 2,
+        "users": [
+          "U056ZJ34X42",
+          "U057HMJ9QTB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FWfCK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/tighten/ozzie",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6226202320128_458f5a2658cc811bcc2f_72.jpg",
+      "first_name": "Shawn",
+      "real_name": "Shawn Jones",
+      "display_name": "Instructor - Shawn Jones",
+      "team": "T050CSX3EMT",
+      "name": "shawngregjones",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

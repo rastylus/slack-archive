@@ -1,0 +1,354 @@
+[
+  {
+    "client_msg_id": "2FB698FE-73FD-4939-8670-D5C1C15CEA15",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "Hey \u003c@U0575U6RCKC\u003e , I did a merge from your branch this morning and was wondering is you could help me out with something. Do you have you api key stored in your local project somewhere? Or are you just using postman for now. I’m trying to figure out how to feed the perenual_api_key value in application properties. Everything is good and running when I put my key directly in the api service class but I know that’s a no no.",
+    "ts": "1702730829.377209",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gjRmY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey "
+              },
+              {
+                "type": "user",
+                "user_id": "U0575U6RCKC"
+              },
+              {
+                "type": "text",
+                "text": " , I did a merge from your branch this morning and was wondering is you could help me out with something. Do you have you api key stored in your local project somewhere? Or are you just using postman for now. I’m trying to figure out how to feed the perenual_api_key value in application properties. Everything is good and running when I put my key directly in the api service class but I know that’s a no no."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D84C16EE-78E1-420C-964C-4A606AF7DF79",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Yeah i have my api key stored locally. In Intellij you modify the settings for your bootrun and put in your own api key from Perenual. ",
+    "ts": "1702737339.496369",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aSRM1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah"
+              },
+              {
+                "type": "text",
+                "text": " i"
+              },
+              {
+                "type": "text",
+                "text": " have my api key stored locally"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " In Intellij you modify the settings for your bootrun and put in your own api key from Perenual"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3DF69E6D-65F4-459B-A59E-3EE5F47C70AF",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "It’s under conditions for you bootrun settings. I’ll share a screenshot when I’m by my computer.",
+    "ts": "1702737390.292039",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0GjAS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It’s under conditions for you bootrun settings"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " I’ll share a screenshot when I’m by my computer"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8FEBAD89-38DD-4C86-BDAD-CF4DE45B036B",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "Got it! Thank you!",
+    "ts": "1702741006.266569",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "n/yr8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Got it! Thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "752513c9-ad71-4121-a354-96aeeae25ec9",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I created a merge/pull request of my api-base branch into main. Please see my notes and let me know if you have any questions.\n\u003chttps://github.com/corypride/diamonddogs/pull/18|Link\u003e to the request.",
+    "ts": "1702765439.120099",
+    "thread_ts": "1702765439.120099",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "#18 Api base",
+        "id": 1,
+        "title": "#18 Api base",
+        "title_link": "https://github.com/corypride/diamonddogs/pull/18",
+        "text": "*Summary*\n\nThe ApiController found inside api-base has routes to display the following information from the Perenual api:\n\n1. Plant frequently asked questions. Search by \"tags\" which are just about anything including common names, indoor/outdoor, garden, flower, etc. Could be used for a feature upon itself.\n2. Combined information from plant list and plant care for a specific plant. This will provide the value for common name, care information, growth cycle, and link to photo.\n3. Sort list of plants by growth cycle.\n4. Sort list of plants by watering needs.\n5. Sort list of plants by sunlight needs.\n6. Return a list of the first 30 plants in the database.\n7. Return a list of plants of the first 3 pages in the database.\n8. Return plant list information for a single plant sorted by species id.\n\n*Concerns/Questions*\n\nI haven't tested this with our authorization. We also need to get this working with a local database.",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/corypride/diamonddogs|corypride/diamonddogs\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1702765344
+      }
+    ],
+    "edited": {
+      "user": "U0575U6RCKC",
+      "ts": "1702766213.000000"
+    },
+    "reply_count": 10,
+    "replies": [
+      {
+        "user": "U05756M4E1H",
+        "ts": "1702771967.646009"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1702772040.566689"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1702772274.175339"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1702772298.184479"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1702772420.976839"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1702772464.262989"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1702772565.758749"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1702772712.230359"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1702772816.805739"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1702772856.984449"
+      }
+    ],
+    "latest_reply": "1702772856.984449",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yFhjs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I created a merge/pull request of my api-base branch into main. Please see my notes and let me know if you have any questions.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/corypride/diamonddogs/pull/18",
+                "text": "Link"
+              },
+              {
+                "type": "text",
+                "text": " to the request."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05756M4E1H",
+      "U0575U6RCKC"
+    ]
+  }
+]

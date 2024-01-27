@@ -1,0 +1,413 @@
+[
+  {
+    "client_msg_id": "3b3f4235-7ced-4f28-b1e6-a74f460bfa27",
+    "type": "message",
+    "user": "U057521BQP5",
+    "text": "Based on Shawn's current lecture, it kind sounds like we should run it together locally and test out the code before pushing it up to main. But since we're at the beginning and main doesn't have much, I don't think it's a big deal to merge it",
+    "ts": "1702339554.061859",
+    "thread_ts": "1702251635.865579",
+    "edited": {
+      "user": "U057521BQP5",
+      "ts": "1702340240.000000"
+    },
+    "parent_user_id": "U0574K7SCF5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E8SCk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Based on Shawn's current lecture, it kind sounds like we should run it together locally and test out the code before pushing it up to main. But since we're at the beginning and main doesn't have much, I don't think it's a big deal to merge it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243262917090_b3de72dcabf90f4b743e_72.png",
+      "first_name": "Tessa",
+      "real_name": "Tessa Willoughby",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "tessa.willoughby",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "76ba66cb-c748-424b-84e2-b39fcd252af2",
+    "type": "message",
+    "user": "U057521BQP5",
+    "text": "What's a reasonable deadline for our first merge? (I assume just the base four features)",
+    "ts": "1702342469.646899",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sIAD0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What's a reasonable deadline for our first merge? (I assume just the base four features)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243262917090_b3de72dcabf90f4b743e_72.png",
+      "first_name": "Tessa",
+      "real_name": "Tessa Willoughby",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "tessa.willoughby",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b9600677-d413-4356-ae40-f8f1a56a5dc8",
+    "type": "message",
+    "user": "U057521BQP5",
+    "text": "I'm trying to bootRun what we just merged to main, and I'm getting a whitelabel error. Anyone else?",
+    "ts": "1702346504.134199",
+    "thread_ts": "1702346504.134199",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U056R9L6CQP",
+        "ts": "1702350556.185379"
+      },
+      {
+        "user": "U057521BQP5",
+        "ts": "1702350630.663359"
+      },
+      {
+        "user": "U057521BQP5",
+        "ts": "1702354976.015519"
+      }
+    ],
+    "latest_reply": "1702354976.015519",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rqDoU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm trying to bootRun what we just merged to main, and I'm getting a whitelabel error. Anyone else?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243262917090_b3de72dcabf90f4b743e_72.png",
+      "first_name": "Tessa",
+      "real_name": "Tessa Willoughby",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "tessa.willoughby",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056R9L6CQP",
+      "U057521BQP5"
+    ]
+  },
+  {
+    "client_msg_id": "ecf05054-8fee-49c7-ae61-0a5ea3f0ca2f",
+    "type": "message",
+    "user": "U056R9L6CQP",
+    "text": "Yeah I was struggling to get it open to, but my problem seemed to be due to MySQL",
+    "ts": "1702350556.185379",
+    "thread_ts": "1702346504.134199",
+    "parent_user_id": "U057521BQP5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TUaSe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah I was struggling to get it open to, but my problem seemed to be due to MySQL"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/dbab0a3687bce3382923ca15e187713a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Jacob",
+      "real_name": "Jacob Kellogg",
+      "display_name": "Jacob Kellogg",
+      "team": "T050CSX3EMT",
+      "name": "jacobkellogg17",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bb4561cf-4fb6-461f-9aed-7cd68696cf8a",
+    "type": "message",
+    "user": "U057521BQP5",
+    "text": "I set up the schema (liftoff) and the user (QSC), but am still having difficulty running it",
+    "ts": "1702350630.663359",
+    "thread_ts": "1702346504.134199",
+    "parent_user_id": "U057521BQP5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "elHyg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I set up the schema (liftoff) and the user (QSC), but am still having difficulty running it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243262917090_b3de72dcabf90f4b743e_72.png",
+      "first_name": "Tessa",
+      "real_name": "Tessa Willoughby",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "tessa.willoughby",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fa4856bf-2463-44a4-9062-5911703f7917",
+    "type": "message",
+    "user": "U057521BQP5",
+    "text": "When I open the \"react-frontend\" folder in VSCode and run npm start in the terminal, things run just fine in the browser. However, when I attempt to do the same with the \"Liftoff-group-02-main\" folder is when I start running into errors.",
+    "ts": "1702354976.015519",
+    "thread_ts": "1702346504.134199",
+    "parent_user_id": "U057521BQP5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LSHTN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When I open the \"react-frontend\" folder in VSCode and run npm start in the terminal, things run just fine in the browser. However, when I attempt to do the same with the \"Liftoff-group-02-main\" folder is when I start running into errors."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243262917090_b3de72dcabf90f4b743e_72.png",
+      "first_name": "Tessa",
+      "real_name": "Tessa Willoughby",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "tessa.willoughby",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "32237f54-6ae3-49e4-b5d8-349797b62c1d",
+    "type": "message",
+    "user": "U057521BQP5",
+    "text": "So I worked last night on creating a basic calendar and making an add event function (still very much a work-in-progress), but I cannot figure out how to add it to our repo, specifically which branch it should even be a part of. I tried adding it to the events branch and calling it react-crud to differentiate it. But I think I may have muddled things up in the process.",
+    "ts": "1702389613.655169",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KhJwZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So I worked last night on creating a basic calendar and making an add event function (still very much a work-in-progress), but I cannot figure out how to add it to our repo, specifically which branch it should even be a part of. I tried adding it to the events branch and calling it react-crud to differentiate it. But I think I may have muddled things up in the process."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243262917090_b3de72dcabf90f4b743e_72.png",
+      "first_name": "Tessa",
+      "real_name": "Tessa Willoughby",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "tessa.willoughby",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "59abe3dc-d8fd-4281-b69f-d3bf828d63ac",
+    "type": "message",
+    "user": "U056R9L6CQP",
+    "text": "Nice, it sounds like you made some good progress! Maybe on Wednesday we can help each other with some of our issues. I also cant get the spring back end to work locally.",
+    "ts": "1702402331.231809",
+    "thread_ts": "1702402331.231809",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0574K7SCF5",
+        "ts": "1702451164.698929"
+      }
+    ],
+    "latest_reply": "1702451164.698929",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZKOXX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nice, it sounds like you made some good progress! Maybe on Wednesday we can help each other with some of our issues. I also cant get the spring back end to work locally."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/dbab0a3687bce3382923ca15e187713a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Jacob",
+      "real_name": "Jacob Kellogg",
+      "display_name": "Jacob Kellogg",
+      "team": "T050CSX3EMT",
+      "name": "jacobkellogg17",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0574K7SCF5"
+    ]
+  }
+]

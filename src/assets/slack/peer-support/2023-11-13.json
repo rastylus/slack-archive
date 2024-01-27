@@ -1,0 +1,2374 @@
+[
+  {
+    "client_msg_id": "B3DE5C66-6F69-4014-B3F7-119D2D306FC1",
+    "type": "message",
+    "user": "U056WKD8RRT",
+    "text": "How do I properly link My SQL workbench to GA4? ",
+    "ts": "1699867269.607339",
+    "thread_ts": "1699867269.607339",
+    "edited": {
+      "user": "U056WKD8RRT",
+      "ts": "1699867479.000000"
+    },
+    "reply_count": 20,
+    "replies": [
+      {
+        "user": "U057C70KL57",
+        "ts": "1699890017.945699"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699890024.095689"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699890033.813989"
+      },
+      {
+        "user": "U056WKD8RRT",
+        "ts": "1699890134.141589"
+      },
+      {
+        "user": "U056WKD8RRT",
+        "ts": "1699890140.473349"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699890153.655609"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699890180.898119"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699890290.372749"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699890312.098909"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699890313.718649"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699890317.390899"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699890376.833689"
+      },
+      {
+        "user": "U056WKD8RRT",
+        "ts": "1699890570.071189"
+      },
+      {
+        "user": "U056WKD8RRT",
+        "ts": "1699890605.598959"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699890619.092139"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699890637.427509"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699890643.892449"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1699893194.648869"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699893316.550959"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1699894463.704259"
+      }
+    ],
+    "latest_reply": "1699894463.704259",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xkD39",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How do I properly link My SQL workbench to GA4? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5258951854693_c258a719a5ff97defcfb_72.png",
+      "first_name": "Noah",
+      "real_name": "Noah Brandwein",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "noah.brandwein98",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U056WKD8RRT",
+      "U05724ACLVB",
+      "U05768C2NP4",
+      "U057C70KL57"
+    ]
+  },
+  {
+    "client_msg_id": "e5b7317c-cfe1-4638-9b16-f5b7ed9fd3e5",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "What do I need to do to get the Thymleaf template to show up in my right-click menus? I tried following the videos but it created something with a java cup image.",
+    "ts": "1699884521.370609",
+    "thread_ts": "1699884521.370609",
+    "reply_count": 14,
+    "replies": [
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699890064.896779"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699890072.565129"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699890116.647909"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699890223.636669"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699890253.179109"
+      },
+      {
+        "user": "U05768C2NP4",
+        "ts": "1699892859.137859"
+      },
+      {
+        "user": "U057T1QUHB3",
+        "ts": "1699902984.602449"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699903230.768469"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699903308.160329"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699903869.725279"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699904090.157579"
+      },
+      {
+        "user": "U057T1QUHB3",
+        "ts": "1699905527.324789"
+      },
+      {
+        "user": "U057T1QUHB3",
+        "ts": "1699905549.735329"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699906013.133619"
+      }
+    ],
+    "latest_reply": "1699906013.133619",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HHYyx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What do I need to do to get the Thymleaf template to show up in my right-click menus? I tried following the videos but it created something with a java cup image."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U05724ACLVB",
+      "U05768C2NP4",
+      "U057C70KL57",
+      "U057T1QUHB3"
+    ]
+  },
+  {
+    "client_msg_id": "f1040fbf-d098-40cd-bbc5-8cad6e1d02da",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "You link it through the URL of your server in the applications. Properties file. I had to finagle mine a bit bc mine doesn't use the same default port that is mentioned somewhere in the text/exercises etc. However the URL does follow a specific format. Look through all the branches of the coding events exercises/studios on git and find the applications.properties file for the relevant lesson and follow that",
+    "ts": "1699890017.945699",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6v8GO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You link it through the URL of your server in the applications. Properties file. I had to finagle mine a bit bc mine doesn't use the same default port that is mentioned somewhere in the text/exercises etc. However the URL does follow a specific format. Look through all the branches of the coding events exercises/studios on git and find the applications.properties file for the relevant lesson and follow that"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9418fcef-43ad-4b23-9b5e-c611c42adeff",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "The instructions here will help.\n\n\u003chttps://education.launchcode.org/java-web-dev-curriculum/assignments/techjobs-persistent/part-one/index.html\u003e",
+    "ts": "1699890024.095689",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "74bdU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The instructions here will help.\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://education.launchcode.org/java-web-dev-curriculum/assignments/techjobs-persistent/part-one/index.html",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ef31b4e1-91d7-41df-88ea-dfeb62c55aac",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "If you're still facing issues lemme know!!!",
+    "ts": "1699890033.813989",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G9/ZD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you're still facing issues lemme know!!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9eb7ed68-1b94-428a-9c89-cf2fb869652f",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I'm not sure what you mean by showing up in your right-click menus.",
+    "ts": "1699890064.896779",
+    "thread_ts": "1699884521.370609",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+AXmn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm not sure what you mean by showing up in your right-click menus."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6f5ac743-7016-435b-98a2-4aa84d583a1d",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Which assignment is this for?",
+    "ts": "1699890072.565129",
+    "thread_ts": "1699884521.370609",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "56NDK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Which assignment is this for?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a5eb5c68-0713-4c4f-8e00-20f9863b1cd4",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "For GA4 I didn't really have to mess w that at all, just that I had to test and make sure I had all the necessary dependancies",
+    "ts": "1699890116.647909",
+    "thread_ts": "1699884521.370609",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cc49p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For GA4 I didn't really have to mess w that at all, just that I had to test and make sure I had all the necessary dependancies"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A063E6A4-B395-4B1A-8E57-CE8A30CB3987",
+    "type": "message",
+    "user": "U056WKD8RRT",
+    "text": "I was just about to ask if I need to figure out how to use the default 3306 port or if I need to try and create one that is localhost 8080?",
+    "ts": "1699890134.141589",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/7M27",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was just about to ask if I need to figure out how to use the default 3306 port or if I need to try and create one that is localhost 8080?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5258951854693_c258a719a5ff97defcfb_72.png",
+      "first_name": "Noah",
+      "real_name": "Noah Brandwein",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "noah.brandwein98",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D75C759C-2F54-400A-8C49-5CF4EE0A841E",
+    "type": "message",
+    "user": "U056WKD8RRT",
+    "text": "Thank you guys for the help",
+    "ts": "1699890140.473349",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Oo5Jx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you guys for the help"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5258951854693_c258a719a5ff97defcfb_72.png",
+      "first_name": "Noah",
+      "real_name": "Noah Brandwein",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "noah.brandwein98",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "384f9c60-612c-4e7c-8c0b-4d27271195c8",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "You'll need localhost:8080 to run your app.",
+    "ts": "1699890153.655609",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5AooD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You'll need localhost:8080 to run your app."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e6b6106a-7153-46f7-aaff-8f08687db512",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I didn't have to mess around with the ports. I just used the defaults for the app and for MySQL Workbench.",
+    "ts": "1699890180.898119",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HrWES",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I didn't have to mess around with the ports. I just used the defaults for the app and for MySQL Workbench."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f8b7e991-420c-4acf-8443-1768201bd6e7",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "\u003c@U05724ACLVB\u003e i know what theyre talking about, I forgot where in intellij but there's a part where you can right click and open up the add template menu",
+    "ts": "1699890223.636669",
+    "thread_ts": "1699884521.370609",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SVa1k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05724ACLVB"
+              },
+              {
+                "type": "text",
+                "text": " i know what theyre talking about, I forgot where in intellij but there's a part where you can right click and open up the add template menu"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d5f7a5a3-a32f-4738-9ded-2e69096d6526",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Cool!",
+    "ts": "1699890253.179109",
+    "thread_ts": "1699884521.370609",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iFFQF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Cool!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "827e59f6-a6dd-421d-98bc-63f4558a4945",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I had to use 3306 to connect to my server but 8080 when in the browser",
+    "ts": "1699890290.372749",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dR6Dz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I had to use 3306 to connect to my server but 8080 when in the browser"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a066081a-720d-4543-b892-48b20c04a259",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "3306 can be a default port for mysql",
+    "ts": "1699890312.098909",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t8fSR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "3306 can be a default port for mysql"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "034ea709-734f-4d49-abba-d37261d25eea",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "But those were the defaults for me.",
+    "ts": "1699890313.718649",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qsWGW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "But those were the defaults for me."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "097599bf-15e4-4c20-bdf8-668a79db9e5a",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yes.",
+    "ts": "1699890317.390899",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "quTfZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "22839209-885a-477b-bcfe-4d91b33ae298",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "If you want you could change the default port to 8080 when creating the connection but that still didn't work for me. My TA Didn't care that the ports were different, as long as the SQL test passed",
+    "ts": "1699890376.833689",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CW44x",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you want you could change the default port to 8080 when creating the connection but that still didn't work for me. My TA Didn't care that the ports were different, as long as the SQL test passed"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7d7d6fe9-93e1-4375-8fff-b7ad46981e95",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Anyone struggling to finish your assignments, please reach out here!!!!! I had several ppl save me when I was struggling to finish Unit one and I couldn't have gotten there without them!!!!! Let us help you",
+    "ts": "1699890455.542859",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M/HZs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anyone struggling to finish your assignments, please reach out here!!!!! I had several ppl save me when I was struggling to finish Unit one and I couldn't have gotten there without them!!!!! Let us help you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c2c347c7-6acb-4b09-bb82-bad64b0ce161",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Spam this channel as much as possible",
+    "ts": "1699890467.302829",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ONitA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Spam this channel as much as possible"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dad24a60-91dc-4273-83aa-4ccea1f1b848",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Zoom calls are overstimulating to me but I handle text much better",
+    "ts": "1699890495.289849",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "861gI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Zoom calls are overstimulating to me but I handle text much better"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ae9ebbe8-23b5-4ebd-8fa5-f5cac87e2ba5",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "For those who are zoom averse",
+    "ts": "1699890510.539739",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KpEsR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For those who are zoom averse"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "da831d83-db44-4a0f-9cce-9c94d0f7406c",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I have meetings from 11:15-1:30 CST and from 2:45-5 CST today, but outside of those times, hit me up!",
+    "ts": "1699890526.354119",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lG0is",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have meetings from 11:15-1:30 CST and from 2:45-5 CST today, but outside of those times, hit me up!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "29CDDF46-25DF-4F74-9230-6C39E48716AB",
+    "type": "message",
+    "user": "U056WKD8RRT",
+    "text": "So how did you link your project to the MySQL Workbench?",
+    "ts": "1699890570.071189",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q2IWA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So how did you link your project to the MySQL Workbench?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5258951854693_c258a719a5ff97defcfb_72.png",
+      "first_name": "Noah",
+      "real_name": "Noah Brandwein",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "noah.brandwein98",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3A6DF6CC-9ADA-4F19-AA3A-31F3132F8D68",
+    "type": "message",
+    "user": "U056WKD8RRT",
+    "text": "Okay thank you I’m going to try this out in my lunch break at work, and hopefully I can get the project done during class time so I can move on to unit 3",
+    "ts": "1699890605.598959",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wBUhS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay thank you "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " going to try this out in my lunch break at work, and hopefully I can get the project done during class time so I can move on to unit 3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5258951854693_c258a719a5ff97defcfb_72.png",
+      "first_name": "Noah",
+      "real_name": "Noah Brandwein",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "noah.brandwein98",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f10ba1fc-bd10-40f4-a5ad-6cacca5d1abb",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I followed the instructions in task 1. ORM part 1 has all the relevant info, too, as copy/pastes.",
+    "ts": "1699890619.092139",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NZXQ5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I followed the instructions in task 1. ORM part 1 has all the relevant info, too, as copy/pastes."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "59864f11-52fc-4b05-95de-1044c6650cc6",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "You'll have to change some things, like your schema name, user name, and password.",
+    "ts": "1699890637.427509",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T4dBO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You'll have to change some things, like your schema name, user name, and password."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0f5e24e7-3d14-4f8a-baa6-f583e95ad48c",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Let us know if you hit any snags, I'm free all day",
+    "ts": "1699890643.892449",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U056WKD8RRT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8UaPW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Let us know if you hit any snags, I'm free all day"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "12beaf91-1eaf-48fe-9f52-60d850eff4ce",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "You probably did the right steps but forgot to change the extension on you template to \"html\". Go to settings, search \"templates\", you should see \"file and code templates\", you should see the one you already made or you can make a new one by clicking the + sign on top where all the templates are listed. If the one you already made is correct just change the extension in the box which should be in the upper right quarter of the template settings menu.",
+    "ts": "1699892859.137859",
+    "thread_ts": "1699884521.370609",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0FOCD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You probably did the right steps but forgot to change the extension on you template to \"html\". Go to settings, search \"templates\", you should see \"file and code templates\", you should see the one you already made or you can make a new one by clicking the + sign on top where all the templates are listed. If the one you already made is correct just change the extension in the box which should be in the upper right quarter of the template settings menu."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a411a410-9a0c-40fc-841c-24b2899d171e",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "This is probably the step you're wondering about",
+    "ts": "1699893194.648869",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "files": [
+      {
+        "id": "F065H2T4QDQ",
+        "created": 1699893139,
+        "timestamp": 1699893139,
+        "name": "Screenshot 2023-11-13 at 10.31.06 AM.png",
+        "title": "Screenshot 2023-11-13 at 10.31.06 AM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U05768C2NP4",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 196717,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F065H2T4QDQ/screenshot_2023-11-13_at_10.31.06___am.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F065H2T4QDQ/download/screenshot_2023-11-13_at_10.31.06___am.png",
+        "original_h": 627,
+        "original_w": 2661,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F065H2T4QDQ-1cf53bcdf5/screenshot_2023-11-13_at_10.31.06___am_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F065H2T4QDQ-1cf53bcdf5/screenshot_2023-11-13_at_10.31.06___am_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F065H2T4QDQ-1cf53bcdf5/screenshot_2023-11-13_at_10.31.06___am_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F065H2T4QDQ-1cf53bcdf5/screenshot_2023-11-13_at_10.31.06___am_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 85,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F065H2T4QDQ-1cf53bcdf5/screenshot_2023-11-13_at_10.31.06___am_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 113,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F065H2T4QDQ-1cf53bcdf5/screenshot_2023-11-13_at_10.31.06___am_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 170,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F065H2T4QDQ-1cf53bcdf5/screenshot_2023-11-13_at_10.31.06___am_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 226,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F065H2T4QDQ-1cf53bcdf5/screenshot_2023-11-13_at_10.31.06___am_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 241,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05768C2NP4/F065H2T4QDQ/screenshot_2023-11-13_at_10.31.06___am.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F065H2T4QDQ-2c617dafd4",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Rgph8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is probably the step you're wondering about"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "683561bf-c77f-4bef-8295-49994920b628",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "\u003c@U05768C2NP4\u003e I would be careful posting screenshots like this as you're more or less giving them the answer instead of pointing them in the right direction",
+    "ts": "1699893316.550959",
+    "thread_ts": "1699867269.607339",
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0jN58",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05768C2NP4"
+              },
+              {
+                "type": "text",
+                "text": " I would be careful posting screenshots like this as you're more or less giving them the answer instead of pointing them in the right direction"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d37744df-5fd0-4c21-ac79-4ba303469ba7",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "You're right sorry, I probably should've just linked the video explaining it! \u003chttps://www.youtube.com/watch?v=GVOpKW3NcMk\u0026amp;t=530s\u003e",
+    "ts": "1699894463.704259",
+    "thread_ts": "1699867269.607339",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: Java Coding Events 4.1 Database Configuration",
+        "id": 1,
+        "author_name": "LaunchCode",
+        "author_link": "https://www.youtube.com/@launchcode9265",
+        "title": "Java Coding Events 4.1 Database Configuration",
+        "title_link": "https://www.youtube.com/watch?v=GVOpKW3NcMk\u0026amp;t=530s",
+        "thumb_url": "https://i.ytimg.com/vi/GVOpKW3NcMk/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://www.youtube.com/watch?v=GVOpKW3NcMk\u0026amp;t=530s",
+        "original_url": "https://www.youtube.com/watch?v=GVOpKW3NcMk\u0026amp;t=530s",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U056WKD8RRT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DFSUi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You're right sorry, I probably should've just linked the video explaining it! "
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=GVOpKW3NcMk\u0026t=530s",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "af18b684-e602-4bf3-8d5f-3027b14d094b",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "This is for Chapter 13, just studying and reading through it. I added a template, but it shows up as a coffee cup:",
+    "ts": "1699902984.602449",
+    "thread_ts": "1699884521.370609",
+    "parent_user_id": "U057T1QUHB3",
+    "files": [
+      {
+        "id": "F06672A5QPJ",
+        "created": 1699902893,
+        "timestamp": 1699902893,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057T1QUHB3",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 127538,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06672A5QPJ/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06672A5QPJ/download/image.png",
+        "original_h": 732,
+        "original_w": 738,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06672A5QPJ-2f864e59f5/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06672A5QPJ-2f864e59f5/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06672A5QPJ-2f864e59f5/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06672A5QPJ-2f864e59f5/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 357,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06672A5QPJ-2f864e59f5/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 476,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06672A5QPJ-2f864e59f5/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 714,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057T1QUHB3/F06672A5QPJ/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06672A5QPJ-a5914ae4b4",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lAxCM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is for Chapter 13, just studying and reading through it. I added a template, but it shows up as a coffee cup:"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "461d0711-d5ce-4344-a748-41fc9830c1f6",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "May I ask why you are trying to add a template? I don't recall having to do so in the last two assignments",
+    "ts": "1699903230.768469",
+    "thread_ts": "1699884521.370609",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vX1KT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "May I ask why you are trying to add a template? I don't recall having to do so in the last two assignments"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c646d8b3-0660-4c75-be79-f93ca360f200",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Are you trying to maybe add/update a dependency instead? Can you point to the instructions that ask you to add a template?",
+    "ts": "1699903308.160329",
+    "thread_ts": "1699884521.370609",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "btHiD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are you trying to maybe add/update a dependency instead? Can you point to the instructions that ask you to add a template?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b6639583-2d4c-4407-ac0f-4831306d3753",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "This is for the exercises in the chapter, not the graded assignment, I believe.",
+    "ts": "1699903869.725279",
+    "thread_ts": "1699884521.370609",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1sFPr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is for the exercises in the chapter, not the graded assignment, I believe."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "102869fe-132c-4268-805c-8317b5bba94f",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Ah ok",
+    "ts": "1699904090.157579",
+    "thread_ts": "1699884521.370609",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Maj6s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ah ok"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a9642db8-f667-4585-98d8-ed3f5de6fc9c",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "Tracy is correct. I am way behind and trying to learn the material before working on the last 2 graded assignments.",
+    "ts": "1699905527.324789",
+    "thread_ts": "1699884521.370609",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GJ/jx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Tracy is correct. I am way behind and trying to learn the material before working on the last 2 graded assignments."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "54d7552e-0e6c-4729-becf-26f0acd3fd50",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "I could use some help since is says my springframework.boot does not exist.",
+    "ts": "1699905549.735329",
+    "thread_ts": "1699884521.370609",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GWIs3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I could use some help since is says my springframework.boot does not exist."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "00f29428-c3b0-4952-8099-3b21d73d21eb",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Cheri, I have about half an hour that I can use to help you before my next meeting starts.",
+    "ts": "1699906013.133619",
+    "thread_ts": "1699884521.370609",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p/JA5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Cheri, I have about half an hour that I can use to help you before my next meeting starts."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

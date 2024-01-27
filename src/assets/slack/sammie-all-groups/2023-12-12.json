@@ -1,0 +1,67 @@
+[
+  {
+    "client_msg_id": "4853c2ec-1c34-446f-9634-2d58df05c75e",
+    "type": "message",
+    "user": "U05656EM4EM",
+    "text": "\u003c!channel\u003e Good morning students! Just a reminder that each student must have a feature that they are working on right now! By the 18th you should have some work to show towards your individual feature. Please take time everyday to commit something small vs doing it all at once. Aim for at least 3 PRs before then. When you are done, think about what future implementations you will make and how you can explain it. Keep up the good work and dm me with questions. :muscle::muscle::muscle:",
+    "ts": "1702398030.098869",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pPadY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " Good morning students! Just a reminder that each student must have a feature that they are working on right now! By the 18th you should have some work to show towards your individual feature. Please take time everyday to commit something small vs doing it all at once. Aim for at least 3 PRs before then. When you are done, think about what future implementations you will make and how you can explain it. Keep up the good work and dm me with questions. "
+              },
+              {
+                "type": "emoji",
+                "name": "muscle",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "muscle",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "muscle",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-08/5546028551765_ef5cfd16f93e919dda43_72.jpg",
+      "first_name": "TA",
+      "real_name": "TA Sammie Mendez (she/her)",
+      "display_name": "TA - Sammie",
+      "team": "T050CSX3EMT",
+      "name": "sammierosado",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

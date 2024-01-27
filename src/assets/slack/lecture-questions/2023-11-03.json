@@ -1,0 +1,747 @@
+[
+  {
+    "client_msg_id": "5a6d5a87-870e-440b-860a-80e1218283b1",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Go, Melany!\n\nAnd Yumi!",
+    "ts": "1698969657.409879",
+    "thread_ts": "1698969657.409879",
+    "edited": {
+      "user": "U05724ACLVB",
+      "ts": "1698969936.000000"
+    },
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056SERBK2B",
+        "ts": "1698972064.835449"
+      }
+    ],
+    "latest_reply": "1698972064.835449",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056SERBK2B"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JhpBY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Go, Melany!\n\nAnd Yumi!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056SERBK2B"
+    ]
+  },
+  {
+    "client_msg_id": "5d8536a0-852a-4829-8f23-10f36c2b9e5e",
+    "type": "message",
+    "user": "U056K1U9R1V",
+    "text": "I still don't fully understand the @JoinColumn annotation for task 3 of graded assignment 4.",
+    "ts": "1698971849.573889",
+    "thread_ts": "1698971849.573889",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056SERBK2B",
+        "ts": "1698972003.599959"
+      },
+      {
+        "user": "U055RLVGECB",
+        "ts": "1698973563.747339"
+      }
+    ],
+    "latest_reply": "1698973563.747339",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4Pc3c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I still don't fully understand the @JoinColumn annotation for task 3 of graded assignment 4."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-21/5298968476898_8771134baeb75bcab23b_72.jpg",
+      "first_name": "Sharion",
+      "real_name": "Sharion Cranston",
+      "display_name": "Sharion Cranston",
+      "team": "T050CSX3EMT",
+      "name": "sharion06",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U055RLVGECB",
+      "U056SERBK2B"
+    ]
+  },
+  {
+    "client_msg_id": "47eb3b1e-50fa-42c0-a131-2902f4cc43bb",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "Its kind of like a join in SQL, it tells hibernate which column to join the tables on.",
+    "ts": "1698972003.599959",
+    "thread_ts": "1698971849.573889",
+    "parent_user_id": "U056K1U9R1V",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zqa9h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Its kind of like a join in SQL, it tells hibernate which column to join the tables on."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8d28c50e-1322-468b-a7ae-5b7d41557e07",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "We needed answers! lol",
+    "ts": "1698972064.835449",
+    "thread_ts": "1698969657.409879",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "i/Tyg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We needed answers! lol"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7b34e54a-42c6-4e65-9dfb-6bb07ca88b1a",
+    "type": "message",
+    "user": "U055RLVGECB",
+    "text": "\u003chttps://www.baeldung.com/jpa-joincolumn-vs-mappedby\u003e",
+    "ts": "1698973563.747339",
+    "thread_ts": "1698971849.573889",
+    "attachments": [
+      {
+        "fallback": "Baeldung: Difference Between @JoinColumn and mappedBy | Baeldung",
+        "id": 1,
+        "title": "Difference Between @JoinColumn and mappedBy | Baeldung",
+        "title_link": "https://www.baeldung.com/jpa-joincolumn-vs-mappedby",
+        "text": "Learn about the difference between @JoinColumn and mappedBy and how to use them in a one-to-many bidirectional relationship.",
+        "image_url": "https://www.baeldung.com/wp-content/uploads/2016/10/social-Persistence-On-Baeldung-1.jpg",
+        "service_name": "Baeldung",
+        "service_icon": "https://www.baeldung.com/wp-content/themes/baeldung/favicon/apple-touch-icon-57x57.png",
+        "from_url": "https://www.baeldung.com/jpa-joincolumn-vs-mappedby",
+        "original_url": "https://www.baeldung.com/jpa-joincolumn-vs-mappedby",
+        "blocks": null,
+        "ts": 1542823632
+      }
+    ],
+    "parent_user_id": "U056K1U9R1V",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056SERBK2B"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dBUG4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.baeldung.com/jpa-joincolumn-vs-mappedby",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5199690404373_f5b2dee4a67558ffd533_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Mitchell",
+      "display_name": "TA - Ariel (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "ariel.l.makowski",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "48b05171-7e76-486c-a944-381e35e39dc9",
+    "type": "message",
+    "user": "U050FPSA3DH",
+    "text": "Thank you, I will miss you all too! I've really enjoyed this group a lot!",
+    "ts": "1699029193.666309",
+    "thread_ts": "1698964377.481609",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      },
+      {
+        "name": "crying-cat",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U056K1UHEGP"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "N7HaN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you, I will miss you all too! I've really enjoyed this group a lot!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5250305694433_62d56e5a7ac1aa48f553_72.jpg",
+      "first_name": "Carrie",
+      "real_name": "Carrie Jones",
+      "display_name": "Lead Instructor - Carrie Jones",
+      "team": "T050CSX3EMT",
+      "name": "cjones.renaissancewom",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "154f963e-11f1-472c-9d18-503a0e45592b",
+    "type": "message",
+    "user": "U057359TCR5",
+    "text": "Quick question on task 3 for GA 4! The last todo has us use the processAddJobForm method to select the employer object the user chooses from the form. It doesnt say anything about saving any data in the Job table but the last part makes it seem like thats how the app should be working at that point. Am I missing something?",
+    "ts": "1699047666.183749",
+    "thread_ts": "1699047666.183749",
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699049634.458779"
+      },
+      {
+        "user": "U05743K5BHT",
+        "ts": "1699050983.272139"
+      },
+      {
+        "user": "U057359TCR5",
+        "ts": "1699053772.149639"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1699054353.797679"
+      }
+    ],
+    "latest_reply": "1699054353.797679",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fgIa8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Quick question on task 3 for GA 4! The last todo has us use the processAddJobForm method to select the employer object the user chooses from the form. It doesnt say anything about saving any data in the Job table but the last part makes it seem like thats how the app should be working at that point. Am I missing something?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-29/5494988810679_9768f213170d7435f311_72.png",
+      "first_name": "Coleman",
+      "real_name": "Coleman Kuseliauskas (STL)",
+      "display_name": "Coleman Kuseliauskas",
+      "team": "T050CSX3EMT",
+      "name": "hanshi2929",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U056Q9W022K",
+      "U05724ACLVB",
+      "U057359TCR5",
+      "U05743K5BHT"
+    ]
+  },
+  {
+    "client_msg_id": "e8c3dd1e-9710-49ba-9b06-1a5d24a1da25",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "There's a lot of stuff that you need to do for the assignment that is not explicitly mentioned in the instructions.",
+    "ts": "1699049634.458779",
+    "thread_ts": "1699047666.183749",
+    "parent_user_id": "U057359TCR5",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057359TCR5"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UQvh4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "There's a lot of stuff that you need to do for the assignment that is not explicitly mentioned in the instructions."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "470E9CA1-A146-4954-B114-027B2DA99DA0",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "If you’re caught up on all of the material for coding-events, that’s been really helpful for me to reference back to whenever I get stuck with this assignment. I haven’t started task 3 yet though",
+    "ts": "1699050983.272139",
+    "thread_ts": "1699047666.183749",
+    "parent_user_id": "U057359TCR5",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 2,
+        "users": [
+          "U05724ACLVB",
+          "U057521BQP5"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057359TCR5"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SNsC2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If "
+              },
+              {
+                "type": "text",
+                "text": "you’re"
+              },
+              {
+                "type": "text",
+                "text": " caught up on all of the material for coding-events, "
+              },
+              {
+                "type": "text",
+                "text": "that’s"
+              },
+              {
+                "type": "text",
+                "text": " been really helpful for me to reference back to whenever I get stuck with this assignment. "
+              },
+              {
+                "type": "text",
+                "text": "I"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "haven’t"
+              },
+              {
+                "type": "text",
+                "text": " started task 3 yet though"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D9970BB1-0598-4250-8332-59EB43EAA671",
+    "type": "message",
+    "user": "U057359TCR5",
+    "text": "Yeah I’ve used those videos up until now but the instructions seem really vague towards the end of task 3 ",
+    "ts": "1699053772.149639",
+    "thread_ts": "1699047666.183749",
+    "parent_user_id": "U057359TCR5",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "X44Ei",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah "
+              },
+              {
+                "type": "text",
+                "text": "I’ve"
+              },
+              {
+                "type": "text",
+                "text": " used those videos up until now but the instructions seem really vague towards the end of task 3 "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-29/5494988810679_9768f213170d7435f311_72.png",
+      "first_name": "Coleman",
+      "real_name": "Coleman Kuseliauskas (STL)",
+      "display_name": "Coleman Kuseliauskas",
+      "team": "T050CSX3EMT",
+      "name": "hanshi2929",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D77C67B0-E866-4CCC-91CD-6CE5B11CE8CB",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I finished today and also found referencing coding events extremely helpful. And I echo what \u003c@U05724ACLVB\u003e said, they do not tell you explicitly everything you need to do. ",
+    "ts": "1699054353.797679",
+    "thread_ts": "1699047666.183749",
+    "parent_user_id": "U057359TCR5",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057359TCR5"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "84GR1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I finished today and also found referencing coding events extremely helpful. And I echo what "
+              },
+              {
+                "type": "user",
+                "user_id": "U05724ACLVB"
+              },
+              {
+                "type": "text",
+                "text": " said, they do not tell you explicitly everything you need to do. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "client_msg_id": "ee245197-8fc2-4e09-99bc-efe092c41701",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "Hey! Just to clarify, how do I know whether my resume was approved? I got a comment, which I have resolved, and have received no further requests for edits. If the \"Resume Submission\" is graded, is that how we tell?",
+    "ts": "1705021048.804629",
+    "thread_ts": "1705021048.804629",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0625KF6RLH",
+        "ts": "1705021252.890349"
+      }
+    ],
+    "latest_reply": "1705021252.890349",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "plus-one",
+        "count": 1,
+        "users": [
+          "U057T1QUHB3"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MnVr1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey! Just to clarify, how do I know whether my resume was approved? I got a comment, which I have resolved, and have received no further requests for edits. If the \"Resume Submission\" is graded, is that how we tell?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0625KF6RLH"
+    ]
+  },
+  {
+    "client_msg_id": "7439082d-b2da-4e8a-b0d7-2318d312cfca",
+    "type": "message",
+    "user": "U0625KF6RLH",
+    "text": "I (or Lexi) will send you a Slack message confirming that your resume is approved!",
+    "ts": "1705021252.890349",
+    "thread_ts": "1705021048.804629",
+    "parent_user_id": "U05722VQ4S0",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05722VQ4S0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2K4Na",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I (or Lexi) will send you a Slack message confirming that your resume is approved!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-19/6068347004260_cd7e855b65583e9c6d43_72.jpg",
+      "first_name": "Melinda",
+      "real_name": "Melinda Stitzel",
+      "display_name": "Liftoff Program Manager - Melinda (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "melinda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

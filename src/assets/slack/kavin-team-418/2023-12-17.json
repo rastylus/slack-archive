@@ -1,0 +1,2721 @@
+[
+  {
+    "client_msg_id": "2c2d62fb-fe00-446e-935e-097be0ee75b4",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Ok, different dependencies, which I've added to build.gradle, and then I had to rename both .idea files, and then put one back (?), so  now Gradle builds, but bootRun has some persistence errors. So I'm making progress! Different errors!",
+    "ts": "1702773786.391899",
+    "thread_ts": "1702773786.391899",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702774432.067959"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702774453.111519"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702774468.041629"
+      }
+    ],
+    "latest_reply": "1702774468.041629",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q7hcB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok, different dependencies, which I've added to build.gradle, and then I had to rename both .idea files, and then put one back (?), so  now Gradle builds, but bootRun has some persistence errors. So I'm making progress! Different errors!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05724ACLVB",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "698fa79a-9d61-4029-97c0-11c8ec281476",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I was able to run the React front end, and it looks great!",
+    "ts": "1702774270.147789",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U05744248P7"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E1VO/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was able to run the React front end, and it looks great!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "120379A8-ECBF-49CE-9371-F42D4BFCCFAA",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Try double checking your SQL setup to make sure it matches what’s in the application.properties file.\n\nProgress is progress!",
+    "ts": "1702774432.067959",
+    "thread_ts": "1702773786.391899",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Rf73o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Try double checking your SQL setup to make sure it matches what’s in the application.properties file.\n\nProgress is progress!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "88fdee1c-5110-4505-b38c-dceaa687ae05",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Oh, duh.",
+    "ts": "1702774453.111519",
+    "thread_ts": "1702773786.391899",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KqiXn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh, duh."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a52b5ab4-d263-4d32-91ba-233b5293c559",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Thanks for that! I'll deal with that in the morning",
+    "ts": "1702774468.041629",
+    "thread_ts": "1702773786.391899",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VH6U+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks for that! I'll deal with that in the morning"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "33acd284-93a6-40bb-b92a-e01adf0fc4b6",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Morning ya'll. Was testing out my branch for the routing of filter change page and realized React won't load until routing is perfect. I made a comment on my PR. So we can wait to merge that one until I finish the routing bit, hopefully today. But if not React will load after commenting out Lines 7 \u0026amp; 15 in Routes.jsx and all of FilterChangeCard.jsx",
+    "ts": "1702825182.119459",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KiCN/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Morning ya'll. Was testing out my branch for the routing of filter change page and realized React won't load until routing is perfect. I made a comment on my PR. So we can wait to merge that one until I finish the routing bit, hopefully today. But if not React will load after commenting out Lines 7 \u0026 15 in Routes.jsx and all of FilterChangeCard.jsx"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4d16dcf4-0d2e-41c7-b45b-b9573bffaaf5",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I'm good with either merging this, or waiting. Let us know what you want to do, Austin!",
+    "ts": "1702845818.080559",
+    "thread_ts": "1702845818.080559",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U05744248P7",
+        "ts": "1702850315.612919"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702852100.031759"
+      }
+    ],
+    "latest_reply": "1702852100.031759",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J+UVE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm good with either merging this, or waiting. Let us know what you want to do, Austin!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05724ACLVB",
+      "U05744248P7"
+    ]
+  },
+  {
+    "client_msg_id": "c2e94f92-5ca0-4c2d-aed1-94482d426401",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "I would say good to merge. I'll add edit comment on github",
+    "ts": "1702850315.612919",
+    "thread_ts": "1702845818.080559",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AatVY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I would say good to merge. I'll add edit comment on github"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "01c4a7d9-20aa-419b-968a-513b1e9e4144",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I approved. It only needs one more approval, then a merge.",
+    "ts": "1702852100.031759",
+    "thread_ts": "1702845818.080559",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7mbi7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I approved. It only needs one more approval, then a merge."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6ecb60e6-a66e-4ecf-8be4-7178712a2687",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Folks, I got my SQL stuff fixed and gradle builds, but now bootRun builds for literal hours.\n\nI've gone through chapters 9 and 10 again.\n\nIf I type localhost:8080 into my browser, I get a whitelabel error page that's not the generic Spring one.\n\nCan one of you please _*clone the existing main branch*_ from scratch and see if you can get Spring Boot to run like it is, right now?",
+    "ts": "1702854367.420389",
+    "thread_ts": "1702854367.420389",
+    "edited": {
+      "user": "U05724ACLVB",
+      "ts": "1702854463.000000"
+    },
+    "reply_count": 34,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702854809.620819"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702854832.354279"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702854847.260489"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702854875.464129"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702854890.398249"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702855069.825499"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702855099.843319"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702855105.913739"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702855123.559459"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702855139.313429"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702855140.621569"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702855148.924029"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702855223.526739"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702855264.506659"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702855407.718699"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702855439.692159"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702855442.714369"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702855452.888359"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702855463.332369"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702855521.781629"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702855524.483949"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702855529.054309"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702855559.157859"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702855586.895039"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702855600.309979"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702855611.653549"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702855663.238579"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702855681.169869"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702855685.151589"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702855714.358909"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702856050.413439"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702856084.267969"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702856094.803549"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702856113.468569"
+      }
+    ],
+    "latest_reply": "1702856113.468569",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lceOg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Folks, I got my SQL stuff fixed and gradle builds, but now bootRun builds for literal hours.\n\nI've gone through chapters 9 and 10 again.\n\nIf I type localhost:8080 into my browser, I get a whitelabel error page that's not the generic Spring one.\n\nCan one of you please "
+              },
+              {
+                "type": "text",
+                "text": "clone the existing main branch",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " from scratch and see if you can get Spring Boot to run like it is, right now?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05724ACLVB",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "52eb9909-9732-4301-906f-6ff4b0a05087",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I think you can clone to a different directory and try it from there, then blitz that directory when you're finished testing and go back to your old one.",
+    "ts": "1702854423.059719",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OGERf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think you can clone to a different directory and try it from there, then blitz that directory when you're finished testing and go back to your old one."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a75883da-a312-4b72-94a9-ef2ffcbf17dc",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "You shouldn’t have any pages on localhost:8080 because there are no pages there",
+    "ts": "1702854809.620819",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bTotq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You shouldn’t have any pages on localhost:8080 because there are no pages there"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0310044e-cd30-42c6-b436-92aa661cf86d",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "So what am I misunderstanding, here?",
+    "ts": "1702854832.354279",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vdsOC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So what am I misunderstanding, here?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b7dbf139-2ff3-4cd8-8494-18867fba0cde",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "You should only have this url when IntelliJ is running (it’s Swagger Documentation):\n\u003chttp://localhost:8080/swagger-ui/index.html\u003e",
+    "ts": "1702854847.260489",
+    "thread_ts": "1702854367.420389",
+    "edited": {
+      "user": "U057UFP7YLQ",
+      "ts": "1702854970.000000"
+    },
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0jqvc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You should only have this url when IntelliJ is running (it’s Swagger Documentation):\n"
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:8080/swagger-ui/index.html",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1e211e9d-9c5b-4edb-b9ac-b3257ff063fa",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "When accessing front end, React/Vite lives at localhost:5173",
+    "ts": "1702854875.464129",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iLIYH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When accessing front end, React/Vite lives at localhost:5173"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "faad8edb-749b-46a4-9f45-c9d2427b4fc9",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "But both sides must be running plus SQL server.",
+    "ts": "1702854890.398249",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YLGN9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "But both sides must be running plus SQL server."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "62c6f392-5b21-4e73-8ff4-0eb984b0d2f0",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "The Routes Liam has built so far is “localhost:5173/” and “localhost:5173/signup”",
+    "ts": "1702855069.825499",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gEWWW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The Routes Liam has built so far is “localhost:5173/” and “localhost:5173/signup”"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f0bb17af-6031-41da-b594-af90f7643602",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Otherwise you can interact with the API via Postman",
+    "ts": "1702855099.843319",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ur9ki",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Otherwise you can interact with the API via Postman"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5f7ef3c8-c853-4b6f-8a1f-7f8e3b50382c",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Oh, for crying out loud.\n\nI missed a LOT when I was sick.",
+    "ts": "1702855105.913739",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bz7qw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh, for crying out loud.\n\nI missed a LOT when I was sick."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cc1c13c2-bdd8-42c4-879a-78a046c0b937",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Thanks. I've been figuring it was my set-up all along.",
+    "ts": "1702855123.559459",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Tm5bU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks. I've been figuring it was my set-up all along."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7fb03b47-6448-4603-9c4c-29fccc3fcd06",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "You didn’t miss anything, it’s just how frontend and backend are wired tofather.",
+    "ts": "1702855139.313429",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cL7ru",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You didn’t miss anything, it’s just how frontend and backend are wired tofather."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "58907f44-9fe0-446d-89e0-d166a1942345",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "And I'm still not feeling all that well.",
+    "ts": "1702855140.621569",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iURLc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And I'm still not feeling all that well."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1353c5c8-5a3c-44ac-af80-d53b2d9c39ae",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yeah, I missed THAT.",
+    "ts": "1702855148.924029",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1+bEi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, I missed THAT."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5916ad22-e562-48da-9eb9-37927cc2fbc0",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "No worries! I’ll help where I can. Let me know if you still can’t see what you’re supposed to.",
+    "ts": "1702855223.526739",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xII32",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No worries! I’ll help where I can. Let me know if you still can’t see what you’re supposed to."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ba1fd184-e999-4aaa-9b4d-3c299aff15e3",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Thanks. I'm feeling way behind and like I'm thinking through molasses.",
+    "ts": "1702855264.506659",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dlvNQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks. I'm feeling way behind and like I'm thinking through molasses."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "70a678a7-c4ad-4c55-98e3-ea767958a43b",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "VS Code\n- in frontend/home-base\n- npm run dev\n\nIntelliJ\n- bootRun\n\nBrowser\n- \u003chttp://localhost:5173/\u003e\n- \u003chttp://localhost:8080/swagger-ui/index.html\u003e\n\nRight?",
+    "ts": "1702855407.718699",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LyAXp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "VS Code\n- in frontend/home-base\n- npm run dev\n\nIntelliJ\n- bootRun\n\nBrowser\n- "
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:5173/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n- "
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:8080/swagger-ui/index.html",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nRight?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9c9221d9-1c1b-41ba-b1d6-517ed3af913e",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "That's what I've got running right now.",
+    "ts": "1702855439.692159",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E4K1G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That's what I've got running right now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "28e6985a-de33-43d3-95cc-1f5c393c8d21",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Yep!",
+    "ts": "1702855442.714369",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M57tO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yep!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "22d3e16d-ed17-4795-9d46-4c8bcd181523",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "MySQL runs in the background full-time, so that's not an issue.",
+    "ts": "1702855452.888359",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NG14t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "MySQL runs in the background full-time, so that's not an issue."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cd73cd9b-838f-41f9-93d5-305681dc6ad1",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Are you able to see our rough landing page?",
+    "ts": "1702855463.332369",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Nn8xC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are you able to see our rough landing page?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8dd1daf8-6b5e-4693-be3f-2ac7e8accc1a",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "ts": "1702855521.781629",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "files": [
+      {
+        "id": "F06ALVBPL76",
+        "created": 1702855498,
+        "timestamp": 1702855498,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U05724ACLVB",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 837077,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06ALVBPL76/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06ALVBPL76/download/image.png",
+        "original_h": 576,
+        "original_w": 963,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ALVBPL76-ff96e5e105/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ALVBPL76-ff96e5e105/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ALVBPL76-ff96e5e105/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ALVBPL76-ff96e5e105/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 215,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ALVBPL76-ff96e5e105/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 287,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ALVBPL76-ff96e5e105/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 431,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ALVBPL76-ff96e5e105/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 574,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05724ACLVB/F06ALVBPL76/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06ALVBPL76-9e7ac40b8e",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c522e94d-139e-47da-aed1-dc1c92c6d284",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "You actually shouldn’t need backend running to see the front end right now.",
+    "ts": "1702855524.483949",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3HGJ4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You actually shouldn’t need backend running to see the front end right now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "785f5e93-5217-438a-8406-ce685fc9f9ac",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "ts": "1702855529.054309",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "files": [
+      {
+        "id": "F06ABSQ0QBY",
+        "created": 1702855523,
+        "timestamp": 1702855523,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U05724ACLVB",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 52364,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06ABSQ0QBY/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06ABSQ0QBY/download/image.png",
+        "original_h": 799,
+        "original_w": 944,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ABSQ0QBY-0417c7c2a5/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ABSQ0QBY-0417c7c2a5/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ABSQ0QBY-0417c7c2a5/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ABSQ0QBY-0417c7c2a5/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 305,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ABSQ0QBY-0417c7c2a5/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 406,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ABSQ0QBY-0417c7c2a5/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 609,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05724ACLVB/F06ABSQ0QBY/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06ABSQ0QBY-1eaf814114",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e1e70e16-5efd-447b-8ff6-f5780ee69e03",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "ts": "1702855559.157859",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "files": [
+      {
+        "id": "F06ABSQMWH4",
+        "created": 1702855556,
+        "timestamp": 1702855556,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U05724ACLVB",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 15829,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06ABSQMWH4/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06ABSQMWH4/download/image.png",
+        "original_h": 225,
+        "original_w": 855,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ABSQMWH4-ddc3d5be8d/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ABSQMWH4-ddc3d5be8d/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ABSQMWH4-ddc3d5be8d/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ABSQMWH4-ddc3d5be8d/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 95,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ABSQMWH4-ddc3d5be8d/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 126,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ABSQMWH4-ddc3d5be8d/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 189,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05724ACLVB/F06ABSQMWH4/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06ABSQMWH4-11b9139348",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a4fd63aa-f057-45f0-8fbd-228bd13dae5f",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "ts": "1702855586.895039",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "files": [
+      {
+        "id": "F06AJG5BXAN",
+        "created": 1702855583,
+        "timestamp": 1702855583,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U05724ACLVB",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 6635,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06AJG5BXAN/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06AJG5BXAN/download/image.png",
+        "original_h": 239,
+        "original_w": 437,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AJG5BXAN-a526bce29d/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AJG5BXAN-a526bce29d/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AJG5BXAN-a526bce29d/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AJG5BXAN-a526bce29d/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 197,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05724ACLVB/F06AJG5BXAN/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06AJG5BXAN-fb6e56582d",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7e374cb7-55b6-4433-88f6-c28024334264",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "That’s all on the main branch so far!",
+    "ts": "1702855600.309979",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mnYRL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That’s all on the main branch so far!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d2f357a6-5264-4002-8310-76f5ef90c61c",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I'm hoping I pass the checkpoint tomorrow. I'm not confident at all.",
+    "ts": "1702855611.653549",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "i0nIj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm hoping I pass the checkpoint tomorrow. I'm not confident at all."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ec36ec4f-ee24-4d75-8b16-d24ca83191ac",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "As long as you have a good plan to attack any API, you’re good.",
+    "ts": "1702855663.238579",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uGxiT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "As long as you have a good plan to attack any API, you’re good."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1851413e-7808-49e7-a841-f008ca10e6c4",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "It only has to be one.",
+    "ts": "1702855681.169869",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MbkuW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It only has to be one."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ed9184a6-4a0a-49fc-aed8-f9d231d070ae",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Maybe. I've been reading that doc as have to have coded something.",
+    "ts": "1702855685.151589",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "w+9Hz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Maybe. I've been reading that doc as have to have coded something."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fc20529f-6516-4282-afca-7fafec93eafb",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "You don’t have much to code with API’s until you have a program to work with.",
+    "ts": "1702855714.358909",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Gf3PO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You don’t have much to code with API’s until you have a program to work with."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "af14b13b-4c66-4def-b461-f98b4693d1e6",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Got a minute to chat?",
+    "ts": "1702856050.413439",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SHQVa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Got a minute to chat?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1e919603-b119-46e4-9f23-ff7581ac62f9",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Sure!",
+    "ts": "1702856084.267969",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IcHVA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sure!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6688afee-a769-4ba9-a565-0c707838dabd",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I'll send you a Zoom link in a sec.",
+    "ts": "1702856094.803549",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EYoEf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll send you a Zoom link in a sec."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b2c204c7-1ef6-4d0f-872c-d899e6f398fa",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "\u003chttps://us05web.zoom.us/j/2786476607?pwd=RUp3MHhrR2V0M3ZsdFpKUUFaeVEyZz09\u003e",
+    "ts": "1702856113.468569",
+    "thread_ts": "1702854367.420389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8hAmW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://us05web.zoom.us/j/2786476607?pwd=RUp3MHhrR2V0M3ZsdFpKUUFaeVEyZz09",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3d81cbe9-41a0-4bd1-8e4e-40975aec21c4",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Since there appears to be no free SMS service anywhere, I'm going to update the \"send SMS to regular user that the filter is due for change\" to \"send e-mail.\"\n\nBrittney and I talked about this just now.",
+    "ts": "1702856900.853199",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U057UFP7YLQ",
+          "U05744248P7"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yv+0Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Since there appears to be no free SMS service anywhere, I'm going to update the \"send SMS to regular user that the filter is due for change\" to \"send e-mail.\"\n\nBrittney and I talked about this just now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1007a3c3-4baf-42ae-8a47-8aa09bc875e5",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I'm going to go for SendGrid, for the moment. I'll sign up for an account, and we can either transfer it to you, Brittney, after Liftoff is over, or it shouldn't be too terribly difficult to change API keys for further development.",
+    "ts": "1702857223.614759",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iDew5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm going to go for SendGrid, for the moment. I'll sign up for an account, and we can either transfer it to you, Brittney, after Liftoff is over, or it shouldn't be too terribly difficult to change API keys for further development."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

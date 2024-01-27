@@ -1,0 +1,174 @@
+[
+  {
+    "client_msg_id": "1B3B2923-7DAE-44CE-9F89-A0A8FDEFE24C",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "hey sammie! i had a quick question about branch management/organization ",
+    "ts": "1702149939.524339",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V+yho",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hey sammie! i had a quick question about branch management/organization "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E755561D-AE38-4BBD-8F9D-3FD551E494CC",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "i’m working on setting up the user model right now so i made a branch called mal/user-model. but as i was working, i realized i should set up an abstract entity class first. and then i realized i needed to add jakarta persistence as a dependency to the gradle build so that the annotation tags would work (it has been a MORNING :joy: ). so i just got that working and i think it should be pushed up to github since everyone will need the abstract entity class and jakarta dependency. but, im still on my original user-model branch which isn’t an accurate description of what’s been done and needs to get merged. ",
+    "ts": "1702150099.936919",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "P9vda",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i’m working on setting up the user model right now so i made a branch called mal/user-model. but as i was working, i realized i should set up an abstract entity class first. and then i realized i needed to add jakarta persistence as a dependency to the gradle build so that the annotation tags would work (it has been a MORNING "
+              },
+              {
+                "type": "emoji",
+                "name": "joy",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " ). so i just got that working and i think it should be pushed up to github since everyone will need the abstract entity class and jakarta dependency. but, im still on my original user-model branch which "
+              },
+              {
+                "type": "text",
+                "text": "isn’t"
+              },
+              {
+                "type": "text",
+                "text": " an accurate description of "
+              },
+              {
+                "type": "text",
+                "text": "what’s"
+              },
+              {
+                "type": "text",
+                "text": " been done and needs to get merged. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5A6E8CF2-7D5B-46D0-A3C1-79CE59AD81C2",
+    "type": "message",
+    "user": "U057ST09U6M",
+    "text": "oop, nevermind, just realized i can change the name of the branch!",
+    "ts": "1702151028.315999",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05656EM4EM"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gDLfS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "oop, nevermind, just realized i can change the name of the branch!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245834122998_140371021c8c63181c09_72.png",
+      "first_name": "Mal",
+      "real_name": "Mal Durham",
+      "display_name": "Mal DB (she/they)(philly)",
+      "team": "T050CSX3EMT",
+      "name": "mdurham86",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

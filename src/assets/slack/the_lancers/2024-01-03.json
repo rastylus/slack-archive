@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "f97c9aab-fd2a-4d98-aa32-45ffc9bd84c2",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Hey guys, hope everyone had great holidays. I added an environmental variable to the project to hide the api-key on github for added security. Below is the steps on how that's done, along with the api key.\n\nSetting Environment Variables in IntelliJ IDEA:\n1. Open Run/Debug Configurations:\n    ◦ In the top-right corner, you'll find a dropdown menu next to the green run button. Click on it and select \"Edit Configurations...\"\n2. Select or Create a Run Configuration:\n    ◦ In the left pane, you'll see a list of existing run configurations. Select the one you want to modify or create a new one by clicking the \"+\" icon and choosing the desired configuration type.\n3. Set Environment Variables:\n    ◦ Look for a section labeled \"Environment\" or \"Configuration\" in the configuration window.\n    ◦ You will find a table where you can add key-value pairs for environment variables.\n    ◦ Click on the \"+\" icon to add a new environment variable.\n4. Enter Variable Name and Value:\n    ◦ Enter the name of the environment variable (e.g., `RAPIDAPI_KEY`) in the \"Name\" column.\n    ◦ Enter the corresponding value (e.g., your actual API key) in the \"Value\" column.\n5. Apply and Run/Debug:\n    ◦ Click \"OK\" to apply the changes and close the configuration window.\n    ◦ Now, when you run or debug your application using this configuration, it will have access to the specified environment variables.\napi-key = d6fbb3b11fmsh1519ad080b3a351p15f468jsn5f95828f1097",
+    "ts": "1704310749.035339",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U05768C2NP4",
+          "U056YG34CS2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rp4an",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys, hope everyone had great holidays. I added an environmental variable to the project to hide the api-key on github for added security. Below is the steps on how that's done, along with the api key.\n\nSetting Environment Variables in IntelliJ IDEA:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Open Run\\/Debug Configurations:\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"In the top-right corner, you'll find a dropdown menu next to the green run button. Click on it and select \\\"Edit Configurations...\\\"\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Select or Create a Run Configuration:\"}]}],\"style\":\"ordered\",\"indent\":0,\"offset\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"In the left pane, you'll see a list of existing run configurations. Select the one you want to modify or create a new one by clicking the \\\"+\\\" icon and choosing the desired configuration type.\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Set Environment Variables:\"}]}],\"style\":\"ordered\",\"indent\":0,\"offset\":2,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Look for a section labeled \\\"Environment\\\" or \\\"Configuration\\\" in the configuration window.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"You will find a table where you can add key-value pairs for environment variables.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Click on the \\\"+\\\" icon to add a new environment variable.\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Enter Variable Name and Value:\"}]}],\"style\":\"ordered\",\"indent\":0,\"offset\":3,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Enter the name of the environment variable (e.g., \"},{\"type\":\"text\",\"text\":\"RAPIDAPI_KEY\",\"style\":{\"code\":true}},{\"type\":\"text\",\"text\":\") in the \\\"Name\\\" column.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Enter the corresponding value (e.g., your actual API key) in the \\\"Value\\\" column.\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Apply and Run\\/Debug:\"}]}],\"style\":\"ordered\",\"indent\":0,\"offset\":4,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Click \\\"OK\\\" to apply the changes and close the configuration window.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Now, when you run or debug your application using this configuration, it will have access to the specified environment variables.\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\napi-key = d6fbb3b11fmsh1519ad080b3a351p15f468jsn5f95828f1097"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,897 @@
+[
+  {
+    "client_msg_id": "4fdd8e3c-38e5-4c46-adf0-f1785847709f",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I kept my rules, but added one line of code to your uploadImageToStorage method in UsersController:\n```private String uploadImageToStorage(String id, MultipartFile image) throws StorageException, IOException {\n    Bucket bucket = StorageClient.getInstance().bucket();\n    Path tempFile = Files.createTempFile(id, image.getOriginalFilename());\n    Files.copy(image.getInputStream(), tempFile, StandardCopyOption.REPLACE_EXISTING);\n\n    String fileName = id + \".jpg\";\n    Blob blob = bucket.create(fileName, Files.readAllBytes(tempFile), \"image/jpg\");\n    blob.createAcl(Acl.of(Acl.User.ofAllUsers(), Acl.Role.READER));\n    String imageUrl = blob.getMediaLink();\n\n    Files.delete(tempFile);\n\n    return imageUrl;\n}```\nNote the line:\n```blob.createAcl(Acl.of(Acl.User.ofAllUsers(), Acl.Role.READER));```\nIt makes the photo publicly viewable if you have the url. Probably not the best security practice for privacy, BUT it made it so I can change the image. :grinning:",
+    "ts": "1704847216.945549",
+    "thread_ts": "1704821932.106369",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YDChH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I kept my rules, but added one line of code to your uploadImageToStorage method in UsersController:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"private String uploadImageToStorage(String id, MultipartFile image) throws StorageException, IOException {\\n    Bucket bucket = StorageClient.getInstance().bucket();\\n    Path tempFile = Files.createTempFile(id, image.getOriginalFilename());\\n    Files.copy(image.getInputStream(), tempFile, StandardCopyOption.REPLACE_EXISTING);\\n\\n    String fileName = id + \\\".jpg\\\";\\n    Blob blob = bucket.create(fileName, Files.readAllBytes(tempFile), \\\"image\\/jpg\\\");\\n    blob.createAcl(Acl.of(Acl.User.ofAllUsers(), Acl.Role.READER));\\n    String imageUrl = blob.getMediaLink();\\n\\n    Files.delete(tempFile);\\n\\n    return imageUrl;\\n}\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Note the line:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"blob.createAcl(Acl.of(Acl.User.ofAllUsers(), Acl.Role.READER));\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It makes the photo publicly viewable if you have the url. Probably not the best security practice for privacy, BUT it made it so I can change the image. "
+              },
+              {
+                "type": "emoji",
+                "name": "grinning",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c3b7e6af-b342-48ff-ac19-2a7ed3ca7b50",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "oh cool! i didn't knew how to set ACL",
+    "ts": "1704850122.141199",
+    "thread_ts": "1704821932.106369",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aUelR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "oh cool! i didn't knew how to set ACL"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "83415f4e-f2a5-41b5-b73b-7a0eb6123dd8",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "i just commented out the relevant lines in App.js so they can be used at a later time. just pulled the latest changes from origin/main to my local main branch and then merged with my search branch, but now I can’t run bootrun in intellij. anyone else encounter this issue:\n\nExecution failed for task ‘:bootRun’.\n\u0026gt; Process ‘command ‘/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/bin/java’' finished with non-zero exit value 1",
+    "ts": "1704926235.352559",
+    "thread_ts": "1704926235.352559",
+    "last_read": "1704928690.581589",
+    "subscribed": true,
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1704927240.298129"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1704927318.496389"
+      },
+      {
+        "user": "U057UNE3XPS",
+        "ts": "1704927863.881669"
+      },
+      {
+        "user": "U057UNE3XPS",
+        "ts": "1704927939.788599"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1704928075.969409"
+      },
+      {
+        "user": "U056RCF9G87",
+        "ts": "1704928687.015599"
+      },
+      {
+        "user": "U057UNE3XPS",
+        "ts": "1704928690.581589"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1704929068.201459"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1704930627.910389"
+      }
+    ],
+    "latest_reply": "1704930627.910389",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cQkbI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i just commented out the relevant lines in App.js so they can be used at a later time. just pulled the latest changes from origin/main to my local main branch and then merged with my search branch, but now I can’t run bootrun in intellij. anyone else encounter this issue:\n\nExecution failed for task ‘:bootRun’.\n\u003e Process ‘command ‘/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/bin/java’' finished with non-zero exit value 1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056RCF9G87",
+      "U0575U6RCKC",
+      "U057UNE3XPS"
+    ]
+  },
+  {
+    "client_msg_id": "9ad283c5-5673-4910-8aac-43a411cca027",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Yes. Go to HappyRootsApplication in IntelliJ and make sure it says \"serviceKey.json\" not \"serviceKeyAlt.json\"",
+    "ts": "1704927240.298129",
+    "thread_ts": "1704926235.352559",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eFyC7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes. Go to HappyRootsApplication in IntelliJ and make sure it says \"serviceKey.json\" not \"serviceKeyAlt.json\""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c19a52cc-b3dd-42e4-81ac-a73bb9f7a7cb",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Or you can rename serviceKey to serviceKeyAlt. Either way works, the names just need to match.",
+    "ts": "1704927318.496389",
+    "thread_ts": "1704926235.352559",
+    "edited": {
+      "user": "U0575U6RCKC",
+      "ts": "1704927399.000000"
+    },
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4Legw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Or you can rename serviceKey to serviceKeyAlt. Either way works, the names just need to match."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3b7aeffb-b1e2-49a3-b270-0252f7f0ec31",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "where is that service key within the app?",
+    "ts": "1704927863.881669",
+    "thread_ts": "1704926235.352559",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x20Yi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "where is that service key within the app?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4e58bdc7-fa46-486e-8e38-83aa0bf32cf7",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "it looks like most of the errors I’m getting have to do with the .gradle folder",
+    "ts": "1704927939.788599",
+    "thread_ts": "1704926235.352559",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zyCEJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it looks like most of the errors I’m getting have to do with the .gradle folder"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bf9c1596-fa9a-4a4b-8f3e-3164a390de91",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "It's under resources.",
+    "ts": "1704928075.969409",
+    "thread_ts": "1704926235.352559",
+    "parent_user_id": "U057UNE3XPS",
+    "files": [
+      {
+        "id": "F06E19HSDFS",
+        "created": 1704928059,
+        "timestamp": 1704928059,
+        "name": "Screen Shot 2024-01-10 at 5.07.11 PM.png",
+        "title": "Screen Shot 2024-01-10 at 5.07.11 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0575U6RCKC",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 769541,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06E19HSDFS/screen_shot_2024-01-10_at_5.07.11_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06E19HSDFS/download/screen_shot_2024-01-10_at_5.07.11_pm.png",
+        "original_h": 1440,
+        "original_w": 2560,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E19HSDFS-8928b8755b/screen_shot_2024-01-10_at_5.07.11_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E19HSDFS-8928b8755b/screen_shot_2024-01-10_at_5.07.11_pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E19HSDFS-8928b8755b/screen_shot_2024-01-10_at_5.07.11_pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E19HSDFS-8928b8755b/screen_shot_2024-01-10_at_5.07.11_pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 203,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E19HSDFS-8928b8755b/screen_shot_2024-01-10_at_5.07.11_pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 270,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E19HSDFS-8928b8755b/screen_shot_2024-01-10_at_5.07.11_pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 405,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E19HSDFS-8928b8755b/screen_shot_2024-01-10_at_5.07.11_pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 540,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06E19HSDFS-8928b8755b/screen_shot_2024-01-10_at_5.07.11_pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 576,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0575U6RCKC/F06E19HSDFS/screen_shot_2024-01-10_at_5.07.11_pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06E19HSDFS-0e7704d32d",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bHuzM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It's under resources."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7B15CC62-0334-4A1F-ABF8-E69D684ECA57",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "Oh, yeah. Sorry. I did that when I made my fire base key and only recently realized I should have  just renamed my key instead of the reference in the application code.",
+    "ts": "1704928687.015599",
+    "thread_ts": "1704926235.352559",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R2HPu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh, yeah. Sorry. I did that when I made my fire base key and only recently realized I should have  just renamed my key instead of the reference in the application code."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0a8dbbf6-189d-4aa5-b0e8-f035cb5b3cd8",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "yep, says servicekey.json. do you have all these new folders within .gradle?",
+    "ts": "1704928690.581589",
+    "thread_ts": "1704926235.352559",
+    "parent_user_id": "U057UNE3XPS",
+    "files": [
+      {
+        "id": "F06CY0XJD7Z",
+        "created": 1704928685,
+        "timestamp": 1704928685,
+        "name": "Screen Shot 2024-01-10 at 5.17.25 PM.jpg",
+        "title": "Screen Shot 2024-01-10 at 5.17.25 PM.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U057UNE3XPS",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 37753,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06CY0XJD7Z/screen_shot_2024-01-10_at_5.17.25_pm.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06CY0XJD7Z/download/screen_shot_2024-01-10_at_5.17.25_pm.jpg",
+        "original_h": 513,
+        "original_w": 478,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CY0XJD7Z-0e67e8b619/screen_shot_2024-01-10_at_5.17.25_pm_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CY0XJD7Z-0e67e8b619/screen_shot_2024-01-10_at_5.17.25_pm_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CY0XJD7Z-0e67e8b619/screen_shot_2024-01-10_at_5.17.25_pm_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CY0XJD7Z-0e67e8b619/screen_shot_2024-01-10_at_5.17.25_pm_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 335,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CY0XJD7Z-0e67e8b619/screen_shot_2024-01-10_at_5.17.25_pm_480.jpg",
+        "thumb_480_w": 447,
+        "thumb_480_h": 480,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057UNE3XPS/F06CY0XJD7Z/screen_shot_2024-01-10_at_5.17.25_pm.jpg",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06CY0XJD7Z-ab08548087",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ohA33",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yep, says servicekey.json. do you have all these new folders within .gradle?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a12f58a4-ba67-4d73-bf50-4fa33ff4e847",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I have everything except file-system.probe. But I don't think those matter because they're included in the .gitignore.",
+    "ts": "1704929068.201459",
+    "thread_ts": "1704926235.352559",
+    "parent_user_id": "U057UNE3XPS",
+    "files": [
+      {
+        "id": "F06D9KQS87P",
+        "created": 1704929032,
+        "timestamp": 1704929032,
+        "name": "Screen Shot 2024-01-10 at 5.23.19 PM.png",
+        "title": "Screen Shot 2024-01-10 at 5.23.19 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0575U6RCKC",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 108310,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06D9KQS87P/screen_shot_2024-01-10_at_5.23.19_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06D9KQS87P/download/screen_shot_2024-01-10_at_5.23.19_pm.png",
+        "original_h": 865,
+        "original_w": 693,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D9KQS87P-ff2e08a78d/screen_shot_2024-01-10_at_5.23.19_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D9KQS87P-ff2e08a78d/screen_shot_2024-01-10_at_5.23.19_pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D9KQS87P-ff2e08a78d/screen_shot_2024-01-10_at_5.23.19_pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D9KQS87P-ff2e08a78d/screen_shot_2024-01-10_at_5.23.19_pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 288,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D9KQS87P-ff2e08a78d/screen_shot_2024-01-10_at_5.23.19_pm_480.png",
+        "thumb_480_w": 385,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D9KQS87P-ff2e08a78d/screen_shot_2024-01-10_at_5.23.19_pm_720.png",
+        "thumb_720_w": 577,
+        "thumb_720_h": 720,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0575U6RCKC/F06D9KQS87P/screen_shot_2024-01-10_at_5.23.19_pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06D9KQS87P-c55df9a106",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8bgEv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have everything except file-system.probe. But I don't think those matter because they're included in the .gitignore."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "abd9f16a-5630-4a3a-b872-6cb5fc480f23",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "What other errors are you getting besides \"xecution failed for task ‘:bootRun’.\n\u0026gt; Process ‘command ‘/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/bin/java’' finished with non-zero exit value 1\" ?",
+    "ts": "1704930627.910389",
+    "thread_ts": "1704926235.352559",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Dqzz/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What other errors are you getting besides \"xecution failed for task ‘:bootRun’.\n\u003e Process ‘command ‘/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/bin/java’' finished with non-zero exit value 1\" ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "367881f9-51bf-407c-a0cf-ea05b7e3e053",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "\u003c@U057UNE3XPS\u003e I just pulled your most recent version of your search branch and was able to run it without any problems. Do you want me to wait until you have it figured out on your end to merge it to main?",
+    "ts": "1704930900.890779",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4EoRE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057UNE3XPS"
+              },
+              {
+                "type": "text",
+                "text": " I just pulled your most recent version of your search branch and was able to run it without any problems. Do you want me to wait until you have it figured out on your end to merge it to main?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

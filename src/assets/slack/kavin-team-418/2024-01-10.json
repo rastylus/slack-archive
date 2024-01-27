@@ -1,0 +1,777 @@
+[
+  {
+    "client_msg_id": "792f51e7-04ca-4a73-9f71-67e03d34230a",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Looks good! I've merged the first two\n\nIt looks like there's a small conflict \u003c@U05744248P7\u003e for the newest PR in the frontend/routes.jsx\n\n```import React from 'react';\nimport { BrowserRouter as Router, Route, Routes } from 'react-router-dom';\nimport NavigationBar from './components/NavigationBar';\nimport Landing from './components/views/Landing';\nimport Signup from './components/views/Signup';\nimport Login from './components/views/Login';\nimport Edit from './components/views/Edit';\nimport FilterChangeCard from './components/views/FilterChangeCard';\nimport EditFilter from './components/views/EditFilter';\nimport { NotificationHistory } from './components/views/NotificationHistory';\n\u003c\u003c\u003c\u003c\u003c\u003c\u003c austin/new-change-filter-history\nimport FilterChangeHistory from './components/views/FilterChangeHistory';\n=======\nimport EditUser from './components/views/EditUser';\n\u003e\u003e\u003e\u003e\u003e\u003e\u003e main\n\nconst Routing = () =\u003e {\n  return (\n\n      \u003cRouter\u003e\n        \u003cNavigationBar /\u003e\n        \u003cRoutes\u003e\n          \u003cRoute path=\"/\" element={\u003cLanding /\u003e} /\u003e\n          \u003cRoute path=\"/signup\" element={\u003cSignup/\u003e} /\u003e\n          \u003cRoute path=\"/login\" element={\u003cLogin/\u003e} /\u003e\n          \u003cRoute path=\"/edit\" element={\u003cEdit/\u003e} /\u003e\n          \u003cRoute path=\"/filter-change\" element={\u003cFilterChangeCard/\u003e} /\u003e\n          \u003cRoute path=\"/editFilter/:id\" element={\u003cEditFilter /\u003e} /\u003e\n          \u003cRoute path=\"/notification-history\" element={\u003cNotificationHistory /\u003e} /\u003e\n\u003c\u003c\u003c\u003c\u003c\u003c\u003c austin/new-change-filter-history\n          \u003cRoute path=\"/filter-history\" element={\u003cFilterChangeHistory /\u003e} /\u003e\n=======\n          \u003cRoute path=\"/edit-user/:id\" element={\u003cEditUser /\u003e} /\u003e\n\u003e\u003e\u003e\u003e\u003e\u003e\u003e main\n        \u003c/Routes\u003e\n      \u003c/Router\u003e\n  );\n};```\n",
+    "ts": "1704849459.206569",
+    "thread_ts": "1704833528.240599",
+    "edited": {
+      "user": "U057P8PCXT2",
+      "ts": "1704849510.000000"
+    },
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XmZGj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Looks good! I've merged the first two\n\nIt looks like there's a small conflict "
+              },
+              {
+                "type": "user",
+                "user_id": "U05744248P7"
+              },
+              {
+                "type": "text",
+                "text": " for the newest PR in the frontend/routes.jsx\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"import React from 'react';\\nimport { BrowserRouter as Router, Route, Routes } from 'react-router-dom';\\nimport NavigationBar from '.\\/components\\/NavigationBar';\\nimport Landing from '.\\/components\\/views\\/Landing';\\nimport Signup from '.\\/components\\/views\\/Signup';\\nimport Login from '.\\/components\\/views\\/Login';\\nimport Edit from '.\\/components\\/views\\/Edit';\\nimport FilterChangeCard from '.\\/components\\/views\\/FilterChangeCard';\\nimport EditFilter from '.\\/components\\/views\\/EditFilter';\\nimport { NotificationHistory } from '.\\/components\\/views\\/NotificationHistory';\\n\u003c\u003c\u003c\u003c\u003c\u003c\u003c austin\\/new-change-filter-history\\nimport FilterChangeHistory from '.\\/components\\/views\\/FilterChangeHistory';\\n=======\\nimport EditUser from '.\\/components\\/views\\/EditUser';\\n\u003e\u003e\u003e\u003e\u003e\u003e\u003e main\\n\\nconst Routing = () =\u003e {\\n  return (\\n\\n      \u003cRouter\u003e\\n        \u003cNavigationBar \\/\u003e\\n        \u003cRoutes\u003e\\n          \u003cRoute path=\\\"\\/\\\" element={\u003cLanding \\/\u003e} \\/\u003e\\n          \u003cRoute path=\\\"\\/signup\\\" element={\u003cSignup\\/\u003e} \\/\u003e\\n          \u003cRoute path=\\\"\\/login\\\" element={\u003cLogin\\/\u003e} \\/\u003e\\n          \u003cRoute path=\\\"\\/edit\\\" element={\u003cEdit\\/\u003e} \\/\u003e\\n          \u003cRoute path=\\\"\\/filter-change\\\" element={\u003cFilterChangeCard\\/\u003e} \\/\u003e\\n          \u003cRoute path=\\\"\\/editFilter\\/:id\\\" element={\u003cEditFilter \\/\u003e} \\/\u003e\\n          \u003cRoute path=\\\"\\/notification-history\\\" element={\u003cNotificationHistory \\/\u003e} \\/\u003e\\n\u003c\u003c\u003c\u003c\u003c\u003c\u003c austin\\/new-change-filter-history\\n          \u003cRoute path=\\\"\\/filter-history\\\" element={\u003cFilterChangeHistory \\/\u003e} \\/\u003e\\n=======\\n          \u003cRoute path=\\\"\\/edit-user\\/:id\\\" element={\u003cEditUser \\/\u003e} \\/\u003e\\n\u003e\u003e\u003e\u003e\u003e\u003e\u003e main\\n        \u003c\\/Routes\u003e\\n      \u003c\\/Router\u003e\\n  );\\n};\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b9c0e948-9508-4ee9-ae97-02036820f78c",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "So the more i dig into the json api, the more i realize it won't function exactly as planned\n\nI think i'll split it into 2 different things\n• Just return a search query for the user based on their filter size entered (shoulda started with this!)\n• Find another way to implement the json search API - which it will return specific items from the search results which can be of benefit, but i'll have to make this more specific",
+    "ts": "1704849599.583219",
+    "thread_ts": "1704849599.583219",
+    "edited": {
+      "user": "U057P8PCXT2",
+      "ts": "1704849647.000000"
+    },
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1704849851.321599"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1704849999.332429"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704850017.861159"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704853255.581339"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704853302.644599"
+      }
+    ],
+    "latest_reply": "1704853302.644599",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mZ4Qb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So the more i dig into the json api, the more i realize it won't function exactly as planned\n\nI think i'll split it into 2 different things\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Just return a search query for the user based on their filter size entered (shoulda started with this!)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Find another way to implement the json search API - which it will return specific items from the search results which can be of benefit, but i'll have to make this more specific\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U057P8PCXT2",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "B6CDAF75-BCCC-49B4-B88A-92697ABB203D",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I’ve come across this one too:\n\u003chttps://serpapi.com/shopping-results|https://serpapi.com/shopping-results\u003e",
+    "ts": "1704849851.321599",
+    "thread_ts": "1704849599.583219",
+    "attachments": [
+      {
+        "fallback": "SerpApi: Google Shopping Results API - SerpApi",
+        "id": 1,
+        "title": "Google Shopping Results API - SerpApi",
+        "title_link": "https://serpapi.com/shopping-results",
+        "text": "Use SerpApi's Google Shopping Results API to scrape ranking position, title, link, product id number, product link, SerpAPI Product API link, providing the source, price, rating, number of reviews of shopping results, and much deeper information.",
+        "service_name": "SerpApi",
+        "service_icon": "https://serpapi.com/apple-touch-icon.png",
+        "from_url": "https://serpapi.com/shopping-results",
+        "original_url": "https://serpapi.com/shopping-results",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U057P8PCXT2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R0ZmJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’ve"
+              },
+              {
+                "type": "text",
+                "text": " come across this one too:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://serpapi.com/shopping-results",
+                "text": "https://serpapi.com/shopping-results"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DDB39462-C9B8-4D02-942B-56FFA584F4D2",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I wrote code to retrieve the basic filter strings “length” x “width” x “height” + filter. They’re in Equipment Service file.",
+    "ts": "1704849999.332429",
+    "thread_ts": "1704849599.583219",
+    "parent_user_id": "U057P8PCXT2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KHfNy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I wrote code to retrieve the basic filter strings “length” x “width” x “height” + filter. They’re in Equipment Service file."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a809a15f-94de-4987-a335-b2b62f3c9e4f",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Okay cool! I'm just putting the basic search functionality in (technically still a google service  API haha) then  can dig more into it\n\nAnd perfect thanks i was just looking for that",
+    "ts": "1704850017.861159",
+    "thread_ts": "1704849599.583219",
+    "parent_user_id": "U057P8PCXT2",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5/THi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay cool! I'm just putting the basic search functionality in (technically still a google service  API haha) then  can dig more into it\n\nAnd perfect thanks i was just looking for that"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "64a193f3-9fa9-4b7d-b68d-0e7790c40279",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Gotcha, I'll take a look.",
+    "ts": "1704850141.196069",
+    "thread_ts": "1704833528.240599",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ARQfw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Gotcha, I'll take a look."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7736d041-842c-4a36-8e51-d193ff163de0",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "okay, resolved conflicts",
+    "ts": "1704850543.441059",
+    "thread_ts": "1704833528.240599",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yEK5p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay, resolved conflicts"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "133de05a-f607-4f05-9d20-2426fa4eaee2",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "To add sendgrid env.\nin bash go to homebase directory in backend, then\necho \"export SENDGRID_API_KEY='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'\" \u003e sendgrid.env\n\nthen\n\nsource ./sendgrid.env\n\nIn intelliJ, go to run config for homeApp\n-Enable EnvFile\n-then on Environment variables, click on edit button, next to folder button. Make sure the SENDGRID_API_KEY matches with current one, if not, update value.\n-Click apply, Ok\n-restart IntelliJ",
+    "ts": "1704851201.388269",
+    "thread_ts": "1704851201.388269",
+    "edited": {
+      "user": "U05744248P7",
+      "ts": "1704851233.000000"
+    },
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1705358975.964829"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1705359028.165979"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1705359674.584849"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1705360022.803259"
+      }
+    ],
+    "latest_reply": "1705360022.803259",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7NjUM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "To add sendgrid env.\nin bash go to homebase directory in backend, then\necho \"export SENDGRID_API_KEY='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'\" \u003e sendgrid.env\n\nthen\n\nsource ./sendgrid.env\n\nIn intelliJ, go to run config for homeApp\n-Enable EnvFile\n-then on Environment variables, click on edit button, next to folder button. Make sure the SENDGRID_API_KEY matches with current one, if not, update value.\n-Click apply, Ok\n-restart IntelliJ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05744248P7",
+      "U057P8PCXT2"
+    ]
+  },
+  {
+    "client_msg_id": "60eb0c82-423e-4277-998a-963c3532bca5",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "We have a button and google search functionality! I will dive deeper into more specific API usage tomorrow",
+    "ts": "1704853255.581339",
+    "thread_ts": "1704849599.583219",
+    "parent_user_id": "U057P8PCXT2",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U057UFP7YLQ",
+          "U05744248P7"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Wq4J4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We have a button and google search functionality! I will dive deeper into more specific API usage tomorrow"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "743263e5-78a7-46d0-af54-6995dd7d53e0",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "i just added a button next to the \"change now\" in the replace filter - so hopefully doesn't cross up anything in your code",
+    "ts": "1704853302.644599",
+    "thread_ts": "1704849599.583219",
+    "parent_user_id": "U057P8PCXT2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A66l1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i just added a button next to the \"change now\" in the replace filter - so hopefully doesn't cross up anything in your code"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b4118ce4-da74-4992-99b9-f96506cc0778",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Add an PR for my test branch. \u003c@U057UFP7YLQ\u003e Had to adjust filter methods for any filters that were past due date. Also added button to execute the scheduled method.",
+    "ts": "1704918823.753219",
+    "thread_ts": "1704918823.753219",
+    "reply_count": 11,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1704922463.010849"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704933538.798659"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704933725.366879"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704933730.096259"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704933745.811589"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704933756.333699"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704933806.203939"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704934414.440369"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704941792.379479"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1704941834.277909"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1704944456.253419"
+      }
+    ],
+    "latest_reply": "1704944456.253419",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oXnob",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Add an PR for my test branch. "
+              },
+              {
+                "type": "user",
+                "user_id": "U057UFP7YLQ"
+              },
+              {
+                "type": "text",
+                "text": " Had to adjust filter methods for any filters that were past due date. Also added button to execute the scheduled method."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U05744248P7",
+      "U057P8PCXT2",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "12b26440-45b9-4ace-9702-a0e9ea0ddd60",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I see you had to update the CrossOrigin for the controllers but My React has been running on 5173, not 5175. What port are you guys running out of? Can we list both CrossOrigins?",
+    "ts": "1704922463.010849",
+    "thread_ts": "1704918823.753219",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dMY82",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I see you had to update the CrossOrigin for the controllers but My React has been running on 5173, not 5175. What port are you guys running out of? Can we list both CrossOrigins?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

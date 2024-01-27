@@ -1,0 +1,474 @@
+[
+  {
+    "client_msg_id": "d8d5cc9b-120e-4fd1-a189-4348ee156acb",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Hi all. I just want to make sure, \u003c@U0571CCLKDL\u003e for the front end stuff, it is supposed to be in front_end/app/user/createbeer folder, correct? That's where I put what I had worked on",
+    "ts": "1704770011.974989",
+    "thread_ts": "1704770011.974989",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1704778919.438619"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1704826153.530979"
+      }
+    ],
+    "latest_reply": "1704826153.530979",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xR9rX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi all. I just want to make sure, "
+              },
+              {
+                "type": "user",
+                "user_id": "U0571CCLKDL"
+              },
+              {
+                "type": "text",
+                "text": " for the front end stuff, it is supposed to be in front_end/app/user/createbeer folder, correct? That's where I put what I had worked on"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U0571CCLKDL",
+      "U057C70KL57"
+    ]
+  },
+  {
+    "client_msg_id": "a3a5df1a-bc1a-4917-a762-072dc0554d06",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "theres a similarly named folder called beercreated too, but i don't think that refers to the form page",
+    "ts": "1704770195.877259",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fkMeQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "theres a similarly named folder called beercreated too, but i don't think that refers to the form page"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3A0ED0A2-F00F-4213-BF86-B440C7D3216D",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "@drew…I deleted my files on my local machine. I cloned your repository and it is running 8080. ",
+    "ts": "1704772226.866149",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U056WKE4W77",
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rihiC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "@drew"
+              },
+              {
+                "type": "text",
+                "text": "…"
+              },
+              {
+                "type": "text",
+                "text": "I deleted my files on my local machine"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " I cloned your repository and it is running 8080"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1BCB885B-16E1-49DE-AD9E-08CE9640CC95",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "I’ll create a new branch and add my files tomorrow. ",
+    "ts": "1704772242.562239",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WnBWc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’ll create a new branch and add my files tomorrow"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1C9A8C3E-FD45-45CF-879E-50346FC611D4",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "Thank you ",
+    "ts": "1704772249.131579",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wqTAx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "78e5d349-f940-4a2b-ab8e-49dca3fc68eb",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Amazing! Excellent team effort. I'm so glad you were able to get it up and running again.",
+    "ts": "1704778835.140719",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-5",
+        "count": 1,
+        "users": [
+          "U057SCV767K"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U057C70KL57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZXW8X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Amazing! Excellent team effort. I'm so glad you were able to get it up and running again."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "66fa9713-5cb7-4b0e-9e16-d4f8135b2c91",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "That was my thought. beecreated should be what the createbeer page redirects to after form submission. But however you want to wrangle it is fine with me.",
+    "ts": "1704778919.438619",
+    "thread_ts": "1704770011.974989",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057C70KL57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JoxpI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That was my thought. beecreated should be what the createbeer page redirects to after form submission. But however you want to wrangle it is fine with me."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3f402d6f-2591-4805-b93e-ee357529726a",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Ok great that was my impression; I'm just traumatized from the git/npm shenanigans from this weekend and yesterday so being overly cautious lmaoo",
+    "ts": "1704826153.530979",
+    "thread_ts": "1704770011.974989",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o9ayN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok great that was my impression; I'm just traumatized from the git/npm shenanigans from this weekend and yesterday so being overly cautious lmaoo"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,195 @@
+[
+  {
+    "client_msg_id": "7acacba2-36b1-4500-9ce1-aa41dbcb8d91",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "I'm not looking forward to it at all :sweat_smile:",
+    "ts": "1705108796.803959",
+    "thread_ts": "1705093407.846089",
+    "parent_user_id": "U05777MT72P",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JgsEd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm not looking forward to it at all "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c0fc1c40-d70d-49d6-8884-7d6c52ad6a0f",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Also submitted some PRs, wanna do a review trade \u003c@U05777MT72P\u003e? Also thinking about what to tackle next, and I am thinking maybe access control? It seems like that will be useful as we get to finishing enrolling?",
+    "ts": "1705110478.609539",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U05777MT72P"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7r02j",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also submitted some PRs, wanna do a review trade "
+              },
+              {
+                "type": "user",
+                "user_id": "U05777MT72P"
+              },
+              {
+                "type": "text",
+                "text": "? Also thinking about what to tackle next, and I am thinking maybe access control? It seems like that will be useful as we get to finishing enrolling?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8c5dd377-aa02-46c6-82c0-c4eba272c145",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "\u003c@U056YD04Q30\u003e \u003c@U05777MT72P\u003e Main is up to date! \u003c@U057WAMKE5N\u003e and I looked through all the code together. Exciting stuff! I think Sukanya you were able to do some of the access control stuff on the front end, and that’s where Casey was getting stuck with enrollment (e.g., verifying logged in user) I’m going to work with her to get enrollment pushed through and then once we get that done we’ll start on next features!",
+    "ts": "1705173835.236099",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U057WAMKE5N",
+          "U056YD04Q30",
+          "U05777MT72P"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qUlE+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056YD04Q30"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U05777MT72P"
+              },
+              {
+                "type": "text",
+                "text": " Main is up to date! "
+              },
+              {
+                "type": "user",
+                "user_id": "U057WAMKE5N"
+              },
+              {
+                "type": "text",
+                "text": " and I looked through all the code together. Exciting stuff! I think Sukanya you were able to do some of the access control stuff on the front end, and that’s where Casey was getting stuck with enrollment (e.g., verifying logged in user) I’m going to work with her to get enrollment pushed through and then once we get that done we’ll start on next features!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

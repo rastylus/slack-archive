@@ -1,0 +1,319 @@
+[
+  {
+    "client_msg_id": "d3344566-8df2-4d55-a1fc-daf97f6f3611",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "All right, I made a new branch, copied over all of your changes (I did my best to credit the commit) and merged that branch into main. The old pull request is deleted but all of your changes are in main now. You should probably checkout main, pull main and make a new branch to make sure everything is up to date on your end.",
+    "ts": "1702772633.397749",
+    "thread_ts": "1702772633.397749",
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U056Z3RQFJT",
+        "ts": "1702838394.648199"
+      },
+      {
+        "user": "U056Z3RQFJT",
+        "ts": "1702838876.316169"
+      },
+      {
+        "user": "U057C73ABDX",
+        "ts": "1702840093.782479"
+      },
+      {
+        "user": "U056Z3RQFJT",
+        "ts": "1702845240.496389"
+      }
+    ],
+    "latest_reply": "1702845240.496389",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "meow_party",
+        "count": 1,
+        "users": [
+          "U056Z3RQFJT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BDwrk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "All right, I made a new branch, copied over all of your changes (I did my best to credit the commit) and merged that branch into main. The old pull request is deleted but all of your changes are in main now. You should probably checkout main, pull main and make a new branch to make sure everything is up to date on your end."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Z3RQFJT",
+      "U057C73ABDX"
+    ]
+  },
+  {
+    "client_msg_id": "75c3c7bf-b4de-4b27-b35c-e8364b6fea10",
+    "type": "message",
+    "user": "U056Z3RQFJT",
+    "text": "Thank you that's amazing",
+    "ts": "1702838394.648199",
+    "thread_ts": "1702772633.397749",
+    "parent_user_id": "U057C73ABDX",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A7C56",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you that's amazing"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5251578399251_476929090d178895b1c1_72.jpg",
+      "first_name": "Dimitri",
+      "real_name": "Dimitri   Torres",
+      "display_name": "Dimitri Torres",
+      "team": "T050CSX3EMT",
+      "name": "dimitritorres34",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "04b91343-940f-4f27-8a9e-3983679296f1",
+    "type": "message",
+    "user": "U056Z3RQFJT",
+    "text": "It seems all in order , we just need to correct services to service in the import statement but that should be all",
+    "ts": "1702838876.316169",
+    "thread_ts": "1702772633.397749",
+    "parent_user_id": "U057C73ABDX",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kJtvG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It seems all in order , we just need to correct services to service in the import statement but that should be all"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5251578399251_476929090d178895b1c1_72.jpg",
+      "first_name": "Dimitri",
+      "real_name": "Dimitri   Torres",
+      "display_name": "Dimitri Torres",
+      "team": "T050CSX3EMT",
+      "name": "dimitritorres34",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "CE354AD1-A625-44D4-8674-31173EE577CE",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "I think I messed that part up when approving the merge in GitHub. That should be an easy enough fix.",
+    "ts": "1702840093.782479",
+    "thread_ts": "1702772633.397749",
+    "parent_user_id": "U057C73ABDX",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WRBYR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think I messed that part up when approving the merge in GitHub. That should be an easy enough fix."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9F9F644D-A1EC-46E1-9B13-FE3161699E04",
+    "type": "message",
+    "user": "U056Z3RQFJT",
+    "text": "Very easy ",
+    "ts": "1702845240.496389",
+    "thread_ts": "1702772633.397749",
+    "parent_user_id": "U057C73ABDX",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VKkSB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Very easy "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5251578399251_476929090d178895b1c1_72.jpg",
+      "first_name": "Dimitri",
+      "real_name": "Dimitri   Torres",
+      "display_name": "Dimitri Torres",
+      "team": "T050CSX3EMT",
+      "name": "dimitritorres34",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b823a2ed-c029-454b-b209-94df90420cf8",
+    "type": "message",
+    "user": "U056Z3RQFJT",
+    "text": "for tomorrow , Are we expected to talk through what has everyone done so far or only the features we have been working on individually , if so I hope we can have the time to talk to each other so we can let everyone know what is it we did to better explain",
+    "ts": "1702853436.329329",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rCo5p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for tomorrow , Are we expected to talk through what has everyone done so far or only the features we have been working on individually , if so I hope we can have the time to talk to each other so we can let everyone know what is it we did to better explain"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5251578399251_476929090d178895b1c1_72.jpg",
+      "first_name": "Dimitri",
+      "real_name": "Dimitri   Torres",
+      "display_name": "Dimitri Torres",
+      "team": "T050CSX3EMT",
+      "name": "dimitritorres34",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

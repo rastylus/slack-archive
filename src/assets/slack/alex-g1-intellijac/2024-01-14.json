@@ -1,0 +1,88 @@
+[
+  {
+    "client_msg_id": "a7e79c1b-6c25-4ed2-b969-04c035d73059",
+    "type": "message",
+    "user": "U057S95RQC9",
+    "text": "Styles for userComments and editFlashcards are ready to be reviewed and approved :slightly_smiling_face:\n\n\u003chttps://github.com/AJmints/IntelliJAC-LiftOff/pull/37\u003e",
+    "ts": "1705269285.422959",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "#37 Jialing styling",
+        "id": 1,
+        "title": "#37 Jialing styling",
+        "title_link": "https://github.com/AJmints/IntelliJAC-LiftOff/pull/37",
+        "text": "Styled both userComments and editFlashcards.",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/AJmints/IntelliJAC-LiftOff|AJmints/IntelliJAC-LiftOff\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1705269014
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057HDRTJU9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XW04w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Styles for userComments and editFlashcards are ready to be reviewed and approved "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/AJmints/IntelliJAC-LiftOff/pull/37",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-28/6255059219110_09fcfa42a8921f231618_72.jpg",
+      "first_name": "Jialing",
+      "real_name": "Jialing Liu",
+      "display_name": "Jialing Liu",
+      "team": "T050CSX3EMT",
+      "name": "jialingl.liu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

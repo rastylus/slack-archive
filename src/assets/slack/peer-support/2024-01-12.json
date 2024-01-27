@@ -1,0 +1,215 @@
+[
+  {
+    "client_msg_id": "c3b8936e-3538-413f-ac50-3fb595ccfd64",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "We're really struggling with an error:\n\nsrc\\main\\java\\com\\example\\AuthenticationFilter.java:38: error: method does not override or implement a method from a supertype\n    @Override\n    ^\n\nWe're following the \u003chttps://education.launchcode.org/java-web-dev-curriculum/authentication/reading/filtering-requests/index.html|book's version of AuthenticationFilter\u003e line by line, but for some reason it just won't recognize the @Override annotation in this context:\n\n```@Override\npublic boolean preHandle(HttpServletRequest request,\n                         HttpServletResponse response,\n                         Object handler) throws IOException {\n\n    // Don't require sign-in for whitelisted pages\n    if (isWhitelisted(request.getRequestURI())) {\n        // Early return to allow request to go through\n        return true;\n    }\n\n    HttpSession session = request.getSession();\n    User user = authenticationController.getUserFromSession(session);\n\n    // The user is logged in\n    if (user != null) {\n        return true;\n    }\n\n    // The user is NOT logged in\n    response.sendRedirect(\"/login\");\n    return false;\n}```\nHas anyone run into something similar? Has anyone completed a successful user registration and login feature and have some tips?",
+    "ts": "1705034824.561409",
+    "thread_ts": "1705034824.561409",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056ZJ34X42",
+        "ts": "1705036068.691779"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1705057830.772479"
+      }
+    ],
+    "latest_reply": "1705057830.772479",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U058L1CEFHN",
+          "U057J8HJZMF"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aw8wB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We're really struggling with an error:\n\nsrc\\main\\java\\com\\example\\AuthenticationFilter.java:38: error: method does not override or implement a method from a supertype\n    @Override\n    ^\n\nWe're following the "
+              },
+              {
+                "type": "link",
+                "url": "https://education.launchcode.org/java-web-dev-curriculum/authentication/reading/filtering-requests/index.html",
+                "text": "book's version of AuthenticationFilter"
+              },
+              {
+                "type": "text",
+                "text": " line by line, but for some reason it just won't recognize the @Override annotation in this context:\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"@Override\\npublic boolean preHandle(HttpServletRequest request,\\n                         HttpServletResponse response,\\n                         Object handler) throws IOException {\\n\\n    \\/\\/ Don't require sign-in for whitelisted pages\\n    if (isWhitelisted(request.getRequestURI())) {\\n        \\/\\/ Early return to allow request to go through\\n        return true;\\n    }\\n\\n    HttpSession session = request.getSession();\\n    User user = authenticationController.getUserFromSession(session);\\n\\n    \\/\\/ The user is logged in\\n    if (user != null) {\\n        return true;\\n    }\\n\\n    \\/\\/ The user is NOT logged in\\n    response.sendRedirect(\\\"\\/login\\\");\\n    return false;\\n}\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nHas anyone run into something similar? Has anyone completed a successful user registration and login feature and have some tips?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056ZJ34X42",
+      "U057C70KL57"
+    ]
+  },
+  {
+    "client_msg_id": "896540f7-d5e4-4d5b-8525-9942ab0e2617",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "okay, I think I solved it.\n\nHad to do with our dependencies  \u0026amp; our spring boot version (3.1 vs 3.2); we were importing HttpServletRequest from javax.etcetera instead of from jakarta.etcetera\n\nI'll leave this up in case anyone else runs into this",
+    "ts": "1705036068.691779",
+    "thread_ts": "1705034824.561409",
+    "parent_user_id": "U056ZJ34X42",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U057C70KL57",
+          "U057J8HJZMF",
+          "U056K1WRCCX"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-5",
+        "count": 1,
+        "users": [
+          "U057B2M3K6G"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZJ/tT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay, I think I solved it.\n\nHad to do with our dependencies  \u0026 our spring boot version (3.1 vs 3.2); we were importing HttpServletRequest from javax.etcetera instead of from jakarta.etcetera\n\nI'll leave this up in case anyone else runs into this"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "588a8159-13dc-4a64-9f2d-1caff1de915e",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Glad you were able to solve it! :heartpulse:",
+    "ts": "1705057830.772479",
+    "thread_ts": "1705034824.561409",
+    "parent_user_id": "U056ZJ34X42",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GoW/T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Glad you were able to solve it! "
+              },
+              {
+                "type": "emoji",
+                "name": "heartpulse",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

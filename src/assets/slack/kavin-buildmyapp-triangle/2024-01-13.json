@@ -1,0 +1,1183 @@
+[
+  {
+    "client_msg_id": "f2a3af0a-ab50-465b-88fc-ec4f07d603cf",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "This is the data on the security portion of the database. The stuff to create it should be in the pull request.",
+    "ts": "1705168757.455549",
+    "thread_ts": "1705168757.455549",
+    "reply_count": 7,
+    "replies": [
+      {
+        "user": "U056R914DAT",
+        "ts": "1705168890.790949"
+      },
+      {
+        "user": "U056R914DAT",
+        "ts": "1705169099.702799"
+      },
+      {
+        "user": "U056R914DAT",
+        "ts": "1705170575.605679"
+      },
+      {
+        "user": "U056R914DAT",
+        "ts": "1705170708.803419"
+      },
+      {
+        "user": "U056R914DAT",
+        "ts": "1705171613.142099"
+      },
+      {
+        "user": "U056VF0MDPH",
+        "ts": "1705171759.244809"
+      },
+      {
+        "user": "U056R914DAT",
+        "ts": "1705171780.970369"
+      }
+    ],
+    "latest_reply": "1705171780.970369",
+    "files": [
+      {
+        "id": "F06EFQ45P7A",
+        "created": 1705168700,
+        "timestamp": 1705168700,
+        "name": "Screenshot (2076).png",
+        "title": "Screenshot (2076).png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056R914DAT",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2950,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06EFQ45P7A/screenshot__2076_.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06EFQ45P7A/download/screenshot__2076_.png",
+        "original_h": 162,
+        "original_w": 140,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EFQ45P7A-84d2817bd9/screenshot__2076__64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EFQ45P7A-84d2817bd9/screenshot__2076__80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EFQ45P7A-84d2817bd9/screenshot__2076__160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EFQ45P7A-84d2817bd9/screenshot__2076__360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 140,
+        "thumb_360_h": 162,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056R914DAT/F06EFQ45P7A/screenshot__2076_.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06EFQ45P7A-061dfe158e",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056VF0MDPH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4Kqv7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is the data on the security portion of the database. The stuff to create it should be in the pull request."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056R914DAT",
+      "U056VF0MDPH"
+    ]
+  },
+  {
+    "client_msg_id": "2c74334f-b4e4-47d2-b188-1b2a1b960d71",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "I'm generally trying to think of the best way to make a OnetoOne relationship between the users, employees, and customers.\nI ttthink having employees and customers separately may be unnecessary. I've got a role system that assigns and clearly differentiates between them, and having them separate makes some funk when trying to make a OnetoOne relationship.",
+    "ts": "1705168890.790949",
+    "thread_ts": "1705168757.455549",
+    "parent_user_id": "U056R914DAT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J4ylY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm generally trying to think of the best way to make a OnetoOne relationship between the users, employees, and customers.\nI ttthink having employees and customers separately may be unnecessary. I've got a role system that assigns and clearly differentiates between them, and having them separate makes some funk when trying to make a OnetoOne relationship."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8dc8a528-6b2f-4b17-871a-fa490622dd8c",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "Oh, and there's no duplicate roles. I just forgot to refresh.",
+    "ts": "1705169099.702799",
+    "thread_ts": "1705168757.455549",
+    "parent_user_id": "U056R914DAT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qfgMe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh, and there's no duplicate roles. I just forgot to refresh."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "34fc270a-8763-4eca-ae8b-15f5de65fcf6",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "A better idea would probably be to make my User model part of an abstract class for Customers \u0026amp; Employees. Either part of the one you've already set up or a second abstract class.\n\nI've already routed the registration controller to create a certain role depending on whether you do employee or customer registration. I could easily change which class is being made, too.\nThen the only extra data would be availability and the contract link.",
+    "ts": "1705170575.605679",
+    "thread_ts": "1705168757.455549",
+    "parent_user_id": "U056R914DAT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Urpe3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "A better idea would probably be to make my User model part of an abstract class for Customers \u0026 Employees. Either part of the one you've already set up or a second abstract class.\n\nI've already routed the registration controller to create a certain role depending on whether you do employee or customer registration. I could easily change which class is being made, too.\nThen the only extra data would be availability and the contract link."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "77485be9-343c-4c6e-8426-ebaad4699815",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "Something like this?",
+    "ts": "1705170708.803419",
+    "thread_ts": "1705168757.455549",
+    "parent_user_id": "U056R914DAT",
+    "files": [
+      {
+        "id": "F06DSUJ9DQB",
+        "created": 1705170698,
+        "timestamp": 1705170698,
+        "name": "Database.pdf",
+        "title": "Database.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U056R914DAT",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 25308,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06DSUJ9DQB/database.pdf",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06DSUJ9DQB/download/database.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056R914DAT/F06DSUJ9DQB/database.pdf",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06DSUJ9DQB-a65d663e25",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5HEqE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Something like this?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d131596f-daec-4ec8-841e-d96eae08ab9a",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "I'd like to be the one to do it since User is a little finicky with spring boot security. And it'll help me with only displaying certain data.\nIf it sounds good just give me the go ahead whenever you see this \u003c@U056VF0MDPH\u003e",
+    "ts": "1705171613.142099",
+    "thread_ts": "1705168757.455549",
+    "parent_user_id": "U056R914DAT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ddThW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'd like to be the one to do it since User is a little finicky with spring boot security. And it'll help me with only displaying certain data.\nIf it sounds good just give me the go ahead whenever you see this "
+              },
+              {
+                "type": "user",
+                "user_id": "U056VF0MDPH"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "027a0c57-7fad-4cd4-8581-5435294822e9",
+    "type": "message",
+    "user": "U056VF0MDPH",
+    "text": "yeah that sounds good, go for it",
+    "ts": "1705171759.244809",
+    "thread_ts": "1705168757.455549",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QX5Wr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah that sounds good, go for it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5233510792727_27f43d51e25b2ef600fa_72.png",
+      "first_name": "Seth",
+      "real_name": "Seth Woodrow",
+      "display_name": "Seth Woodrow",
+      "team": "T050CSX3EMT",
+      "name": "seth.woodrow0",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "027a0c57-7fad-4cd4-8581-5435294822e9",
+    "type": "message",
+    "user": "U056VF0MDPH",
+    "text": "yeah that sounds good, go for it",
+    "ts": "1705171759.244809",
+    "thread_ts": "1705168757.455549",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QX5Wr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah that sounds good, go for it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5233510792727_27f43d51e25b2ef600fa_72.png",
+      "first_name": "Seth",
+      "real_name": "Seth Woodrow",
+      "display_name": "Seth Woodrow",
+      "team": "T050CSX3EMT",
+      "name": "seth.woodrow0",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b5bac7bd-ac1e-4731-b8dc-d135cc9fafc7",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "awesome. I'll hop to it soon.",
+    "ts": "1705171780.970369",
+    "thread_ts": "1705168757.455549",
+    "parent_user_id": "U056R914DAT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WBDlh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "awesome. I'll hop to it soon."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a162694b-1a25-4538-8b96-315b922014ac",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "Alright. I've finished refactoring it. I think this'll be much better for our CRUD part.",
+    "ts": "1705185782.349899",
+    "thread_ts": "1705185782.349899",
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U056R914DAT",
+        "ts": "1705185861.911549"
+      },
+      {
+        "user": "U056R914DAT",
+        "ts": "1705186138.767379"
+      },
+      {
+        "user": "U0571NR7G13",
+        "ts": "1705190263.572169"
+      },
+      {
+        "user": "U0571NR7G13",
+        "ts": "1705190289.317149"
+      },
+      {
+        "user": "U056R914DAT",
+        "ts": "1705190302.439209"
+      },
+      {
+        "user": "U056R914DAT",
+        "ts": "1705191790.515029"
+      },
+      {
+        "user": "U0571NR7G13",
+        "ts": "1705191852.753699"
+      },
+      {
+        "user": "U056R914DAT",
+        "ts": "1705191974.164299"
+      },
+      {
+        "user": "U056R914DAT",
+        "ts": "1705272395.369899"
+      }
+    ],
+    "latest_reply": "1705272395.369899",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OA9kr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Alright. I've finished refactoring it. I think this'll be much better for our CRUD part."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056R914DAT",
+      "U0571NR7G13"
+    ]
+  },
+  {
+    "client_msg_id": "789ec467-1e18-4633-8ee8-bcc9946e3992",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "This is the database structure, and running the program so long as application.properties is configured to your database and SetupDataLoader.java is commented in should make new tables just like these and fill them with a tiny bit of data.",
+    "ts": "1705185861.911549",
+    "thread_ts": "1705185782.349899",
+    "edited": {
+      "user": "U056R914DAT",
+      "ts": "1705186170.000000"
+    },
+    "parent_user_id": "U056R914DAT",
+    "files": [
+      {
+        "id": "F06DQCL3G6R",
+        "created": 1705185794,
+        "timestamp": 1705185794,
+        "name": "Screenshot (2080).png",
+        "title": "Screenshot (2080).png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056R914DAT",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 20137,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06DQCL3G6R/screenshot__2080_.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06DQCL3G6R/download/screenshot__2080_.png",
+        "original_h": 610,
+        "original_w": 181,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQCL3G6R-539538eab8/screenshot__2080__64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQCL3G6R-539538eab8/screenshot__2080__80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQCL3G6R-539538eab8/screenshot__2080__160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQCL3G6R-539538eab8/screenshot__2080__360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 107,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DQCL3G6R-539538eab8/screenshot__2080__480.png",
+        "thumb_480_w": 142,
+        "thumb_480_h": 480,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056R914DAT/F06DQCL3G6R/screenshot__2080_.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06DQCL3G6R-0d2dc209d1",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F06DCPR3U4X",
+        "created": 1705185804,
+        "timestamp": 1705185804,
+        "name": "Screenshot (2079).png",
+        "title": "Screenshot (2079).png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056R914DAT",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 11861,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06DCPR3U4X/screenshot__2079_.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06DCPR3U4X/download/screenshot__2079_.png",
+        "original_h": 320,
+        "original_w": 177,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCPR3U4X-dde6a0401e/screenshot__2079__64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCPR3U4X-dde6a0401e/screenshot__2079__80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCPR3U4X-dde6a0401e/screenshot__2079__160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DCPR3U4X-dde6a0401e/screenshot__2079__360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 177,
+        "thumb_360_h": 320,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056R914DAT/F06DCPR3U4X/screenshot__2079_.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06DCPR3U4X-c7590d2bca",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5Cluo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is the database structure, and running the program so long as application.properties is configured to your database and SetupDataLoader.java is commented in should make new tables just like these and fill them with a tiny bit of data."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a68b2ffd-254e-4491-8baa-16e7916b7c95",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "I re-used and glanced at your code the whole time \u003c@U056VF0MDPH\u003e, but I found it easiest to just remake the models from the ground up. Should probably look them over and make sure I didn't do anything you're against.\n\nI currently have removed Contract from the abstract class. I think we can set it up so that AbstractUser extends AbstractClass, then employee \u0026amp; customer extend User while Contract extends AbstractClass, but contract was weird enough with the user changes that I just left it as it's own thing.",
+    "ts": "1705186138.767379",
+    "thread_ts": "1705185782.349899",
+    "parent_user_id": "U056R914DAT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7++N0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I re-used and glanced at your code the whole time "
+              },
+              {
+                "type": "user",
+                "user_id": "U056VF0MDPH"
+              },
+              {
+                "type": "text",
+                "text": ", but I found it easiest to just remake the models from the ground up. Should probably look them over and make sure I didn't do anything you're against.\n\nI currently have removed Contract from the abstract class. I think we can set it up so that AbstractUser extends AbstractClass, then employee \u0026 customer extend User while Contract extends AbstractClass, but contract was weird enough with the user changes that I just left it as it's own thing."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fba67527-571d-46cf-83cf-2cd341a5b975",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "How's the CRUD coming along \u003c@U0571NR7G13\u003e?",
+    "ts": "1705188835.783769",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8ZNNd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How's the CRUD coming along "
+              },
+              {
+                "type": "user",
+                "user_id": "U0571NR7G13"
+              },
+              {
+                "type": "text",
+                "text": "?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1D47EB2B-7D76-4201-9B89-199370F881E4",
+    "type": "message",
+    "user": "U0571NR7G13",
+    "text": "Hey \u003c@U056R914DAT\u003e . I was finishing up setting up the database on my side. But with the slides you posted it should help.",
+    "ts": "1705190263.572169",
+    "thread_ts": "1705185782.349899",
+    "parent_user_id": "U056R914DAT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2Ymxk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey "
+              },
+              {
+                "type": "user",
+                "user_id": "U056R914DAT"
+              },
+              {
+                "type": "text",
+                "text": " . I was finishing up setting up the database on my"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "side. But with the slides you posted"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "it should help."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-03/5393002876608_aea028d61985e0cd08e2_72.png",
+      "first_name": "Jean",
+      "real_name": "Jean eudes Olele",
+      "display_name": "Jean eudes Olele",
+      "team": "T050CSX3EMT",
+      "name": "j.oeudesolele",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DE8446E1-C623-46F3-B07A-5E7DD702E265",
+    "type": "message",
+    "user": "U0571NR7G13",
+    "text": "Will you be able to help a bit if I get stuck tomorrow or Monday ?",
+    "ts": "1705190289.317149",
+    "thread_ts": "1705185782.349899",
+    "parent_user_id": "U056R914DAT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jd4jq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Will you be able to help"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "a bit if I get stuck"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "tomorrow or Monday"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-03/5393002876608_aea028d61985e0cd08e2_72.png",
+      "first_name": "Jean",
+      "real_name": "Jean eudes Olele",
+      "display_name": "Jean eudes Olele",
+      "team": "T050CSX3EMT",
+      "name": "j.oeudesolele",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cdc3d9e7-8eef-4bcd-9c39-f753de55e316",
+    "type": "message",
+    "user": "U056R914DAT",
+    "text": "Yeah I'll be around",
+    "ts": "1705190302.439209",
+    "thread_ts": "1705185782.349899",
+    "parent_user_id": "U056R914DAT",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0571NR7G13"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qpDyK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah I'll be around"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ac7626e5ddcc875f138149b5723df72.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Shahan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ctibalt",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

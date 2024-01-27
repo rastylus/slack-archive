@@ -1,0 +1,477 @@
+[
+  {
+    "client_msg_id": "816b3c2f-77cf-42a6-86a9-0fda3b0c31c1",
+    "type": "message",
+    "user": "U057USYHSMN",
+    "text": "That is what I want to be",
+    "ts": "1702943109.165299",
+    "thread_ts": "1702943109.165299",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1702943125.719619"
+      },
+      {
+        "user": "U057USYHSMN",
+        "ts": "1702943133.109349"
+      },
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1702943143.968099"
+      }
+    ],
+    "latest_reply": "1702943143.968099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9thul",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That is what I want to be"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-20/5321062624960_429f8cee732f5cb11bd4_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Nicolas",
+      "display_name": "Tim Nicolas",
+      "team": "T050CSX3EMT",
+      "name": "timnicolas87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U057HGZ7W8Z",
+      "U057USYHSMN"
+    ]
+  },
+  {
+    "client_msg_id": "f3f938b2-fa62-4c07-82c4-544ee3ba668a",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "DevOps?",
+    "ts": "1702943125.719619",
+    "thread_ts": "1702943109.165299",
+    "parent_user_id": "U057USYHSMN",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sfoTP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "DevOps?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f0d32d5c-0a0f-48fe-a78c-89ef6eddc724",
+    "type": "message",
+    "user": "U057USYHSMN",
+    "text": "yea",
+    "ts": "1702943133.109349",
+    "thread_ts": "1702943109.165299",
+    "parent_user_id": "U057USYHSMN",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "purple_heart",
+        "count": 1,
+        "users": [
+          "U0579KDG6A0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tFwnR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yea"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-20/5321062624960_429f8cee732f5cb11bd4_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Nicolas",
+      "display_name": "Tim Nicolas",
+      "team": "T050CSX3EMT",
+      "name": "timnicolas87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "52af6730-c198-48eb-9d9e-b3ee4bb45301",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Yah, it sounds really cool.",
+    "ts": "1702943143.968099",
+    "thread_ts": "1702943109.165299",
+    "parent_user_id": "U057USYHSMN",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/tTy0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yah, it sounds really cool."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "be56fdc9-2844-41c5-a819-df1715102a6c",
+    "type": "message",
+    "user": "U057BAHNQAZ",
+    "text": "PlayWright also does the same as selenium!",
+    "ts": "1702943371.912819",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C3h+d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "PlayWright also does the same as selenium!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3e5644343b5b9c3ea5636d159214b973.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Justin",
+      "real_name": "Justin Wright",
+      "display_name": "Justin Wright",
+      "team": "T050CSX3EMT",
+      "name": "djw6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a615e121-fe84-4526-b52a-3c49227a0ead",
+    "type": "message",
+    "user": "U0578C4TKCK",
+    "text": "Selenium is pretty cool! Can be used with some scraping tools. I've used to it make sure webpages fully load.",
+    "ts": "1702943395.197459",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "llzTJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Selenium is pretty cool! Can be used with some scraping tools. I've used to it make sure webpages fully load."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5232007116311_53d7458c44834e167288_72.png",
+      "first_name": "Andrew",
+      "real_name": "Andrew Lanning - KC - he/him",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "lanningsimulation",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "26210fb1-39c4-480e-b88b-8f51ee296676",
+    "type": "message",
+    "user": "U0578C4TKCK",
+    "text": "In my industry. Our Technical Manager oversees the \"business\" side of things related to employees. Employee Tasking, Time Charging, etc. PM's handle the traditional Project Management aspects.",
+    "ts": "1702943881.925329",
+    "thread_ts": "1702943881.925329",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057C70KL57",
+        "ts": "1702943990.950829"
+      }
+    ],
+    "latest_reply": "1702943990.950829",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OIub/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "In my industry. Our Technical Manager oversees the \"business\" side of things related to employees. Employee Tasking, Time Charging, etc. PM's handle the traditional Project Management aspects."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5232007116311_53d7458c44834e167288_72.png",
+      "first_name": "Andrew",
+      "real_name": "Andrew Lanning - KC - he/him",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "lanningsimulation",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057C70KL57"
+    ]
+  },
+  {
+    "client_msg_id": "f6de1bdc-1a16-49dc-b8fd-81c077372304",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "Good question! Our group has this conflict issue too.",
+    "ts": "1702943965.369309",
+    "edited": {
+      "user": "U0577EKQS9Z",
+      "ts": "1702943987.000000"
+    },
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U056ZDW8083"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "58rTg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good question! Our group has this conflict issue too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3555f2fb-b120-4c33-a053-740ca67ccd5f",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "It is that way in my industry too. Program Managers tend to be the first escalation point past the Project Manager when an issue arises",
+    "ts": "1702943990.950829",
+    "thread_ts": "1702943881.925329",
+    "parent_user_id": "U0578C4TKCK",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4e/8O",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It is that way in my industry too. Program Managers tend to be the first escalation point past the Project Manager when an issue arises"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,645 @@
+[
+  {
+    "client_msg_id": "2b49522f-a3e8-4af0-bf8f-2c8be72d6327",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "it seems like problem with expired token is for me, I think I even left TODO somewhere to handle that\n\nI'll fix that",
+    "ts": "1704160138.183449",
+    "thread_ts": "1704139137.063679",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "90vSE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it seems like problem with expired token is for me, I think I even left TODO somewhere to handle that\n\nI'll fix that"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b229cb42-fdd3-445c-954d-e2618fc46ab7",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "Hey!\n\nCan someone share this file please? I realized I can't run our react on main\n\n'../Config/perenualApiKey' '",
+    "ts": "1704160311.320779",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XuaBU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey!\n\nCan someone share this file please? I realized I can't run our react on main\n\n'../Config/perenualApiKey' '"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ee280626-54df-487e-b99b-dc1502660e8b",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "ts": "1704160539.838239",
+    "thread_ts": "1704160539.838239",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05756M4E1H",
+        "ts": "1704160778.178239"
+      }
+    ],
+    "latest_reply": "1704160778.178239",
+    "files": [
+      {
+        "id": "F06C5E85V60",
+        "created": 1704160538,
+        "timestamp": 1704160538,
+        "name": "perenualApiKey.js",
+        "title": "perenualApiKey.js",
+        "mimetype": "text/plain",
+        "image_exif_rotation": 0,
+        "filetype": "javascript",
+        "pretty_type": "JavaScript",
+        "user": "U0575U6RCKC",
+        "mode": "snippet",
+        "editable": true,
+        "is_external": false,
+        "external_type": "",
+        "size": 62,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06C5E85V60/perenualapikey.js",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06C5E85V60/download/perenualapikey.js",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0575U6RCKC/F06C5E85V60/perenualapikey.js",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06C5E85V60-a3295e9c3f",
+        "edit_link": "https://ptwebdevallhu-iu32728.slack.com/files/U0575U6RCKC/F06C5E85V60/perenualapikey.js/edit",
+        "preview": "const apiKey = 'sk-CKCG656b6a9f819933198';\nexport { apiKey };\n",
+        "preview_highlight": "\u003cdiv class=\"CodeMirror cm-s-default CodeMirrorServer\"\u003e\n\u003cdiv class=\"CodeMirror-code\"\u003e\n\u003cdiv\u003e\u003cpre\u003e\u003cspan class=\"cm-keyword\"\u003econst\u003c/span\u003e \u003cspan class=\"cm-def\"\u003eapiKey\u003c/span\u003e \u003cspan class=\"cm-operator\"\u003e=\u003c/span\u003e \u003cspan class=\"cm-string\"\u003e'sk-CKCG656b6a9f819933198'\u003c/span\u003e;\u003c/pre\u003e\u003c/div\u003e\n\u003cdiv\u003e\u003cpre\u003e\u003cspan class=\"cm-keyword\"\u003eexport\u003c/span\u003e { \u003cspan class=\"cm-variable\"\u003eapiKey\u003c/span\u003e };\u003c/pre\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n",
+        "lines": 3,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05756M4E1H"
+    ]
+  },
+  {
+    "client_msg_id": "99b511d4-bf20-48c0-933b-9f41cff1d695",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "Thank you",
+    "ts": "1704160778.178239",
+    "thread_ts": "1704160539.838239",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ztrU8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "841d6d74-f675-4a99-85e1-1423141e13a2",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "\u003chttps://us04web.zoom.us/j/79164465381?pwd=92iVdVDjCiFR3yPHqNoYkB4LHFwgbm.1\u003e",
+    "ts": "1704160886.418979",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fPx1v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://us04web.zoom.us/j/79164465381?pwd=92iVdVDjCiFR3yPHqNoYkB4LHFwgbm.1",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dc0c6ced-b3d3-4d12-99ba-10c9b69bacc2",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "So I think we can still use it with the free key(at least that’s what it looks like when i’m logged out), but I think the issue we’ll run into is it does a call for every species the user has saved so it’ll run through our daily amount pretty quickly.",
+    "ts": "1704181490.866019",
+    "thread_ts": "1704133892.009469",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QGYOg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So I think we can still use it with the free key(at least that’s what it looks like when i’m logged out), but I think the issue we’ll run into is it does a call for every species the user has saved so it’ll run through our daily amount pretty quickly."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "005B727E-A51E-4B90-ABC6-ED92FC6859FB",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "I’m working on a python script that’ll write all of the species details to a csv file so we can just put that into a database and hopefully avoid the api call limits. Hopefully I won’t have to change the garden screen fetches too much, but it should still give us the some information.",
+    "ts": "1704189955.922469",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HYl4C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " working on a python script "
+              },
+              {
+                "type": "text",
+                "text": "that’ll"
+              },
+              {
+                "type": "text",
+                "text": " write all of the species details to a csv file so we can just put that into a database and hopefully avoid the api call limits. Hopefully "
+              },
+              {
+                "type": "text",
+                "text": "I won’t"
+              },
+              {
+                "type": "text",
+                "text": " have to change the garden screen fetches too much, but it should still give us the some information."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7f7b2fff-ec9f-4ec0-a405-b3295d6c8318",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "Hey guys, I'm trying to merge my branch to main but I see some unexpected conflicts in authcontroller, login and that stuff\n\nWho else worked on auth?",
+    "ts": "1704213876.303559",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "veEAs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys, I'm trying to merge my branch to main but I see some unexpected conflicts in authcontroller, login and that stuff\n\nWho else worked on auth?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e65e8b07-56e6-4df1-ab97-8b4ccfd336ed",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "not sure. what are the conflicts you’re seeing?",
+    "ts": "1704222219.375939",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VWExP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not sure. what are the conflicts you’re seeing?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "759ADA88-4DE3-4988-A3CD-B5FF3FC265FA",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "I think it’s a conflicts with Ryan’s branch, I’ll fix most of them until tomorrow call and we’ll deal with it ",
+    "ts": "1704228630.389979",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B07UJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " a conflicts with "
+              },
+              {
+                "type": "text",
+                "text": "Ryan’s"
+              },
+              {
+                "type": "text",
+                "text": " branch, "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " fix most of them until tomorrow call and "
+              },
+              {
+                "type": "text",
+                "text": "we’ll"
+              },
+              {
+                "type": "text",
+                "text": " deal with it "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2e16eda9-7c6d-4d09-999b-decfda7e224c",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "Hello again!\n\nI've created Pull request with user customization feature, user can update username or upload new image for his avatar, it will be stored at Firebase Storage, we can do demo tomorrow\n\n\u003chttps://github.com/corypride/diamonddogs/pull/24\u003e",
+    "ts": "1704235638.078919",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "#24 User customization",
+        "id": 1,
+        "title": "#24 User customization",
+        "title_link": "https://github.com/corypride/diamonddogs/pull/24",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/corypride/diamonddogs|corypride/diamonddogs\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1704235538
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OnKxE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello again!\n\nI've created Pull request with user customization feature, user can update username or upload new image for his avatar, it will be stored at Firebase Storage, we can do demo tomorrow\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/corypride/diamonddogs/pull/24",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "client_msg_id": "8aac46d2-9808-42a8-9684-c6ba17ff26fc",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "\u003c@U055S98U8G2\u003e In our project proposal, Lexi Baysinger left the comment we should \"utilize the projects feature for project management with those project boards set to public!\"\n\nWhen I click on projects, and click on \"Link a project\" button nothing comes up for me. Is this because the project is on your repo? I haven't forked the project on my personal repo. Let me know what I would need to do to get this feature working. Thanks.",
+    "ts": "1701552247.149749",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "k8unL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U055S98U8G2"
+              },
+              {
+                "type": "text",
+                "text": " In our project proposal, Lexi Baysinger left the comment we should \"utilize the projects feature for project management with those project boards set to public!\"\n\nWhen I click on projects, and click on \"Link a project\" button nothing comes up for me. Is this because the project is on your repo? I haven't forked the project on my personal repo. Let me know what I would need to do to get this feature working. Thanks."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3984f3dc-dace-4331-8ecd-ef41650c0cff",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Fellow dogs (that's we we call each other, right?),\n\nPer the comments we received, I added more information to our project description of our project proposal.\n\nI tried to get the project management feature going but I'm not sure how to get that setup in github right now. See the above comment I directed towards Cory for more information.\n\nThe only other thing we need to finish is the work division. On our proposal we mentioned that we're using the trello board to manage the division of labor but they would like it spelled out in detail who is doing what on the proposal itself.\n\nWe should get together and hammer down what exactly each of us is going to take on for the project. \u003c@U057UNE3XPS\u003e I know you're actively working on something along these lines to make sure our features are reasonable to implement in the time we have available.\n\nThis has to be done by 12/6.",
+    "ts": "1701553581.459759",
+    "edited": {
+      "user": "U0575U6RCKC",
+      "ts": "1701557971.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ReDq0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Fellow dogs (that's we we call each other, right?),\n\nPer the comments we received, I added more information to our project description of our project proposal.\n\nI tried to get the project management feature going but I'm not sure how to get that setup in github right now. See the above comment I directed towards Cory for more information.\n\nThe only other thing we need to finish is the work division. On our proposal we mentioned that we're using the trello board to manage the division of labor but they would like it spelled out in detail who is doing what on the proposal itself.\n\nWe should get together and hammer down what exactly each of us is going to take on for the project. "
+              },
+              {
+                "type": "user",
+                "user_id": "U057UNE3XPS"
+              },
+              {
+                "type": "text",
+                "text": " I know you're actively working on something along these lines to make sure our features are reasonable to implement in the time we have available.\n\nThis has to be done by 12/6."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "feb4544f-699a-4f07-81d6-fee8c2b9db22",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "What I'm working on:\n\nI've setup an account at \u003chttp://Perenual.com|Perenual.com\u003e and connected to the API through Postman. I've been running different GET commands to figure out what information we get back. The \u003chttps://perenual.com/docs/api|docs\u003e on their website are well-written and very helpful if you guys ever want to take a look.\n\nAs a free user of Perenual we get all the information of the first 3000 plants in their database, which includes photos and plant care guides. The only real limitation is 100 API requests/day. We might run into limits while developing, if we do I don't mind paying for the premium at $35/mo.\n\nOnce I get my head around what we can do with the API, I'm going to work on building the models we will need for each listing of plants.",
+    "ts": "1701554191.785379",
+    "thread_ts": "1701554191.785379",
+    "edited": {
+      "user": "U0575U6RCKC",
+      "ts": "1701567888.000000"
+    },
+    "last_read": "1701557903.638009",
+    "subscribed": true,
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056RCF9G87",
+        "ts": "1701557298.314999"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1701557903.638009"
+      }
+    ],
+    "latest_reply": "1701557903.638009",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "214xw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What I'm working on:\n\nI've setup an account at "
+              },
+              {
+                "type": "link",
+                "url": "http://Perenual.com",
+                "text": "Perenual.com"
+              },
+              {
+                "type": "text",
+                "text": " and connected to the API through Postman. I've been running different GET commands to figure out what information we get back. The "
+              },
+              {
+                "type": "link",
+                "url": "https://perenual.com/docs/api",
+                "text": "docs"
+              },
+              {
+                "type": "text",
+                "text": " on their website are well-written and very helpful if you guys ever want to take a look.\n\nAs a free user of Perenual we get all the information of the first 3000 plants in their database, which includes photos and plant care guides. The only real limitation is 100 API requests/day. We might run into limits while developing, if we do I don't mind paying for the premium at $35/mo.\n\nOnce I get my head around what we can do with the API, I'm going to work on building the models we will need for each listing of plants."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056RCF9G87",
+      "U0575U6RCKC"
+    ]
+  },
+  {
+    "client_msg_id": "76bf104e-c2e7-4cf1-b5f6-eb525b5541f0",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "Awesome, I was thinking maybe we could use some of the code snippets for templates so we don’t have to run out of requests everyday, but I’m  sure if that’s viable or not. Are you just linked in postman or did you set some stuff up in the project?",
+    "ts": "1701557298.314999",
+    "thread_ts": "1701554191.785379",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rBQFF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome, I was thinking maybe we could use some of the code snippets for templates so we don’t have to run out of requests everyday, but I’m  sure if that’s viable or not. Are you just linked in postman or did you set some stuff up in the project?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c2ccf027-dd74-4995-823d-60208eb7acca",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I'm just in Postman right now doing testing and making sure I understand what information we can get from the database.",
+    "ts": "1701557903.638009",
+    "thread_ts": "1701554191.785379",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ReIN3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm just in Postman right now doing testing and making sure I understand what information we can get from the database."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

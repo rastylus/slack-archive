@@ -1,0 +1,408 @@
+[
+  {
+    "client_msg_id": "6487cb7d-3fb7-4548-b2b1-d95f88b50883",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "That was a lot of fun, guys!",
+    "ts": "1702771218.899389",
+    "thread_ts": "1702771218.899389",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057RUURNTB",
+        "ts": "1702771253.759919"
+      },
+      {
+        "user": "U0577EKQS9Z",
+        "ts": "1702771389.661419"
+      }
+    ],
+    "latest_reply": "1702771389.661419",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U0577EKQS9Z"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eDygi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That was a lot of fun, guys!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U0577EKQS9Z",
+      "U057RUURNTB"
+    ]
+  },
+  {
+    "client_msg_id": "16556617-fe00-417b-a9b3-2e742df19a71",
+    "type": "message",
+    "user": "U057RUURNTB",
+    "text": "Yes!  Looking forward to the next one",
+    "ts": "1702771253.759919",
+    "thread_ts": "1702771218.899389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6T8p8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes!  Looking forward to the next one"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2e9d28eae59cece7c7d9c47ef40ef43a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Griffiths",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "antiphreeeze",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2d03115b-e1d5-48c4-896a-657866020e25",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "Thank you for hosting it Tracy! It was fun and very helpful to troubleshoot some issues and catch up!",
+    "ts": "1702771389.661419",
+    "thread_ts": "1702771218.899389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TxI+Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you for hosting it Tracy! It was fun and very helpful to troubleshoot some issues and catch up!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fdb72408-15e8-4b54-a0ff-254a86501e86",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "\u003c!channel\u003e\nIn an attempt to make it so others can attend next time, let's give people a chance to suggest other times. Particularly \u003c@U057T1QUHB3\u003e, who had to work late, today.\n\nDoes anyone want to meet during our break, which is from 22 December through 3 January? I would not be opposed, but I know people have family obligations during that time.\n\nIt was a fun time, and I want others to be able to join in.",
+    "ts": "1702774419.163139",
+    "thread_ts": "1702774419.163139",
+    "reply_count": 8,
+    "replies": [
+      {
+        "user": "U057RUURNTB",
+        "ts": "1702775101.075899"
+      },
+      {
+        "user": "U056K1UHEGP",
+        "ts": "1702776808.127159"
+      },
+      {
+        "user": "U057T1QUHB3",
+        "ts": "1702858021.364539"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702858035.285289"
+      },
+      {
+        "user": "U057T1QUHB3",
+        "ts": "1702858075.533569"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702858088.523549"
+      },
+      {
+        "user": "U057T1QUHB3",
+        "ts": "1702858112.721519"
+      },
+      {
+        "user": "U057T1QUHB3",
+        "ts": "1702858189.583149"
+      }
+    ],
+    "latest_reply": "1702858189.583149",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2s9x9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\nIn an attempt to make it so others can attend next time, let's give people a chance to suggest other times. Particularly "
+              },
+              {
+                "type": "user",
+                "user_id": "U057T1QUHB3"
+              },
+              {
+                "type": "text",
+                "text": ", who had to work late, today.\n\nDoes anyone want to meet during our break, which is from 22 December through 3 January? I would not be opposed, but I know people have family obligations during that time.\n\nIt was a fun time, and I want others to be able to join in."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U056K1UHEGP",
+      "U05724ACLVB",
+      "U057RUURNTB",
+      "U057T1QUHB3"
+    ]
+  },
+  {
+    "client_msg_id": "337ad7d1-933c-430d-a1fe-675220c198b4",
+    "type": "message",
+    "user": "U057RUURNTB",
+    "text": "I'm up for meeting during break",
+    "ts": "1702775101.075899",
+    "thread_ts": "1702774419.163139",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U056K1UHEGP"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ub2Ku",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm up for meeting during break"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2e9d28eae59cece7c7d9c47ef40ef43a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Lynn",
+      "real_name": "Lynn Griffiths",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "antiphreeeze",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6a4c0bec-5afb-4e72-8d13-300ef8f06568",
+    "type": "message",
+    "user": "U056K1UHEGP",
+    "text": "i can meet after 27th dec ! till then life is crazy rght nw",
+    "ts": "1702776808.127159",
+    "thread_ts": "1702774419.163139",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v6Znx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i can meet after 27th dec ! till then life is crazy rght nw"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/13e306b805121fa81ffc3395068bf579.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Sneha",
+      "real_name": "Sneha Chitre",
+      "display_name": "Sneha Chitre (KC)",
+      "team": "T050CSX3EMT",
+      "name": "sneha.chitre.usa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

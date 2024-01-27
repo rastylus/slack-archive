@@ -1,0 +1,242 @@
+[
+  {
+    "client_msg_id": "e750066d-50f2-4e22-8e92-40e382f7a3a8",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Hey Cory, I see that the API exercises are being saved into my sequel, and that the page the user gets sent to upon clicking, \"save exercise\" is workouts/create. And the selected API exercises show up as an option under exercises there, but after that it runs into an error, do I have this right? Also, I'm guessing there's some sort of duplication prevention in my sequel because I see the search exercises all get saved no matter if the user selected them or not which I don't think is a big deal considering the low amount of data plane text takes up. I think there might be a conflict with the routing that gets sent to workouts/create because the user created exercises aren't showing up along with the selected API exercises. I am going to look at fixing that right now! I will be doing my best to get a clean version of the project before Wednesday because I think our final demo is on Thursday.",
+    "ts": "1705340834.058089",
+    "thread_ts": "1705200947.684849",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0fDiV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Cory, I see that the API exercises are being saved into my sequel, and that the page the user gets sent to upon clicking, \"save exercise\" is workouts/create. And the selected API exercises show up as an option under exercises there, but after that it runs into an error, do I have this right? Also, I'm guessing there's some sort of duplication prevention in my sequel because I see the search exercises all get saved no matter if the user selected them or not which I don't think is a big deal considering the low amount of data plane text takes up. I think there might be a conflict with the routing that gets sent to workouts/create because the user created exercises aren't showing up along with the selected API exercises. I am going to look at fixing that right now! I will be doing my best to get a clean version of the project before Wednesday because I think our final demo is on Thursday."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "73e1254c-a5e5-42c0-b9c2-9af7c7629dee",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Have you tried saving the API exercises to userExercises yet?",
+    "ts": "1705340896.036199",
+    "thread_ts": "1705200947.684849",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XVHRW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Have you tried saving the API exercises to userExercises yet?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "474d2267-fbca-4252-9070-7fc963a57cf1",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "I have both forms of exercises showing up now. My current issue is getting the api exercises to save to a workout, if that makes sense. Let me push up my current work really quick.",
+    "ts": "1705341584.278859",
+    "thread_ts": "1705200947.684849",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pI7w/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have both forms of exercises showing up now. My current issue is getting the api exercises to save to a workout, if that makes sense. Let me push up my current work really quick."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6f4215ff-2563-47db-8ca7-69e58413714b",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Sorry, it's in development now. I meant to update it last night.",
+    "ts": "1705341804.535749",
+    "thread_ts": "1705200947.684849",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aMJ+Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry, it's in development now. I meant to update it last night."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a655570a-c591-4a87-9193-55588ea00446",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "All good I'll check it out!",
+    "ts": "1705341999.355009",
+    "thread_ts": "1705200947.684849",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "knLXd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "All good I'll check it out!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

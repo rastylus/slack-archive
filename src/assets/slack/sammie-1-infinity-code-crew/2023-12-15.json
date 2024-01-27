@@ -1,0 +1,64 @@
+[
+  {
+    "client_msg_id": "7103e272-ec36-4a90-969b-8f5f21b59500",
+    "type": "message",
+    "user": "U05656EM4EM",
+    "text": "\u003chttps://github.com/sammierosado/kismet/blob/master/server.js\u003e",
+    "ts": "1702608363.900249",
+    "attachments": [
+      {
+        "color": "24292f",
+        "fallback": "\u003chttps://github.com/sammierosado/kismet/blob/master/server.js | server.js\u003e",
+        "id": 1,
+        "title": "\u003chttps://github.com/sammierosado/kismet/blob/master/server.js | server.js\u003e",
+        "text": "```\n// const express = require('express');\n// const cors = require('cors');\n// const app = express();\n// const PORT = 4000;\n// require('dotenv').config();\n// const axios = require('axios');\n// const NodeCache = require('node-cache');\n\n// const cacheTTL = 3600; // 1 hour in seconds\n// const cache = new NodeCache({ stdTTL: cacheTTL, checkperiod: 120 });\n\n// app.use(cors());\n// app.use(express.json()); \n\n// app.get('/', (req, res) =\u003e {\n//     res.send(\"Welcome to the server!\");\n// });\n\n// \u003chttp://app.post|app.post\u003e('/openai', async (req, res) =\u003e {\n//     const MAX_RETRIES = 3;\n//     const RETRY_BASE_DELAY = 500;\n//     let attempt = 0;\n\n//     // Extract user input from request body\n//     const userInput = req.body.input;\n\n//     // Check cache\n//     const cachedData = cache.get(userInput);\n//     if (cachedData) {\n//         return res.json(cachedData);\n//     }\n\n//     while (attempt \u003c MAX_RETRIES) {\n//         try {\n//             // Send the input to OpenAI's API\n//             const response = await axios.post('https://api.openai.com/v1/engines/davinci/completions', {\n//                 prompt: userInput,\n//                 max_tokens: 1000\n//             }, {\n//                 headers: {\n//                     'Authorization': `Bearer ${process.env.OPENAI_API_KEY}`,\n//                     'Content-Type': 'application/json'\n//                 }\n//             });\n\n//             // Cache the response from OpenAI before sending it back\n//             const responseData = response.data.choices[0].text.trim();\n//             cache.set(userInput, responseData);\n\n//             // Send the cached response to the client\n//             return res.json(responseData);\n\n//         } catch (error) {\n//             if (error.response \u0026\u0026 error.response.status === 429) {\n//                 await new Promise(res =\u003e setTimeout(res, RETRY_BASE_DELAY * (2 ** attempt)));\n//                 attempt++;\n//             } else {\n//                 console.error('Error communicating with OpenAI:', error);\n//                 return res.status(500).json({ message: \"Internal Server Error\", error: error.message });\n//             }\n//         }\n//     }\n\n//     res.status(429).json({ message: \"Too Many Requests. Please try again later.\" });\n// });\n\n// app.listen(PORT, () =\u003e {\n//     console.log(`Server is running on \u003chttp://localhost:${PORT}`\u003e);\n// });\n\nconst express = require('express');\nconst axios = require('axios');\nconst cors = require('cors');\nconst NodeCache = require('node-cache');\n\nrequire('dotenv').config();\n\nconst app = express();\napp.use(cors());\n\nconst PORT = 4000;\n\napp.use(express.json());\nconst cacheTTL = 3600; \nconst cache = new NodeCache({ stdTTL: cacheTTL, checkperiod: 120 });\n\n\n\u003chttp://app.post|app.post\u003e('/ask-gpt', async (req, res) =\u003e {\n    const data = {\n        model: \"gpt-3.5-turbo\",\n        messages: req.body.messages\n    };\n\n    try {\n        const response = await \u003chttp://axios.post|axios.post\u003e('\u003chttps://api.openai.com/v1/chat/completions\u003e', data, {\n            headers: {\n                'Authorization': `Bearer ${process.env.OPENAI_API_KEY}`,\n                'Content-Type': 'application/json',\n                'Access-Control-Allow-Origin': '*',\n\n            }\n        });\n        res.send(response.data);\n    } catch (error) {\n        res.status(500).send({ error: error.message });\n    }\n});\n\napp.listen(PORT, () =\u003e {\n    console.log(`Server is running on port ${PORT}`);\n});\n\n```",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/sammierosado/kismet|sammierosado/kismet\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png"
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uyqPd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/sammierosado/kismet/blob/master/server.js",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-08/5546028551765_ef5cfd16f93e919dda43_72.jpg",
+      "first_name": "TA",
+      "real_name": "TA Sammie Mendez (she/her)",
+      "display_name": "TA - Sammie",
+      "team": "T050CSX3EMT",
+      "name": "sammierosado",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

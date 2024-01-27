@@ -1,0 +1,1223 @@
+[
+  {
+    "client_msg_id": "5220c474-5f3b-4984-a2c1-e561b829e40b",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "I went ahead and added a new document to the Sprinkles Google Doc folder called \"\u003chttps://docs.google.com/document/d/1db1w42eot420BAeYVSP8qmc3IU4UOqg2h6ijK_w7GuU/edit|Useful Resources\u003e.\" Here, we can add any helpful/related links to anything we're working on. Currently there are a few for API and one for UI.",
+    "ts": "1702348964.219939",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "giyNf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I went ahead and added a new document to the Sprinkles Google Doc folder called \""
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1db1w42eot420BAeYVSP8qmc3IU4UOqg2h6ijK_w7GuU/edit",
+                "text": "Useful Resources"
+              },
+              {
+                "type": "text",
+                "text": ".\" Here, we can add any helpful/related links to anything we're working on. Currently there are a few for API and one for UI."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4fcc2e4b-ea48-4289-bcc3-1d3eff8bca0e",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "We held off on doing a Git pull request so that we can all be there for the first one. If it works for everyone, we can plan to meet tomorrow or Wednesday at some time between 5-7 p.m. (should be a relatively quick meeting ~30 mins). \u003chttps://docs.google.com/forms/d/e/1FAIpQLSfiQaBSYhlmqIxyfedXybmXAuWB9EJGVP8liKzRT3gWu8Se8A/viewform?usp=sf_link|Poll to see which times work best\u003e",
+    "ts": "1702349354.022969",
+    "thread_ts": "1702349354.022969",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U05777MT72P",
+        "ts": "1702404834.921599"
+      },
+      {
+        "user": "U056YD04Q30",
+        "ts": "1702409672.175979"
+      },
+      {
+        "user": "U05777MT72P",
+        "ts": "1702412847.840649"
+      }
+    ],
+    "latest_reply": "1702412847.840649",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "pray::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U057HGZ7W8Z"
+        ]
+      },
+      {
+        "name": "pray",
+        "count": 2,
+        "users": [
+          "U057WAMKE5N",
+          "U056YD04Q30"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FMObx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We held off on doing a Git pull request so that we can all be there for the first one. If it works for everyone, we can plan to meet tomorrow or Wednesday at some time between 5-7 p.m. (should be a relatively quick meeting ~30 mins). "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSfiQaBSYhlmqIxyfedXybmXAuWB9EJGVP8liKzRT3gWu8Se8A/viewform?usp=sf_link",
+                "text": "Poll to see which times work best"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056YD04Q30",
+      "U05777MT72P"
+    ]
+  },
+  {
+    "client_msg_id": "0be3f1fb-7b42-4a05-a07f-ea5e0639a282",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Thank you guys! Sorry I got held up, the kiddo was sick, life is hard, etc. etc.",
+    "ts": "1702349903.005869",
+    "thread_ts": "1702349903.005869",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U057WAMKE5N",
+        "ts": "1702350057.152479"
+      },
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1702350114.405269"
+      },
+      {
+        "user": "U057WAMKE5N",
+        "ts": "1702350184.901759"
+      },
+      {
+        "user": "U056YD04Q30",
+        "ts": "1702353422.233409"
+      },
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1702397784.878889"
+      },
+      {
+        "user": "U057WAMKE5N",
+        "ts": "1702400596.415429"
+      }
+    ],
+    "latest_reply": "1702400596.415429",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "slightly_frowning_face",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q+pB5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you guys! Sorry I got held up, the kiddo was sick, life is hard, etc. etc."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056YD04Q30",
+      "U057HGZ7W8Z",
+      "U057WAMKE5N"
+    ]
+  },
+  {
+    "client_msg_id": "ff819151-e9d9-4045-900c-54cc5b344f32",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Sorry to hear that! Hope she gets to feeling better soon!",
+    "ts": "1702350057.152479",
+    "thread_ts": "1702349903.005869",
+    "parent_user_id": "U057HGZ7W8Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9Ebwa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry to hear that! Hope she gets to feeling better soon!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "05cff41b-e0b0-45b6-ac36-f2de240693a8",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Yah I think it might have been a one off, she definitely perked up after we put Frozen on :woman-shrugging: lol toddlers.",
+    "ts": "1702350114.405269",
+    "thread_ts": "1702349903.005869",
+    "parent_user_id": "U057HGZ7W8Z",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      },
+      {
+        "name": "laughing",
+        "count": 1,
+        "users": [
+          "U05777MT72P"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aoDZx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yah I think it might have been a one off, she definitely perked up after we put Frozen on "
+              },
+              {
+                "type": "emoji",
+                "name": "woman-shrugging",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " lol toddlers."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7b7623b1-a697-4961-bbbf-70a57b12114e",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Of course! lol",
+    "ts": "1702350184.901759",
+    "thread_ts": "1702349903.005869",
+    "parent_user_id": "U057HGZ7W8Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eKGGp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Of course! lol"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E5F635CF-7049-4055-BCEE-18C49F7D52D2",
+    "type": "message",
+    "user": "U056YD04Q30",
+    "text": "Hope she gets well soon ",
+    "ts": "1702353422.233409",
+    "thread_ts": "1702349903.005869",
+    "parent_user_id": "U057HGZ7W8Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kFaCz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hope she gets well soon "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240107488693_9bf114e71863cebbf28e_72.jpg",
+      "first_name": "Sukanya",
+      "real_name": "Sukanya Shanmugam",
+      "display_name": "Sukanya Venkatesh",
+      "team": "T050CSX3EMT",
+      "name": "sukanya.s1793",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a1eac05d-b981-486d-a2c3-2b25eb824688",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Yes turns out she's *actually sick. Lucki*ly Grandma is able to come help out.",
+    "ts": "1702397784.878889",
+    "thread_ts": "1702349903.005869",
+    "parent_user_id": "U057HGZ7W8Z",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "cry",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      },
+      {
+        "name": "pensive",
+        "count": 1,
+        "users": [
+          "U05777MT72P"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zkojs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes turns out she's "
+              },
+              {
+                "type": "text",
+                "text": "actually sick. Lucki",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "ly Grandma is able to come help out."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b0fc954a-b4ce-4329-b708-5263d3582302",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Oh no! Poor baby!",
+    "ts": "1702400596.415429",
+    "thread_ts": "1702349903.005869",
+    "parent_user_id": "U057HGZ7W8Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "elqWH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh no! Poor baby!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4b30c87c-01c8-4cfe-919b-17969d158b91",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "Here are the results. I didn't respond to it since all of the times work for me. Does 6 p.m. tonight sound good for those who can make it? Then, whoever picked tomorrow instead, I can meet with at 5 p.m. (tomorrow) to catch them up on what was covered.",
+    "ts": "1702404834.921599",
+    "thread_ts": "1702349354.022969",
+    "edited": {
+      "user": "U05777MT72P",
+      "ts": "1702406155.000000"
+    },
+    "parent_user_id": "U05777MT72P",
+    "files": [
+      {
+        "id": "F069DK3825V",
+        "created": 1702404606,
+        "timestamp": 1702404606,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U05777MT72P",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 21191,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F069DK3825V/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F069DK3825V/download/image.png",
+        "original_h": 361,
+        "original_w": 770,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F069DK3825V-e91a359bb7/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F069DK3825V-e91a359bb7/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F069DK3825V-e91a359bb7/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F069DK3825V-e91a359bb7/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 169,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F069DK3825V-e91a359bb7/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 225,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F069DK3825V-e91a359bb7/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 338,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05777MT72P/F069DK3825V/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F069DK3825V-5947a8d417",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zBqUV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Here are the results. I didn't respond to it since all of the times work for me. Does 6 p.m. tonight sound good for those who can make it? Then, whoever picked tomorrow instead, I can meet with at 5 p.m. (tomorrow) to catch them up on what was covered."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "86743167-291e-476a-ae79-4243a40f54c1",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Hey guys! Did we decide whether or not we are meeting up today or tomorrow since we got that drop date Monday or are we just waiting till Thursday?",
+    "ts": "1702409393.715769",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6wdh2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys! Did we decide whether or not we are meeting up today or tomorrow since we got that drop date Monday or are we just waiting till Thursday?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E9A74755-A9CC-46CF-990B-72F3ADD4C2EC",
+    "type": "message",
+    "user": "U056YD04Q30",
+    "text": "How long this call ll go ? ",
+    "ts": "1702409672.175979",
+    "thread_ts": "1702349354.022969",
+    "parent_user_id": "U05777MT72P",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DBkZz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How long this call ll go ? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240107488693_9bf114e71863cebbf28e_72.jpg",
+      "first_name": "Sukanya",
+      "real_name": "Sukanya Shanmugam",
+      "display_name": "Sukanya Venkatesh",
+      "team": "T050CSX3EMT",
+      "name": "sukanya.s1793",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "621919c5-76d1-4815-b864-531ce9db8be9",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "I can do tonight, I'm not sure if Zach got all the responses compared. What was the drop date?",
+    "ts": "1702410953.833949",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4EJww",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can do tonight, I'm not sure if Zach got all the responses compared. What was the drop date?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A37CF279-F262-4274-91AE-8CA03946E7D8",
+    "type": "message",
+    "user": "U056YD04Q30",
+    "text": "Ya got the response for today 6 pm .",
+    "ts": "1702411463.547049",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U057HGZ7W8Z"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HFiMI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ya got the response for today 6 pm ."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240107488693_9bf114e71863cebbf28e_72.jpg",
+      "first_name": "Sukanya",
+      "real_name": "Sukanya Shanmugam",
+      "display_name": "Sukanya Venkatesh",
+      "team": "T050CSX3EMT",
+      "name": "sukanya.s1793",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b34eea0e-17ff-4a4c-b36c-9683dc033742",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Oh, I see the thread now, my b!",
+    "ts": "1702411595.872679",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CdWqM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh, I see the thread now, my b!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d2492a2b-f5f7-4264-b1e2-91468d736361",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "Most likely around 30 mins.",
+    "ts": "1702412847.840649",
+    "thread_ts": "1702349354.022969",
+    "parent_user_id": "U05777MT72P",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056YD04Q30"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eKbQ1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Most likely around 30 mins."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fc64de01-9810-4c7a-8942-ff0e9e846bc2",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Okay sounds good! I'll be on at 6 then. I didn't see the thread.",
+    "ts": "1702421131.214299",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b3kKW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay sounds good! I'll be on at 6 then. I didn't see the thread."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "df2af7df-7844-4613-9fe9-8a8bba94b27e",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Drop date is next Monday the 18th. We got some info on it yesterday we will have to share with you tonight.",
+    "ts": "1702422985.016759",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+8wzb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Drop date is next Monday the 18th. We got some info on it yesterday we will have to share with you tonight."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "47c40954-cf56-4bc6-a04f-5e68a014e8b7",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "what are we meeting up on today?",
+    "ts": "1702425322.014499",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "w8v9a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what are we meeting up on today?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "da2892e0-7ff7-49ca-9986-f7c5bfb473b0",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "Google?",
+    "ts": "1702425565.688129",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pP28d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Google?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cbcabf52-8eb8-41fd-8e00-6f20adedb72e",
+    "type": "message",
+    "user": "U056YD04Q30",
+    "text": "link ??",
+    "ts": "1702425594.498709",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SKD6P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "link ??"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240107488693_9bf114e71863cebbf28e_72.jpg",
+      "first_name": "Sukanya",
+      "real_name": "Sukanya Shanmugam",
+      "display_name": "Sukanya Venkatesh",
+      "team": "T050CSX3EMT",
+      "name": "sukanya.s1793",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,1219 @@
+[
+  {
+    "client_msg_id": "8ef01612-8b4b-476a-be72-adb2cbf607fd",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "anybody know anything about cors? I'm getting this error 'Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at \u003chttp://localhost:8080/enroll\u003e. (Reason: CORS header ‘Access-Control-Allow-Origin’ missing). Status code: 302.'",
+    "ts": "1704587722.802119",
+    "thread_ts": "1704587722.802119",
+    "reply_count": 11,
+    "replies": [
+      {
+        "user": "U05777MT72P",
+        "ts": "1704595446.463369"
+      },
+      {
+        "user": "U057WAMKE5N",
+        "ts": "1704595487.084139"
+      },
+      {
+        "user": "U05777MT72P",
+        "ts": "1704595734.645759"
+      },
+      {
+        "user": "U057WAMKE5N",
+        "ts": "1704595851.349399"
+      },
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1704600125.494759"
+      },
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1704600135.677569"
+      },
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1704600148.463429"
+      },
+      {
+        "user": "U057WAMKE5N",
+        "ts": "1704602003.460119"
+      },
+      {
+        "user": "U057WAMKE5N",
+        "ts": "1704648383.030579"
+      },
+      {
+        "user": "U05777MT72P",
+        "ts": "1704648519.854839"
+      },
+      {
+        "user": "U057WAMKE5N",
+        "ts": "1704648574.711369"
+      }
+    ],
+    "latest_reply": "1704648574.711369",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JeiIE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "anybody know anything about cors? I'm getting this error 'Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at "
+              },
+              {
+                "type": "link",
+                "url": "http://localhost:8080/enroll",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": ". (Reason: CORS header ‘Access-Control-Allow-Origin’ missing). Status code: 302.'"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U05777MT72P",
+      "U057HGZ7W8Z",
+      "U057WAMKE5N"
+    ]
+  },
+  {
+    "client_msg_id": "cfb12c40-adef-4ca2-9430-246aa72cb983",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "I don't, but this might help: \u003chttps://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/Errors/CORSMissingAllowOrigin\u003e",
+    "ts": "1704595446.463369",
+    "thread_ts": "1704587722.802119",
+    "attachments": [
+      {
+        "fallback": "MDN Web Docs: Reason: CORS header 'Access-Control-Allow-Origin' missing - HTTP | MDN",
+        "id": 1,
+        "title": "Reason: CORS header 'Access-Control-Allow-Origin' missing - HTTP | MDN",
+        "title_link": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/Errors/CORSMissingAllowOrigin",
+        "text": "The response to the CORS request is missing the required\n Access-Control-Allow-Origin header, which is used to determine whether\n or not the resource can be accessed by content operating within the current origin.",
+        "image_url": "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png",
+        "service_name": "MDN Web Docs",
+        "service_icon": "https://developer.mozilla.org/apple-touch-icon.6803c6f0.png",
+        "from_url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/Errors/CORSMissingAllowOrigin",
+        "original_url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/Errors/CORSMissingAllowOrigin",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6jrMb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I don't, but this might help: "
+              },
+              {
+                "type": "link",
+                "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/Errors/CORSMissingAllowOrigin",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "67d9e364-1c70-4071-a8f6-352a06dc0d82",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Okay I'll check it out. Thank you!",
+    "ts": "1704595487.084139",
+    "thread_ts": "1704587722.802119",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05777MT72P"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v6qHQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay I'll check it out. Thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b31e207b-bd29-4d2c-8794-2e614212fec6",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "Which controller are you working with? It looks like one possibility might be to add\n```@CrossOrigin(origins = \"\u003chttp://localhost:5173\u003e\", maxAge = 3600)```\nto it.",
+    "ts": "1704595734.645759",
+    "thread_ts": "1704587722.802119",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "43XyV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Which controller are you working with? It looks like one possibility might be to add\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"@CrossOrigin(origins = \\\"\"},{\"type\":\"link\",\"url\":\"http:\\/\\/localhost:5173\"},{\"type\":\"text\",\"text\":\"\\\", maxAge = 3600)\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "to it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "92514f9d-e54e-4928-bf25-1b14e580031d",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Okay. I can see if that works. I was working on connecting my enroll button on the front end to the back end. So viewAllCourses in the front end to the course controller in the back end. I'm pretty sure it's the paths thats the problem.",
+    "ts": "1704595851.349399",
+    "thread_ts": "1704587722.802119",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jXibG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay. I can see if that works. I was working on connecting my enroll button on the front end to the back end. So viewAllCourses in the front end to the course controller in the back end. I'm pretty sure it's the paths thats the problem."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "044e6280-7584-438e-b77c-ebfc513e80f4",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "I had to whitelist “/courses” on AuthenticationFilter to stop getting this. Until we’ve got the user session stored I think this is what we have to do.",
+    "ts": "1704600125.494759",
+    "thread_ts": "1704587722.802119",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jbVxs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I had to whitelist “/courses” on AuthenticationFilter to stop getting this. Until we’ve got the user session stored I think this is what we have to do."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4fb7a36f-e869-4a23-ba44-a47389bd0112",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "so you can also add “/enroll”",
+    "ts": "1704600135.677569",
+    "thread_ts": "1704587722.802119",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xQmlK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so you can also add “/enroll”"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "186ecb3d-9169-4256-91e2-7d76fecb1f09",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "(if that’s the path)",
+    "ts": "1704600148.463429",
+    "thread_ts": "1704587722.802119",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3Kckc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "(if that’s the path)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "84ed9332-3c0e-426f-bd54-384e1ead1bf3",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Ohh okay. I have /enroll on mine but I have localhost:8080/enroll",
+    "ts": "1704602003.460119",
+    "thread_ts": "1704587722.802119",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OQCeW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ohh okay. I have /enroll on mine but I have localhost:8080/enroll"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5b1f2a80-59dd-45a1-895f-aeba97c2574c",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Yeah I'm looking at it this morning and we have the cross origin annotation so idk what else could be wrong with it. I even installed cors (npm install cors)  and I'm still getting the same error. Not sure how we would fix that. Also still unable to register a user. Did you even get yours working Zach?",
+    "ts": "1704648383.030579",
+    "thread_ts": "1704587722.802119",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0nwg1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah I'm looking at it this morning and we have the cross origin annotation so idk what else could be wrong with it. I even installed cors (npm install cors)  and I'm still getting the same error. Not sure how we would fix that. Also still unable to register a user. Did you even get yours working Zach?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "df190ab2-2c56-4130-90d7-d8eca1474cba",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "I haven't yet. I'm working with a different error on my end right now :face_with_spiral_eyes:",
+    "ts": "1704648519.854839",
+    "thread_ts": "1704587722.802119",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vNWWW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I haven't yet. I'm working with a different error on my end right now "
+              },
+              {
+                "type": "emoji",
+                "name": "face_with_spiral_eyes",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d6d4070c-f40a-4e86-a48b-3fd6e92799c7",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Okay I'm trying to figure out the whitelist stuff Mad suggested to see if my enroll button will work until we can figure out this cors issue.",
+    "ts": "1704648574.711369",
+    "thread_ts": "1704587722.802119",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SzTz5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay I'm trying to figure out the whitelist stuff Mad suggested to see if my enroll button will work until we can figure out this cors issue."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7c4beb86-97bf-475e-8d42-dc4428d6f9fb",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Anybody know if we are still planning on meeting at 4 since Sukanya wasn't able to?",
+    "ts": "1704649477.039659",
+    "thread_ts": "1704649477.039659",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U05777MT72P",
+        "ts": "1704653217.436039"
+      },
+      {
+        "user": "U057WAMKE5N",
+        "ts": "1704653268.723749"
+      },
+      {
+        "user": "U05777MT72P",
+        "ts": "1704659073.537339"
+      },
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1704659153.048799"
+      },
+      {
+        "user": "U057WAMKE5N",
+        "ts": "1704660202.161069"
+      },
+      {
+        "user": "U056YD04Q30",
+        "ts": "1704676459.265779"
+      }
+    ],
+    "latest_reply": "1704676459.265779",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T/sub",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anybody know if we are still planning on meeting at 4 since Sukanya wasn't able to?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U056YD04Q30",
+      "U05777MT72P",
+      "U057HGZ7W8Z",
+      "U057WAMKE5N"
+    ]
+  },
+  {
+    "client_msg_id": "7b46fb58-ebed-4949-b26b-0e8b695bae2a",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "4 works for me.",
+    "ts": "1704653217.436039",
+    "thread_ts": "1704649477.039659",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TgcRE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "4 works for me."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b0d3094a-ad87-4e5e-927d-eb3184ccf324",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Okay. We will wait to see what Mads got going on. I know she said she was busy today so if she's able to we can if not we might as well wait till tomorrow.",
+    "ts": "1704653268.723749",
+    "thread_ts": "1704649477.039659",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05777MT72P"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "I+WD+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay. We will wait to see what Mads got going on. I know she said she was busy today so if she's able to we can if not we might as well wait till tomorrow."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0f12f66c-82f7-465f-b81a-76404929bee6",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "\u003c@U057HGZ7W8Z\u003e \u003c@U057WAMKE5N\u003e If it works for both of you, I'd be cool with doing a super quick update meeting now even. Or we can wait until 4. I've been trying to troubleshoot this error all morning and I'm about to go mad over it.",
+    "ts": "1704659073.537339",
+    "thread_ts": "1704649477.039659",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j8OND",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057HGZ7W8Z"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U057WAMKE5N"
+              },
+              {
+                "type": "text",
+                "text": " If it works for both of you, I'd be cool with doing a super quick update meeting now even. Or we can wait until 4. I've been trying to troubleshoot this error all morning and I'm about to go mad over it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "688cbe1d-7813-43d8-b27e-674bef254ffa",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Gotta run to swim lessons soon but can hop on real quick brt",
+    "ts": "1704659153.048799",
+    "thread_ts": "1704649477.039659",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05777MT72P"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pht/V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Gotta run to swim lessons soon but can hop on real quick brt"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f9415951-d385-4050-a89e-329c7ff60d19",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Okay the bookmarked zoom link above should work",
+    "ts": "1704659273.735439",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BqGnK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay the bookmarked zoom link above should work"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f86d3afc-8c9b-4e23-88a7-4435c4eefbe3",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "@Entity\npublic class Module extends AbstractEntity {\n\n    @ManyToOne\n    @JsonBackReference\n    @JoinColumn(name=“course_Id”)\n    private Course course;",
+    "ts": "1704660077.719249",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "44+f9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "@Entity\npublic class Module extends AbstractEntity {\n\n    @ManyToOne\n    @JsonBackReference\n    @JoinColumn(name=“course_Id”)\n    private Course course;"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "06df8e2c-9116-4bfe-ab78-eb585b6bb11f",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "@Entity\npublic class Course extends AbstractEntity{\n\n    @OneToMany(mappedBy = “course”)\n//    @JoinColumn(name = “course_id”)\n    @JsonManagedReference\n    private List\u0026lt;Module\u0026gt; modules = new ArrayList\u0026lt;\u0026gt;();",
+    "ts": "1704660095.383759",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ck6VG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "@Entity\npublic class Course extends AbstractEntity{\n\n    @OneToMany(mappedBy = “course”)\n//    @JoinColumn(name = “course_id”)\n    @JsonManagedReference\n    private List\u003cModule\u003e modules = new ArrayList\u003c\u003e();"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b4bcd00c-f898-4e5f-a88d-1a678f5cabae",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Yeah I can do that. Let me know when you can hop on Mad. I'm getting out of the shower right now and then I'm ready.",
+    "ts": "1704660202.161069",
+    "thread_ts": "1704649477.039659",
+    "parent_user_id": "U057WAMKE5N",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1EXN5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah I can do that. Let me know when you can hop on Mad. I'm getting out of the shower right now and then I'm ready."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d18e3ca1-72d3-407c-8b0b-b7b0ebdd9ac8",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Give me a min and I'll be on. Forgot my sister's day dinner is at 4 so I'm down for before 4.",
+    "ts": "1704660291.102239",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0yx8r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Give me a min and I'll be on. Forgot my sister's day dinner is at 4 so I'm down for before 4."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

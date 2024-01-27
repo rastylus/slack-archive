@@ -1,0 +1,695 @@
+[
+  {
+    "client_msg_id": "1fb9b01c-0256-4e9b-affb-1822305238e0",
+    "type": "message",
+    "user": "U057HFYT7B3",
+    "text": "\u003c@U05794241U4\u003e I looked over your pull request. Everything looks okay except for the index.js file. It is missing a couple of the new routes from the previous pull requests.",
+    "ts": "1703991840.179769",
+    "thread_ts": "1703991840.179769",
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U05794241U4",
+        "ts": "1704033358.434679"
+      },
+      {
+        "user": "U057HFYT7B3",
+        "ts": "1704038770.009739"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1704055315.434629"
+      },
+      {
+        "user": "U05794241U4",
+        "ts": "1704055776.535649"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1704055840.015529"
+      },
+      {
+        "user": "U05794241U4",
+        "ts": "1704056588.087139"
+      },
+      {
+        "user": "U05794241U4",
+        "ts": "1704056740.639539"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1704057218.254439"
+      },
+      {
+        "user": "U05794241U4",
+        "ts": "1704063303.097439"
+      }
+    ],
+    "latest_reply": "1704063303.097439",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XgR5O",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05794241U4"
+              },
+              {
+                "type": "text",
+                "text": " I looked over your pull request. Everything looks okay except for the index.js file. It is missing a couple of the new routes from the previous pull requests."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/7b50144ab2b43edd5307cd9670782471.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Martin",
+      "real_name": "Martin Yap",
+      "display_name": "Martin Yap",
+      "team": "T050CSX3EMT",
+      "name": "myap4133",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056SERBK2B",
+      "U05794241U4",
+      "U057HFYT7B3"
+    ]
+  },
+  {
+    "client_msg_id": "9b31dfd8-f0ea-4b67-b823-ed118b78afaa",
+    "type": "message",
+    "user": "U05794241U4",
+    "text": "So to be able to merge my changes to main: Do i have to  make those changes in index.js and make a new push - pull request?",
+    "ts": "1704033358.434679",
+    "thread_ts": "1703991840.179769",
+    "parent_user_id": "U057HFYT7B3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dx7h9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So to be able to merge my changes to main: Do i have to  make those changes in index.js and make a new push - pull request?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230158607095_79d4833f75e0a0c06d85_72.jpg",
+      "first_name": "ronaldgutierrezj",
+      "real_name": "ronaldgutierrezj",
+      "display_name": "Ronald Gutierrez",
+      "team": "T050CSX3EMT",
+      "name": "ronaldgutierrezj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b407591b-3d72-49f6-9d2e-674c32076ee6",
+    "type": "message",
+    "user": "U057HFYT7B3",
+    "text": "I believe so since github is saying there is a merge conflict with that file between the main and your branch",
+    "ts": "1704038770.009739",
+    "thread_ts": "1703991840.179769",
+    "parent_user_id": "U057HFYT7B3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7w6mz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I believe so since github is saying there is a merge conflict with that file between the main and your branch"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/7b50144ab2b43edd5307cd9670782471.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Martin",
+      "real_name": "Martin Yap",
+      "display_name": "Martin Yap",
+      "team": "T050CSX3EMT",
+      "name": "myap4133",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "60ecd7b7-d59b-4c45-a9dd-debf2391df5c",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "\u003c@U05794241U4\u003e did you pull the lastest version of main down to your local before pushing?",
+    "ts": "1704055315.434629",
+    "thread_ts": "1703991840.179769",
+    "parent_user_id": "U057HFYT7B3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PDKwP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05794241U4"
+              },
+              {
+                "type": "text",
+                "text": " did you pull the lastest version of main down to your local before pushing?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "705e10a5-8fd7-40c2-ba04-752a9431710e",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "Events are working. I created a pull request.",
+    "ts": "1704055350.969189",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GK9Ov",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Events are working. I created a pull request."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b9f572c2-08df-4b0f-afe8-e38c083cdf16",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "Actually I am going to cancel that until Ronald gets his through",
+    "ts": "1704055504.980639",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "D1otV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Actually I am going to cancel that until Ronald gets his through"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ac9a2272-458c-438c-9238-0fa8f274facd",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "How do I delete it? Do I just mark it as closed?",
+    "ts": "1704055577.754279",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lFboY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How do I delete it? Do I just mark it as closed?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9E2ACDE1-9C21-4E08-8A96-46C7901AF53E",
+    "type": "message",
+    "user": "U05794241U4",
+    "text": "I did not…",
+    "ts": "1704055776.535649",
+    "thread_ts": "1703991840.179769",
+    "parent_user_id": "U057HFYT7B3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fSZ6z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I did not"
+              },
+              {
+                "type": "text",
+                "text": "…"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230158607095_79d4833f75e0a0c06d85_72.jpg",
+      "first_name": "ronaldgutierrezj",
+      "real_name": "ronaldgutierrezj",
+      "display_name": "Ronald Gutierrez",
+      "team": "T050CSX3EMT",
+      "name": "ronaldgutierrezj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eb8ea448-5a7d-4ae6-a1d0-ecb8dde1a210",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "You always want to make sure you are up to date before trying to merge to main.",
+    "ts": "1704055840.015529",
+    "thread_ts": "1703991840.179769",
+    "parent_user_id": "U057HFYT7B3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H+erU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You always want to make sure you are up to date before trying to merge to main."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "09B5D4D8-D94F-4AF0-9F73-9D2FCFA0270A",
+    "type": "message",
+    "user": "U05794241U4",
+    "text": "So should i deletethe pull requests that I did earlier and make a new one? ",
+    "ts": "1704056588.087139",
+    "thread_ts": "1703991840.179769",
+    "parent_user_id": "U057HFYT7B3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DaQkX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So should i deletethe pull requests that I did earlier and make a new one? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230158607095_79d4833f75e0a0c06d85_72.jpg",
+      "first_name": "ronaldgutierrezj",
+      "real_name": "ronaldgutierrezj",
+      "display_name": "Ronald Gutierrez",
+      "team": "T050CSX3EMT",
+      "name": "ronaldgutierrezj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "14913666-83BD-486A-ACA8-7DAAD581ED6D",
+    "type": "message",
+    "user": "U05794241U4",
+    "text": "i just downloaded the latest version of main to my local, fixed the conflicts and merge with my branch. Do I have to make a new push and then a new pull request?",
+    "ts": "1704056740.639539",
+    "thread_ts": "1703991840.179769",
+    "parent_user_id": "U057HFYT7B3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZfmjD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i just downloaded the latest version of main to my local, fixed the conflicts and merge with my branch. Do I have to make a new push and then a new pull request"
+              },
+              {
+                "type": "text",
+                "text": "?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230158607095_79d4833f75e0a0c06d85_72.jpg",
+      "first_name": "ronaldgutierrezj",
+      "real_name": "ronaldgutierrezj",
+      "display_name": "Ronald Gutierrez",
+      "team": "T050CSX3EMT",
+      "name": "ronaldgutierrezj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "57A0D5DA-25B0-43B8-A188-86CB44039BA0",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "Yes. I think you just mark the other one closed. ",
+    "ts": "1704057218.254439",
+    "thread_ts": "1703991840.179769",
+    "parent_user_id": "U057HFYT7B3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W8zy7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes. I think you just mark the other one closed"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3F46EBE2-483D-423A-B730-F5AF4934722C",
+    "type": "message",
+    "user": "U05794241U4",
+    "text": "now when Im trying to push again says that everything is up to date…  grrr",
+    "ts": "1704063303.097439",
+    "thread_ts": "1703991840.179769",
+    "parent_user_id": "U057HFYT7B3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vQTN6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "now when Im trying to push again says that everything is up to date"
+              },
+              {
+                "type": "text",
+                "text": "…"
+              },
+              {
+                "type": "text",
+                "text": "  grrr"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230158607095_79d4833f75e0a0c06d85_72.jpg",
+      "first_name": "ronaldgutierrezj",
+      "real_name": "ronaldgutierrezj",
+      "display_name": "Ronald Gutierrez",
+      "team": "T050CSX3EMT",
+      "name": "ronaldgutierrezj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "client_msg_id": "5b38c531-91f8-4cb3-b226-c7ea6c00a0c9",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "It turns out I should've made a reminder in my phone about the meeting :flushed: I'm going to blame it on staying up far too late last night for my birthday. Sorry, all, for missing it earlier.",
+    "ts": "1701663531.087039",
+    "thread_ts": "1701640935.691389",
+    "parent_user_id": "U057HGZ7W8Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Qoct3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It turns out I should've made a reminder in my phone about the meeting "
+              },
+              {
+                "type": "emoji",
+                "name": "flushed",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " I'm going to blame it on staying up far too late last night for my birthday. Sorry, all, for missing it earlier."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "feadfe8d-f676-473c-b6c4-e1626d9f9920",
+    "type": "message",
+    "user": "U0625KF6RLH",
+    "text": "Hi all! As a reminder, Liftoff questions can go to me, or in doubt, tag \u003c@U050FMK1S83\u003e, \u003c@U066ED0A4DU\u003e, and myself. Each person has to have 3 features total, with each person owning one of the major features common to all projects. If you'd like to scale back, go ahead, and tag the three of us when you are done so we can approve.",
+    "ts": "1701704822.776669",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U050FMK1S83",
+          "U057HGZ7W8Z"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3syv+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi all! As a reminder, Liftoff questions can go to me, or in doubt, tag "
+              },
+              {
+                "type": "user",
+                "user_id": "U050FMK1S83"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "user",
+                "user_id": "U066ED0A4DU"
+              },
+              {
+                "type": "text",
+                "text": ", and myself. Each person has to have 3 features total, with each person owning one of the major features common to all projects. If you'd like to scale back, go ahead, and tag the three of us when you are done so we can approve."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-19/6068347004260_cd7e855b65583e9c6d43_72.jpg",
+      "first_name": "Melinda",
+      "real_name": "Melinda Stitzel",
+      "display_name": "Liftoff Program Manager - Melinda (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "melinda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

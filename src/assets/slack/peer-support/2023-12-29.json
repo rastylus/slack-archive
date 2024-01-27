@@ -1,0 +1,143 @@
+[
+  {
+    "client_msg_id": "4d6448d5-4fc4-40e2-af3e-bf2480afdc7d",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "does anyone have a link to the github list of APIs? the one we were planning to use is now offline, unfortunately :meow_party:",
+    "ts": "1703811758.976469",
+    "thread_ts": "1703811758.976469",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1703819350.280769"
+      }
+    ],
+    "latest_reply": "1703819350.280769",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b9X1f",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "does anyone have a link to the github list of APIs? the one we were planning to use is now offline, unfortunately "
+              },
+              {
+                "type": "emoji",
+                "name": "meow_party",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056Q9W022K"
+    ]
+  },
+  {
+    "client_msg_id": "d452a19e-c380-4b9e-ae99-a95cebb4e583",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U057HGZ7W8Z\u003e is this what you are looking for? \u003chttps://github.com/public-apis/public-apis\u003e",
+    "ts": "1703819350.280769",
+    "thread_ts": "1703811758.976469",
+    "attachments": [
+      {
+        "color": "24292f",
+        "fallback": "public-apis/public-apis",
+        "id": 1,
+        "title": "public-apis/public-apis",
+        "text": "A collective list of free APIs",
+        "fields": [
+          {
+            "title": "Website",
+            "value": "\u003chttp://public-apis.org\u003e",
+            "short": true
+          },
+          {
+            "title": "Stars",
+            "value": "273249",
+            "short": true
+          }
+        ],
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U057HGZ7W8Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HtjfB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057HGZ7W8Z"
+              },
+              {
+                "type": "text",
+                "text": " is this what you are looking for? "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/public-apis/public-apis",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

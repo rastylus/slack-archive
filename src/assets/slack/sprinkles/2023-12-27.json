@@ -1,0 +1,159 @@
+[
+  {
+    "client_msg_id": "2a11717f-1536-407b-9bc1-3b70dc0a2732",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "\u003c@U056YD04Q30\u003e is a rockstar!",
+    "ts": "1703716807.606369",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "saltbae",
+        "count": 4,
+        "users": [
+          "U057HGZ7W8Z",
+          "U056YD04Q30",
+          "U057WAMKE5N",
+          "U05777MT72P"
+        ]
+      },
+      {
+        "name": "gratitude-thank-you",
+        "count": 1,
+        "users": [
+          "U056YD04Q30"
+        ]
+      },
+      {
+        "name": "partying_face",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jVn8y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056YD04Q30"
+              },
+              {
+                "type": "text",
+                "text": " is a rockstar!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "779d16ee-7c7c-41e7-932c-dc0cbf822324",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Hey guys! Hope everyone had a great holiday! Just wandering are we still planning on meeting up tomorrow afternoon? Having some trouble trying to figure it out where I should be going from here as per usual lol just kind of looking over everyone's code trying to figure out what's going on :rolling_on_the_floor_laughing:",
+    "ts": "1703720422.794839",
+    "thread_ts": "1703720422.794839",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1703721935.458019"
+      },
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1703721957.020439"
+      },
+      {
+        "user": "U057WAMKE5N",
+        "ts": "1703722144.603389"
+      },
+      {
+        "user": "U056YD04Q30",
+        "ts": "1703722567.045509"
+      },
+      {
+        "user": "U05777MT72P",
+        "ts": "1703784975.307669"
+      }
+    ],
+    "latest_reply": "1703784975.307669",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oMtQH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys! Hope everyone had a great holiday! Just wandering are we still planning on meeting up tomorrow afternoon? Having some trouble trying to figure it out where I should be going from here as per usual lol just kind of looking over everyone's code trying to figure out what's going on "
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U056YD04Q30",
+      "U05777MT72P",
+      "U057HGZ7W8Z",
+      "U057WAMKE5N"
+    ]
+  }
+]

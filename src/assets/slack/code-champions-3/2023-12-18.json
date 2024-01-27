@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "003827ab-8201-40d5-9bb9-2dcd9dbcf99f",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "I merged the two pull requests to master",
+    "ts": "1702943388.703559",
+    "thread_ts": "1702943388.703559",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1702943514.301919"
+      }
+    ],
+    "latest_reply": "1702943514.301919",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5/E4i",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I merged the two pull requests to master"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057GPNUCG4"
+    ]
+  },
+  {
+    "client_msg_id": "db56de2f-7e86-4a99-8247-41546c2c837f",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Thanks a lot Jesse!",
+    "ts": "1702943514.301919",
+    "thread_ts": "1702943388.703559",
+    "parent_user_id": "U0577402D4J",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H7RVR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks a lot Jesse!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

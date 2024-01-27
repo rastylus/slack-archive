@@ -1,0 +1,120 @@
+[
+  {
+    "client_msg_id": "ebab7785-429f-445c-a09c-e16ba167efbc",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "I am having issues with gradle not working right with the code pulled from our repo. anyone having the same issues?",
+    "ts": "1703114163.386899",
+    "thread_ts": "1703114163.386899",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1703131529.976969"
+      },
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1703225417.318599"
+      }
+    ],
+    "latest_reply": "1703225417.318599",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+yn2R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am having issues with gradle not working right with the code pulled from our repo. anyone having the same issues?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057GPNUCG4"
+    ]
+  },
+  {
+    "client_msg_id": "f6780883-db47-4fcd-b067-d7aa4e8decd6",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "also I cant use Jakarta. it says I have to have Intellij ultimate to use it.  any way around this?",
+    "ts": "1703115473.891649",
+    "thread_ts": "1703115473.891649",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1703225611.979849"
+      }
+    ],
+    "latest_reply": "1703225611.979849",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "I+78I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also I cant use Jakarta. it says I have to have Intellij ultimate to use it.  any way around this?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057GPNUCG4"
+    ]
+  }
+]

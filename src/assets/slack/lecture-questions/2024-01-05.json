@@ -1,0 +1,206 @@
+[
+  {
+    "client_msg_id": "e1dd1d5b-ea2e-4c12-9027-82c983813cee",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Sometimes I make commits to our project but they don't show up in my little graph... why?",
+    "ts": "1704412937.737909",
+    "thread_ts": "1704412937.737909",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704413408.811879"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1704413489.250989"
+      }
+    ],
+    "latest_reply": "1704413489.250989",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rpwYI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sometimes I make commits to our project but they don't show up in my little graph... why?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U05750B4K1Q"
+    ]
+  },
+  {
+    "client_msg_id": "58f948e7-56f3-4b42-bf47-9cccab08c7cf",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "When you commit prior to merging with main, if you have multiple commits that have yet to be merged and then merge them in a single pull request, will you get credit for multiple commits that helped build that merge?",
+    "ts": "1704413300.733759",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IPBjX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When you commit prior to merging with main, if you have multiple commits that have yet to be merged and then merge them in a single pull request, will you get credit for multiple commits that helped build that merge?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d9ea86c0-116c-4c9b-9fdf-1973d4775aa2",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "does it have to do with commits to branches vs. main? (just a guess without knowing much more)",
+    "ts": "1704413408.811879",
+    "thread_ts": "1704412937.737909",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WMxDF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "does it have to do with commits to branches vs. main? (just a guess without knowing much more)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c9d4cc8a-4fcc-4d5c-a9fe-0f7403d5cdc5",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Yeah I think so, just frustrating lol.",
+    "ts": "1704413489.250989",
+    "thread_ts": "1704412937.737909",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TrQAg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah I think so, just frustrating lol."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

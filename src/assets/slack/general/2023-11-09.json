@@ -1,0 +1,1533 @@
+[
+  {
+    "client_msg_id": "700b89f9-61e5-4ea2-b50d-98389d8fceca",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Hi all. In the last day an issue has popped up where I'm prompted for a password when I try to connect to my connection in Workbench, but then getting an access denied message. It didn't do this before, and I have tried nearly every solution found online. I am able to log in fine through the command client with the same password, but I'm not having any luck using SET PASSWORD or ALTER USER or the myriad of command workarounds to try and fix this. When I try to configure or add a connection, it prompts me for that (or a) password, and I still receive the Access Denied error. I have even gone so far as to:\n•  change the mysql/mysql server 8.0/bin properties to give my user account (already Administrator) full privileges, \n• changed system variables and what not, create the mysql-init.txt file with the command to change the password to null and not prompt me for it, \n• save it to the folder above, \n• access(?) it via server terminal,\nbut then unable to move from there.\nI am panicking because I've tried everything over the course of the day and I still can't proceed. Should I just nuke it all and uninstall/reinstall everything from scratch? is there something obvious I am missing?  Please help because I am not able to move forward whatsoever on GA4 until this is resolved. Thanks.",
+    "ts": "1699536955.004759",
+    "thread_ts": "1699536955.004759",
+    "reply_count": 25,
+    "replies": [
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699537394.829079"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699537643.702159"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699537686.180249"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699537919.181819"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699538098.562289"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699541660.851909"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1699542126.350109"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1699542167.548099"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699542328.575179"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699542605.211549"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699542630.293749"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699542632.628009"
+      },
+      {
+        "user": "U056SERBK2B",
+        "ts": "1699542671.197409"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699542696.690689"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699542745.618829"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699542776.808219"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699542807.665769"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699542818.029299"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699542847.394919"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699542851.351179"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699542871.982639"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699542886.267849"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1699542947.266879"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699542962.112409"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1699542971.723289"
+      }
+    ],
+    "latest_reply": "1699542971.723289",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fYxWU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi all. In the last day an issue has popped up where I'm prompted for a password when I try to connect to my connection in Workbench, but then getting an access denied message. It didn't do this before, and I have tried nearly every solution found online. I am able to log in fine through the command client with the same password, but I'm not having any luck using SET PASSWORD or ALTER USER or the myriad of command workarounds to try and fix this. When I try to configure or add a connection, it prompts me for that (or a) password, and I still receive the Access Denied error. I have even gone so far as to:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\" change the mysql\\/mysql server 8.0\\/bin properties to give my user account (already Administrator) full privileges, \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"changed system variables and what not, create the mysql-init.txt file with the command to change the password to null and not prompt me for it, \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"save it to the folder above, \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"access(?) it via server terminal,\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but then unable to move from there.\nI am panicking because I've tried everything over the course of the day and I still can't proceed. Should I just nuke it all and uninstall/reinstall everything from scratch? is there something obvious I am missing?  Please help because I am not able to move forward whatsoever on GA4 until this is resolved. Thanks."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056SERBK2B",
+      "U05724ACLVB",
+      "U057C70KL57"
+    ]
+  },
+  {
+    "client_msg_id": "7d00614b-c5e2-4b20-bc58-863a8fe89b5a",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Oh, no! I haven't had that issue, but I'd be happy to try to help troubleshoot.",
+    "ts": "1699537394.829079",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lHJPz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh, no! I haven't had that issue, but I'd be happy to try to help troubleshoot."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b4a8a7a3-f4b0-4910-9a08-aaf1b2a7cab4",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I'm trying one more option, and that's finding the my.ini file, which apparently isn't created in the Program files directory but the Program data one when installed. essentially it creates a directory that allows for mysql server to run that is different than the program itself expects??? fucking stupid",
+    "ts": "1699537643.702159",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5gO6Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm trying one more option, and that's finding the my.ini file, which apparently isn't created in the Program files directory but the Program data one when installed. essentially it creates a directory that allows for mysql server to run that is different than the program itself expects??? fucking stupid"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "93214ea8-163a-4431-a7dd-d3f448010b86",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Ok, let me know if that works.",
+    "ts": "1699537686.180249",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wXCcW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok, let me know if that works."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d35bb6a6-0147-4814-bb1e-622efa92f2c7",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "finally found the effing file, gonna follow the instructions on it and see what happens. thanks for listening to me rant :(",
+    "ts": "1699537919.181819",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "green_heart",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Zjo/J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "finally found the effing file, gonna follow the instructions on it and see what happens. thanks for listening to me rant :("
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "28f5b2db-86fd-4199-ab2b-aa73448d1ad1",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "No problem!",
+    "ts": "1699538098.562289",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zyA6Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No problem!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "89e3ddee-4889-42a0-b8c9-e71f11e2ca76",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Any luck?",
+    "ts": "1699541660.851909",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9n46b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Any luck?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "032a2b1e-65ea-460e-9773-9897b65ed917",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "\u003c@U057C70KL57\u003e go into your system settings and make sure your SQL server is running. I am on a mac and this is what mine looks like.",
+    "ts": "1699542126.350109",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "files": [
+      {
+        "id": "F0651EM7GJE",
+        "created": 1699542121,
+        "timestamp": 1699542121,
+        "name": "Screenshot 2023-11-09 at 9.01.21 AM.png",
+        "title": "Screenshot 2023-11-09 at 9.01.21 AM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056SERBK2B",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 842043,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F0651EM7GJE/screenshot_2023-11-09_at_9.01.21___am.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F0651EM7GJE/download/screenshot_2023-11-09_at_9.01.21___am.png",
+        "original_h": 1472,
+        "original_w": 2074,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F0651EM7GJE-6a875bc108/screenshot_2023-11-09_at_9.01.21___am_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F0651EM7GJE-6a875bc108/screenshot_2023-11-09_at_9.01.21___am_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F0651EM7GJE-6a875bc108/screenshot_2023-11-09_at_9.01.21___am_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F0651EM7GJE-6a875bc108/screenshot_2023-11-09_at_9.01.21___am_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 256,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F0651EM7GJE-6a875bc108/screenshot_2023-11-09_at_9.01.21___am_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 341,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F0651EM7GJE-6a875bc108/screenshot_2023-11-09_at_9.01.21___am_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 511,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F0651EM7GJE-6a875bc108/screenshot_2023-11-09_at_9.01.21___am_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 681,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F0651EM7GJE-6a875bc108/screenshot_2023-11-09_at_9.01.21___am_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 727,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056SERBK2B/F0651EM7GJE/screenshot_2023-11-09_at_9.01.21___am.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F0651EM7GJE-3e2b31e35f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "r8Ztl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057C70KL57"
+              },
+              {
+                "type": "text",
+                "text": " go into your system settings and make sure your SQL server is running. I am on a mac and this is what mine looks like."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c93f7341-68e8-4e9f-b0ae-ddafe1f07b70",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "Thats what my issue was.",
+    "ts": "1699542167.548099",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "27/kK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thats what my issue was."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "82d80c82-fba4-4875-9268-aa06e100e9d2",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "yes mine has been running, i checked it each time in the command line",
+    "ts": "1699542328.575179",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eB8Ut",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes mine has been running, i checked it each time in the command line"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1d24807d-21e2-4a55-ad2f-a084e2bf31ef",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "i added code to skip authentication for my root user for a new connection i created, add my MS Windows password to mysql service/task whatever, which took me down a different rabbit hole enabling privileges to change hidden files and sdkljfalksdjfksdjl, THEN added a command in server init file to skip authentication when i start workbench/enter a connection.",
+    "ts": "1699542605.211549",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YS4uy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i added code to skip authentication for my root user for a new connection i created, add my MS Windows password to mysql service/task whatever, which took me down a different rabbit hole enabling privileges to change hidden files and sdkljfalksdjfksdjl, THEN added a command in server init file to skip authentication when i start workbench/enter a connection."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9a580a7d-5cfb-43bb-a80a-ed071b10f9f5",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Wow.",
+    "ts": "1699542630.293749",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C+ZOi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Wow."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5805562b-c82f-463e-844b-45f57bad541b",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "it took me until minutes after you sent me your message that it worked",
+    "ts": "1699542632.628009",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mfAcf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it took me until minutes after you sent me your message that it worked"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "05256c5f-c520-441f-a576-99b157be832d",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "So you have it working then?",
+    "ts": "1699542671.197409",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Hq7fU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So you have it working then?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5e21dd17-b466-4b46-8702-8021ca0f88a2",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "thank you for your help though, yesterday i couldn't tell if my server had stopped or started running, so your advice would have helped tremendously had i asked!",
+    "ts": "1699542696.690689",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z//xY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you for your help though, yesterday i couldn't tell if my server had stopped or started running, so your advice would have helped tremendously had i asked!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3582784f-061f-4833-9cb5-eabcaa5d0414",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "yes, it's behaving the way i want it to.....for now. it makes no sense how from one day to another it started to have a problem with my password/access privileges in the first place but i'll take this uggggghhhhhh",
+    "ts": "1699542745.618829",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FRKzB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes, it's behaving the way i want it to.....for now. it makes no sense how from one day to another it started to have a problem with my password/access privileges in the first place but i'll take this uggggghhhhhh"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e341d948-4f43-4b44-a3da-ebf27bbc6da6",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "if this happens again i am nuking it and reinstalling from scratch",
+    "ts": "1699542776.808219",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "urvDC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if this happens again i am nuking it and reinstalling from scratch"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "373af373-605a-47f6-882f-41d47603f229",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yeah, that sounds really frustrating.\n\nOnce you've demoed the assignment, you might consider reinstalling MySQL from scratch.",
+    "ts": "1699542807.665769",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eLBXz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah, that sounds really frustrating.\n\nOnce you've demoed the assignment, you might consider reinstalling MySQL from scratch."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "852bac9d-360f-4b9f-9e95-cd23c867ec02",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "That's what I would do.",
+    "ts": "1699542818.029299",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4e3OH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That's what I would do."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eb8359c4-05bb-4576-93f1-d21f647ff69d",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "I think that's a good idea",
+    "ts": "1699542847.394919",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ta209",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think that's a good idea"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e97d318c-bc6e-4aee-96fb-f27dde8af959",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "And I'm on Windows, too.",
+    "ts": "1699542851.351179",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IPg9C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And I'm on Windows, too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fa65c099-df4d-4cde-a90f-954b2752dea1",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Don't need that crap happening during Liftoff...",
+    "ts": "1699542871.982639",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HX9IA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Don't need that crap happening during Liftoff..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b522bd2f-ffbf-45f9-a1bf-b3823e02be48",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "*shudders*",
+    "ts": "1699542886.267849",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TRDrG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "shudders",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2ed818af-74b2-465d-b87b-e0f822273bd0",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "thank you both, i think this is called rubber ducking, where just having someone \"there\" (in this case via chat) helps you resolve a problem. don't remember if it stems from coding but \u0026lt;3",
+    "ts": "1699542947.266879",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056SERBK2B"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W3h1N",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you both, i think this is called rubber ducking, where just having someone \"there\" (in this case via chat) helps you resolve a problem. don't remember if it stems from coding but \u003c3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2938c930-3565-44b9-9a0e-f8d492bd9121",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yep.",
+    "ts": "1699542962.112409",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vEB6N",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yep."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "23bc2184-56ad-47a2-ac0b-dcaf14d7e9d3",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Glad it was useful!",
+    "ts": "1699542971.723289",
+    "thread_ts": "1699536955.004759",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DH4hQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Glad it was useful!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4c227748-5641-4584-a377-9cf22004f1fe",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I just saw this article on Samsung's banning of generative AI software:\n\n\u003chttps://www.forbes.com/sites/siladityaray/2023/05/02/samsung-bans-chatgpt-and-other-chatbots-for-employees-after-sensitive-code-leak/?sh=386152726078|https://www.forbes.com/sites/siladityaray/2023/05/02/samsung-bans-chatgpt-and-other-[…]bots-for-employees-after-sensitive-code-leak/?sh=386152726078\u003e",
+    "ts": "1699548111.528159",
+    "attachments": [
+      {
+        "fallback": "Forbes: Samsung Bans ChatGPT Among Employees After Sensitive Code Leak",
+        "id": 1,
+        "title": "Samsung Bans ChatGPT Among Employees After Sensitive Code Leak",
+        "title_link": "https://www.forbes.com/sites/siladityaray/2023/05/02/samsung-bans-chatgpt-and-other-chatbots-for-employees-after-sensitive-code-leak/?sh=386152726078",
+        "text": "Samsung became the latest in a list of major firms to ban the use of generative AI tools in the workplace amid concerns that it could lead to leaks of sensitive information.",
+        "image_url": "https://imageio.forbes.com/specials-images/imageserve/6450f107e81ee893f6dc456e/0x0.jpg?format=jpg\u0026crop=3259,1834,x0,y168,safe\u0026height=900\u0026width=1600\u0026fit=bounds",
+        "service_name": "Forbes",
+        "service_icon": "https://i.forbesimg.com/48X48-F.png",
+        "from_url": "https://www.forbes.com/sites/siladityaray/2023/05/02/samsung-bans-chatgpt-and-other-chatbots-for-employees-after-sensitive-code-leak/?sh=386152726078",
+        "original_url": "https://www.forbes.com/sites/siladityaray/2023/05/02/samsung-bans-chatgpt-and-other-chatbots-for-employees-after-sensitive-code-leak/?sh=386152726078",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "txN17",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just saw this article on Samsung's banning of generative AI software:\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.forbes.com/sites/siladityaray/2023/05/02/samsung-bans-chatgpt-and-other-chatbots-for-employees-after-sensitive-code-leak/?sh=386152726078",
+                "text": "https://www.forbes.com/sites/siladityaray/2023/05/02/samsung-bans-chatgpt-and-other-[…]bots-for-employees-after-sensitive-code-leak/?sh=386152726078"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "client_msg_id": "b54ca73f-b188-4897-85fd-a817cb322814",
+    "type": "message",
+    "user": "U0577LS7MDL",
+    "text": "Hey team I just want to get some feedback from all of  you. So I was thinking that for adding people to the schedule I would make the buttons drop down menus. Does that sound good or should I go in another direction and if so what do you think?",
+    "ts": "1704889368.274909",
+    "thread_ts": "1704889368.274909",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056Z4PDDFG",
+        "ts": "1704903484.957569"
+      },
+      {
+        "user": "U0577LS7MDL",
+        "ts": "1704927057.220839"
+      }
+    ],
+    "latest_reply": "1704927057.220839",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "D/Mdz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey team I just want to get some feedback from all of  you. So I was thinking that for adding people to the schedule I would make the buttons drop down menus. Does that sound good or should I go in another direction and if so what do you think?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/567d982d608de757f7d0db5df7c1abe7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Mario",
+      "real_name": "Mario Dickerson",
+      "display_name": "Mario Dickerson",
+      "team": "T050CSX3EMT",
+      "name": "dai.dickerson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Z4PDDFG",
+      "U0577LS7MDL"
+    ]
+  },
+  {
+    "client_msg_id": "AE407848-4392-45FA-BFF2-6B9FABD12F85",
+    "type": "message",
+    "user": "U056Z4PDDFG",
+    "text": "Mario, this sounds good to me, but it turns out that the administrator first fills in the shift for the employee, and then adds the same information to the schedule?",
+    "ts": "1704903484.957569",
+    "thread_ts": "1704889368.274909",
+    "parent_user_id": "U0577LS7MDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2qcYg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Mario, this sounds good to me, but it turns out that the administrator first fills in the shift for the employee, and then adds the same information to the schedule?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243639057747_935971920daa171f0237_72.png",
+      "first_name": "Kate",
+      "real_name": "Kate Khusainova",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "katekhusainova8",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "75784284-579f-4910-9792-74303d2a598b",
+    "type": "message",
+    "user": "U0577LS7MDL",
+    "text": "I was thinking about that but I figured that it would we could change the schedule generation so it is specific to the shift.",
+    "ts": "1704927057.220839",
+    "thread_ts": "1704889368.274909",
+    "parent_user_id": "U0577LS7MDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+Fkd3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was thinking about that but I figured that it would we could change the schedule generation so it is specific to the shift."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/567d982d608de757f7d0db5df7c1abe7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Mario",
+      "real_name": "Mario Dickerson",
+      "display_name": "Mario Dickerson",
+      "team": "T050CSX3EMT",
+      "name": "dai.dickerson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

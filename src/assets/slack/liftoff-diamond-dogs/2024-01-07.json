@@ -1,0 +1,557 @@
+[
+  {
+    "client_msg_id": "381a212e-af2f-4bcc-81de-f1d3217ce417",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "\u003c@U05756M4E1H\u003e I pulled your \"user-customization\" branch and got everything running. Is your branch supposed to be able to change the user name? I can change the profile picture successfully, but not change the user name.",
+    "ts": "1704656681.156729",
+    "thread_ts": "1704656681.156729",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U05756M4E1H",
+        "ts": "1704656731.377109"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1704656838.663119"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1704656899.214379"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1704758524.204939"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1704758572.135169"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1704758581.640169"
+      }
+    ],
+    "latest_reply": "1704758581.640169",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dqkzd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05756M4E1H"
+              },
+              {
+                "type": "text",
+                "text": " I pulled your \"user-customization\" branch and got everything running. Is your branch supposed to be able to change the user name? I can change the profile picture successfully, but not change the user name."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05756M4E1H",
+      "U0575U6RCKC"
+    ]
+  },
+  {
+    "client_msg_id": "05EE6885-8B37-4174-873C-8E43170A8219",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "Hey!\n\nIt should work, maybe I missed something, I’ll check at evening ",
+    "ts": "1704656731.377109",
+    "thread_ts": "1704656681.156729",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u6kWz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey!\n\nIt should work, maybe I missed something, "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " check at evening "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bfa55c9a-fc3b-4b8f-88be-8d538f82cae9",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Okay. I don't get any network activity when I press the 'change username' button, so maybe it's just an issue with the button not being setup.",
+    "ts": "1704656838.663119",
+    "thread_ts": "1704656681.156729",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/a2S2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay. I don't get any network activity when I press the 'change username' button, so maybe it's just an issue with the button not being setup."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A2C0CA9A-2D7F-4209-A829-2241F4C26B43",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "Oh maybe \n\nFirst version of this code sent whole form to backend and then I’ve splitted it to different functions and maybe forgot to bind them",
+    "ts": "1704656899.214379",
+    "thread_ts": "1704656681.156729",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DzmMT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh maybe \n\nFirst version of this code sent whole form to backend and then "
+              },
+              {
+                "type": "text",
+                "text": "I’ve"
+              },
+              {
+                "type": "text",
+                "text": " splitted it to different functions and maybe forgot to bind them"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0675adaf-214d-407e-9048-81b775eb150c",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "\u003c@U057UNE3XPS\u003e I pulled your \"search\" feature branch and I'm running into three errors in the react side.\n\n1. In App.js, you imported \"PlantSearchScreen from './Screens/PlantSearchResults';\" but there isn't a file named \"PlantSearchResults\" in the screens tab.\n2. The other two errors are in SearchBar.js and has to do with not being able to resolve 'react-icons/fa' and 'react-icons/io'.\nWere you running into these errors previously? Did you change the name of PlantSearchScreen to something else?",
+    "ts": "1704659124.002759",
+    "thread_ts": "1704659124.002759",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057UNE3XPS",
+        "ts": "1704659423.409749"
+      }
+    ],
+    "latest_reply": "1704659423.409749",
+    "files": [
+      {
+        "id": "F06CCFHK10F",
+        "created": 1704658657,
+        "timestamp": 1704658657,
+        "name": "Screen Shot 2024-01-07 at 2.14.13 PM.png",
+        "title": "Screen Shot 2024-01-07 at 2.14.13 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0575U6RCKC",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 490517,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06CCFHK10F/screen_shot_2024-01-07_at_2.14.13_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06CCFHK10F/download/screen_shot_2024-01-07_at_2.14.13_pm.png",
+        "original_h": 1440,
+        "original_w": 2560,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CCFHK10F-69d6bcef47/screen_shot_2024-01-07_at_2.14.13_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CCFHK10F-69d6bcef47/screen_shot_2024-01-07_at_2.14.13_pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CCFHK10F-69d6bcef47/screen_shot_2024-01-07_at_2.14.13_pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CCFHK10F-69d6bcef47/screen_shot_2024-01-07_at_2.14.13_pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 203,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CCFHK10F-69d6bcef47/screen_shot_2024-01-07_at_2.14.13_pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 270,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CCFHK10F-69d6bcef47/screen_shot_2024-01-07_at_2.14.13_pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 405,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CCFHK10F-69d6bcef47/screen_shot_2024-01-07_at_2.14.13_pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 540,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06CCFHK10F-69d6bcef47/screen_shot_2024-01-07_at_2.14.13_pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 576,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0575U6RCKC/F06CCFHK10F/screen_shot_2024-01-07_at_2.14.13_pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06CCFHK10F-0f78f49a19",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Lp0N1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057UNE3XPS"
+              },
+              {
+                "type": "text",
+                "text": " I pulled your \"search\" feature branch and I'm running into three errors in the react side.\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"In App.js, you imported \\\"PlantSearchScreen from '.\\/Screens\\/PlantSearchResults';\\\" but there isn't a file named \\\"PlantSearchResults\\\" in the screens tab.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"The other two errors are in SearchBar.js and has to do with not being able to resolve 'react-icons\\/fa' and 'react-icons\\/io'.\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nWere you running into these errors previously? Did you change the name of PlantSearchScreen to something else?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057UNE3XPS"
+    ]
+  },
+  {
+    "client_msg_id": "1fbd8093-46c0-4a6a-8307-7defb26a713e",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Okay the react-icons was easily fixed but simply typing 'npm install react-icons' before running npm start. However I'm still getting the first error about PlantSearchScreen.",
+    "ts": "1704659408.296759",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dqZzN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay the react-icons was easily fixed but simply typing 'npm install react-icons' before running npm start. However I'm still getting the first error about PlantSearchScreen."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "AA97B80B-FFCC-4653-83BC-A45E56AD7DE4",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "I didn’t run into any errors on my side. Let me take a look when I’m home in an hour ",
+    "ts": "1704659423.409749",
+    "thread_ts": "1704659124.002759",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JmPY1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I "
+              },
+              {
+                "type": "text",
+                "text": "didn’t"
+              },
+              {
+                "type": "text",
+                "text": " run into any errors on my side. Let me take a look when "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " home in an hour "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7dc4a3ca-2348-4003-bfca-2d8099ce6236",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "ah, i think i know the issue. Just a quick test on your side - on App.js, comment line 59 routing the path to PlantSearchScreen and see if you still get the error",
+    "ts": "1704662302.610289",
+    "thread_ts": "1704662302.610289",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1704753481.424789"
+      },
+      {
+        "user": "U057UNE3XPS",
+        "ts": "1704753546.045599"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1704753676.590489"
+      }
+    ],
+    "latest_reply": "1704753676.590489",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C7oY4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ah, i think i know the issue. Just a quick test on your side - on App.js, comment line 59 routing the path to PlantSearchScreen and see if you still get the error"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U0575U6RCKC",
+      "U057UNE3XPS"
+    ]
+  }
+]

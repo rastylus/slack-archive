@@ -1,0 +1,259 @@
+[
+  {
+    "client_msg_id": "E3A48D8F-44DD-426E-9FF8-426EF91E4A3B",
+    "type": "message",
+    "user": "U0571TCPNAH",
+    "text": "Just saw your message Emily, are you available tomorrow?",
+    "ts": "1705463738.561969",
+    "thread_ts": "1705420310.838409",
+    "parent_user_id": "U057GPNUCG4",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cne7F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just saw your message Emily, are you available tomorrow?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/10082ef870827e50ef3fd7f79fc2b522.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Dale",
+      "real_name": "Dale",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "dmcclure623",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eb07ddf9-ff5e-4e62-a21d-1aa8e5d4cd2c",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "No worries Dale. Yep tmr works. How about 6:30-ish?",
+    "ts": "1705464530.179599",
+    "thread_ts": "1705420310.838409",
+    "parent_user_id": "U057GPNUCG4",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zza6Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No worries Dale. Yep tmr works. How about 6:30-ish?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8c4b9c9b-1879-4ef1-bc4e-79d88e81d8c2",
+    "type": "message",
+    "user": "U05722MU892",
+    "text": "I'll be available, too",
+    "ts": "1705528863.272879",
+    "thread_ts": "1705420310.838409",
+    "parent_user_id": "U057GPNUCG4",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "handshake",
+        "count": 1,
+        "users": [
+          "U057GPNUCG4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cuZES",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll be available, too"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-12/5252773260102_2c2e691a65890c6ba835_72.png",
+      "first_name": "Mark",
+      "real_name": "Mark Atkins",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "orthomark",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1bbdc826-b02f-4e2d-820a-841aef6db510",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi \u003c@U05722MU892\u003e and \u003c@U0577402D4J\u003e, thank you for confirming 6:30pm. I've set up the zoom link as below. Not sure if Dale \u003c@U0571TCPNAH\u003e can make it on time, if not, maybe reschedule or I can update him too. Talk soon!\n\n========================\nTopic: Demo for the Demo\nTime: Jan 17, 2024 06:30 PM Central Time (US and Canada)\n\nJoin Zoom Meeting\n\u003chttps://us04web.zoom.us/j/6520029186?pwd=Rg0ANT7lxrrfjHSP2khI4l5xS6bL8T.1\u0026amp;omn=78266761818\u003e\n\nMeeting ID: \u003ctel:6520029186|652 002 9186\u003e\nPasscode: 1212",
+    "ts": "1705534741.557239",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "meow_party",
+        "count": 1,
+        "users": [
+          "U055B8PEEMV"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0571TCPNAH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bIFyW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi "
+              },
+              {
+                "type": "user",
+                "user_id": "U05722MU892"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U0577402D4J"
+              },
+              {
+                "type": "text",
+                "text": ", thank you for confirming 6:30pm. I've set up the zoom link as below. Not sure if Dale "
+              },
+              {
+                "type": "user",
+                "user_id": "U0571TCPNAH"
+              },
+              {
+                "type": "text",
+                "text": " can make it on time, if not, maybe reschedule or I can update him too. Talk soon!\n\n========================\nTopic: Demo for the Demo\nTime: Jan 17, 2024 06:30 PM Central Time (US and Canada)\n\nJoin Zoom Meeting\n"
+              },
+              {
+                "type": "link",
+                "url": "https://us04web.zoom.us/j/6520029186?pwd=Rg0ANT7lxrrfjHSP2khI4l5xS6bL8T.1\u0026omn=78266761818",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nMeeting ID: "
+              },
+              {
+                "type": "link",
+                "url": "tel:6520029186",
+                "text": "652 002 9186"
+              },
+              {
+                "type": "text",
+                "text": "\nPasscode: 1212"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

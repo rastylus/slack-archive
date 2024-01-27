@@ -1,0 +1,999 @@
+[
+  {
+    "client_msg_id": "df6ddeec-e905-4899-8b42-700d33657e75",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "let's review it together, we have some of problems we received from previous PR\n\nand you switched off security?",
+    "ts": "1702771967.646009",
+    "thread_ts": "1702765439.120099",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5rUTS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "let's review it together, we have some of problems we received from previous PR\n\nand you switched off security?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "baa08e19-f133-4ede-8b43-b2269649b726",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "you included a lot of files you don't need to include",
+    "ts": "1702772040.566689",
+    "thread_ts": "1702765439.120099",
+    "parent_user_id": "U0575U6RCKC",
+    "files": [
+      {
+        "id": "F06AE3XUPGV",
+        "created": 1702772023,
+        "timestamp": 1702772023,
+        "name": "Screenshot 2023-12-16 at 7.13.22 PM.png",
+        "title": "Screenshot 2023-12-16 at 7.13.22 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U05756M4E1H",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 256694,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06AE3XUPGV/screenshot_2023-12-16_at_7.13.22___pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06AE3XUPGV/download/screenshot_2023-12-16_at_7.13.22___pm.png",
+        "original_h": 1102,
+        "original_w": 1832,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AE3XUPGV-ad6da8a8ca/screenshot_2023-12-16_at_7.13.22___pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AE3XUPGV-ad6da8a8ca/screenshot_2023-12-16_at_7.13.22___pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AE3XUPGV-ad6da8a8ca/screenshot_2023-12-16_at_7.13.22___pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AE3XUPGV-ad6da8a8ca/screenshot_2023-12-16_at_7.13.22___pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 217,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AE3XUPGV-ad6da8a8ca/screenshot_2023-12-16_at_7.13.22___pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 289,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AE3XUPGV-ad6da8a8ca/screenshot_2023-12-16_at_7.13.22___pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 433,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AE3XUPGV-ad6da8a8ca/screenshot_2023-12-16_at_7.13.22___pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 577,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AE3XUPGV-ad6da8a8ca/screenshot_2023-12-16_at_7.13.22___pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 616,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05756M4E1H/F06AE3XUPGV/screenshot_2023-12-16_at_7.13.22___pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06AE3XUPGV-ac82e22b8d",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YfyQn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "you included a lot of files you don't need to include"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "81DB3F68-0245-4ECB-92E6-ACDD0711D93E",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I excluded the Spring Boot security in the Happy Roots application to be able to test the ApiController.",
+    "ts": "1702772274.175339",
+    "thread_ts": "1702765439.120099",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oOFoO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I excluded the Spring Boot security in the Happy Roots application to be able to test the ApiController"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fe5f9850-ea51-4c39-846d-b72db14195c8",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "but it's in request",
+    "ts": "1702772298.184479",
+    "thread_ts": "1702765439.120099",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bg9xQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "but it's in request"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "11feaf96-a62c-4894-a486-0dd1c3ef0798",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "maybe you're able to talk?",
+    "ts": "1702772420.976839",
+    "thread_ts": "1702765439.120099",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7ZTxF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "maybe you're able to talk?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "29142430-5CB6-4A1F-A62A-F770A3FB597A",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Give me a few minutes. Im running an update of my computer and it’s restarting.",
+    "ts": "1702772464.262989",
+    "thread_ts": "1702765439.120099",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0mSmB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Give me a few minutes"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Im running an update of my computer and it’s restarting"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c4320a8f-14a7-47ca-9577-7daaab855c84",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "no problem, text me when you're good",
+    "ts": "1702772565.758749",
+    "thread_ts": "1702765439.120099",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1wXs7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no problem, text me when you're good"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E3CA84C5-CF7D-412A-8824-4B758FACB61E",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "It looks like this update is gonna take another 10 mins. I have to pick up my wife from work at 645. Are you available later on tonight or would tomorrow work?",
+    "ts": "1702772712.230359",
+    "thread_ts": "1702765439.120099",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mPoWA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It looks like this update is gonna take another"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "10 mins"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " I have to pick up my wife from work at 645"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Are you available later on tonight or would tomorrow work?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dd0bb686-8da7-4885-9af5-bb2e93da3aee",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "both work, but tomorrow after 3pm cst, or you can text me later today, I'm online",
+    "ts": "1702772816.805739",
+    "thread_ts": "1702765439.120099",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dfjJM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "both work, but tomorrow after 3pm cst, or you can text me later today, I'm online"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "FF61F457-0479-4499-BA41-C983CE9DB7C7",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Okay I’ll try you later on tonight and see if you’re available.",
+    "ts": "1702772856.984449",
+    "thread_ts": "1702765439.120099",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xLR0c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay I’ll try you later on tonight and see if"
+              },
+              {
+                "type": "text",
+                "text": " you’re"
+              },
+              {
+                "type": "text",
+                "text": " available"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a6827988-2d4a-4858-a3f2-a743707daa55",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Has anybody else experienced errors from our react side? After running 'npm start' in VSCode I'm greeted with warnings in the console but our login page loads fine. I'm able to log-in, click on profile, click on home, and logout fine. The test button throws connection errors and the favorites button doesn't do anything (I think that's expected right now).",
+    "ts": "1702835273.679239",
+    "thread_ts": "1702835273.679239",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U05756M4E1H",
+        "ts": "1702840158.574579"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1702842666.501109"
+      },
+      {
+        "user": "U05756M4E1H",
+        "ts": "1702843077.638419"
+      }
+    ],
+    "latest_reply": "1702843077.638419",
+    "files": [
+      {
+        "id": "F06B6THR3PS",
+        "created": 1702835247,
+        "timestamp": 1702835247,
+        "name": "Screen Shot 2023-12-17 at 11.38.07 AM.png",
+        "title": "Screen Shot 2023-12-17 at 11.38.07 AM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0575U6RCKC",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 451936,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06B6THR3PS/screen_shot_2023-12-17_at_11.38.07_am.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06B6THR3PS/download/screen_shot_2023-12-17_at_11.38.07_am.png",
+        "original_h": 1440,
+        "original_w": 2560,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6THR3PS-8467ab28bb/screen_shot_2023-12-17_at_11.38.07_am_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6THR3PS-8467ab28bb/screen_shot_2023-12-17_at_11.38.07_am_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6THR3PS-8467ab28bb/screen_shot_2023-12-17_at_11.38.07_am_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6THR3PS-8467ab28bb/screen_shot_2023-12-17_at_11.38.07_am_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 203,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6THR3PS-8467ab28bb/screen_shot_2023-12-17_at_11.38.07_am_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 270,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6THR3PS-8467ab28bb/screen_shot_2023-12-17_at_11.38.07_am_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 405,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6THR3PS-8467ab28bb/screen_shot_2023-12-17_at_11.38.07_am_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 540,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6THR3PS-8467ab28bb/screen_shot_2023-12-17_at_11.38.07_am_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 576,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0575U6RCKC/F06B6THR3PS/screen_shot_2023-12-17_at_11.38.07_am.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06B6THR3PS-2a8f23c361",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F06B6TJ1AGY",
+        "created": 1702835257,
+        "timestamp": 1702835257,
+        "name": "Screen Shot 2023-12-17 at 11.40.28 AM.png",
+        "title": "Screen Shot 2023-12-17 at 11.40.28 AM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0575U6RCKC",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 317286,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06B6TJ1AGY/screen_shot_2023-12-17_at_11.40.28_am.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06B6TJ1AGY/download/screen_shot_2023-12-17_at_11.40.28_am.png",
+        "original_h": 1440,
+        "original_w": 2560,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6TJ1AGY-0b7ca5b6c7/screen_shot_2023-12-17_at_11.40.28_am_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6TJ1AGY-0b7ca5b6c7/screen_shot_2023-12-17_at_11.40.28_am_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6TJ1AGY-0b7ca5b6c7/screen_shot_2023-12-17_at_11.40.28_am_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6TJ1AGY-0b7ca5b6c7/screen_shot_2023-12-17_at_11.40.28_am_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 203,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6TJ1AGY-0b7ca5b6c7/screen_shot_2023-12-17_at_11.40.28_am_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 270,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6TJ1AGY-0b7ca5b6c7/screen_shot_2023-12-17_at_11.40.28_am_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 405,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6TJ1AGY-0b7ca5b6c7/screen_shot_2023-12-17_at_11.40.28_am_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 540,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B6TJ1AGY-0b7ca5b6c7/screen_shot_2023-12-17_at_11.40.28_am_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 576,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0575U6RCKC/F06B6TJ1AGY/screen_shot_2023-12-17_at_11.40.28_am.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06B6TJ1AGY-19c1db2060",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6KsEM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Has anybody else experienced errors from our react side? After running 'npm start' in VSCode I'm greeted with warnings in the console but our login page loads fine. I'm able to log-in, click on profile, click on home, and logout fine. The test button throws connection errors and the favorites button doesn't do anything (I think that's expected right now)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05756M4E1H",
+      "U0575U6RCKC"
+    ]
+  },
+  {
+    "client_msg_id": "4d653464-c82d-4759-b54f-bc9e3e829b86",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "This is just from our current main branch. I haven't made any changes.",
+    "ts": "1702835708.530909",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VKW6M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is just from our current main branch. I haven't made any changes."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4E17421F-D178-4F79-B776-5A237F29164E",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "Test is not working because maybe you have not launched backend, it shoots there \n\nWarnings maybe we’re there as well as favorites is a fake link :upside_down_face: ",
+    "ts": "1702840158.574579",
+    "thread_ts": "1702835273.679239",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t1mXR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Test is not working because maybe you have not launched backend, it shoots there \n\nWarnings maybe "
+              },
+              {
+                "type": "text",
+                "text": "we’re"
+              },
+              {
+                "type": "text",
+                "text": " there as well as favorites is a fake link "
+              },
+              {
+                "type": "emoji",
+                "name": "upside_down_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "46feb561-803b-4b47-bfd1-a1996b599a1b",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Okay I think I have it running now. I don't get any error messages when I click test, but I also don't get anything back except in the console of IntelliJ. Maybe that's exactly what I'm supposed to see. I'll show you what it does for me when we meet up later on today.",
+    "ts": "1702842666.501109",
+    "thread_ts": "1702835273.679239",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aPzKD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay I think I have it running now. I don't get any error messages when I click test, but I also don't get anything back except in the console of IntelliJ. Maybe that's exactly what I'm supposed to see. I'll show you what it does for me when we meet up later on today."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "FC03B34E-A8C9-4CA7-8F0F-2E96F9483F30",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "You’ll see a message in network tab of developer tools in your browser, it should say “hello from secured”",
+    "ts": "1702843077.638419",
+    "thread_ts": "1702835273.679239",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pJ29O",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You’ll"
+              },
+              {
+                "type": "text",
+                "text": " see a message in network tab of developer tools in your browser, it should say “hello from secured”"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

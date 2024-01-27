@@ -1,0 +1,1973 @@
+[
+  {
+    "client_msg_id": "dd764937-7141-4a33-a410-20929b4644cf",
+    "type": "message",
+    "user": "U056K1WRCCX",
+    "text": "I don't know, Im afraid the more I mess with it I am going to somehow mess up the branches",
+    "ts": "1702944674.503959",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yyJ/p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I don't know, Im afraid the more I mess with it I am going to somehow mess up the branches"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5b1c1010ffb2de24b2b6e2857ccb3361.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "John",
+      "real_name": "John Clowers",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "clowerj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f00229df-87fb-49cc-ae6c-5f9c01e315d8",
+    "type": "message",
+    "user": "U056K1WRCCX",
+    "text": "I could not create classes because when I pulled it down there was no sources root folder, do you all see a sources root?",
+    "ts": "1702944744.862919",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GzfeE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I could not create classes because when I pulled it down there was no sources root folder, do you all see a sources root?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5b1c1010ffb2de24b2b6e2857ccb3361.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "John",
+      "real_name": "John Clowers",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "clowerj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0AF08B9F-D689-4F0E-906F-A61C2B8587BD",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "You’re only committing to yours, so it shouldn’t mess up anything. Yes I have a src folder.",
+    "ts": "1702944772.969569",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PL/eZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You’re"
+              },
+              {
+                "type": "text",
+                "text": " only committing to yours, so "
+              },
+              {
+                "type": "text",
+                "text": "it shouldn’t"
+              },
+              {
+                "type": "text",
+                "text": " mess up anything. Yes I have a src folder."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "AB692B29-A9BC-43F7-B047-84E39349EBD3",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "I’m going to tag you in what Josh posted yesterday so you can try and merge development branch to yours",
+    "ts": "1702944816.854379",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4/GJ7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " going to tag you in what Josh posted yesterday so you "
+              },
+              {
+                "type": "text",
+                "text": "can"
+              },
+              {
+                "type": "text",
+                "text": " try and merge development branch to yours"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2dbec6c7-26a4-4d68-a55e-d2bfcef60cd6",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "if your file directories looks all messed up and its not \"org.launchcode.professionalprocrastinators\" then that means your gradles are not loaded",
+    "ts": "1702944817.263659",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EoSfm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if your file directories looks all messed up and its not \"org.launchcode.professionalprocrastinators\" then that means your gradles are not loaded"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6d03f519-cb16-4bb1-a241-510a22139bb3",
+    "type": "message",
+    "user": "U056K1WRCCX",
+    "text": "the src is there but it was not set at sources root when I did pull",
+    "ts": "1702944823.284869",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vjKec",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the src is there but it was not set at sources root when I did pull"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5b1c1010ffb2de24b2b6e2857ccb3361.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "John",
+      "real_name": "John Clowers",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "clowerj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "90B63EB0-E856-4A8A-B103-A88D5CE12274",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "\u003c@U056K1WRCCX\u003e you need to merge or pull from development-branch to make sure yours is the same as ours, if you haven’t done that yet.",
+    "ts": "1702944886.320679",
+    "thread_ts": "1702865769.366239",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x5e0y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056K1WRCCX"
+              },
+              {
+                "type": "text",
+                "text": " you need to merge or pull from development-branch to make sure yours is the same as ours, if you "
+              },
+              {
+                "type": "text",
+                "text": "haven’t"
+              },
+              {
+                "type": "text",
+                "text": " done that yet."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9D41A6AB-AF44-4791-B091-95A00DF803FD",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "This is what mine looks like and hopefully yours should be similar. No problems with the setup on it yet.",
+    "ts": "1702944993.075269",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "files": [
+      {
+        "id": "F06B3DC7FAM",
+        "created": 1702944963,
+        "timestamp": 1702944963,
+        "name": "IMG_8361.jpg",
+        "title": "IMG_8361",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U05765HGT46",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2163519,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06B3DC7FAM/img_8361.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06B3DC7FAM/download/img_8361.jpg",
+        "original_h": 4032,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B3DC7FAM-2351e04b0a/img_8361_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B3DC7FAM-2351e04b0a/img_8361_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B3DC7FAM-2351e04b0a/img_8361_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B3DC7FAM-2351e04b0a/img_8361_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B3DC7FAM-2351e04b0a/img_8361_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B3DC7FAM-2351e04b0a/img_8361_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B3DC7FAM-2351e04b0a/img_8361_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B3DC7FAM-2351e04b0a/img_8361_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05765HGT46/F06B3DC7FAM/img_8361.jpg",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06B3DC7FAM-6850c7c374",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KW5sT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is what mine looks like and hopefully yours should be similar. No problems with the setup on it yet."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "32F53F75-ACC7-46C6-988F-813DC7316DB8",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "You might try going to gradle and clicking the refresh button.",
+    "ts": "1702945045.984339",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "files": [
+      {
+        "id": "F06AA8C5DBR",
+        "created": 1702945019,
+        "timestamp": 1702945019,
+        "name": "IMG_8362.jpg",
+        "title": "IMG_8362",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U05765HGT46",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1825489,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06AA8C5DBR/img_8362.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06AA8C5DBR/download/img_8362.jpg",
+        "original_h": 4032,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA8C5DBR-9d76eefb70/img_8362_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA8C5DBR-9d76eefb70/img_8362_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA8C5DBR-9d76eefb70/img_8362_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA8C5DBR-9d76eefb70/img_8362_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA8C5DBR-9d76eefb70/img_8362_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA8C5DBR-9d76eefb70/img_8362_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA8C5DBR-9d76eefb70/img_8362_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA8C5DBR-9d76eefb70/img_8362_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05765HGT46/F06AA8C5DBR/img_8362.jpg",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06AA8C5DBR-692e7f2d3f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wZHYu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You might try going to gradle and clicking the refresh button."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "21700f9d-98bb-45c0-a700-51d4d7b953e3",
+    "type": "message",
+    "user": "U056K1WRCCX",
+    "text": "coretto was looking in the wrong place, gradle updated now. still says permissions denied",
+    "ts": "1702945536.368849",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DOZCI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "coretto was looking in the wrong place, gradle updated now. still says permissions denied"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5b1c1010ffb2de24b2b6e2857ccb3361.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "John",
+      "real_name": "John Clowers",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "clowerj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3AB4443D-ABF9-4502-9D81-0D1F893A792C",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "Permissions denied to commit and push?",
+    "ts": "1702945565.504289",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kKrwl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Permissions denied to commit and push?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d58d26ae-0fd7-4be0-9470-d429957c90a8",
+    "type": "message",
+    "user": "U056K1WRCCX",
+    "text": "yeah",
+    "ts": "1702945571.586479",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FKAR/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5b1c1010ffb2de24b2b6e2857ccb3361.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "John",
+      "real_name": "John Clowers",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "clowerj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F0634630-F25D-4F64-9E28-1968674EBFE1",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "Even when you try in the terminal?",
+    "ts": "1702945597.703679",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qSCnL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Even when you try in the terminal?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7ba98282-57fb-4715-9041-218ee1e9ab9e",
+    "type": "message",
+    "user": "U056K1WRCCX",
+    "text": "git push in terminal looks like it is successful, but doesn't update as contributor",
+    "ts": "1702945780.172519",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4RcFW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "git push in terminal looks like it is successful, but doesn't update as contributor"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5b1c1010ffb2de24b2b6e2857ccb3361.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "John",
+      "real_name": "John Clowers",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "clowerj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0b7de6e8-4d6c-4862-9889-3b5578c171ae",
+    "type": "message",
+    "user": "U056K1WRCCX",
+    "text": "on github",
+    "ts": "1702945783.903759",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dRTc2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "on github"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5b1c1010ffb2de24b2b6e2857ccb3361.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "John",
+      "real_name": "John Clowers",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "clowerj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3e49a8bb-7ccd-45b5-adf5-6f6b79841e4c",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "i see it, you just need to merge it with main and it should work",
+    "ts": "1702945814.730909",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IhdCQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i see it, you just need to merge it with main and it should work"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "289d0b4e-8a83-49f1-bc3c-b70744360f2c",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "we have development-branch as the backup if for some reason merging it messes up the main branch",
+    "ts": "1702945831.705699",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cpvQD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we have development-branch as the backup if for some reason merging it messes up the main branch"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "425fbbe3-1e5e-47c5-90da-faa7195d622c",
+    "type": "message",
+    "user": "U056K1WRCCX",
+    "text": "it I try git merge in terminal it tells me already up to date, if it use them menu on the top nav bar it also says merged",
+    "ts": "1702945926.851829",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8q7th",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it I try git merge in terminal it tells me already up to date, if it use them menu on the top nav bar it also says merged"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5b1c1010ffb2de24b2b6e2857ccb3361.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "John",
+      "real_name": "John Clowers",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "clowerj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a3ab384d-e6b8-41af-a9a2-5a1722756816",
+    "type": "message",
+    "user": "U056K1WRCCX",
+    "ts": "1702945930.523309",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "files": [
+      {
+        "id": "F06AMTNRDKP",
+        "created": 1702945928,
+        "timestamp": 1702945928,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056K1WRCCX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 108790,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06AMTNRDKP/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06AMTNRDKP/download/image.png",
+        "original_h": 599,
+        "original_w": 1012,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AMTNRDKP-214b1c9f13/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AMTNRDKP-214b1c9f13/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AMTNRDKP-214b1c9f13/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AMTNRDKP-214b1c9f13/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 213,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AMTNRDKP-214b1c9f13/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 284,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AMTNRDKP-214b1c9f13/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 426,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AMTNRDKP-214b1c9f13/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 568,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056K1WRCCX/F06AMTNRDKP/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06AMTNRDKP-c3df334668",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5b1c1010ffb2de24b2b6e2857ccb3361.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "John",
+      "real_name": "John Clowers",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "clowerj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "228a2745-04f5-4bc0-b1a9-a04139d4f4d3",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "to merge it, go to \"pull requests\" on github, \"new pull request\", then keep \"base:main\" the same, but change \"compare:main\" to \"compare:john-branch\". then add a title with what you added and a description. lmk when you submit it and ill finish the merge",
+    "ts": "1702945945.332479",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pCIB5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "to merge it, go to \"pull requests\" on github, \"new pull request\", then keep \"base:main\" the same, but change \"compare:main\" to \"compare:john-branch\". then add a title with what you added and a description. lmk when you submit it and ill finish the merge"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "03d56f7d-097e-4496-af69-c34b1ad73ba0",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "i believe its not working because you have to do it in gitbash so that github knows what branch you are one and which one you want to merge to. otherwise you have to do something like \"git merge main from john-branch\" or something like that, but its usually easier on github",
+    "ts": "1702946029.926349",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RhDBb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i believe its not working because you have to do it in gitbash so that github knows what branch you are one and which one you want to merge to. otherwise you have to do something like \"git merge main from john-branch\" or something like that, but its usually easier on github"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e955c70a-6dd2-43d3-8ec6-27b743ef76c4",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "im probably wrong on that one tho",
+    "ts": "1702946101.520919",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iOIiN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "im probably wrong on that one tho"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "CD5B23CA-82B9-4F99-9414-E2B794AA56CA",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "I’ve only done it on gitbash. ",
+    "ts": "1702946131.746549",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "N5FS6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’ve only"
+              },
+              {
+                "type": "text",
+                "text": " done it on gitbash. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2a91e722-dcb5-47d7-b4f4-08a0df504b63",
+    "type": "message",
+    "user": "U056K1WRCCX",
+    "text": "alright I did it on github. I did the gitbash way earlier but I must have done something wrong because it still wasn't working",
+    "ts": "1702946217.410699",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8tvGf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "alright I did it on github. I did the gitbash way earlier but I must have done something wrong because it still wasn't working"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5b1c1010ffb2de24b2b6e2857ccb3361.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "John",
+      "real_name": "John Clowers",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "clowerj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "67F26E18-C9F2-472C-8DAD-E5C11261EEA1",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "I approved it John, I didn’t see anything that looked off. ",
+    "ts": "1702946415.010859",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PKjw1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I approved it John, I "
+              },
+              {
+                "type": "text",
+                "text": "didn’t"
+              },
+              {
+                "type": "text",
+                "text": " see anything that looked off. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4d28261a-8604-48a9-819b-89f5659db97f",
+    "type": "message",
+    "user": "U056K1WRCCX",
+    "text": "the gradle update definitely fixed some of the issues",
+    "ts": "1702946534.677309",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "n01ap",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the gradle update definitely fixed some of the issues"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5b1c1010ffb2de24b2b6e2857ccb3361.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "John",
+      "real_name": "John Clowers",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "clowerj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6b252ebb-13e4-4f75-9af4-9fdbcaece4eb",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "yeah memorize where that button is bc it usually fixes any weird problems with the project",
+    "ts": "1702946568.755169",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "48BI6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah memorize where that button is bc it usually fixes any weird problems with the project"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "34f00c30-e674-4b12-8eca-a2e5cc5888ad",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "also i added the merge and john's still not listed as a contributor yet",
+    "ts": "1702946584.893289",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YGI9o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also i added the merge and john's still not listed as a contributor yet"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "53de50ec-417f-41fd-a503-97dfe82823c4",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "im sure it wont be an issue though since you can prove that you added a good bit of code to the project",
+    "ts": "1702946609.736329",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NziQw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "im sure it wont be an issue though since you can prove that you added a good bit of code to the project"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2357924E-5F4C-4521-A358-96122471749B",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "Hmm.. that’s odd. I wonder why I didn’t update it.",
+    "ts": "1702946618.590089",
+    "thread_ts": "1702942051.465649",
+    "parent_user_id": "U057C9DPMC3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2kmsx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hmm.. "
+              },
+              {
+                "type": "text",
+                "text": "that’s"
+              },
+              {
+                "type": "text",
+                "text": " odd. I wonder why I "
+              },
+              {
+                "type": "text",
+                "text": "didn’t"
+              },
+              {
+                "type": "text",
+                "text": " update it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "832e8932-ce16-43eb-9206-b6b20173714d",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "\u003chttps://meet.google.com/dew-waqz-aue\u003e",
+    "ts": "1702946656.300319",
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "id": 1,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/dew-waqz-aue",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "service_name": "meet.google.com",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "from_url": "https://meet.google.com/dew-waqz-aue",
+        "original_url": "https://meet.google.com/dew-waqz-aue",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1SosY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.google.com/dew-waqz-aue",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0e49a4cc-40e8-4662-8d9d-6ab141059305",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "I'm up next on the checklist thing with a TA, but I'll be on as soon as it's over.",
+    "ts": "1702946725.523639",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "kirbyhype",
+        "count": 2,
+        "users": [
+          "U057C9DPMC3",
+          "U056K1WRCCX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jjvwH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm up next on the checklist thing with a TA, but I'll be on as soon as it's over."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "81d8de35-4148-495c-9fa9-a60d23078cdc",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "\u003c@U056K1WRCCX\u003e your on the contributer list now, but you have to click on it for you to show up. think its updating slowly",
+    "ts": "1702950984.808549",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TxJHu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056K1WRCCX"
+              },
+              {
+                "type": "text",
+                "text": " your on the contributer list now, but you have to click on it for you to show up. think its updating slowly"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "52bc7d1f-0f1f-4ca1-977c-745d46c2ea1a",
+    "type": "message",
+    "user": "U056K1WRCCX",
+    "text": "Yeah we saw that during my check in. She has me run some command and now I'm stuck on main branch...it wants me to commit some 39,000 changes. We decided not to do that haha",
+    "ts": "1702952002.339119",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "joy",
+        "count": 1,
+        "users": [
+          "U05765HGT46"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z2byT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah we saw that during my check in. She has me run some command and now I'm stuck on main branch...it wants me to commit some 39,000 changes. We decided not to do that haha"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5b1c1010ffb2de24b2b6e2857ccb3361.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "John",
+      "real_name": "John Clowers",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "clowerj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F5DDFF6F-00BF-42D3-A04C-ACE70E8D18DB",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "Glad you didn’t commit those :rolling_on_the_floor_laughing: :rolling_on_the_floor_laughing: ",
+    "ts": "1702953531.233499",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PhXDD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Glad you "
+              },
+              {
+                "type": "text",
+                "text": "didn’t"
+              },
+              {
+                "type": "text",
+                "text": " commit those "
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "client_msg_id": "48fcac40-049b-481b-a6ba-099e1a96cede",
+    "type": "message",
+    "user": "U0574K7SCF5",
+    "text": "not sure how you did, but my SQL was broken and I need to redemo. I'm not pushing it to main because I haven't checked thoroughly for bugs, but I added a branch called friendspage that includes another page with a calendar and you can cycle through the calendars of other users with a dropdown. Ideally when I add a friends list to the userclass it will only allow you to go through the calendars of people on your friends list",
+    "ts": "1705954401.568529",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wgLY3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not sure how you did, but my SQL was broken and I need to redemo. I'm not pushing it to main because I haven't checked thoroughly for bugs, but I added a branch called friendspage that includes another page with a calendar and you can cycle through the calendars of other users with a dropdown. Ideally when I add a friends list to the userclass it will only allow you to go through the calendars of people on your friends list"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/25636fcae015399f5543db2ec0c827f0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Riley",
+      "real_name": "Riley Neuville",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "riley.neuville",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6D9E973E-1FDD-4893-A4E3-56DE3F5139FB",
+    "type": "message",
+    "user": "U056R9L6CQP",
+    "text": "I actually didn’t get a chance to demo last week so hopefully I will tonight. \n\nThe friend list stuff sounds confusing to me, but I’m totally down to help with it if you want ",
+    "ts": "1705959250.466049",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HiE6Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I actually "
+              },
+              {
+                "type": "text",
+                "text": "didn’t"
+              },
+              {
+                "type": "text",
+                "text": " get a chance to demo last week so hopefully I will tonight. \n\nThe friend list stuff sounds confusing to me, but "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " totally down to help with it if you want "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/dbab0a3687bce3382923ca15e187713a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Jacob",
+      "real_name": "Jacob Kellogg",
+      "display_name": "Jacob Kellogg",
+      "team": "T050CSX3EMT",
+      "name": "jacobkellogg17",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

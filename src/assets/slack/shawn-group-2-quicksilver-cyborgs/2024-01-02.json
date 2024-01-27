@@ -1,0 +1,94 @@
+[
+  {
+    "client_msg_id": "a161f20a-4f72-4b3b-b682-b1813395dd76",
+    "type": "message",
+    "user": "U0574K7SCF5",
+    "text": "I switched the date entry boxes to 'DateTime' pickers so we can schedule events down to the minute now instead of just the day. I'm wondering if we can work with Modals to have all the CRUD operations be on pop up boxes so the home page looks cleaner. It doesn't look too complicated but having multiple on one page might get a little funky.",
+    "ts": "1704219938.325439",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cFurh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I switched the date entry boxes to 'DateTime' pickers so we can schedule events down to the minute now instead of just the day. I'm wondering if we can work with Modals to have all the CRUD operations be on pop up boxes so the home page looks cleaner. It doesn't look too complicated but having multiple on one page might get a little funky."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/25636fcae015399f5543db2ec0c827f0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "Riley",
+      "real_name": "Riley Neuville",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "riley.neuville",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "174e09e0-9b05-443b-9d9b-146f051ec22d",
+    "type": "message",
+    "user": "U056R9L6CQP",
+    "text": "Nice! It sounds like you've made some really good progress. I'm totally down to try and use Modals. Is there anything you think you'd want specific help on? I've just been cleaning up the code I have now and trying to make it come together a little better",
+    "ts": "1704223430.554179",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u9+Ne",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nice! It sounds like you've made some really good progress. I'm totally down to try and use Modals. Is there anything you think you'd want specific help on? I've just been cleaning up the code I have now and trying to make it come together a little better"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/dbab0a3687bce3382923ca15e187713a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Jacob",
+      "real_name": "Jacob Kellogg",
+      "display_name": "Jacob Kellogg",
+      "team": "T050CSX3EMT",
+      "name": "jacobkellogg17",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "acc40bd5-4a78-48bf-a912-2556005df7bf",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Sry for the late response. I created a new branch which includes .gitignore and sent a pull request. Hope it will fix the gradle issues. We will see!",
+    "ts": "1703225417.318599",
+    "thread_ts": "1703114163.386899",
+    "parent_user_id": "U0577402D4J",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1hThH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sry for the late response. I created a new branch which includes .gitignore and sent a pull request. Hope it will fix the gradle issues. We will see!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b45b49bd-6e0f-4493-8a6c-e409dbf8f1c7",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "I have no idea:slightly_frowning_face:. Reach out the TAs who are available?",
+    "ts": "1703225611.979849",
+    "thread_ts": "1703115473.891649",
+    "parent_user_id": "U0577402D4J",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "85HZn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have no idea"
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_frowning_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ". Reach out the TAs who are available?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

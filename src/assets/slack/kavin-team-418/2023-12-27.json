@@ -1,0 +1,139 @@
+[
+  {
+    "client_msg_id": "36c0e3a1-53f4-46c1-9f72-541f7ec97ffa",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Hey guys, made a PR - added front-end validation to signup page (had some trouble with the name so will have to finish that later)",
+    "ts": "1703649693.519029",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oQeAK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys, made a PR - added front-end validation to signup page (had some trouble with the name so will have to finish that later)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A870C74C-3CE7-4F9A-B870-407EFE020AEC",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "And just a heads up, i think we currently have 2 “page” folders\n\nI was originally using “views” under component’s to be the page view\n\nWe also have a “pages” folder to show different pages\n\nI’m cool with either one, but we should probably keep all our pages in the same folder, or separated by specificity",
+    "ts": "1703708007.096749",
+    "thread_ts": "1703708007.096749",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05744248P7",
+        "ts": "1703802482.573919"
+      }
+    ],
+    "latest_reply": "1703802482.573919",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wMAPM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And just a heads up, i think we currently have 2 “page” folders\n\nI was originally using “views” under "
+              },
+              {
+                "type": "text",
+                "text": "component’s"
+              },
+              {
+                "type": "text",
+                "text": " to be the page view\n\nWe also have a “pages” folder to show different pages\n\n"
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " cool with either one, but we should probably keep all our pages in the same folder, or separated by specificity"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05744248P7"
+    ]
+  }
+]

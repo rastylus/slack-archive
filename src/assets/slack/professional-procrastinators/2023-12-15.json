@@ -1,0 +1,64 @@
+[
+  {
+    "client_msg_id": "14be1f03-227a-4c79-bcf2-731e1a573bc0",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "\u003chttps://meet.google.com/oot-bjkf-rtp\u003e",
+    "ts": "1702599667.202189",
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "id": 1,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/oot-bjkf-rtp",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "service_name": "meet.google.com",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "from_url": "https://meet.google.com/oot-bjkf-rtp",
+        "original_url": "https://meet.google.com/oot-bjkf-rtp",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+boyS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.google.com/oot-bjkf-rtp",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

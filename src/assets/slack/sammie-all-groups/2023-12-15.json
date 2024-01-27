@@ -1,0 +1,124 @@
+[
+  {
+    "client_msg_id": "7950abe2-d681-4af3-9bfe-b5228d777871",
+    "type": "message",
+    "user": "U05656EM4EM",
+    "text": "\u003c!channel\u003e Hello everyone! I fixed the branch rulesets. You can now merge your branches and push again after pushing the first time. Sorry for the overkill with the branch protection!!\nI hope you still have to do approvals before pushing to the main. LMK if this is not the case.",
+    "ts": "1702607471.978639",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U057HMJ9QTB",
+          "U057359TCR5"
+        ]
+      },
+      {
+        "name": "fire",
+        "count": 1,
+        "users": [
+          "U057HMJ9QTB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EVJ7D",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " Hello everyone! I fixed the branch rulesets. You can now merge your branches and push again after pushing the first time. Sorry for the overkill with the branch protection!!\nI hope you still have to do approvals before pushing to the main. LMK if this is not the case."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-08/5546028551765_ef5cfd16f93e919dda43_72.jpg",
+      "first_name": "TA",
+      "real_name": "TA Sammie Mendez (she/her)",
+      "display_name": "TA - Sammie",
+      "team": "T050CSX3EMT",
+      "name": "sammierosado",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5568d915-7361-44bd-a87d-2bcfe5d653da",
+    "type": "message",
+    "user": "U057359TCR5",
+    "text": "Thank you!",
+    "ts": "1702612052.249219",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05656EM4EM"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ye0AT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-29/5494988810679_9768f213170d7435f311_72.png",
+      "first_name": "Coleman",
+      "real_name": "Coleman Kuseliauskas (STL)",
+      "display_name": "Coleman Kuseliauskas",
+      "team": "T050CSX3EMT",
+      "name": "hanshi2929",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

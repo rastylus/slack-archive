@@ -1,0 +1,245 @@
+[
+  {
+    "client_msg_id": "4314cf24-9a2a-4251-8b67-236dddfd02f4",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Should we expect a message from our TA for the day in advance of the meeting? Or will the message be sent only immediately prior?",
+    "ts": "1705625878.156569",
+    "thread_ts": "1705625878.156569",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U0625KF6RLH",
+        "ts": "1705625906.674669"
+      },
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1705626044.632849"
+      },
+      {
+        "user": "U056K1UHEGP",
+        "ts": "1705626077.476829"
+      }
+    ],
+    "latest_reply": "1705626077.476829",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EmhkO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Should we expect a message from our TA for the day in advance of the meeting? Or will the message be sent only immediately prior?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056K1UHEGP",
+      "U0571CCLKDL",
+      "U0625KF6RLH"
+    ]
+  },
+  {
+    "client_msg_id": "775c04d9-11c2-46af-a3a0-2a9ae999266e",
+    "type": "message",
+    "user": "U0625KF6RLH",
+    "text": "For demos? Immediately prior",
+    "ts": "1705625906.674669",
+    "thread_ts": "1705625878.156569",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NaKaa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For demos? Immediately prior"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-19/6068347004260_cd7e855b65583e9c6d43_72.jpg",
+      "first_name": "Melinda",
+      "real_name": "Melinda Stitzel",
+      "display_name": "Liftoff Program Manager - Melinda (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "melinda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "98aacb6d-abee-4cba-af29-38b391efbaff",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "Yes, thanks! Does it look like everyone will be able to demo tonight? I'm sure I am not alone in saying that I am very excited to get this demo done.",
+    "ts": "1705626044.632849",
+    "thread_ts": "1705625878.156569",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 5,
+        "users": [
+          "U056K1UHEGP",
+          "U056Z2CTTGX",
+          "U056YAQ412S",
+          "U057UDJDKKJ",
+          "U0579KDG6A0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t+gZX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes, thanks! Does it look like everyone will be able to demo tonight? I'm sure I am not alone in saying that I am very excited to get this demo done."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "96be6629-db8d-4e23-a194-92fc2822c86e",
+    "type": "message",
+    "user": "U056K1UHEGP",
+    "text": "me too! i hope to get this done today  :slightly_smiling_face:",
+    "ts": "1705626077.476829",
+    "thread_ts": "1705625878.156569",
+    "parent_user_id": "U0571CCLKDL",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 6,
+        "users": [
+          "U057HDRTJU9",
+          "U056WKE4W77",
+          "U0571CCLKDL",
+          "U057GGXFWTE",
+          "U056Z2CTTGX",
+          "U057UDJDKKJ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "i7n3c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "me too! i hope to get this done today  "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/13e306b805121fa81ffc3395068bf579.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Sneha",
+      "real_name": "Sneha Chitre",
+      "display_name": "Sneha Chitre (KC)",
+      "team": "T050CSX3EMT",
+      "name": "sneha.chitre.usa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

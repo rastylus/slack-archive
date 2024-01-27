@@ -1,0 +1,354 @@
+[
+  {
+    "client_msg_id": "5E57DEB8-1199-4F03-8F82-D6EF97A142EF",
+    "type": "message",
+    "user": "U057S95RQC9",
+    "text": "Hey everyone! I have an end of semester work event tomorrow night and it turns out I must attend. I, too, won’t be able to go to class tomorrow :( I’ll continue to work on my feature and let you guys know if something else comes up! ",
+    "ts": "1702482618.925439",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U057HDRTJU9",
+          "U056SVBQSES"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PSWSq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey everyone! I have an end of semester work event tomorrow night and it turns out I must attend. I, too, "
+              },
+              {
+                "type": "text",
+                "text": "won’t"
+              },
+              {
+                "type": "text",
+                "text": " be able to go to class tomorrow :( "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " continue to work on my feature and let you guys know if something else comes up! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-28/6255059219110_09fcfa42a8921f231618_72.jpg",
+      "first_name": "Jialing",
+      "real_name": "Jialing Liu",
+      "display_name": "Jialing Liu",
+      "team": "T050CSX3EMT",
+      "name": "jialingl.liu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dcf57f4f-efd9-46ec-b164-f3485728460c",
+    "type": "message",
+    "user": "U056SVBQSES",
+    "text": "Hi guys! In case anybody needs a reminder on how to create pages in React (I certainly did!), here is a very useful tutorial. It also teaches how to link everything together to the mainpage, which will certainly need to do at some point.\n\n\u003chttps://www.youtube.com/watch?v=xMNhDf5-hvk\u003e",
+    "ts": "1702501328.758339",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: Create a Multi Page Web App With React",
+        "id": 1,
+        "author_name": "Conor Bailey",
+        "author_link": "https://www.youtube.com/@ConorBailey",
+        "title": "Create a Multi Page Web App With React",
+        "title_link": "https://www.youtube.com/watch?v=xMNhDf5-hvk",
+        "thumb_url": "https://i.ytimg.com/vi/xMNhDf5-hvk/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://www.youtube.com/watch?v=xMNhDf5-hvk",
+        "original_url": "https://www.youtube.com/watch?v=xMNhDf5-hvk",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 1,
+        "users": [
+          "U057S95RQC9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0XaPB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi guys! In case anybody needs a reminder on how to create pages in React (I certainly did!), here is a very useful tutorial. It also teaches how to link everything together to the mainpage, which will certainly need to do at some point.\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=xMNhDf5-hvk",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274449962768_b6d8928e25cd1da2d413_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Pablo (JP) Barragan",
+      "display_name": "JP Barragan",
+      "team": "T050CSX3EMT",
+      "name": "jpbarragann",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "CDE05B9C-32AB-4504-B54A-2D28F5BAF148",
+    "type": "message",
+    "user": "U056SVBQSES",
+    "text": "Also, I solved their concerns on my resources feature issue incorporating a search functionality. Lexi also implied just now that one of \u003c@U057HDRTJU9\u003e’s features might not count as a full one, since it involves only html (the one about website documentation). What do you guys think?",
+    "ts": "1702511760.980829",
+    "thread_ts": "1702511760.980829",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057S95RQC9",
+        "ts": "1702511930.804339"
+      },
+      {
+        "user": "U057HDRTJU9",
+        "ts": "1702512368.422099"
+      }
+    ],
+    "latest_reply": "1702512368.422099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kUEQO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also, I solved their concerns on my resources feature issue incorporating a search functionality. Lexi also implied just now that one of "
+              },
+              {
+                "type": "user",
+                "user_id": "U057HDRTJU9"
+              },
+              {
+                "type": "text",
+                "text": "’s features might not count as a full one, since "
+              },
+              {
+                "type": "text",
+                "text": "it"
+              },
+              {
+                "type": "text",
+                "text": " involves only html (the one about website documentation). What do you guys think?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274449962768_b6d8928e25cd1da2d413_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Pablo (JP) Barragan",
+      "display_name": "JP Barragan",
+      "team": "T050CSX3EMT",
+      "name": "jpbarragann",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U057HDRTJU9",
+      "U057S95RQC9"
+    ]
+  },
+  {
+    "client_msg_id": "8E701393-F24E-4BC1-A124-D754CA933F0C",
+    "type": "message",
+    "user": "U057S95RQC9",
+    "text": "Hmm I wonder if user login and user authentication can count as two features? Because in our proposal we only mention user login in Charu’s feature, but I believe she’s also doing authentication. Worth checking with Lexi… ",
+    "ts": "1702511930.804339",
+    "thread_ts": "1702511760.980829",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KV3Ig",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hmm I wonder if user login and user authentication can count as two features? Because in our proposal we only mention user login in Charu’s feature, but I believe "
+              },
+              {
+                "type": "text",
+                "text": "she’s"
+              },
+              {
+                "type": "text",
+                "text": " also doing authentication. Worth checking with Lexi"
+              },
+              {
+                "type": "text",
+                "text": "…"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-28/6255059219110_09fcfa42a8921f231618_72.jpg",
+      "first_name": "Jialing",
+      "real_name": "Jialing Liu",
+      "display_name": "Jialing Liu",
+      "team": "T050CSX3EMT",
+      "name": "jialingl.liu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8E701393-F24E-4BC1-A124-D754CA933F0C",
+    "type": "message",
+    "user": "U057S95RQC9",
+    "text": "Hmm I wonder if user login and user authentication can count as two features? Because in our proposal we only mention user login in Charu’s feature, but I believe she’s also doing authentication. Worth checking with Lexi… ",
+    "ts": "1702511930.804339",
+    "thread_ts": "1702511760.980829",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KV3Ig",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hmm I wonder if user login and user authentication can count as two features? Because in our proposal we only mention user login in Charu’s feature, but I believe "
+              },
+              {
+                "type": "text",
+                "text": "she’s"
+              },
+              {
+                "type": "text",
+                "text": " also doing authentication. Worth checking with Lexi"
+              },
+              {
+                "type": "text",
+                "text": "…"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-28/6255059219110_09fcfa42a8921f231618_72.jpg",
+      "first_name": "Jialing",
+      "real_name": "Jialing Liu",
+      "display_name": "Jialing Liu",
+      "team": "T050CSX3EMT",
+      "name": "jialingl.liu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

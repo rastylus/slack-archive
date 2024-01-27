@@ -1,0 +1,526 @@
+[
+  {
+    "client_msg_id": "0DDCA96B-4261-4A1B-9410-878A93E14539",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "Sorry I know it’s late, but I’m up working on trying to set up some things. Has anybody successfully launched our app today? I’m trying to figure out if it’s just my connection. It currently says unable to connect to the local host, but gradle has the build as successful.",
+    "ts": "1704863912.554749",
+    "edited": {
+      "user": "U05765HGT46",
+      "ts": "1704863950.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cN6oP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry I know it’s late, but I’m up working on trying to set up some things. Has anybody successfully launched our app today? I’m trying to figure out if it’s just my connection. It currently says unable to connect to the local host, but gradle has the build as successful."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "610B56EA-7F5C-4220-A70D-4963E4CF8F6B",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "Still struggling with this, is anyone able to try to connect to the localhost and see if our app is working? Whenever you get the time I would greatly appreciate it!",
+    "ts": "1704907521.647449",
+    "thread_ts": "1704907521.647449",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U05765HGT46",
+        "ts": "1704908367.946269"
+      },
+      {
+        "user": "U057C9DPMC3",
+        "ts": "1704919249.988909"
+      },
+      {
+        "user": "U05765HGT46",
+        "ts": "1704919568.385969"
+      },
+      {
+        "user": "U057C9DPMC3",
+        "ts": "1704919609.872269"
+      },
+      {
+        "user": "U05765HGT46",
+        "ts": "1704919951.501049"
+      },
+      {
+        "user": "U057C9DPMC3",
+        "ts": "1704920004.095129"
+      }
+    ],
+    "latest_reply": "1704920004.095129",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jH+tY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Still struggling with this, is anyone able to try to connect to the localhost and see if our app is working? Whenever you get the time I would greatly appreciate it!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05765HGT46",
+      "U057C9DPMC3"
+    ]
+  },
+  {
+    "client_msg_id": "43D022EE-F53B-4329-A3E5-BF86D2921C52",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "I think I’ve maybe figured it out, it’s just taking forever to download everything. :crossed_fingers::skin-tone-2: that it works finally.",
+    "ts": "1704908367.946269",
+    "thread_ts": "1704907521.647449",
+    "parent_user_id": "U05765HGT46",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UbcWU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think "
+              },
+              {
+                "type": "text",
+                "text": "I’ve"
+              },
+              {
+                "type": "text",
+                "text": " maybe figured it out, "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " just taking forever to download everything. "
+              },
+              {
+                "type": "emoji",
+                "name": "hand_with_index_and_middle_fingers_crossed",
+                "skin_tone": 2
+              },
+              {
+                "type": "text",
+                "text": " that it works finally."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "87966dc9-d065-400e-97fd-1ef63b44da88",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "i guessing it worked?",
+    "ts": "1704919249.988909",
+    "thread_ts": "1704907521.647449",
+    "parent_user_id": "U05765HGT46",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W1aid",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i guessing it worked?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "AC122C76-8034-47DF-8543-F1F45F462C0C",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "Nope still hasn’t, tried 2 different computers and a hotspot to switch up the internet connection.",
+    "ts": "1704919568.385969",
+    "thread_ts": "1704907521.647449",
+    "parent_user_id": "U05765HGT46",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bgTwn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Nope "
+              },
+              {
+                "type": "text",
+                "text": "still hasn’t"
+              },
+              {
+                "type": "text",
+                "text": ", tried 2 different computers and a hotspot to switch up the internet connection."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e970b8ea-8399-4768-a3bd-fe3510e2c34d",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "alright, we can hop into a call rq and hopefully get it fixed if you can rn",
+    "ts": "1704919609.872269",
+    "thread_ts": "1704907521.647449",
+    "edited": {
+      "user": "U057C9DPMC3",
+      "ts": "1704919638.000000"
+    },
+    "parent_user_id": "U05765HGT46",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8oZ4U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "alright, we can hop into a call rq and hopefully get it fixed if you can rn"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "channel": "C066DF07ERL",
+    "user": "USLACKBOT",
+    "ts": "1704919783.090389",
+    "subtype": "huddle_thread",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UoEcF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "A huddle started"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "permalink": "https://ptwebdevallhu-iu32728.slack.com/call/R06D56V53E2",
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://a.slack-edge.com/80588/img/slackbot_72.png",
+      "first_name": "slackbot",
+      "real_name": "Slackbot",
+      "display_name": "Slackbot",
+      "team": "T050CSX3EMT",
+      "name": "slackbot",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "33436176-7BD5-48C6-A9D1-482B7995567B",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "Ok, I’m trying to get slack up on my computer",
+    "ts": "1704919951.501049",
+    "thread_ts": "1704907521.647449",
+    "parent_user_id": "U05765HGT46",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hM9gG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok, "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " trying to get slack up on my computer"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9c2ad4c7-493f-4e55-80db-a9475a15299e",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "\u003chttps://meet.google.com/ozi-wwir-uwn\u003e",
+    "ts": "1704920004.095129",
+    "thread_ts": "1704907521.647449",
+    "attachments": [
+      {
+        "fallback": "Meet",
+        "id": 1,
+        "title": "Meet",
+        "title_link": "https://meet.google.com/ozi-wwir-uwn",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "service_name": "meet.google.com",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "from_url": "https://meet.google.com/ozi-wwir-uwn",
+        "original_url": "https://meet.google.com/ozi-wwir-uwn",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U05765HGT46",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7ACAX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://meet.google.com/ozi-wwir-uwn",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

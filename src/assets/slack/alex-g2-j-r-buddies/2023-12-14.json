@@ -1,0 +1,251 @@
+[
+  {
+    "client_msg_id": "21a122ea-ab67-4057-8bba-801e8895ca4a",
+    "type": "message",
+    "user": "U057A8JEJAG",
+    "text": "what is a react router?",
+    "ts": "1702516574.474469",
+    "thread_ts": "1702498594.481919",
+    "parent_user_id": "U056SERBK2B",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "I0yge",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what is a react router?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269495337120_481baecdd1c0c2c501ec_72.png",
+      "first_name": "Chad",
+      "real_name": "Chad Harper",
+      "display_name": "Chad Harper",
+      "team": "T050CSX3EMT",
+      "name": "chadharper811",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f079d1fd-f715-4bf8-ae18-028f9de3dba5",
+    "type": "message",
+    "user": "U057A8JEJAG",
+    "text": "i found the react router stuff shouldn't be too hard to set up",
+    "ts": "1702517536.038769",
+    "thread_ts": "1702517536.038769",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056SERBK2B",
+        "ts": "1702521192.477789"
+      }
+    ],
+    "latest_reply": "1702521192.477789",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xAjds",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i found the react router stuff shouldn't be too hard to set up"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269495337120_481baecdd1c0c2c501ec_72.png",
+      "first_name": "Chad",
+      "real_name": "Chad Harper",
+      "display_name": "Chad Harper",
+      "team": "T050CSX3EMT",
+      "name": "chadharper811",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056SERBK2B"
+    ]
+  },
+  {
+    "client_msg_id": "13BA37B8-919E-48D2-8DA3-C16F0AC19911",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "I’ve pretty much got it set up already. ",
+    "ts": "1702521192.477789",
+    "thread_ts": "1702517536.038769",
+    "parent_user_id": "U057A8JEJAG",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nh3mf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’ve"
+              },
+              {
+                "type": "text",
+                "text": " pretty much got it set up already. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "09ebeb2c-d823-494a-bd3e-2cfb7f8e5d1d",
+    "type": "message",
+    "user": "U056SERBK2B",
+    "text": "I added a pull request to add the router to react. I also setup the sign in and registration forms.",
+    "ts": "1702593015.283199",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H2cmA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I added a pull request to add the router to react. I also setup the sign in and registration forms."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5242105647957_3b9f718cd792b6e0f047_72.jpg",
+      "first_name": "Melany",
+      "real_name": "Melany Willis",
+      "display_name": "Melany Willis",
+      "team": "T050CSX3EMT",
+      "name": "melexiw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a64ec95f-7df0-403c-a84f-240cb2f5dc4a",
+    "type": "message",
+    "user": "U057A8JEJAG",
+    "text": "looks good i approved it and merged it so we should all be able to pull to our main local branches now",
+    "ts": "1702596439.986709",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h2J/x",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "looks good i approved it and merged it so we should all be able to pull to our main local branches now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269495337120_481baecdd1c0c2c501ec_72.png",
+      "first_name": "Chad",
+      "real_name": "Chad Harper",
+      "display_name": "Chad Harper",
+      "team": "T050CSX3EMT",
+      "name": "chadharper811",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

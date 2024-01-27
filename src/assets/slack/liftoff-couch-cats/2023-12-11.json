@@ -1,0 +1,205 @@
+[
+  {
+    "client_msg_id": "d04763c8-a9e3-4428-a954-882e6604320d",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U056Y707Y14\u003e - I just reviewed and approved your merge request",
+    "ts": "1702314667.461629",
+    "thread_ts": "1702062295.163649",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NzbtM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056Y707Y14"
+              },
+              {
+                "type": "text",
+                "text": " - I just reviewed and approved your merge request"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5171e6c6-b9e9-4fd2-a1b5-eec81eda86ae",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Hey team,\n\nhere is my update per the list above:\n\n*Erin*\n• Database set up - Done (this was *Yumi*, too)\n• User Controller: \n    ◦ Registration takes in user data and does encode the password now (not merged to main, just finished that)\n    ◦ Unfortunately, I didn't make much progress beyond that, I hit a lot of blockers along the way. :exploding_head:\n",
+    "ts": "1702332852.764799",
+    "thread_ts": "1701742394.495169",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9lFRl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey team,\n\nhere is my update per the list above:\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Erin",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Database set up - Done (this was \"},{\"type\":\"text\",\"text\":\"Yumi\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\", too)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"User Controller: \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Registration takes in user data and does encode the password now (not merged to main, just finished that)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Unfortunately, I didn't make much progress beyond \"},{\"type\":\"text\",\"text\":\"that, I hit\",\"style\":{\"unlink\":true}},{\"type\":\"text\",\"text\":\" a lot of blockers along the way. \"},{\"type\":\"emoji\",\"name\":\"exploding_head\",\"unicode\":\"1f92f\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D227C7EE-BD47-4DDD-B688-A42FB51D0170",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "I got the search functionally working. Just need to add the cast and crew bit but I’m going to use the NavBar autocomplete component that I I made so that shouldn’t be too hard.\nGot the autocomplete to pull and give suggestions.\nDidn’t touch the home page due to me working on those.\nI’ll get the styling done when I get everything functional.",
+    "ts": "1702335751.897839",
+    "thread_ts": "1701742394.495169",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d6JEv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I got the search functionally working. Just need to add the cast and crew bit but "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " going to use the NavBar autocomplete component that I I made so that "
+              },
+              {
+                "type": "text",
+                "text": "shouldn’t"
+              },
+              {
+                "type": "text",
+                "text": " be too hard.\nGot the autocomplete to pull and give suggestions.\n"
+              },
+              {
+                "type": "text",
+                "text": "Didn’t"
+              },
+              {
+                "type": "text",
+                "text": " touch the home page due to me working on those.\n"
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " get the styling done when I get everything functional."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

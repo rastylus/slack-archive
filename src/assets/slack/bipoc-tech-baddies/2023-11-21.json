@@ -1,0 +1,48 @@
+[
+  {
+    "client_msg_id": "2C284E86-CAAC-47D1-8462-3430B491DD02",
+    "type": "message",
+    "user": "U057V3BHX9N",
+    "text": "Hey!",
+    "ts": "1700533647.267969",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b3VVD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-22/6535628045744_a60921e6ae3ad50c15a0_72.png",
+      "first_name": "Courtney",
+      "real_name": "Courtney Stephen",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "courtneystephen98",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,1050 @@
+[
+  {
+    "client_msg_id": "8e4f2a6b-9acd-4955-90b7-f3eb78a79115",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "While consumers now have access to more streaming services than ever, this can make it more difficult to find a specific title or browse across multiple streaming service subscriptions. Couch Cat streamlines the process of finding a movie to watch by allowing the user to search across streaming service catalogues, filtering results by categories like genre, director, and cast. The website also allows the user to create an account, which they can use to add movies to their watchlist and rate movies they have watched. These features help the user spend less time browsing and more time watching, and maximize the value they receive from their streaming subscriptions.",
+    "ts": "1705365489.319959",
+    "edited": {
+      "user": "U056Y707Y14",
+      "ts": "1705365610.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IQC1q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "While consumers now have access to more streaming services than ever, this can make it more difficult to find a specific title or browse across multiple streaming service subscriptions. Couch Cat streamlines the process of finding a movie to watch by allowing the user to search across streaming service catalogues, filtering results by categories like genre, director, and cast. The website also allows the user to create an account, which they can use to add movies to their watchlist and rate movies they have watched. These features help the user spend less time browsing and more time watching, and maximize the value they receive from their streaming subscriptions."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d3d9eafe-7241-487a-80f9-573de0bff2f3",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U057C75RYBB\u003e \u003c@U056Y707Y14\u003e - Here are screenshots of updated Login styling. I showed one with error message so you can see that as well. Note shown: when you click in the field, the line you see changes to the pink to show the field is active\n\nIt's not perfect but much better aligned to the rest of the site. I welcome any feedback on this. From there, I'll adjust before I apply the same styling to registration.\n\nA few notes:\n• I tried to pull in the orange at first but it felt out of place since there isn't a lot of orange on this particular screen. \n• I also tried to change the link color for \"Join now\" but could not figure out where that is set -- something is overriding that no matter what I do....\n",
+    "ts": "1705374295.448149",
+    "files": [
+      {
+        "id": "F06DXHQ8WJH",
+        "created": 1705373832,
+        "timestamp": 1705373832,
+        "name": "Screenshot 2024-01-15 at 8.56.58 PM.png",
+        "title": "Screenshot 2024-01-15 at 8.56.58 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056Q9W022K",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 35023,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06DXHQ8WJH/screenshot_2024-01-15_at_8.56.58_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06DXHQ8WJH/download/screenshot_2024-01-15_at_8.56.58_pm.png",
+        "original_h": 631,
+        "original_w": 727,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DXHQ8WJH-eb22998bba/screenshot_2024-01-15_at_8.56.58_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DXHQ8WJH-eb22998bba/screenshot_2024-01-15_at_8.56.58_pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DXHQ8WJH-eb22998bba/screenshot_2024-01-15_at_8.56.58_pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DXHQ8WJH-eb22998bba/screenshot_2024-01-15_at_8.56.58_pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 312,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DXHQ8WJH-eb22998bba/screenshot_2024-01-15_at_8.56.58_pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 417,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DXHQ8WJH-eb22998bba/screenshot_2024-01-15_at_8.56.58_pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 625,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056Q9W022K/F06DXHQ8WJH/screenshot_2024-01-15_at_8.56.58_pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06DXHQ8WJH-a07353af26",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F06ED4W6KNV",
+        "created": 1705373867,
+        "timestamp": 1705373867,
+        "name": "Screenshot 2024-01-15 at 8.57.30 PM.png",
+        "title": "Screenshot 2024-01-15 at 8.57.30 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056Q9W022K",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 36309,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06ED4W6KNV/screenshot_2024-01-15_at_8.57.30_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06ED4W6KNV/download/screenshot_2024-01-15_at_8.57.30_pm.png",
+        "original_h": 600,
+        "original_w": 622,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ED4W6KNV-2657f2762b/screenshot_2024-01-15_at_8.57.30_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ED4W6KNV-2657f2762b/screenshot_2024-01-15_at_8.57.30_pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ED4W6KNV-2657f2762b/screenshot_2024-01-15_at_8.57.30_pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ED4W6KNV-2657f2762b/screenshot_2024-01-15_at_8.57.30_pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 347,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06ED4W6KNV-2657f2762b/screenshot_2024-01-15_at_8.57.30_pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 463,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056Q9W022K/F06ED4W6KNV/screenshot_2024-01-15_at_8.57.30_pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06ED4W6KNV-d3e084ada3",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S8rnF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057C75RYBB"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U056Y707Y14"
+              },
+              {
+                "type": "text",
+                "text": " - Here are screenshots of updated Login styling. I showed one with error message so you can see that as well. Note shown: when you click in the field, the line you see changes to the pink to show the field is active\n\nIt's not perfect but much better aligned to the rest of the site. I welcome any feedback on this. From there, I'll adjust before I apply the same styling to registration.\n\nA few notes:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"I tried to pull in the orange at first but it felt out of place since there isn't a lot of orange on this particular screen. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"I also tried to change the link color for \\\"Join now\\\" but could not figure out where that is set -- something is overriding that no matter what I do....\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3FF07747-E0FD-42C1-A3E0-AC573DD371F7",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Looks great. I’d have to see the code to see how to change the link color but it looks good as is I think",
+    "ts": "1705374929.087109",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "meow_party",
+        "count": 1,
+        "users": [
+          "U056Q9W022K"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dVj2k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Looks great. I’d have to see the code to see how to change the link color but it looks good as is I think"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8ecb434f-250e-47ea-b8de-5c0525de6caf",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "cool, leaving as is for now.",
+    "ts": "1705374962.003859",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V8Y6X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "cool, leaving as is for now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b6bcf991-f130-41ff-aa95-83704f8a348f",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "I love it!",
+    "ts": "1705374978.838869",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U056Q9W022K"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OjQck",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I love it!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "65d00398-5725-4d9f-9b5f-58e75771ad6d",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U0578M93BPE\u003e Updates for you:\n\nWe merged your pull request. A few notes:\n• Eric also merged fixes for MovieLog and Watchlist so everything is tested and functioning properly now. Make sure to sync with latest main. \n• He also did a bit of styling of the cards that you will see when you git pull, and we all reviewed, worked together on making decisions there. They look great!\n• We also collectively decided as a team to *NOT* display the description of the movie on the watchlist and log so you will se that is gone. ",
+    "ts": "1705375053.628509",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1kTeq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0578M93BPE"
+              },
+              {
+                "type": "text",
+                "text": " Updates for you:\n\nWe merged your pull request. A few notes:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Eric also merged fixes for MovieLog and Watchlist so everything is tested and functioning properly now. Make sure to sync with latest main. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"He also did a bit of styling of the cards that you will see when you git pull, and we all reviewed, worked together on making decisions there. They look great!\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"We also collectively decided as a team to \"},{\"type\":\"text\",\"text\":\"NOT\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" display the description of the movie on the watchlist and log so you will se that is gone. \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "18f42e3f-be88-4d86-b9ef-bfeae75a231a",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Also \u003c@U0578M93BPE\u003e\n\n*Final Items - Due no later than Wednesday, 1/17 by 5:30pm CT.*\n• Do any final clean up of your code, _if needed_ (meaning remove any old comments, add any relevant comments about your code, etc)\n• \u003c@U0578M93BPE\u003e Finish your remaining mobile responsive feature \n    ◦ _(up to you to determine what you want to be able to showcase for this)_ \n• \u003c@U056Y707Y14\u003e is replacing the logo, we all agreed it should be CouchCat (not CounchCats) on the front end\n• \u003c@U056Q9W022K\u003e is styling Login and Register to match the rest of the site\n\u003c@U057C75RYBB\u003e is finished :smiley:\n\n*NOTE*\n• *ALL final pull requests need to be in and merged no later than Wednesday, 1/17* because we demo on Thursday, 1/18 and we don't want to risk merging and breaking anything that day. \nLet us know if you have any questions.",
+    "ts": "1705375084.637249",
+    "edited": {
+      "user": "U056Q9W022K",
+      "ts": "1705379879.000000"
+    },
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U0578M93BPE"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8BBUT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also "
+              },
+              {
+                "type": "user",
+                "user_id": "U0578M93BPE"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Final Items - Due no later than Wednesday, 1/17 by 5:30pm CT.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Do any final clean up of your code,\"},{\"type\":\"text\",\"text\":\" if needed\",\"style\":{\"bold\":false,\"italic\":true,\"strike\":false}},{\"type\":\"text\",\"text\":\" (meaning remove any old comments, add any relevant comments about your code, etc)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"user\",\"user_id\":\"U0578M93BPE\"},{\"type\":\"text\",\"text\":\" Finish your remaining mobile responsive feature \"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"(up to you to determine what you want to be able to showcase for this)\",\"style\":{\"bold\":false,\"italic\":true,\"strike\":false}},{\"type\":\"text\",\"text\":\" \"}]}],\"style\":\"bullet\",\"indent\":1,\"offset\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"user\",\"user_id\":\"U056Y707Y14\"},{\"type\":\"text\",\"text\":\" is replacing the logo, we all agreed it should be CouchCat (not CounchCats) on the front end\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"user\",\"user_id\":\"U056Q9W022K\"},{\"type\":\"text\",\"text\":\" is styling Login and Register to match the rest of the site\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U057C75RYBB"
+              },
+              {
+                "type": "text",
+                "text": " is finished "
+              },
+              {
+                "type": "emoji",
+                "name": "smiley",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "NOTE",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"ALL final pull requests need to be in and merged no later than Wednesday, 1\\/17\",\"style\":{\"bold\":true,\"italic\":false,\"strike\":false}},{\"type\":\"text\",\"text\":\" because we demo on Thursday, 1\\/18 and we don't want to risk merging and breaking anything that day. \"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nLet us know if you have any questions."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5570b7f8-80e5-44b6-acde-aa52a98d058d",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U057C75RYBB\u003e or \u003c@U056Y707Y14\u003e my style edits are done and pull request when you have time: \u003chttps://github.com/corypride/couchCats/pull/81\u003e",
+    "ts": "1705376295.735869",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "#81 Login and Register CSS",
+        "id": 1,
+        "title": "#81 Login and Register CSS",
+        "title_link": "https://github.com/corypride/couchCats/pull/81",
+        "text": "Updated styles for login and register pages to be more in line with our overall application",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/corypride/couchCats|corypride/couchCats\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1705376171
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2fuz1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057C75RYBB"
+              },
+              {
+                "type": "text",
+                "text": " or "
+              },
+              {
+                "type": "user",
+                "user_id": "U056Y707Y14"
+              },
+              {
+                "type": "text",
+                "text": " my style edits are done and pull request when you have time: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/corypride/couchCats/pull/81",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a9b5e979-8f67-4daa-a061-231a8ce1c2fc",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "looks great, I merged it! mine is also up whenever someone has a minute",
+    "ts": "1705377828.541439",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kan4x",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "looks great, I merged it! mine is also up whenever someone has a minute"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "520fa0c8-9ac8-4c9b-b7b1-5cd156a3fffe",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "also looks great, reviewed and merged!",
+    "ts": "1705378087.865099",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "meow_party",
+        "count": 1,
+        "users": [
+          "U056Y707Y14"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AMpz+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also looks great, reviewed and merged!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d5130e76-d254-418e-96e2-28fa5d1c5c4b",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "Just l wonder didn't you like logo purple?",
+    "ts": "1705378308.940329",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "187Ny",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just l wonder didn't you like logo purple?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "EA3D226A-913B-453C-8224-E9FADE899BD7",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "The logo is purple ",
+    "ts": "1705378788.498539",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OsvlC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The logo is purple "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DF16848C-6BB9-4A04-A8FE-ED79E854B6D4",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "We just changed the name from CouchCats to CouchCat and removed the tagline because it was so small ",
+    "ts": "1705378836.781139",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lrXub",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We just changed the name from CouchCats to CouchCat and removed the tagline because it was so small "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D1D0DE8C-3085-4594-99C1-5584BA16C51C",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "(We edited the image you provided)",
+    "ts": "1705378852.536879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "77jsM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "(We edited the image you provided)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "27c2254f-484a-4dfe-8491-44f1019ce0f2",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "OK got it",
+    "ts": "1705378890.051549",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dEUQ8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "OK got it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "08da6076-bc59-4a70-87c9-e01f14a26ff1",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "Thank you",
+    "ts": "1705379417.216749",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VoJ9i",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "ba50bcca-99a8-4757-a616-52477840a6a3",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Also I hastily made the decision to revert the last merge of main we made with the custom 404 page because I know Artur was unhappy with our process in doing that. I wanted to make sure we make our merges in a way that we can all be happy. However since I'm a complete noob, I'm not sure I even reverted the merge correctly because it made a separate branch called \"revert 16 custom 404\" so I probably just made the situation worse.\n\nSorry everybody. This is my first time with a group repo and it shows.",
+    "ts": "1702252907.141869",
+    "thread_ts": "1702252907.141869",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05756M4E1H",
+        "ts": "1702303388.426999"
+      }
+    ],
+    "latest_reply": "1702303388.426999",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tZiuy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also I hastily made the decision to revert the last merge of main we made with the custom 404 page because I know Artur was unhappy with our process in doing that. I wanted to make sure we make our merges in a way that we can all be happy. However since I'm a complete noob, I'm not sure I even reverted the merge correctly because it made a separate branch called \"revert 16 custom 404\" so I probably just made the situation worse.\n\nSorry everybody. This is my first time with a group repo and it shows."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05756M4E1H"
+    ]
+  },
+  {
+    "client_msg_id": "B3405CEE-7ADC-4AEC-B7AB-25317D60E8F5",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "Hi!\n\nI appreciate it, I planned to steal few minutes of your time today guys to show what I know about pull requests and code reviews, I want to show what in my opinion is wrong and why",
+    "ts": "1702303388.426999",
+    "thread_ts": "1702252907.141869",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JbV8H",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi!\n\nI appreciate it, I planned to steal few minutes of your time today guys to show what I know about pull requests and code reviews, I want to show what in my opinion is wrong and why"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

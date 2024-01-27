@@ -1,0 +1,160 @@
+[
+  {
+    "client_msg_id": "91030a15-b313-44a7-834c-4158da0652c6",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "have a good night everyone",
+    "ts": "1698975072.929929",
+    "thread_ts": "1698975072.929929",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056FFMNKJL",
+        "ts": "1698975095.845839"
+      },
+      {
+        "user": "U059D0BNJ1G",
+        "ts": "1698975210.051599"
+      }
+    ],
+    "latest_reply": "1698975210.051599",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ITr+1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "have a good night everyone"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056FFMNKJL",
+      "U059D0BNJ1G"
+    ]
+  },
+  {
+    "client_msg_id": "5bbed8f7-2554-45cc-9a5f-c6d3b3024f73",
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "Good night!",
+    "ts": "1698975095.845839",
+    "thread_ts": "1698975072.929929",
+    "parent_user_id": "U057SCV767K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l1C8t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good night!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4dbaed61-c541-4ee9-840d-e48b53be1ab9",
+    "type": "message",
+    "user": "U059D0BNJ1G",
+    "text": "Good night!",
+    "ts": "1698975210.051599",
+    "thread_ts": "1698975072.929929",
+    "parent_user_id": "U057SCV767K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l1C8t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good night!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-24/5316533015413_e26702333ab28353f335_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Hernandez.",
+      "display_name": "TA - Jose Hernandez",
+      "team": "T050CSX3EMT",
+      "name": "jose_ghj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "client_msg_id": "b29de9b6-840c-421e-a2ce-b64f113cb3a9",
+    "type": "message",
+    "user": "U057534FBHQ",
+    "text": "I have a problem. when trying to create a password such as \"`techjobs` .\", it gives a weak password. should I add more characters to the password?",
+    "ts": "1699475402.900469",
+    "thread_ts": "1699475402.900469",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1699476242.719379"
+      },
+      {
+        "user": "U057534FBHQ",
+        "ts": "1699476308.331299"
+      }
+    ],
+    "latest_reply": "1699476308.331299",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f6k53",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have a problem. when trying to create a password such as \""
+              },
+              {
+                "type": "text",
+                "text": "techjobs",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " .\", it gives a weak password. should I add more characters to the password?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5255734451745_4fe6d453b22fa9553c02_72.png",
+      "first_name": "Abdulrazig",
+      "real_name": "Abdulrazig Mohammed",
+      "display_name": "Abdulrazig Mohammed",
+      "team": "T050CSX3EMT",
+      "name": "abduadam688",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U057534FBHQ",
+      "U057P8PCXT2"
+    ]
+  },
+  {
+    "client_msg_id": "555C25BA-B498-496A-B9DF-CFB12A5D318E",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "As long as it’s saving, which it should do when you hit apply, it doesn’t matter. It may throw the warning but still saves",
+    "ts": "1699476242.719379",
+    "thread_ts": "1699475402.900469",
+    "parent_user_id": "U057534FBHQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zdngi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "As long as "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " saving, which it should do when you hit apply, it "
+              },
+              {
+                "type": "text",
+                "text": "doesn’t"
+              },
+              {
+                "type": "text",
+                "text": " matter. It may throw the warning but still saves"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "70b4ef6e-ae52-41e9-8fe1-37c0f64b742b",
+    "type": "message",
+    "user": "U057534FBHQ",
+    "text": "Thank you.",
+    "ts": "1699476308.331299",
+    "thread_ts": "1699475402.900469",
+    "parent_user_id": "U057534FBHQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "r9CO9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5255734451745_4fe6d453b22fa9553c02_72.png",
+      "first_name": "Abdulrazig",
+      "real_name": "Abdulrazig Mohammed",
+      "display_name": "Abdulrazig Mohammed",
+      "team": "T050CSX3EMT",
+      "name": "abduadam688",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "type": "message",
+    "user": "U0625KF6RLH",
+    "text": "\u003c@U0625KF6RLH\u003e has joined the channel",
+    "ts": "1700508205.615699",
+    "subtype": "channel_join",
+    "inviter": "U055RLYGGDR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-19/6068347004260_cd7e855b65583e9c6d43_72.jpg",
+      "first_name": "Melinda",
+      "real_name": "Melinda Stitzel",
+      "display_name": "Liftoff Program Manager - Melinda (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "melinda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A5F310DE-36B6-4F18-AF41-404C25FEFF1C",
+    "type": "message",
+    "user": "U0578C4TKCK",
+    "text": "\u003c@U056WKD5T7X\u003e I think I've only heard figma/figjam mentioned in passing in one of Carries videos.\n\nIt's an online whiteboarding/design solution. It's an easy way to get information out via online collaboration.",
+    "ts": "1700511816.688499",
+    "thread_ts": "1700150377.397179",
+    "parent_user_id": "U0578C4TKCK",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+n3tC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056WKD5T7X"
+              },
+              {
+                "type": "text",
+                "text": " I think I've only heard figma/figjam mentioned in passing in one of Carries videos.\n\nIt's an online whiteboarding/design solution. It's an easy way to get information out via online collaboration."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5232007116311_53d7458c44834e167288_72.png",
+      "first_name": "Andrew",
+      "real_name": "Andrew Lanning - KC - he/him",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "lanningsimulation",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

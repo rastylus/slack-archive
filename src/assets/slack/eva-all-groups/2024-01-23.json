@@ -1,0 +1,559 @@
+[
+  {
+    "client_msg_id": "2f726abc-b19c-438a-99d2-34119e39183d",
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "Hello team. Please let me know if you'd like me to open zoom meeting for you",
+    "ts": "1705971329.480279",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/Rlri",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello team. Please let me know if you'd like me to open zoom meeting for you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "07e331b3-b125-438f-8756-333c93f43066",
+    "type": "message",
+    "user": "U0577713B9A",
+    "text": "Can you turn the zoom on for a bit, please.",
+    "ts": "1705971417.429009",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kDbCG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can you turn the zoom on for a bit, please."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264564556449_d79bc0fe03e781ad5f97_72.jpg",
+      "first_name": "Kevin",
+      "real_name": "Kevin Hammel",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "cfphpl",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dc215e43-adb7-4ddf-b567-93d02bec050d",
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "give me a few please",
+    "ts": "1705971432.537869",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UVe7z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "give me a few please"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "686f1d0d-4f24-449f-b9fc-9a0a3f73bb1a",
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "\u003c!channel\u003e I started zoom meeting",
+    "ts": "1705971937.213739",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Rn5T2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " I started zoom meeting"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "780c3eff-7e2d-45b3-81a9-47c7b0208ce8",
+    "type": "message",
+    "user": "U056ZNNEALF",
+    "text": "It's not letting me in",
+    "ts": "1705972295.191859",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0fMBB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It's not letting me in"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5237770526439_b10065524afd4a0a3755_72.png",
+      "first_name": "Temesgen",
+      "real_name": "Temesgen Ghidey",
+      "display_name": "Temesgen Ghidey",
+      "team": "T050CSX3EMT",
+      "name": "tghidey",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f0036fc4-b156-4c0f-bc34-429a344bd198",
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "I had to leave to do demos, if you are planning to join, I can restart the meeting in couple minutes",
+    "ts": "1705972386.024569",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hWT5X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I had to leave to do demos, if you are planning to join, I can restart the meeting in couple minutes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a872dea2-3b10-486b-8526-45a69cc88c3c",
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "Please let me know if you plan to join",
+    "ts": "1705972512.049209",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rpBbm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Please let me know if you plan to join"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e6d59826-a561-44ec-affd-7d8b9560ece1",
+    "type": "message",
+    "user": "U0574U0BKQA",
+    "text": "We're interested in joining. Currently in the waiting room",
+    "ts": "1705972603.945509",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DHEYL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We're interested in joining. Currently in the waiting room"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245917112390_a678285ea0ed240e1e11_72.jpg",
+      "first_name": "Devon",
+      "real_name": "Devon Harris",
+      "display_name": "Devon H. (Philly)",
+      "team": "T050CSX3EMT",
+      "name": "devharris93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "364f5532-2989-4313-ad76-7fa3d5888981",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "Our group will join when you re open the room.",
+    "ts": "1705972612.004559",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sMbYk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Our group will join when you re open the room."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7c3ec9b4-720d-494a-ac6d-af93e297f5c5",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "We were going to jump in to say goodbye and give you thanks for helping us along in the last few weeks. You really made us feel a lot better about the whole thing.",
+    "ts": "1705972615.059119",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hwq4G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We were going to jump in to say goodbye and give you thanks for helping us along in the last few weeks. You really made us feel a lot better about the whole thing."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6f91c304-996d-46aa-baf4-a3f4c59b1fe1",
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "ok, let's try again",
+    "ts": "1705972744.082029",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2DFB2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok, let's try again"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C4E5080E-1B19-4A88-8DE2-590C28D58A13",
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "\u003chttps://www.linkedin.com/in/eva-dumond-667084107?utm_source=share\u0026amp;utm_campaign=share_via\u0026amp;utm_content=profile\u0026amp;utm_medium=ios_app|https://www.linkedin.com/in/eva-dumond-667084107?utm_source=share\u0026amp;utm_campaign=share_via\u0026amp;utm_content=profile\u0026amp;utm_medium=ios_app\u003e",
+    "ts": "1705973115.327249",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mlLke",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/in/eva-dumond-667084107?utm_source=share\u0026utm_campaign=share_via\u0026utm_content=profile\u0026utm_medium=ios_app",
+                "text": "https://www.linkedin.com/in/eva-dumond-667084107?utm_source=share\u0026utm_campaign=share_via\u0026utm_content=profile\u0026utm_medium=ios_app"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

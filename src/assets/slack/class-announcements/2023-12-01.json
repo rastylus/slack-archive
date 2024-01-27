@@ -1,0 +1,180 @@
+[
+  {
+    "client_msg_id": "51bccb13-d096-4286-824c-a5c486f917f8",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "Have a good evening everybody! The recording for lecture is live in \u003c#C068SQ71S00|liftoff\u003e !!",
+    "ts": "1701397800.539289",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 2,
+        "users": [
+          "U05724ACLVB",
+          "U0625KF6RLH"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 4,
+        "users": [
+          "U0579KDG6A0",
+          "U057HMJ9QTB",
+          "U057GLCQK1A",
+          "U057J8HJZMF"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-5",
+        "count": 1,
+        "users": [
+          "U055S98U8G2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m6PO/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Have a good evening everybody! The recording for lecture is live in "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C068SQ71S00"
+              },
+              {
+                "type": "text",
+                "text": " !!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "890b3898-4997-4984-ad31-e4be8d81e7aa",
+    "type": "message",
+    "user": "U0625KF6RLH",
+    "text": "\u003c!channel\u003e Happy Friday! Colin, Lexi, and I have begun reviewing Project Proposals. We are excited to see that you have some creative ideas. However, even after only going through a brief scan of your proposals, we are noticing a few trends we want to bring your attention to:\n\n• Many of you have sections of the proposal that are incomplete, though the due date was last night. Please correct this as soon as possible so you do not fall behind in your overall timeline to complete your project. Remember that you do have to pass your project proposal by the project checkpoint (12/18) as a part of the class. Any groups who do not have an approved project proposal at that time are subject to being dropped. To meet that deadline, we ask for edits to be made by 12/6 so our team has time for all necessary reviews and you will have time for another round of revisions if necessary. \n• Even some of the groups that have passed have made changes to formatting on this template. With this document, and others used in Liftoff, things are formatted with your success and our review process in mind. Please do not make changes to font style, font size, bolding, spacing, or names of sections. It may cause pieces to be not passed and also slows down review time. If you have questions about the Project Proposal, please make sure you are also reviewing the sample on the second page to have a better idea of what we are expecting in the proposal. \n• At this time, all members of groups should be at least listed in Github. Many groups only have the TA listed. Make sure that you are working with your TA to join the Repo as a Contributor. \n• Though it wasn’t required to have things completed on Github Projects yet, most of the groups do not have anything listed here. We encourage you to prioritize that this week. We are asking that you use GitHub Projects for your project management tool, not Trello. So make sure that you are utilizing that tool for your project. \nOur goal is to get through all proposals by class on Monday, though it is taking us a bit longer than expected to review. If you have questions about your proposal, feel free to leave a comment in your Slack channel, and tag Lexi, Colin, and myself.\n\nHave a great weekend!",
+    "ts": "1701460306.093539",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 11,
+        "users": [
+          "U05722VQ4S0",
+          "U05765HGT46",
+          "U057WAMKE5N",
+          "U0571CCLKDL",
+          "U05763FB2F4",
+          "U0578C4TKCK",
+          "U057V3BHX9N",
+          "U057HMJ9QTB",
+          "U057J8HJZMF",
+          "U056ZJ0NFNW",
+          "U0574CMJ0MT"
+        ]
+      },
+      {
+        "name": "performing_arts",
+        "count": 2,
+        "users": [
+          "U057JSST597",
+          "U0574CMJ0MT"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zYnof",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " Happy Friday! Colin, Lexi, and I have begun reviewing Project Proposals. We are excited to see that you have some creative ideas. However, even after only going through a brief scan of your proposals, we are noticing a few trends we want to bring your attention to:\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Many of you have sections of the proposal that are incomplete, though the due date was last night. Please correct this as soon as possible so you do not fall behind in your overall timeline to complete your project. Remember that you do have to pass your project proposal by the project checkpoint (12\\/18) as a part of the class. Any groups who do not have an approved project proposal at that time are subject to being dropped. To meet that deadline, we ask for edits to be made by 12\\/6 so our team has time for all necessary reviews and you will have time for another round of revisions if necessary. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Even some of the groups that have passed have made changes to formatting on this template. With this document, and others used in Liftoff, things are formatted with your success and our review process in mind. Please do not make changes to font style, font size, bolding, spacing, or names of sections. It may cause pieces to be not passed and also slows down review time. If you have questions about the Project Proposal, please make sure you are also reviewing the sample on the second page to have a better idea of what we are expecting in the proposal. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"At this time, all members of groups should be at least listed in Github. Many groups only have the TA listed. Make sure that you are working with your TA to join the Repo as a Contributor. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Though it wasn\\u2019t required to have things completed on Github Projects yet, most of the groups do not have anything listed here. We encourage you to prioritize that this week. We are asking that you use GitHub Projects for your project management tool, not Trello. So make sure that you are utilizing that tool for your project. \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nOur goal is to get through all proposals by class on Monday, though it is taking us a bit longer than expected to review. If you have questions about your proposal, feel free to leave a comment in your Slack channel, and tag Lexi, Colin, and myself.\n\nHave a great weekend!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-19/6068347004260_cd7e855b65583e9c6d43_72.jpg",
+      "first_name": "Melinda",
+      "real_name": "Melinda Stitzel",
+      "display_name": "Liftoff Program Manager - Melinda (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "melinda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

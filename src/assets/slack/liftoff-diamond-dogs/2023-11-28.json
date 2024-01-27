@@ -1,0 +1,1048 @@
+[
+  {
+    "client_msg_id": "6ee35ca1-aeaa-4c59-afb0-62c58d7b09b0",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "requested access",
+    "ts": "1701129603.347499",
+    "thread_ts": "1701128379.429429",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0575U6RCKC"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5GlNl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "requested access"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ead68aea-cb83-4eea-866f-368c1d17d5b1",
+    "type": "message",
+    "user": "U055S98U8G2",
+    "text": "I need each of you to send me your email addresses so that I can add you as collaborators on you liftoff repo",
+    "ts": "1701129965.359329",
+    "thread_ts": "1701129965.359329",
+    "last_read": "1701136165.399039",
+    "subscribed": true,
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U05756M4E1H",
+        "ts": "1701130086.440079"
+      },
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1701130103.412059"
+      },
+      {
+        "user": "U056RCF9G87",
+        "ts": "1701130776.793389"
+      },
+      {
+        "user": "U057UNE3XPS",
+        "ts": "1701136165.399039"
+      }
+    ],
+    "latest_reply": "1701136165.399039",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eriIT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I need each of you to send me your email addresses so that I can add you as collaborators on you liftoff repo"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5208942534833_61c4df60725855ac84c1_72.jpg",
+      "first_name": "Cory",
+      "real_name": "Cory Pride",
+      "display_name": "TA-Cory Pride (He/Him)",
+      "team": "T050CSX3EMT",
+      "name": "cory.pride83",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U056RCF9G87",
+      "U05756M4E1H",
+      "U0575U6RCKC",
+      "U057UNE3XPS"
+    ]
+  },
+  {
+    "client_msg_id": "6DE76352-3A26-44F8-8C74-25C0FEC40C24",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "\u003cmailto:artur.uff@gmail.com|artur.uff@gmail.com\u003e",
+    "ts": "1701130086.440079",
+    "thread_ts": "1701129965.359329",
+    "parent_user_id": "U055S98U8G2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S/MWt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "mailto:artur.uff@gmail.com",
+                "text": "artur.uff@gmail.com"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "29c76647-2f5f-4551-9a71-ed5f54d496d8",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "\u003cmailto:collinaustin@gmail.com|collinaustin@gmail.com\u003e",
+    "ts": "1701130103.412059",
+    "thread_ts": "1701129965.359329",
+    "parent_user_id": "U055S98U8G2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d2EuF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "mailto:collinaustin@gmail.com",
+                "text": "collinaustin@gmail.com"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bcfefb86-b66d-40bd-9e4d-001360ee069e",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "\u003cmailto:ryan.p.riggs@gmail.com|ryan.p.riggs@gmail.com\u003e",
+    "ts": "1701130776.793389",
+    "thread_ts": "1701129965.359329",
+    "parent_user_id": "U055S98U8G2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qZ+RH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "mailto:ryan.p.riggs@gmail.com",
+                "text": "ryan.p.riggs@gmail.com"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c1199a6e-2cc7-4def-82b3-370f29e30d76",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "\u003chttps://docs.google.com/document/d/1Sa4l5qB2f4zzEpN02b68LgC-C-Uuz04thtY5lHNiO74/edit?usp=sharing\u003e",
+    "ts": "1701134575.958149",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cCCPE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1Sa4l5qB2f4zzEpN02b68LgC-C-Uuz04thtY5lHNiO74/edit?usp=sharing",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "03c868c6-da20-41ed-933a-b634cfc6b899",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "1. User Account Management: Secure login and profile customization for a personalized shopping experience.\n2. Enhanced Product Listings: Each plant listing includes in-depth care information pulled from the Perenual API (\u003chttp://perenual.com|perenual.com\u003e), alongside user-generated content.\n3. Advanced Search and Filter: Robust search and filtering options based on plant type, care requirements, and other attributes from the Perenual API.\n4. E-Commerce Functionality: A seamless shopping cart and checkout process, integrating Stripe for secure transactions.\n5. Review and Rating System: Customers can rate and review plants, aiding others in making informed decisions.\n6. Plant Care Blog: Educational content, care guides, and tips powered by the Perenual API, establishing the site as an authoritative source on plant care.\n7. Rewards System: Points and rewards for purchases and community engagement, enhancing user loyalty.\n8. Online calendar of events. Ability to create, display, and delete events.\n9. Mobile Responsiveness: Ensuring the website is accessible and efficient across various devices.\n10. Photo Uploads: Users can upload images of their plants, fostering community sharing and interaction.\n11. Interactive Plant Care Tools: Tools like care reminders or plant suggestion quizzes, leveraging the Perenual API for data.\n12.  User Dashboard: For tracking orders, favorites, and rewards.\n13. Admin Panel: For site management and overseeing user activity and content.\n",
+    "ts": "1701134982.956369",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cXhOI",
+        "elements": [
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"User Account Management: Secure login and profile customization for a personalized shopping experience.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Enhanced Product Listings: Each plant listing includes in-depth care information pulled from the Perenual API (\"},{\"type\":\"link\",\"url\":\"http:\\/\\/perenual.com\",\"text\":\"perenual.com\"},{\"type\":\"text\",\"text\":\"), alongside user-generated content.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Advanced Search and Filter: Robust search and filtering options based on plant type, care requirements, and other attributes from the Perenual API.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"E-Commerce Functionality: A seamless shopping cart and checkout process, integrating Stripe for secure transactions.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Review and Rating System: Customers can rate and review plants, aiding others in making informed decisions.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Plant Care Blog: Educational content, care guides, and tips powered by the Perenual API, establishing the site as an authoritative source on plant care.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Rewards System: Points and rewards for purchases and community engagement, enhancing user loyalty.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Online calendar of events. Ability to create, display, and delete events.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Mobile Responsiveness: Ensuring the website is accessible and efficient across various devices.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Photo Uploads: Users can upload images of their plants, fostering community sharing and interaction.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Interactive Plant Care Tools: Tools like care reminders or plant suggestion quizzes, leveraging the Perenual API for data.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\" User Dashboard: For tracking orders, favorites, and rewards.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Admin Panel: For site management and overseeing user activity and content.\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "061dce40-9c3c-4834-b36f-f295e9a18e26",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Free Plant API | Houseplants,Garden,Trees,Flowers,Images \u0026amp; Data (\u003chttp://perenual.com|perenual.com\u003e\u003chttps://perenual.com/docs/api|)\u003e",
+    "ts": "1701135028.278099",
+    "attachments": [
+      {
+        "fallback": "Free Plant API | Houseplants,Garden,Trees,Flowers,Images \u0026amp; Data",
+        "id": 1,
+        "title": "Free Plant API | Houseplants,Garden,Trees,Flowers,Images \u0026amp; Data",
+        "title_link": "https://perenual.com/docs/api",
+        "text": "Free API with over 10,000 plant species for images \u0026amp; data. Get agriculture/farm/cultivation \u0026amp; botanic info on watering,sunlight,growth,pest diseases \u0026amp; more",
+        "service_name": "perenual.com",
+        "from_url": "https://perenual.com/docs/api",
+        "original_url": "https://perenual.com/docs/api",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tsLXl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Free Plant API | Houseplants,Garden,Trees,Flowers,Images \u0026 Data ("
+              },
+              {
+                "type": "link",
+                "url": "http://perenual.com",
+                "text": "perenual.com"
+              },
+              {
+                "type": "link",
+                "url": "https://perenual.com/docs/api",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "302a0107-f362-4067-98bf-5f51dc389b7a",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "\u003chttps://trello.com/invite/diamonddogs32/ATTI45f48e9a0e134eabfa5081c65338d4c8E1F2730B\u003e",
+    "ts": "1701135074.940369",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oCSTY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://trello.com/invite/diamonddogs32/ATTI45f48e9a0e134eabfa5081c65338d4c8E1F2730B",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f0b7b1ce-2f19-4b5c-8e6b-6cab3c63dbfe",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "\u003cmailto:forsythet@gmail.com|forsythet@gmail.com\u003e",
+    "ts": "1701136165.399039",
+    "thread_ts": "1701129965.359329",
+    "parent_user_id": "U055S98U8G2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SmXbL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "mailto:forsythet@gmail.com",
+                "text": "forsythet@gmail.com"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b73d1000-c69c-46de-9bf2-e8dd7edcfa9c",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Finished project proposal: \u003chttps://docs.google.com/document/d/1CxBZIMcS1I0QKB2DX0lqjPY2Gy5IPCw68wvk4NOvyr4/edit|Diamond Dogs Project Proposal - Google Docs\u003e",
+    "ts": "1701137956.180079",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7seDK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Finished project proposal: "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1CxBZIMcS1I0QKB2DX0lqjPY2Gy5IPCw68wvk4NOvyr4/edit",
+                "text": "Diamond Dogs Project Proposal - Google Docs"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "24d89f71-a6a6-40bc-a082-dc21586c1122",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Finished group expectations: \u003chttps://docs.google.com/document/d/1Sa4l5qB2f4zzEpN02b68LgC-C-Uuz04thtY5lHNiO74/edit#heading=h.9tlafglt7wt1|Group Expectations - Google Docs\u003e",
+    "ts": "1701137975.704449",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xFLF8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Finished group expectations: "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1Sa4l5qB2f4zzEpN02b68LgC-C-Uuz04thtY5lHNiO74/edit#heading=h.9tlafglt7wt1",
+                "text": "Group Expectations - Google Docs"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d3f7bf4a-bfcb-45df-83ea-eea5273d039e",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "It looks like the group expectations should be submitted individually as a PDF under assignments on canvas.",
+    "ts": "1701138239.346789",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4RqFi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It looks like the group expectations should be submitted individually as a PDF under assignments on canvas."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8ed42f4a-a04f-49d9-8b24-8ec7c40edcdb",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "if you clone a project and don't see folders:\n\nexit intellij, delete .idea folder and start again, worked for me",
+    "ts": "1701138330.684409",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wAMFL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "if you clone a project and don't see folders:\n\nexit intellij, delete .idea folder and start again, worked for me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "da2453f3-d155-42c8-a71b-c4cfeb7d505a",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "we’re going to need some simple wireframes for UI/UX, possibly a user flowchart. not sure if anyone is already working on that, but if not, I can work up some in moqup",
+    "ts": "1701207355.745999",
+    "thread_ts": "1701207355.745999",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1701213973.359359"
+      }
+    ],
+    "latest_reply": "1701213973.359359",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nYSWK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "we’re going to need some simple wireframes for UI/UX, possibly a user flowchart. not sure if anyone is already working on that, but if not, I can work up some in moqup"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0575U6RCKC"
+    ]
+  },
+  {
+    "client_msg_id": "5AF513F0-11E4-4002-BE85-101007535054",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "I haven’t, but I’ve been double checking the dependencies and I’m not sure if I added everything we’d need for a react front end. I’m not sure exactly how it’ll work out because it doesn’t seem like some of the plugins needed come with the community edition of IntelliJ, but I’ll keep digging.",
+    "ts": "1701211794.898689",
+    "thread_ts": "1701211794.898689",
+    "last_read": "1701223101.301019",
+    "subscribed": true,
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05756M4E1H",
+        "ts": "1701223101.301019"
+      }
+    ],
+    "latest_reply": "1701223101.301019",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/vzjW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I haven’t, but I’ve been double checking the dependencies and I’m not sure if I added everything we’d need for a react front end. I’m not sure exactly how it’ll work out because it doesn’t seem like some of the plugins needed come with the community edition of IntelliJ, but "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " keep digging."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05756M4E1H"
+    ]
+  },
+  {
+    "client_msg_id": "e344ecf0-90d1-4e54-8c7e-29633172d46c",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I haven't gotten there yet, but that's a very good idea! Let us know if you decide to work on that because that definitely would be useful.",
+    "ts": "1701213973.359359",
+    "thread_ts": "1701207355.745999",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2trZ5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I haven't gotten there yet, but that's a very good idea! Let us know if you decide to work on that because that definitely would be useful."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "070994c2-9a58-4f71-9ac4-d565e7e4fade",
+    "type": "message",
+    "user": "U055S98U8G2",
+    "text": "Resources: \u003chttps://youtube.com/playlist?list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr\u0026amp;si=bSQ-CvpnB0IqJe35\u003e",
+    "ts": "1701214795.926709",
+    "attachments": [
+      {
+        "fallback": "YouTube: ReactJS + Spring Boot CRUD Full Stack Application",
+        "id": 1,
+        "title": "ReactJS + Spring Boot CRUD Full Stack Application",
+        "title_link": "https://youtube.com/playlist?list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr\u0026si=bSQ-CvpnB0IqJe35",
+        "text": "This course designed for beginners to learn how to develop a full-stack CRUD application using React as frontend and spring boot as backend.",
+        "thumb_url": "https://i.ytimg.com/vi/n43h1eJ2EUE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==\u0026rs=AOn4CLA-XH1Hzi35mX-3P1HZPHdlorpiqQ\u0026days_since_epoch=19689",
+        "service_name": "YouTube",
+        "service_icon": "https://www.youtube.com/s/desktop/bd3558ba/img/favicon.ico",
+        "from_url": "https://youtube.com/playlist?list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr\u0026si=bSQ-CvpnB0IqJe35",
+        "original_url": "https://youtube.com/playlist?list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr\u0026amp;si=bSQ-CvpnB0IqJe35",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RAWCz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Resources: "
+              },
+              {
+                "type": "link",
+                "url": "https://youtube.com/playlist?list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr\u0026si=bSQ-CvpnB0IqJe35",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5208942534833_61c4df60725855ac84c1_72.jpg",
+      "first_name": "Cory",
+      "real_name": "Cory Pride",
+      "display_name": "TA-Cory Pride (He/Him)",
+      "team": "T050CSX3EMT",
+      "name": "cory.pride83",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e75d5694-fd9a-4a8b-a7fd-46a5fc569314",
+    "type": "message",
+    "user": "U055S98U8G2",
+    "text": "\u003chttps://youtu.be/4LZKnegAm4g?si=PpiXJWovl2vA3l5W\u003e",
+    "ts": "1701214840.022319",
+    "thread_ts": "1701214840.022319",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: Full Stack Spring Boot and React CRUD 1.5 hours Course | Full Stack Web App | MySQL | Hibernate",
+        "id": 1,
+        "author_name": "Code With Arjun",
+        "author_link": "https://www.youtube.com/@CodeWithArjun",
+        "title": "Full Stack Spring Boot and React CRUD 1.5 hours Course | Full Stack Web App | MySQL | Hibernate",
+        "title_link": "https://youtu.be/4LZKnegAm4g?si=PpiXJWovl2vA3l5W",
+        "thumb_url": "https://i.ytimg.com/vi/4LZKnegAm4g/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://youtu.be/4LZKnegAm4g?si=PpiXJWovl2vA3l5W",
+        "original_url": "https://youtu.be/4LZKnegAm4g?si=PpiXJWovl2vA3l5W",
+        "blocks": null
+      }
+    ],
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1701217458.381929"
+      },
+      {
+        "user": "U055S98U8G2",
+        "ts": "1701217532.002309"
+      }
+    ],
+    "latest_reply": "1701217532.002309",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p9YTh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/4LZKnegAm4g?si=PpiXJWovl2vA3l5W",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5208942534833_61c4df60725855ac84c1_72.jpg",
+      "first_name": "Cory",
+      "real_name": "Cory Pride",
+      "display_name": "TA-Cory Pride (He/Him)",
+      "team": "T050CSX3EMT",
+      "name": "cory.pride83",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U055S98U8G2",
+      "U0575U6RCKC"
+    ]
+  }
+]

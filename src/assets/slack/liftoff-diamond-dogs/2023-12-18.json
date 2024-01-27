@@ -1,0 +1,489 @@
+[
+  {
+    "client_msg_id": "07479f06-8a3f-4855-a087-c7cd940fabb3",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I removed all the unnecessary .build, .gradle, and application.properies files from my merge request tracking. So my branch should be good to merge \u003c@U05756M4E1H\u003e. All you need to do is approve it on your end.\n\nA little information for everyone else so our merges can go smooth in the future:\n1. Add a .gitignore file to whatever branch you're working on and add the following information (see attached photo). This will keep github from tracking information that isn't important or our security keys that we don't want pushed into our repo.\n2. If you have .build, .gradle, or application.properties that you already pushed into you branch you can remove the tracking via the integrated terminal in IntelliJ. Make sure you're in your branch and then type the following commands and then commit and push:\n    a. \"git rm --cached -r .idea\"\n    b. \"git rm --cached -r .gradle\"\n    c. \"git rm --cached -r build/\"\n    d. \"git rm --cached build/resources/main/application.properties\"",
+    "ts": "1702928481.409139",
+    "edited": {
+      "user": "U0575U6RCKC",
+      "ts": "1702933626.000000"
+    },
+    "files": [
+      {
+        "id": "F06AS2R5EKW",
+        "created": 1702928478,
+        "timestamp": 1702928478,
+        "name": "Screen Shot 2023-12-18 at 1.30.46 PM.png",
+        "title": "Screen Shot 2023-12-18 at 1.30.46 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0575U6RCKC",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 305801,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06AS2R5EKW/screen_shot_2023-12-18_at_1.30.46_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06AS2R5EKW/download/screen_shot_2023-12-18_at_1.30.46_pm.png",
+        "original_h": 1440,
+        "original_w": 2560,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AS2R5EKW-daed5663ed/screen_shot_2023-12-18_at_1.30.46_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AS2R5EKW-daed5663ed/screen_shot_2023-12-18_at_1.30.46_pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AS2R5EKW-daed5663ed/screen_shot_2023-12-18_at_1.30.46_pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AS2R5EKW-daed5663ed/screen_shot_2023-12-18_at_1.30.46_pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 203,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AS2R5EKW-daed5663ed/screen_shot_2023-12-18_at_1.30.46_pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 270,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AS2R5EKW-daed5663ed/screen_shot_2023-12-18_at_1.30.46_pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 405,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AS2R5EKW-daed5663ed/screen_shot_2023-12-18_at_1.30.46_pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 540,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AS2R5EKW-daed5663ed/screen_shot_2023-12-18_at_1.30.46_pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 576,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0575U6RCKC/F06AS2R5EKW/screen_shot_2023-12-18_at_1.30.46_pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06AS2R5EKW-726c6ab625",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T8qAB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I removed all the unnecessary .build, .gradle, and application.properies files from my merge request tracking. So my branch should be good to merge "
+              },
+              {
+                "type": "user",
+                "user_id": "U05756M4E1H"
+              },
+              {
+                "type": "text",
+                "text": ". All you need to do is approve it on your end.\n\nA little information for everyone else so our merges can go smooth in the future:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Add a .gitignore file to whatever branch you're working on and add the following information (see attached photo). This will keep github from tracking information that isn't important or our security keys that we don't want pushed into our repo.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"If you have .build, .gradle, or application.properties that you already pushed into you branch you can remove the tracking via the integrated terminal in IntelliJ. Make sure you're in your branch and then type the following commands and then commit and push:\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\\"git rm --cached -r .idea\\\"\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\\"git rm --cached -r .gradle\\\"\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\\"git rm --cached -r build\\/\\\"\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\\"git rm --cached build\\/resources\\/main\\/application.properties\\\"\"}]}],\"style\":\"ordered\",\"indent\":1,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5f02807a-f96f-46a7-9f65-9af4c8c5fc7a",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Also since I'm no longer sharing my build.gradle file in the merge, the dependencies we went through yesterday that were giving a login page that you didn't build are still in the main branch. These are \"spring-boot-starter-oauth2-resource-server\" and \"spring-boot-starter-security\". I also have a \"spring-boot-starter-data-jpa\" dependency in my working 'api-base' that isn't in main.\n\nShould we just merge and then remove/add the specific dependencies from main?",
+    "ts": "1702937596.001409",
+    "thread_ts": "1702937596.001409",
+    "edited": {
+      "user": "U0575U6RCKC",
+      "ts": "1702937668.000000"
+    },
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05756M4E1H",
+        "ts": "1702941706.260069"
+      }
+    ],
+    "latest_reply": "1702941706.260069",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IEHza",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also since I'm no longer sharing my build.gradle file in the merge, the dependencies we went through yesterday that were giving a login page that you didn't build are still in the main branch. These are \"spring-boot-starter-oauth2-resource-server\" and \"spring-boot-starter-security\". I also have a \"spring-boot-starter-data-jpa\" dependency in my working 'api-base' that isn't in main.\n\nShould we just merge and then remove/add the specific dependencies from main?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05756M4E1H"
+    ]
+  },
+  {
+    "client_msg_id": "fc68f31a-b11f-4f07-a97e-710e79fbcdaa",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "No, you share build.gradle file, you don't share .gradle folder - configs, cache, something like that",
+    "ts": "1702941706.260069",
+    "thread_ts": "1702937596.001409",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0575U6RCKC"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xHEzI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No, you share build.gradle file, you don't share .gradle folder - configs, cache, something like that"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8c5d2c63-c9da-4406-a91b-0ea6f2e31493",
+    "type": "message",
+    "user": "U05756M4E1H",
+    "text": "it can't be merged because of conflicts, you need to resolve them\n\nyou tried to merge main into your branch?\n\n\u003chttps://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github\u003e",
+    "ts": "1702941926.399549",
+    "thread_ts": "1702941926.399549",
+    "edited": {
+      "user": "U05756M4E1H",
+      "ts": "1702941999.000000"
+    },
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0575U6RCKC",
+        "ts": "1702942339.805659"
+      }
+    ],
+    "latest_reply": "1702942339.805659",
+    "files": [
+      {
+        "id": "F06AA3D83UP",
+        "created": 1702941885,
+        "timestamp": 1702941885,
+        "name": "Screenshot 2023-12-18 at 6.23.49 PM.png",
+        "title": "Screenshot 2023-12-18 at 6.23.49 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U05756M4E1H",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 274718,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06AA3D83UP/screenshot_2023-12-18_at_6.23.49___pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06AA3D83UP/download/screenshot_2023-12-18_at_6.23.49___pm.png",
+        "original_h": 1274,
+        "original_w": 1836,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA3D83UP-2c40706f8d/screenshot_2023-12-18_at_6.23.49___pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA3D83UP-2c40706f8d/screenshot_2023-12-18_at_6.23.49___pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA3D83UP-2c40706f8d/screenshot_2023-12-18_at_6.23.49___pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA3D83UP-2c40706f8d/screenshot_2023-12-18_at_6.23.49___pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 250,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA3D83UP-2c40706f8d/screenshot_2023-12-18_at_6.23.49___pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 333,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA3D83UP-2c40706f8d/screenshot_2023-12-18_at_6.23.49___pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 500,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA3D83UP-2c40706f8d/screenshot_2023-12-18_at_6.23.49___pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 666,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06AA3D83UP-2c40706f8d/screenshot_2023-12-18_at_6.23.49___pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 711,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05756M4E1H/F06AA3D83UP/screenshot_2023-12-18_at_6.23.49___pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06AA3D83UP-924af933c8",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rZhcD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it can't be merged because of conflicts, you need to resolve them\n\nyou tried to merge main into your branch?\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243225289523_bdaaf1d323556c0f2160_72.png",
+      "first_name": "Artur",
+      "real_name": "Artur Uvarov",
+      "display_name": "Artur Uvarov",
+      "team": "T050CSX3EMT",
+      "name": "artur.uff",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0575U6RCKC"
+    ]
+  },
+  {
+    "client_msg_id": "b1ce0c4b-a4cb-4a39-9699-1593edd9e455",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "No I haven't because I thought that had to be done through github via a pull request. I removed all my .gradle and build from the cache so I don't know why they're appearing there.\n\nIf you look at the photo the files are red (red means deleted as far as I understand) and a negative file size.\n\nI'll try to merge on my end and see what i can figure out.",
+    "ts": "1702942339.805659",
+    "thread_ts": "1702941926.399549",
+    "parent_user_id": "U05756M4E1H",
+    "files": [
+      {
+        "id": "F06B393V41X",
+        "created": 1702942273,
+        "timestamp": 1702942273,
+        "name": "Screen Shot 2023-12-18 at 5.30.37 PM (2).png",
+        "title": "Screen Shot 2023-12-18 at 5.30.37 PM (2).png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0575U6RCKC",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 706026,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06B393V41X/screen_shot_2023-12-18_at_5.30.37_pm__2_.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06B393V41X/download/screen_shot_2023-12-18_at_5.30.37_pm__2_.png",
+        "original_h": 1600,
+        "original_w": 2560,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B393V41X-6c5127c605/screen_shot_2023-12-18_at_5.30.37_pm__2__64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B393V41X-6c5127c605/screen_shot_2023-12-18_at_5.30.37_pm__2__80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B393V41X-6c5127c605/screen_shot_2023-12-18_at_5.30.37_pm__2__160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B393V41X-6c5127c605/screen_shot_2023-12-18_at_5.30.37_pm__2__360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 225,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B393V41X-6c5127c605/screen_shot_2023-12-18_at_5.30.37_pm__2__480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 300,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B393V41X-6c5127c605/screen_shot_2023-12-18_at_5.30.37_pm__2__720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 450,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B393V41X-6c5127c605/screen_shot_2023-12-18_at_5.30.37_pm__2__960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 600,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B393V41X-6c5127c605/screen_shot_2023-12-18_at_5.30.37_pm__2__1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 640,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0575U6RCKC/F06B393V41X/screen_shot_2023-12-18_at_5.30.37_pm__2_.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06B393V41X-2cca8e697d",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1/7ie",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "No I haven't because I thought that had to be done through github via a pull request. I removed all my .gradle and build from the cache so I don't know why they're appearing there.\n\nIf you look at the photo the files are red (red means deleted as far as I understand) and a negative file size.\n\nI'll try to merge on my end and see what i can figure out."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

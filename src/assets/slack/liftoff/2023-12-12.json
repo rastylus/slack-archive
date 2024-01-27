@@ -1,0 +1,150 @@
+[
+  {
+    "client_msg_id": "50cfc87d-adcd-485e-b941-70b5d04cdc6f",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "Unit 3 Lecture 6 Recording (Leave time for processing): \u003chttps://youtu.be/TOv9xr-pq_U\u003e",
+    "ts": "1702344628.377109",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: Unit 3 Lecture 6 Recording",
+        "id": 1,
+        "author_name": "Colin Brock",
+        "author_link": "https://www.youtube.com/@Lunchb0xSH",
+        "title": "Unit 3 Lecture 6 Recording",
+        "title_link": "https://youtu.be/TOv9xr-pq_U",
+        "thumb_url": "https://i.ytimg.com/vi/TOv9xr-pq_U/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://youtu.be/TOv9xr-pq_U",
+        "original_url": "https://youtu.be/TOv9xr-pq_U",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Axxsv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Unit 3 Lecture 6 Recording (Leave time for processing): "
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/TOv9xr-pq_U",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2edcd8eb-48bc-4ae3-be7f-00da47a51509",
+    "type": "message",
+    "user": "U0625KF6RLH",
+    "text": "Hi all! There are two new Pages in Canvas, one which is a Class Overview for Liftoff so you all don't have to keep going back to slide deck one for info. Second is the graduation requirements so you can keep track of your own progress. Let \u003c@U050FMK1S83\u003e, \u003c@U066ED0A4DU\u003e and I know if you have any questions!",
+    "ts": "1702345208.316989",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 4,
+        "users": [
+          "U05765HGT46",
+          "U0574CMJ0MT",
+          "U056ZJ34X42",
+          "U056W9EQG4F"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U0577EKQS9Z"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "euN0R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi all! There are two new Pages in Canvas, one which is a Class Overview for Liftoff so you all don't have to keep going back to slide deck one for info. Second is the graduation requirements so you can keep track of your own progress. Let "
+              },
+              {
+                "type": "user",
+                "user_id": "U050FMK1S83"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "user",
+                "user_id": "U066ED0A4DU"
+              },
+              {
+                "type": "text",
+                "text": " and I know if you have any questions!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-19/6068347004260_cd7e855b65583e9c6d43_72.jpg",
+      "first_name": "Melinda",
+      "real_name": "Melinda Stitzel",
+      "display_name": "Liftoff Program Manager - Melinda (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "melinda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

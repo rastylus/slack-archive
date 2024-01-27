@@ -1,0 +1,241 @@
+[
+  {
+    "client_msg_id": "81539ba2-0985-458d-98a4-ac8e757a80cb",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "\u003c@U05777MT72P\u003e got the recipe search API working - was thinking we could just “trade” those features since you’ve done a *lot* with setting up the relational databases anyway. Unfortunately it doesn’t look like the API directly imports the directions for the recipes, but it does import pictures, ingredients, and _links_, so I was thinking maybe we could pivot a bit and add the recipes to something like “favorites” or “special challenges”? Goes with the gamification theme?",
+    "ts": "1704774586.288369",
+    "thread_ts": "1704774586.288369",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U05777MT72P",
+        "ts": "1704834339.878899"
+      },
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1704834591.946159"
+      }
+    ],
+    "latest_reply": "1704834591.946159",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U05777MT72P"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JsA3F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05777MT72P"
+              },
+              {
+                "type": "text",
+                "text": " got the recipe search API working - was thinking we could just “trade” those features since you’ve done a "
+              },
+              {
+                "type": "text",
+                "text": "lot",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " with setting up the relational databases anyway. Unfortunately it doesn’t look like the API directly imports the directions for the recipes, but it does import pictures, ingredients, and "
+              },
+              {
+                "type": "text",
+                "text": "links",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ", so I was thinking maybe we could pivot a bit and add the recipes to something like “favorites” or “special challenges”? Goes with the gamification theme?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05777MT72P",
+      "U057HGZ7W8Z"
+    ]
+  },
+  {
+    "client_msg_id": "B03619E4-097D-4511-92EF-A3BAF6581A2E",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "That’s a great idea. If you could show me what you did at some point, I’d like to see how you managed to get it to work. I’m curious where I went wrong with it.",
+    "ts": "1704834339.878899",
+    "thread_ts": "1704774586.288369",
+    "parent_user_id": "U057HGZ7W8Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xuylB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That’s a great idea. If you could show me what you did at some point, I’d like to see how you managed to get it to work. I’m curious where I went wrong with it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fd2481e5-4cf1-4c81-808d-e5abb7ba303c",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "I am guessing you had issues during registration, it was definitely not intuitive and I couldn't change things, I had to make another account. But I am getting data coming through, just need to drill down to the stuff I need.",
+    "ts": "1704834591.946159",
+    "thread_ts": "1704774586.288369",
+    "parent_user_id": "U057HGZ7W8Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NmnmC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am guessing you had issues during registration, it was definitely not intuitive and I couldn't change things, I had to make another account. But I am getting data coming through, just need to drill down to the stuff I need."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "12b4cb6a-35b2-4ec8-aa96-ecd085037b8c",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "does your code need to be merged into main in order for me to create a course Mad?",
+    "ts": "1704843386.010289",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WkG4g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "does your code need to be merged into main in order for me to create a course Mad?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

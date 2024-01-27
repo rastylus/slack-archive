@@ -1,0 +1,102 @@
+[
+  {
+    "client_msg_id": "380e6675-7174-47e9-93ec-37daab996136",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Thank you!",
+    "ts": "1703035204.358109",
+    "thread_ts": "1703029690.469219",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ye0AT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0be51812-c31d-43fb-b161-cea1297dcb72",
+    "type": "message",
+    "user": "U0573JVEUN9",
+    "text": "Thanks!",
+    "ts": "1703035790.721319",
+    "thread_ts": "1703029690.469219",
+    "edited": {
+      "user": "U0573JVEUN9",
+      "ts": "1703035807.000000"
+    },
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cSYv0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-16/6068837891216_41f46079944685618146_72.jpg",
+      "first_name": "Sharee",
+      "real_name": "Sharee Thompson",
+      "display_name": "Sharee",
+      "team": "T050CSX3EMT",
+      "name": "mail.sharee",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

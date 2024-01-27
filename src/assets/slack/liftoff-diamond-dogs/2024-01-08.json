@@ -1,0 +1,180 @@
+[
+  {
+    "client_msg_id": "f859d8fd-fff7-4eb3-8f58-6198540934eb",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Okay I got search working by commenting out line 18 that says: `import PlantSearchScreen from './Screens/PlantSearchResults'` and line 58 that says: `\u0026lt;Route exact path=\"/search-result\" element={\u0026lt;PlantSearchScreen /\u0026gt;} /\u0026gt;`\n\nDo you need these for something? It seems to work without them. Also do you have to type in 'npm install react-icons' each time you start up the react side? I have to or I get errors.",
+    "ts": "1704753481.424789",
+    "thread_ts": "1704662302.610289",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OnOCw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay I got search working by commenting out line 18 that says: "
+              },
+              {
+                "type": "text",
+                "text": "import PlantSearchScreen from './Screens/PlantSearchResults'",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " and line 58 that says: "
+              },
+              {
+                "type": "text",
+                "text": "\u003cRoute exact path=\"/search-result\" element={\u003cPlantSearchScreen /\u003e} /\u003e",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nDo you need these for something? It seems to work without them. Also do you have to type in 'npm install react-icons' each time you start up the react side? I have to or I get errors."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "17D6FB45-2123-405E-88A8-D78B17D1087F",
+    "type": "message",
+    "user": "U057UNE3XPS",
+    "text": "I did when I was trying to figure out how to make it work. I was trying to display search results on a new screen, but that’s not necessary now with dynamic search results based on a common name query",
+    "ts": "1704753546.045599",
+    "thread_ts": "1704662302.610289",
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Lk5ZW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I did when I was trying to figure out how to make it work. I was trying to display search results on a new screen, but "
+              },
+              {
+                "type": "text",
+                "text": "that’s"
+              },
+              {
+                "type": "text",
+                "text": " not necessary now with dynamic search results based on a common name query"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5278849177361_52d16c8268755aa7609c_72.jpg",
+      "first_name": "Tim",
+      "real_name": "Tim Forsythe",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "forsythet",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "87ead3d6-ee51-46da-8d9b-847c1e7c578c",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Gotcha. Well if it's not necessary I would go ahead and remove that part of the code and push it up to the repo so I can approve it for main. Also there isn't anything called PlantSearchScreen.js or PlantSearchResults. Not sure if you have it on your end.",
+    "ts": "1704753676.590489",
+    "thread_ts": "1704662302.610289",
+    "edited": {
+      "user": "U0575U6RCKC",
+      "ts": "1704753761.000000"
+    },
+    "parent_user_id": "U057UNE3XPS",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HIuKr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Gotcha. Well if it's not necessary I would go ahead and remove that part of the code and push it up to the repo so I can approve it for main. Also there isn't anything called PlantSearchScreen.js or PlantSearchResults. Not sure if you have it on your end."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

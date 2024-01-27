@@ -1,0 +1,48 @@
+[
+  {
+    "client_msg_id": "2bebed9a-589b-41c3-bb4c-e87c03037fe8",
+    "type": "message",
+    "user": "U0577LS7MDL",
+    "text": "Hey Solomon can you help me understand how the logon page works and where to find it.  I had pulled it in to main earlier but then I was unable to do any testing. Or maybe we need add the ability to create a user/account first.",
+    "ts": "1702607378.864879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1SMyI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Solomon can you help me understand how the logon page works and where to find it.  I had pulled it in to main earlier but then I was unable to do any testing. Or maybe we need add the ability to create a user/account first."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/567d982d608de757f7d0db5df7c1abe7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Mario",
+      "real_name": "Mario Dickerson",
+      "display_name": "Mario Dickerson",
+      "team": "T050CSX3EMT",
+      "name": "dai.dickerson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

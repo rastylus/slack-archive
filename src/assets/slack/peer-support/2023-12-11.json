@@ -1,0 +1,344 @@
+[
+  {
+    "client_msg_id": "5ab22e40-3117-4ce8-82ba-5b9610606a25",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Hello everyone. This may already have been addressed but did we ever get the slides from Shawn's first presentation from a few weeks ago?",
+    "ts": "1702318291.474959",
+    "thread_ts": "1702318291.474959",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702322643.945739"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702322650.518859"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702322669.763129"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702322675.636209"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702322684.438749"
+      }
+    ],
+    "latest_reply": "1702322684.438749",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aCyhe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello everyone. This may already have been addressed but did we ever get the slides from Shawn's first presentation from a few weeks ago?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U05724ACLVB"
+    ]
+  },
+  {
+    "client_msg_id": "e2334f22-a1c6-4ecf-9350-397c08bb0757",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I think there's a link to a repo with his slides in it. Let me see if I can dig it up.",
+    "ts": "1702322643.945739",
+    "thread_ts": "1702318291.474959",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xWgdO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think there's a link to a repo with his slides in it. Let me see if I can dig it up."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2c2fc563-7d3d-4732-aa89-d4d2c42040a6",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003chttps://github.com/darkboywonder/liftoff\u003e",
+    "ts": "1702322650.518859",
+    "thread_ts": "1702318291.474959",
+    "attachments": [
+      {
+        "color": "24292f",
+        "fallback": "darkboywonder/liftoff",
+        "id": 1,
+        "title": "darkboywonder/liftoff",
+        "text": "These are slides for launch code's lift off class",
+        "fields": [
+          {
+            "title": "Language",
+            "value": "Svelte",
+            "short": true
+          },
+          {
+            "title": "Last updated",
+            "value": "7 days ago",
+            "short": true
+          }
+        ],
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JERl7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/darkboywonder/liftoff",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "02c8f7c4-1c08-4230-b4ea-8eac0e705dbe",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Erin beat me to it! :rolling_on_the_floor_laughing:",
+    "ts": "1702322669.763129",
+    "thread_ts": "1702318291.474959",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6uJDS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Erin beat me to it! "
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0fc2c3f4-528f-4096-b45c-6bef64243270",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Looks like the README gives you instructions on how to run it? I haven't tried it",
+    "ts": "1702322675.636209",
+    "thread_ts": "1702318291.474959",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uyubz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Looks like the README gives you instructions on how to run it? I haven't tried it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0b8809f8-4a4a-482d-9c7b-828b209afb19",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Me, neither.",
+    "ts": "1702322684.438749",
+    "thread_ts": "1702318291.474959",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DPk1q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Me, neither."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

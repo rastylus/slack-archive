@@ -1,0 +1,48 @@
+[
+  {
+    "client_msg_id": "a8d1b9ae-dc42-4c30-8081-19c8b0751744",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Registration and Login (with authentication) are both working now. Have sent a pull request. Haven't added validation and group selection on the registration page. They are on my to do list.\n\nI'm also working on the user profile page. Aim to finish tmr, Will keep you updated. GN!",
+    "ts": "1704867023.269729",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZWW9T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Registration and Login (with authentication) are both working now. Have sent a pull request. Haven't added validation and group selection on the registration page. They are on my to do list.\n\nI'm also working on the user profile page. Aim to finish tmr, Will keep you updated. GN!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "client_msg_id": "a9e222d7-5dee-4059-b9d4-842674d4bdc0",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "\u003c@U0574U0BKQA\u003e \u003c@U0576LJR97D\u003e \u003c@U057MA0AHEG\u003e\nHey everyone, are we able to move the meeting back to tomorrow afternoon sometime? I forgot I had promised to help my technology director move some server racks and equipment to the new server space he is leasing. I porobably wont be back until around 7-8pm CST",
+    "ts": "1701543485.439409",
+    "thread_ts": "1701543485.439409",
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U057MA0AHEG",
+        "ts": "1701549843.265459"
+      },
+      {
+        "user": "U057UGWMN48",
+        "ts": "1701614364.925279"
+      },
+      {
+        "user": "U057MA0AHEG",
+        "ts": "1701619412.245969"
+      },
+      {
+        "user": "U057UGWMN48",
+        "ts": "1701621631.106239"
+      }
+    ],
+    "latest_reply": "1701621631.106239",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U0574U0BKQA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0IKOB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0574U0BKQA"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0576LJR97D"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U057MA0AHEG"
+              },
+              {
+                "type": "text",
+                "text": "\nHey everyone, are we able to move the meeting back to tomorrow afternoon sometime? I forgot I had promised to help my technology director move some server racks and equipment to the new server space he is leasing. I porobably wont be back until around 7-8pm CST"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U057MA0AHEG",
+      "U057UGWMN48"
+    ]
+  },
+  {
+    "client_msg_id": "F82A58BB-9F93-490C-86EC-07B70858B768",
+    "type": "message",
+    "user": "U0576LJR97D",
+    "text": "I can meet tomorrow, no worries on my end. ",
+    "ts": "1701545105.894949",
+    "thread_ts": "1701545105.894949",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057UGWMN48",
+        "ts": "1701614381.318749"
+      }
+    ],
+    "latest_reply": "1701614381.318749",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "on649",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can meet tomorrow, no worries on my end"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/0506c54e2a1afb561a10fd6f6b340f65.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Madeline",
+      "real_name": "Madeline Lora",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "madelinelora95",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057UGWMN48"
+    ]
+  },
+  {
+    "client_msg_id": "B6DF5D00-767A-43A8-AB7F-4A676864ED75",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "Yeah no problem. I work late on Sunday, but I can try and be in the meeting while at work. ",
+    "ts": "1701549843.265459",
+    "thread_ts": "1701543485.439409",
+    "parent_user_id": "U057UGWMN48",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lLpO/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah no problem. I work late on Sunday, but I can try and be in the meeting while at work. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "d9a6ae8c-8726-41eb-821a-1c4b5d4dbdff",
+    "type": "message",
+    "user": "U0576T2QFM0",
+    "text": "I just had surgery tp remove my gallbladder. It was all rushed but the horrible pains gone",
+    "ts": "1702428434.407479",
+    "thread_ts": "1702354188.690709",
+    "parent_user_id": "U0576T2QFM0",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iLWbz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just had surgery tp remove my gallbladder. It was all rushed but the horrible pains gone"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5262201999974_0e87587168e6748de47f_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Jones",
+      "display_name": "Austin Jones",
+      "team": "T050CSX3EMT",
+      "name": "austinj6497",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e9154fd5-1c76-441c-8712-b7b55929ce76",
+    "type": "message",
+    "user": "U056YAQ412S",
+    "text": "Glad you're feeling better!",
+    "ts": "1702434576.971769",
+    "thread_ts": "1702354188.690709",
+    "parent_user_id": "U0576T2QFM0",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U0576T2QFM0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DnPrn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Glad you're feeling better!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228432964807_071cc8b5e96dd5d1765c_72.png",
+      "first_name": "Lori",
+      "real_name": "Lori Kovarik",
+      "display_name": "Lori",
+      "team": "T050CSX3EMT",
+      "name": "kovarik.lori",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

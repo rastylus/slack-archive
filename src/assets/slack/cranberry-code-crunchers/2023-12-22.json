@@ -1,0 +1,53 @@
+[
+  {
+    "client_msg_id": "cfd5ad9d-e36c-44a9-9d05-83d43046c23f",
+    "type": "message",
+    "user": "U056FFR2KJ4",
+    "text": "Please join here \u003chttps://us02web.zoom.us/j/86915882580\u003e",
+    "ts": "1703206034.849529",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "C2aRt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Please join here "
+              },
+              {
+                "type": "link",
+                "url": "https://us02web.zoom.us/j/86915882580",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5219535207040_bd2448d9a5bf3331f15d_72.png",
+      "first_name": "Fred",
+      "real_name": "Fred Hodgman",
+      "display_name": "TA Fred",
+      "team": "T050CSX3EMT",
+      "name": "fredhodgman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,946 @@
+[
+  {
+    "client_msg_id": "bdf5ebda-9f9b-4728-8edd-0efbad922f49",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I had a couple bugs in my tables. I worked back to front so my dataset was never empty and I didn’t catch the bugs until now, sorry! I put in a PR to fix and adjusted the styling for mobile.",
+    "ts": "1704502337.381129",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8+NwS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I had a couple bugs in my tables. I worked back to front so my dataset was never empty and I didn’t catch the bugs until now, sorry! I put in a PR to fix and adjusted the styling for mobile."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a710b2d2-e89b-4b66-85b7-e29892a01787",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Cool, I'll take a look at it. Been just bashing my head against wall trying to get an email to send with SendGrid. The directions seemed straight forward. Had everything in place except the 'mvn install' doesn't apply since we didn't build with maven and don't have pom.xml file. Was trying to find a work around with little luck.",
+    "ts": "1704504105.902769",
+    "thread_ts": "1704504105.902769",
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1704505003.518289"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704505548.365389"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1704506055.402459"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704510409.959359"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704510468.523539"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1704510557.422249"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1704511185.666799"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704564617.401889"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1704564773.163499"
+      }
+    ],
+    "latest_reply": "1704564773.163499",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ye6cD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Cool, I'll take a look at it. Been just bashing my head against wall trying to get an email to send with SendGrid. The directions seemed straight forward. Had everything in place except the 'mvn install' doesn't apply since we didn't build with maven and don't have pom.xml file. Was trying to find a work around with little luck."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05744248P7",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "C7DE55C1-6285-4212-A3ED-4403D4628E3B",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Have you come across this dependency yet? \n`implementation 'com.sendgrid:sendgrid-java:4.4.1'`\nIt says it’s for Maven w/ Gradle but it goes in the build.gradle file.",
+    "ts": "1704504675.227169",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wJ0Q1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Have you come across this dependency yet? \n"
+              },
+              {
+                "type": "text",
+                "text": "implementation 'com.sendgrid:sendgrid-java:4.4.1'\n",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "It says it’s for Maven w/ Gradle but it goes in the build.gradle file."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0026E1BD-E86D-44C2-AF9C-84937CD2A6CA",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "\u003chttps://docs.sendgrid.com/for-developers/sending-email/email-quickstart-for-java|https://docs.sendgrid.com/for-developers/sending-email/email-quickstart-for-java\u003e",
+    "ts": "1704504717.113059",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "966x/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.sendgrid.com/for-developers/sending-email/email-quickstart-for-java",
+                "text": "https://docs.sendgrid.com/for-developers/sending-email/email-quickstart-for-java"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0A841C8D-434A-45F5-9056-75C0F724EA73",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Also, if SendGrid is too much of a roadblock, feel free to try a switch.",
+    "ts": "1704505003.518289",
+    "thread_ts": "1704504105.902769",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "26gl+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also, if SendGrid is too much of a "
+              },
+              {
+                "type": "text",
+                "text": "roadblock"
+              },
+              {
+                "type": "text",
+                "text": ", feel free to try a switch."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "06cf7f48-b062-4135-95b3-94bc3e334b26",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "I was playing with Mailjet a litte and still was doing something wrong. I keep playing around. I'm sure it's something simple I've overlooked.",
+    "ts": "1704505548.365389",
+    "thread_ts": "1704504105.902769",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tDdME",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was playing with Mailjet a litte and still was doing something wrong. I keep playing around. I'm sure it's something simple I've overlooked."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1A00D997-BE2F-4C64-9195-A2EACE2480F6",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I saw another dependency for gradle that is the same as the other one but starts with “compile” instead of “implementation”. Remember to rebuild after you add to the build.gradle to try your new dependency.",
+    "ts": "1704506055.402459",
+    "thread_ts": "1704504105.902769",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iqk2e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I saw another dependency for gradle that is the same as the other one but starts with “compile” instead of “implementation”. Remember to rebuild after you add to the build.gradle to try your new dependency."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3b8bb0fa-0725-4bd0-89c0-3653a653f0ce",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Compile was throwing errors",
+    "ts": "1704510409.959359",
+    "thread_ts": "1704504105.902769",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NpKbW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Compile was throwing errors"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "36754ac0-76b1-468f-98df-16d9562486c5",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Think I'll sleep on it and start fresh tomorrow.",
+    "ts": "1704510468.523539",
+    "thread_ts": "1704504105.902769",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rSqto",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Think I'll sleep on it and start fresh tomorrow."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9EF4D4D1-B6E6-49F7-B3CA-9899D6D7C1B1",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Darn. Sometimes the best thing you can do is walk away for a bit. Get some rest and I’m sure you’ll figure it out.",
+    "ts": "1704510557.422249",
+    "thread_ts": "1704504105.902769",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LULDd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Darn. Sometimes the best thing you can do is walk away for a bit. Get some rest and "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " sure "
+              },
+              {
+                "type": "text",
+                "text": "you’ll"
+              },
+              {
+                "type": "text",
+                "text": " figure it out."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A424F87D-BB0D-49F0-B666-B516A18B495C",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Definitely leave it for the night but this repo had a slightly different dependency. I thought I’d pass it along and get some rest myself.\n\u003chttps://github.com/sendgrid/sendgrid-java|https://github.com/sendgrid/sendgrid-java\u003e",
+    "ts": "1704511185.666799",
+    "thread_ts": "1704504105.902769",
+    "attachments": [
+      {
+        "color": "24292f",
+        "fallback": "sendgrid/sendgrid-java",
+        "id": 1,
+        "title": "sendgrid/sendgrid-java",
+        "text": "The Official Twilio SendGrid Led, Community Driven Java API Library",
+        "fields": [
+          {
+            "title": "Website",
+            "value": "\u003chttps://sendgrid.com\u003e",
+            "short": true
+          },
+          {
+            "title": "Stars",
+            "value": "474",
+            "short": true
+          }
+        ],
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Om17S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Definitely leave it for the night but this repo had a slightly different dependency. I thought "
+              },
+              {
+                "type": "text",
+                "text": "I’d"
+              },
+              {
+                "type": "text",
+                "text": " pass it along and get some rest myself.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/sendgrid/sendgrid-java",
+                "text": "https://github.com/sendgrid/sendgrid-java"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5c3a84dc-208d-4154-826b-e217785e3216",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Hey guys, added backend for user and created a PR\n\nIf someone has time later today or tomorrow - if they could help me with some testing for login and everything",
+    "ts": "1704557245.902799",
+    "thread_ts": "1704557245.902799",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U05744248P7",
+        "ts": "1704564456.675129"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1704564995.457659"
+      }
+    ],
+    "latest_reply": "1704564995.457659",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1lvzs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys, added backend for user and created a PR\n\nIf someone has time later today or tomorrow - if they could help me with some testing for login and everything"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05744248P7",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "05c66ec7-03b8-4d1e-a8f9-497fbb8759fd",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Awesome, quick work. I should be free most of evening. Just give me a heads up.",
+    "ts": "1704564456.675129",
+    "thread_ts": "1704557245.902799",
+    "parent_user_id": "U057P8PCXT2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BZu17",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome, quick work. I should be free most of evening. Just give me a heads up."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e1699df5-30e4-460a-9d0e-f98fb62a5571",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "So my issue was getting my IDE to use the environment variable.",
+    "ts": "1704564617.401889",
+    "thread_ts": "1704504105.902769",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IEbXW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So my issue was getting my IDE to use the environment variable."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9a8df320-212b-466f-b853-33383aeec374",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "my expected API Key value kept returning null. I knew the env variable was present after digging into computer properties to see all present env. variables. But by going into run config in IntelliJ you can set env variables directly. Just be sure to restart IDE afterwards.",
+    "ts": "1704564773.163499",
+    "thread_ts": "1704504105.902769",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xrSdg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "my expected API Key value kept returning null. I knew the env variable was present after digging into computer properties to see all present env. variables. But by going into run config in IntelliJ you can set env variables directly. Just be sure to restart IDE afterwards."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c7a94fc6-d986-4767-b797-6fb3988e97ba",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Awesome! I’m looking at it now and making some little edits to accompany for our name field and our React front end. I’m around all day today and tomorrow whenever you want to chat/test!",
+    "ts": "1704564995.457659",
+    "thread_ts": "1704557245.902799",
+    "parent_user_id": "U057P8PCXT2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ARH23",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome! I’m looking at it now and making some little edits to accompany for our name field and our React front end. I’m around all day today and tomorrow whenever you want to chat/test!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "884315c5-cdf4-4d56-abea-75a718a20243",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I put in a PR of the work I’ve done on the User backend. I have the register, login, and logout working but it still needs some work. I was trying to display the “Username /Logout” if logged in and “Login” in the Navbar is not logged in but I haven’t been able to make it work. I’m taking a little break but pushed it in case you guys wanted to take a look/whack at it in the mean time.\n\nI only made the PR for easier readability of changes. We can delete my PR if you want to make the changes on your branch Liam.",
+    "ts": "1704578958.598859",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XRdFa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I put in a PR of the work I’ve done on the User backend. I have the register, login, and logout working but it still needs some work. I was trying to display the “Username /Logout” if logged in and “Login” in the Navbar is not logged in but I haven’t been able to make it work. I’m taking a little break but pushed it in case you guys wanted to take a look/whack at it in the mean time.\n\nI only made the PR for easier readability of changes. We can delete my PR if you want to make the changes on your branch Liam."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

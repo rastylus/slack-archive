@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "fa58e89b-53d6-426a-84be-81285c86a56e",
+    "type": "message",
+    "user": "U057534FBHQ",
+    "text": "hello. How do I send my resume to Fred? is it through slack?",
+    "ts": "1701415118.652819",
+    "thread_ts": "1701415118.652819",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057HGZ7W8Z",
+        "ts": "1701443677.289659"
+      }
+    ],
+    "latest_reply": "1701443677.289659",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Kw/4U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello. How do I send my resume to Fred? is it through slack?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5255734451745_4fe6d453b22fa9553c02_72.png",
+      "first_name": "Abdulrazig",
+      "real_name": "Abdulrazig Mohammed",
+      "display_name": "Abdulrazig Mohammed",
+      "team": "T050CSX3EMT",
+      "name": "abduadam688",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057HGZ7W8Z"
+    ]
+  },
+  {
+    "client_msg_id": "52dff7fb-387b-4d34-a746-5e0542bb4920",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Yah, he said send the link through slack!",
+    "ts": "1701443677.289659",
+    "thread_ts": "1701415118.652819",
+    "parent_user_id": "U057534FBHQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RtsMm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yah, he said send the link through slack!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "client_msg_id": "EED3389D-4341-44BA-9EC0-7BD03B0E611B",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "I think I have the auto wiring done, if you pull from development-branch it should be on there because I just merged. If something doesn’t look right let me know and I will fix it. I’m gonna pause and get some chores done, but then plan to work some more on it. I updated the username in SQL to nomad_nirvana. So it’s under the 16 character limit. ",
+    "ts": "1704147798.320659",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U05722VQ4S0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "auLfM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think I have the auto wiring done, if you pull from development-branch it should be on there because I just merged. If something "
+              },
+              {
+                "type": "text",
+                "text": "doesn’t"
+              },
+              {
+                "type": "text",
+                "text": " look right let me know and I will fix it. "
+              },
+              {
+                "type": "text",
+                "text": "I’"
+              },
+              {
+                "type": "text",
+                "text": "m gonna pause and get some chores done, but then plan to work some more on it. I updated the username in SQL to nomad_nirvana. So "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " under the 16 character limit. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F79CB2B8-C5B8-4977-9198-0E6B3EBFA16B",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "Also I can’t remember if we talked about it, is the HomeController also the vacation controller? I set it up to auto wire to the VacationRepository.",
+    "ts": "1704147923.553269",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QaPEg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also I "
+              },
+              {
+                "type": "text",
+                "text": "can’t"
+              },
+              {
+                "type": "text",
+                "text": " remember if we talked about it, is the HomeController also the vacation controller? I set it up to auto wire to the VacationRepository."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D31E8A5C-5A17-43C0-B191-0509D9D67510",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "Also i updated the ids to generated values so I removed nextId. ",
+    "ts": "1704148054.637179",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8kqla",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also i updated the ids to generated values so I removed nextId. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c8d46c60-fa86-4f79-8a29-d8d9097e1dd3",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "So i think our plan was foe the homepage to be a dashboard and that there will be a vacation drop down that you could click and it would populate the homepage with the info from your selected vacation. Does that sound right to everyone? I've been trying to wrap my head around how to tackle that but I threw all the vacation stuff on the HomeController just in case that was still the plan",
+    "ts": "1704149173.485459",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t+KG6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So i think our plan was foe the homepage to be a dashboard and that there will be a vacation drop down that you could click and it would populate the homepage with the info from your selected vacation. Does that sound right to everyone? I've been trying to wrap my head around how to tackle that but I threw all the vacation stuff on the HomeController just in case that was still the plan"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C3998397-B39E-4684-968C-5CF38DB607AF",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "That sounds right to me. I just wanted to double check that I had it wired to the correct place, but as long as that’s still our plan I think it should be good.",
+    "ts": "1704149724.156499",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8FHtR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That sounds right to me. I just "
+              },
+              {
+                "type": "text",
+                "text": "wa"
+              },
+              {
+                "type": "text",
+                "text": "nted to double check that I had it wired to the correct place, but as long as "
+              },
+              {
+                "type": "text",
+                "text": "that’s"
+              },
+              {
+                "type": "text",
+                "text": " still our plan I think it should be good."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,1347 @@
+[
+  {
+    "client_msg_id": "caa258d2-5097-454b-badc-eff420d4223d",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I put in a pull request for the .gitignore additions (hopefully it takes care of all of them :crossed_fingers:). I’ll wait until it’s merged to resubmit my crud pull request so I can fetch the changes to that branch first.",
+    "ts": "1702574304.725409",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "n8O7c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I put in a pull request for the .gitignore additions (hopefully it takes care of all of them "
+              },
+              {
+                "type": "emoji",
+                "name": "crossed_fingers",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "). I’ll wait until it’s merged to resubmit my crud pull request so I can fetch the changes to that branch first."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6d24e0ff-43e1-4da7-934c-3548e1bd61ee",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Should we have different style sheets for different components? (I.e. landing page will have a landing.css, login page has a login.css) or just add them globally to the index css?\n\nI plan to start that way, just adding them into a styles folder unless you guys have a different idea?",
+    "ts": "1702575590.583379",
+    "thread_ts": "1702575590.583379",
+    "edited": {
+      "user": "U057P8PCXT2",
+      "ts": "1702575703.000000"
+    },
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702576759.440099"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702582303.176259"
+      }
+    ],
+    "latest_reply": "1702582303.176259",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WVZMD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Should we have different style sheets for different components? (I.e. landing page will have a landing.css, login page has a login.css) or just add them globally to the index css?\n\nI plan to start that way, just adding them into a styles folder unless you guys have a different idea?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05724ACLVB",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "fab42bf0-1585-497f-82a6-9835f26f8b2c",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I think my vote is to have them separated by components. It will help avoid merge conflicts and keep stuff organized.",
+    "ts": "1702576759.440099",
+    "thread_ts": "1702575590.583379",
+    "parent_user_id": "U057P8PCXT2",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057P8PCXT2"
+        ]
+      },
+      {
+        "name": "bulb",
+        "count": 1,
+        "users": [
+          "U056FFS0C64"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "il6dg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think my vote is to have them separated by components. It will help avoid merge conflicts and keep stuff organized."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "60ffb479-b7b9-4698-8672-1f4d4b4f38a7",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I agree, Brittney and Liam.",
+    "ts": "1702582303.176259",
+    "thread_ts": "1702575590.583379",
+    "edited": {
+      "user": "U05724ACLVB",
+      "ts": "1702582320.000000"
+    },
+    "parent_user_id": "U057P8PCXT2",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JwfTl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I agree, Brittney and Liam."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7b2fbe37-eebf-4bb1-9a2c-989b69d5e01d",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I added descriptions to the Class 1 and Class 2 folders in the Drive. I also moved the proposal out to the root of the shared folder.",
+    "ts": "1702582576.905849",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q+PkA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I added descriptions to the Class 1 and Class 2 folders in the Drive. I also moved the proposal out to the root of the shared folder."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e54f4a66-d147-44e1-a917-d86209426d0b",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Make things easier to find.",
+    "ts": "1702582582.910459",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "gratitude-thank-you",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YKHYM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Make things easier to find."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6c3de377-2dc4-46e4-a0f7-38ee70d3519e",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Hey, Brittney, I just pulled down a new clone of the repo because I was having some issues. There's nothing to run in the back end until your PR gets merged, right?",
+    "ts": "1702584875.488369",
+    "thread_ts": "1702584875.488369",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702589657.129759"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702589687.375649"
+      }
+    ],
+    "latest_reply": "1702589687.375649",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DPZoG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey, Brittney, I just pulled down a new clone of the repo because I was having some issues. There's nothing to run in the back end until your PR gets merged, right?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05724ACLVB",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "cd2cdfed-d882-4b69-96e6-b905315b6fc2",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "ROFLMAO! I added Code Blocks to the Branching Google Doc, which allows you to format code differently than the rest of the text. There's a drop-down list of languages to choose from (default is auto). There's one called \"brainfuck.\"",
+    "ts": "1702585687.635069",
+    "thread_ts": "1702585687.635069",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702589704.920669"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702589724.407819"
+      }
+    ],
+    "latest_reply": "1702589724.407819",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "joy",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1Xa4o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ROFLMAO! I added Code Blocks to the Branching Google Doc, which allows you to format code differently than the rest of the text. There's a drop-down list of languages to choose from (default is auto). There's one called \"brainfuck.\""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05724ACLVB",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "e35bf83b-7789-48c8-9e9c-160aeb5baed0",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I've added a project checkpoint list to our Drive folder. It's set to viewer, so that no one can mess with the original, but it _should_ be copiable (copyable?). \u003chttps://docs.google.com/document/d/1sWBQynyfNTUKcOaUFWZIEA8n6qzM1DPgGOAnozuFiK4/edit?usp=sharing\u003e",
+    "ts": "1702586719.716549",
+    "thread_ts": "1702586719.716549",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702589808.803159"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702590049.808749"
+      }
+    ],
+    "latest_reply": "1702590049.808749",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "thinking_face",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3Chgy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I've added a project checkpoint list to our Drive folder. It's set to viewer, so that no one can mess with the original, but it "
+              },
+              {
+                "type": "text",
+                "text": "should",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " be copiable (copyable?). "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1sWBQynyfNTUKcOaUFWZIEA8n6qzM1DPgGOAnozuFiK4/edit?usp=sharing",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05724ACLVB",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "6e345a9e-3818-4523-9aac-940a79c12bcd",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "So, Brittney, is the idea just to link to products on Amazon, and let people decide whether to buy from there, or is the idea to generate income via an affiliate percentage? I think it would be easiest to just point people to Amazon, for the time being, at least for the purposes of the group project. It seems like it's going to be pretty complicated to do the affiliate one, not from a programming aspect, but from an administrative standpoint.",
+    "ts": "1702589172.707929",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tjuuv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So, Brittney, is the idea just to link to products on Amazon, and let people decide whether to buy from there, or is the idea to generate income via an affiliate percentage? I think it would be easiest to just point people to Amazon, for the time being, at least for the purposes of the group project. It seems like it's going to be pretty complicated to do the affiliate one, not from a programming aspect, but from an administrative standpoint."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ebf46a97-d1e3-4ce5-81db-bbe7cc10ace5",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I'm still running down whether they have \"student\" access to APIs, but I haven't found that out, yet.",
+    "ts": "1702589194.289589",
+    "thread_ts": "1702589194.289589",
+    "reply_count": 7,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702589954.096339"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702590064.649229"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702590076.299879"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702590105.161139"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702590127.549989"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1702590136.737739"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1702590143.174449"
+      }
+    ],
+    "latest_reply": "1702590143.174449",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Y1E0Z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm still running down whether they have \"student\" access to APIs, but I haven't found that out, yet."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05724ACLVB",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "55aa8904-f650-4ef6-96df-6ef4911f812e",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "That’s right. I did manage to add Swagger UI to the branch today though, so there will be some stuff to play with once we get it merged.",
+    "ts": "1702589657.129759",
+    "thread_ts": "1702584875.488369",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nOfWN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That’s right. I did manage to add Swagger UI to the branch today though, so there will be some stuff to play with once we get it merged."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1d52940b-dd97-46c0-9df8-67f2b92056bf",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Cool. Whew! I was worried I'd missed something.",
+    "ts": "1702589687.375649",
+    "thread_ts": "1702584875.488369",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6koL6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Cool. Whew! I was worried I'd missed something."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "99456112-d13f-41e1-978a-da52e52ec513",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I can so relate to Google’s suggestions!",
+    "ts": "1702589704.920669",
+    "thread_ts": "1702585687.635069",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rtqxv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can so relate to Google’s suggestions!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "21aefc1f-0826-4b48-ab94-bce737b934d5",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I laughed out loud when I saw that.",
+    "ts": "1702589724.407819",
+    "thread_ts": "1702585687.635069",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JaiIv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I laughed out loud when I saw that."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1ea5ce2c-ace7-4aed-afd4-d6e74dcf02e0",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I think viewer for now is fine but that whole copiable copyable thing is a real mystery! :upside_down_face:",
+    "ts": "1702589808.803159",
+    "thread_ts": "1702586719.716549",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Uv29g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think viewer for now is fine but that whole copiable copyable thing is a real mystery! "
+              },
+              {
+                "type": "emoji",
+                "name": "upside_down_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1ee0f406-a033-4d13-ab23-34d8020cf34f",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I wouldn’t get too bogged down the Amazon affiliate way. We just need to implement an API to take a search string that our program generates and search for the filters. Originally we thought of Amazon but we could any API that generates search shopping results (maybe Google?).",
+    "ts": "1702589954.096339",
+    "thread_ts": "1702589194.289589",
+    "edited": {
+      "user": "U057UFP7YLQ",
+      "ts": "1702589968.000000"
+    },
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+Kv0k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I wouldn’t get too bogged down the Amazon affiliate way. We just need to implement an API to take a search string that our program generates and search for the filters. Originally we thought of Amazon but we could any API that generates search shopping results (maybe Google?)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9db017f1-7274-43fa-96b8-3daa394bc68d",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yeah. And I couldn't be bothered to look it up.",
+    "ts": "1702590049.808749",
+    "thread_ts": "1702586719.716549",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MtWrQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah. And I couldn't be bothered to look it up."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "988feb09-25b3-454f-a3db-6d6fa4b5a7db",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Oh, good point!",
+    "ts": "1702590064.649229",
+    "thread_ts": "1702589194.289589",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3ZSps",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh, good point!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d7456fcc-2de7-49d0-8ca6-d1aaac249205",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "I'll take a different path after my meeting.",
+    "ts": "1702590076.299879",
+    "thread_ts": "1702589194.289589",
+    "edited": {
+      "user": "U05724ACLVB",
+      "ts": "1702590162.000000"
+    },
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qsZhs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll take a different path after my meeting."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ca2dd768-9dcb-4254-a264-4d77e44daefa",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Sorry. Brain is still in slow mode.",
+    "ts": "1702590105.161139",
+    "thread_ts": "1702589194.289589",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6GDHh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry. Brain is still in slow mode."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "514c371d-58b6-4793-a351-7760b4131f96",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Also, the notification API alone technically satisfies our requirements, so maybe start with that and everything else we get done is a bonus.",
+    "ts": "1702590127.549989",
+    "thread_ts": "1702589194.289589",
+    "edited": {
+      "user": "U057UFP7YLQ",
+      "ts": "1702590160.000000"
+    },
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SgcYV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also, the notification API alone technically satisfies our requirements, so maybe start with that and everything else we get done is a bonus."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "02ac3c4a-6e4f-484c-bd43-7139647f23a7",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Ok",
+    "ts": "1702590136.737739",
+    "thread_ts": "1702589194.289589",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Oxfdw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f53be8ce-8abe-447d-8c63-dda39327e27f",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Also, no worries! I think we’re doing great!",
+    "ts": "1702590143.174449",
+    "thread_ts": "1702589194.289589",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "crff+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also, no worries! I think we’re doing great!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

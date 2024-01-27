@@ -1,0 +1,355 @@
+[
+  {
+    "client_msg_id": "feb07d62-f200-423b-af67-eeb0e86972ff",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hey have you guys figured out where to find the new group? I don't see it anywhere:rolling_on_the_floor_laughing: TIA!",
+    "ts": "1700520431.355309",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "r9KTP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey have you guys figured out where to find the new group? I don't see it anywhere"
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " TIA!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "de3a0f08-3e48-4c4a-b4a8-34cacf38b938",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "I found two new groups in my slack account listing. I am assuming those are my main group and my smaller group going forward.",
+    "ts": "1700521023.356799",
+    "thread_ts": "1700521023.356799",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1700521408.701719"
+      }
+    ],
+    "latest_reply": "1700521408.701719",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Nu2pq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I found two new groups in my slack account listing. I am assuming those are my main group and my smaller group going forward."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057GPNUCG4"
+    ]
+  },
+  {
+    "client_msg_id": "829ad40c-5551-4e0a-bb84-ff8ac056b609",
+    "type": "message",
+    "user": "U05EE11SB6D",
+    "text": "\u003c@U057T1QUHB3\u003e  - Yup, the 2 new groups are your Unit3 groups.\n\u003c@U057GPNUCG4\u003e - You should have been assigned to 2 groups for unit 3. You are going to be with TA-Jay. The groups will show up soon if you don't have them yet.",
+    "ts": "1700521178.973599",
+    "thread_ts": "1700521178.973599",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1700521370.069409"
+      }
+    ],
+    "latest_reply": "1700521370.069409",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U056FFS0C64"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IPaU3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057T1QUHB3"
+              },
+              {
+                "type": "text",
+                "text": "  - Yup, the 2 new groups are your Unit3 groups.\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U057GPNUCG4"
+              },
+              {
+                "type": "text",
+                "text": " - You should have been assigned to 2 groups for unit 3. You are going to be with TA-Jay. The groups will show up soon if you don't have them yet."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-26/5497688141409_c96e793d333a11ff6168_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Jove",
+      "display_name": "TA - Alex Jove",
+      "team": "T050CSX3EMT",
+      "name": "alexjmints",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057GPNUCG4"
+    ]
+  },
+  {
+    "client_msg_id": "6602494e-743e-4842-8775-f5b323c72c77",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "I am looking forward to meeting all new people in this Unit. Expanding horizons is good.",
+    "ts": "1700521231.085929",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U05EE11SB6D"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U056FFS0C64"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1K/tB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am looking forward to meeting all new people in this Unit. Expanding horizons is good."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "427a4135-db9a-4029-97af-c406b0e68b1c",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Thank you Alex! Looking forward to it. : )",
+    "ts": "1700521370.069409",
+    "thread_ts": "1700521178.973599",
+    "parent_user_id": "U05EE11SB6D",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q2lcl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you Alex! Looking forward to it. : )"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cee3eddd-e22b-4751-9c3c-47649b7032fd",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Thanks Cheri. Will wait for them to show up! :wink:",
+    "ts": "1700521408.701719",
+    "thread_ts": "1700521023.356799",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M8w0P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks Cheri. Will wait for them to show up! "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

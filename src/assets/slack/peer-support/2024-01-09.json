@@ -1,0 +1,698 @@
+[
+  {
+    "client_msg_id": "e3eba770-f7d4-48fa-8e68-a6de952d39f9",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "I am getting this error when I try to render my user registration html form:\nCaused by: org.attoparser.ParseException: Error during execution of processor 'org.thymeleaf.spring6.processor.SpringInputGeneralFieldTagProcessor' (template: \"users/register\" - line 29, col 37)\n\nThat line of code in users/register.html reads:\n```\u0026lt;input class=\"form-control\" th:field=\"${user.confirm_password}\" /\u0026gt;```\nI am not seeing what is wrong. Any advice?",
+    "ts": "1704765238.811069",
+    "thread_ts": "1704765238.811069",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1704768507.378419"
+      },
+      {
+        "user": "U057T1QUHB3",
+        "ts": "1704768568.939829"
+      },
+      {
+        "user": "U057T1QUHB3",
+        "ts": "1704768577.858549"
+      },
+      {
+        "user": "U056YAQ412S",
+        "ts": "1704769620.175149"
+      },
+      {
+        "user": "U056YAQ412S",
+        "ts": "1704769817.678749"
+      }
+    ],
+    "latest_reply": "1704769817.678749",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kY0nd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am getting this error when I try to render my user registration html form:\nCaused by: org.attoparser.ParseException: Error during execution of processor 'org.thymeleaf.spring6.processor.SpringInputGeneralFieldTagProcessor' (template: \"users/register\" - line 29, col 37)\n\nThat line of code in users/register.html reads:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"\u003cinput class=\\\"form-control\\\" th:field=\\\"${user.confirm_password}\\\" \\/\u003e\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am not seeing what is wrong. Any advice?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056YAQ412S",
+      "U057GPNUCG4",
+      "U057T1QUHB3"
+    ]
+  },
+  {
+    "client_msg_id": "7c9d5acc-b197-45f4-ab55-0d7991194adf",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi Cheri, not sure if that's the case but if you are using DTO, try to update the `th:field`",
+    "ts": "1704768507.378419",
+    "thread_ts": "1704765238.811069",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1WbA8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Cheri, not sure if that's the case but if you are using DTO, try to update the "
+              },
+              {
+                "type": "text",
+                "text": "th:field",
+                "style": {
+                  "code": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "39d20c38-ff4e-409d-9e35-537365a1a1d3",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "Did we use DTO during class? I have been watching a video about it, and am thinking that I need to add it in order to actually save my inputs.",
+    "ts": "1704768568.939829",
+    "thread_ts": "1704765238.811069",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a2ucs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Did we use DTO during class? I have been watching a video about it, and am thinking that I need to add it in order to actually save my inputs."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "16bd04b8-1381-44b1-91ea-462854993cf7",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "I wasn't that far along. Was having trouble getting the html form to render. Fortunately that is working now.",
+    "ts": "1704768577.858549",
+    "thread_ts": "1704765238.811069",
+    "edited": {
+      "user": "U057T1QUHB3",
+      "ts": "1704768611.000000"
+    },
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U057C70KL57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WFBd7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I wasn't that far along. Was having trouble getting the html form to render. Fortunately that is working now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4423ff6b-7e52-4a7e-9291-e8b1bf1dbb73",
+    "type": "message",
+    "user": "U056YAQ412S",
+    "text": "We are having the same issue.  Though now the form renders, it just won't communicate with sql.",
+    "ts": "1704769620.175149",
+    "thread_ts": "1704765238.811069",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1LqZ5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We are having the same issue.  Though now the form renders, it just won't communicate with sql."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228432964807_071cc8b5e96dd5d1765c_72.png",
+      "first_name": "Lori",
+      "real_name": "Lori Kovarik",
+      "display_name": "Lori",
+      "team": "T050CSX3EMT",
+      "name": "kovarik.lori",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "666c71a5-d3e2-4b14-a056-cc430448c4ec",
+    "type": "message",
+    "user": "U056YAQ412S",
+    "text": "There is a DTO in the postman studio, looking in there to see if anything's helpful: \u003chttps://github.com/LaunchCodeEducation/events-api/tree/main/src/main/java/org/launchcode/Spring/REST/API/Models\u003e",
+    "ts": "1704769817.678749",
+    "thread_ts": "1704765238.811069",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LGZDz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "There is a DTO in the postman studio, looking in there to see if anything's helpful: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/LaunchCodeEducation/events-api/tree/main/src/main/java/org/launchcode/Spring/REST/API/Models",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228432964807_071cc8b5e96dd5d1765c_72.png",
+      "first_name": "Lori",
+      "real_name": "Lori Kovarik",
+      "display_name": "Lori",
+      "team": "T050CSX3EMT",
+      "name": "kovarik.lori",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b0ddda5f-4125-488e-87d1-abd0a42099a9",
+    "type": "message",
+    "user": "U0573JVEUN9",
+    "text": "Has anyone gotten this message when trying to merge branches in Github?\n\n“This branch has conflicts that must be resolved. Use the command line to resolve conflicts before continuing.”\n\nWhat I understand is the pull request has too many conflicts to merge in the web editor and must be checked out in the command line. Does anyone have experience with this?",
+    "ts": "1704834468.410239",
+    "thread_ts": "1704834468.410239",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U05743K5BHT",
+        "ts": "1704834764.240529"
+      },
+      {
+        "user": "U0573JVEUN9",
+        "ts": "1704835266.410219"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704838230.151719"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704838385.278799"
+      },
+      {
+        "user": "U056ZJ34X42",
+        "ts": "1704891969.366579"
+      }
+    ],
+    "latest_reply": "1704891969.366579",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "O7ZAW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Has anyone gotten this message when trying to merge branches in Github?\n\n“This branch has conflicts that must be resolved. Use the command line to resolve conflicts before continuing.”\n\nWhat I understand is the pull request has too many conflicts to merge in the web editor and must be checked out in the command line. Does anyone have experience with this?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-16/6068837891216_41f46079944685618146_72.jpg",
+      "first_name": "Sharee",
+      "real_name": "Sharee Thompson",
+      "display_name": "Sharee",
+      "team": "T050CSX3EMT",
+      "name": "mail.sharee",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U056Q9W022K",
+      "U056ZJ34X42",
+      "U0573JVEUN9",
+      "U05743K5BHT"
+    ]
+  },
+  {
+    "client_msg_id": "84796494-757B-4017-8067-BFBC40E1BF73",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Shawn gave an example of how to resolve merge conflicts in one of our recent lectures. You can resolve them in your text editor or straight from GitHub whenever you’re approving the Pull Request",
+    "ts": "1704834764.240529",
+    "thread_ts": "1704834468.410239",
+    "parent_user_id": "U0573JVEUN9",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MPoJH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Shawn gave an example of how to resolve merge conflicts in one of our recent lectures. You can resolve them in your text editor or straight from GitHub whenever "
+              },
+              {
+                "type": "text",
+                "text": "you’re"
+              },
+              {
+                "type": "text",
+                "text": " approving the Pull Request"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "378b5370-71c3-4271-8bd3-b9fb86afc140",
+    "type": "message",
+    "user": "U0573JVEUN9",
+    "text": "I don’t remember him covering this issue in his lecture, but I will go back and check. This is the view I’m getting. The option to “resolve conflicts” is grayed out in GitHub and it is forcing me to do it in the command line:",
+    "ts": "1704835266.410219",
+    "thread_ts": "1704834468.410239",
+    "parent_user_id": "U0573JVEUN9",
+    "files": [
+      {
+        "id": "F06D7N7N1QC",
+        "created": 1704835162,
+        "timestamp": 1704835162,
+        "name": "Screen Shot 2024-01-09 at 3.19.16 PM.png",
+        "title": "Screen Shot 2024-01-09 at 3.19.16 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0573JVEUN9",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 418588,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06D7N7N1QC/screen_shot_2024-01-09_at_3.19.16_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06D7N7N1QC/download/screen_shot_2024-01-09_at_3.19.16_pm.png",
+        "original_h": 1564,
+        "original_w": 1730,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D7N7N1QC-639cf0c5c1/screen_shot_2024-01-09_at_3.19.16_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D7N7N1QC-639cf0c5c1/screen_shot_2024-01-09_at_3.19.16_pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D7N7N1QC-639cf0c5c1/screen_shot_2024-01-09_at_3.19.16_pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D7N7N1QC-639cf0c5c1/screen_shot_2024-01-09_at_3.19.16_pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 325,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D7N7N1QC-639cf0c5c1/screen_shot_2024-01-09_at_3.19.16_pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 434,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D7N7N1QC-639cf0c5c1/screen_shot_2024-01-09_at_3.19.16_pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 651,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D7N7N1QC-639cf0c5c1/screen_shot_2024-01-09_at_3.19.16_pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 868,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D7N7N1QC-639cf0c5c1/screen_shot_2024-01-09_at_3.19.16_pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 926,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0573JVEUN9/F06D7N7N1QC/screen_shot_2024-01-09_at_3.19.16_pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06D7N7N1QC-d31a9fa056",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tmFk+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I don’t remember him covering this issue in his lecture, but I will go back and check. This is the view I’m getting. The option to “resolve conflicts” is grayed out in GitHub and it is forcing me to do it in the command line:"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-16/6068837891216_41f46079944685618146_72.jpg",
+      "first_name": "Sharee",
+      "real_name": "Sharee Thompson",
+      "display_name": "Sharee",
+      "team": "T050CSX3EMT",
+      "name": "mail.sharee",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0c8bd1e5-3c0d-4aea-b2a6-bcbc48d8d256",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "For issues that cannot be merged in the web version (too many conflicts), you can do it in the desktop version of GitHub, which to me is much easier than the terminal",
+    "ts": "1704838230.151719",
+    "thread_ts": "1704834468.410239",
+    "edited": {
+      "user": "U056Q9W022K",
+      "ts": "1704838261.000000"
+    },
+    "parent_user_id": "U0573JVEUN9",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jixAn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For issues that cannot be merged in the web version (too many conflicts), you can do it in the desktop version of GitHub, which to me is much easier than the terminal"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9d1eeead-ca8c-4467-a0e1-eb4c48f65f9e",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I am fuzzy on how you then save it after you resolve though so definitely look up some tutorials.",
+    "ts": "1704838385.278799",
+    "thread_ts": "1704834468.410239",
+    "parent_user_id": "U0573JVEUN9",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DCIA4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am fuzzy on how you then save it after you resolve though so definitely look up some tutorials."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

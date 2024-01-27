@@ -1,0 +1,267 @@
+[
+  {
+    "client_msg_id": "8e631b20-5889-4956-8e0a-9e8fe4a85a60",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "\u003chttps://docs.google.com/document/d/1fqAAKBSLbwAmBeJCOYL24MbdCmJwH6IPdTLDTPddYNA/edit?usp=sharing\u003e",
+    "ts": "1702000402.360859",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05750B4K1Q"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1RTf+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1fqAAKBSLbwAmBeJCOYL24MbdCmJwH6IPdTLDTPddYNA/edit?usp=sharing",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "20cafd47-b8cd-41d7-9830-ec279a4382ee",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "One of your dependencies, babel-preset-react-app, is importing the\n\"@babel/plugin-proposal-private-property-in-object\" package without\ndeclaring it in its dependencies. This is currently working because\n\"@babel/plugin-proposal-private-property-in-object\" is already in your\nnode_modules folder for unrelated reasons, but it may break at any time.\n\nbabel-preset-react-app is part of the create-react-app project, which\nis not maintianed anymore. It is thus unlikely that this bug will\never be fixed. Add \"@babel/plugin-proposal-private-property-in-object\" to\nyour devDependencies to work around this error. This will make this message\ngo away.",
+    "ts": "1702001356.592019",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SJOmy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "One of your dependencies, babel-preset-react-app, is importing the\n\"@babel/plugin-proposal-private-property-in-object\" package without\ndeclaring it in its dependencies. This is currently working because\n\"@babel/plugin-proposal-private-property-in-object\" is already in your\nnode_modules folder for unrelated reasons, but it may break at any time.\n\nbabel-preset-react-app is part of the create-react-app project, which\nis not maintianed anymore. It is thus unlikely that this bug will\never be fixed. Add \"@babel/plugin-proposal-private-property-in-object\" to\nyour devDependencies to work around this error. This will make this message\ngo away."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f457d8de-5a13-4e5e-a509-63cb37f01905",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "Next Zoom meetup Sunday, Dec 10th at 6pm",
+    "ts": "1702002403.658899",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/hnNo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Next Zoom meetup Sunday, Dec 10th at 6pm"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "815998cb-7a72-4309-85c6-28291b2ee37d",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "\u003chttps://stlps-my.sharepoint.com/:p:/g/personal/bcopple5919_slps_org/Ee9IDlq1pbZIrnCLtLnSOT8BfowRpvdKDGJGzfoU-axONA?e=EsaxHJ\u003e",
+    "ts": "1702002887.255749",
+    "thread_ts": "1702002887.255749",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1702002905.474389"
+      }
+    ],
+    "latest_reply": "1702002905.474389",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U0575DF8MA6",
+          "U057UDD3JV6",
+          "U057A523Z6H"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bwmvr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://stlps-my.sharepoint.com/:p:/g/personal/bcopple5919_slps_org/Ee9IDlq1pbZIrnCLtLnSOT8BfowRpvdKDGJGzfoU-axONA?e=EsaxHJ",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05750B4K1Q"
+    ]
+  },
+  {
+    "client_msg_id": "12cf25cb-6e9d-4845-a41e-cd4b76f0348d",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Some ideas for layout and features",
+    "ts": "1702002905.474389",
+    "thread_ts": "1702002887.255749",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bAqyi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Some ideas for layout and features"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

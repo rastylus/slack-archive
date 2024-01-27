@@ -1,0 +1,311 @@
+[
+  {
+    "client_msg_id": "35f6504c-a478-4df9-bb54-45896bffc9ee",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "\\",
+    "ts": "1702515867.715019",
+    "thread_ts": "1702515867.715019",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U055B8PEEMV",
+        "ts": "1702518775.536719"
+      },
+      {
+        "user": "U0577402D4J",
+        "ts": "1702551817.997879"
+      }
+    ],
+    "latest_reply": "1702551817.997879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wjrHR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\\"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U055B8PEEMV",
+      "U0577402D4J"
+    ]
+  },
+  {
+    "type": "message",
+    "text": "_Due to a high volume of activity, we are not displaying some messages sent by this application. • \u003chttps://api.slack.com/docs/rate-limits|Details\u003e_",
+    "ts": "1702515878.546169",
+    "subtype": "bot_message",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DKl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Due to a high volume of activity, we are not displaying some messages sent by this application. • ",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "https://api.slack.com/docs/rate-limits",
+                "text": "Details",
+                "style": {
+                  "italic": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": null,
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5ff9055e-b71f-4977-8bd0-b218618aefa3",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "well the pet sat on the keyboard,... sorry for the spam",
+    "ts": "1702517279.675419",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 1,
+        "users": [
+          "U057GPNUCG4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "s1XXv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "well the pet sat on the keyboard,... sorry for the spam"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E8BBDA4C-58CD-486D-8B8B-AD0E6C126895",
+    "type": "message",
+    "user": "U055B8PEEMV",
+    "text": "Are you able to delete these?",
+    "ts": "1702518775.536719",
+    "thread_ts": "1702515867.715019",
+    "parent_user_id": "U0577402D4J",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NA/Hz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are you able to delete these?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5204638969172_2d7d943d02d4d367275b_72.png",
+      "first_name": "TA",
+      "real_name": "TA - Jay",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jay.lingelbach",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "95992c55-4b46-4d70-b031-91db1ae21c8d",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "It will take a while but yes",
+    "ts": "1702551817.997879",
+    "thread_ts": "1702515867.715019",
+    "parent_user_id": "U0577402D4J",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "//9II",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It will take a while but yes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "97fc0d6f-edf9-4466-89fd-852b8383f6fa",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Made a wireframe. Shall we spare some time to go through it tonight? Thanks!  \u003chttps://www.figma.com/file/AjiLiND1LVOSVp2QqEq7ul/Wireframe?type=whiteboard\u0026amp;node-id=0%3A1\u0026amp;t=5N02Ii6d7fytQsk1-1\u003e",
+    "ts": "1702586406.194299",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uZcuu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Made a wireframe. Shall we spare some time to go through it tonight? Thanks!  "
+              },
+              {
+                "type": "link",
+                "url": "https://www.figma.com/file/AjiLiND1LVOSVp2QqEq7ul/Wireframe?type=whiteboard\u0026node-id=0%3A1\u0026t=5N02Ii6d7fytQsk1-1",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

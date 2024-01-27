@@ -1,0 +1,441 @@
+[
+  {
+    "type": "message",
+    "user": "U05EE11SB6D",
+    "text": "\u003c@U05EE11SB6D\u003e has joined the channel",
+    "ts": "1700512976.274859",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-26/5497688141409_c96e793d333a11ff6168_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Jove",
+      "display_name": "TA - Alex Jove",
+      "team": "T050CSX3EMT",
+      "name": "alexjmints",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U057S95RQC9",
+    "text": "\u003c@U057S95RQC9\u003e has joined the channel",
+    "ts": "1700513054.840009",
+    "subtype": "channel_join",
+    "inviter": "U05EE11SB6D",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-28/6255059219110_09fcfa42a8921f231618_72.jpg",
+      "first_name": "Jialing",
+      "real_name": "Jialing Liu",
+      "display_name": "Jialing Liu",
+      "team": "T050CSX3EMT",
+      "name": "jialingl.liu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U056SVBQSES",
+    "text": "\u003c@U056SVBQSES\u003e has joined the channel",
+    "ts": "1700513054.936279",
+    "subtype": "channel_join",
+    "inviter": "U05EE11SB6D",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274449962768_b6d8928e25cd1da2d413_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Pablo (JP) Barragan",
+      "display_name": "JP Barragan",
+      "team": "T050CSX3EMT",
+      "name": "jpbarragann",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U0579UMAPCL",
+    "text": "\u003c@U0579UMAPCL\u003e has joined the channel",
+    "ts": "1700513055.024109",
+    "subtype": "channel_join",
+    "inviter": "U05EE11SB6D",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230951156135_0ee3fe35f584df31f5be_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason",
+      "display_name": "Jason",
+      "team": "T050CSX3EMT",
+      "name": "jason17rosado",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U057HDRTJU9",
+    "text": "\u003c@U057HDRTJU9\u003e has joined the channel",
+    "ts": "1700513055.093539",
+    "subtype": "channel_join",
+    "inviter": "U05EE11SB6D",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243080667203_61e07f4b1448b0bfad86_72.jpg",
+      "first_name": "Charu",
+      "real_name": "Charu",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "charu91.sathish",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c5d704bf-d60f-48fc-8117-3ecf62e26f83",
+    "type": "message",
+    "user": "U05EE11SB6D",
+    "text": "Hello everyone! Welcome to Unit 3! This channel is here for your group to be a communication hub (feel free to make a private group direct message channel). Say hello to your new team mates!\n\nSee everyone in class tonight.",
+    "ts": "1700514400.279919",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NOpPg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello everyone! Welcome to Unit 3! This channel is here for your group to be a communication hub (feel free to make a private group direct message channel). Say hello to your new team mates!\n\nSee everyone in class tonight."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-26/5497688141409_c96e793d333a11ff6168_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Jove",
+      "display_name": "TA - Alex Jove",
+      "team": "T050CSX3EMT",
+      "name": "alexjmints",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8af6b558-9d57-4b67-a338-eb3987d63d1a",
+    "type": "message",
+    "user": "U057HDRTJU9",
+    "text": "Hi Alex.. Feels good to be under your guidance again.. Looking forward!!...:slightly_smiling_face:",
+    "ts": "1700521622.821829",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "meow_party",
+        "count": 2,
+        "users": [
+          "U05EE11SB6D",
+          "U0579UMAPCL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "azojR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Alex.. Feels good to be under your guidance again.. Looking forward!!..."
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5243080667203_61e07f4b1448b0bfad86_72.jpg",
+      "first_name": "Charu",
+      "real_name": "Charu",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "charu91.sathish",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5d8e912d-c747-498a-9d06-001e036a054e",
+    "type": "message",
+    "user": "U0579UMAPCL",
+    "text": "Hey hey",
+    "ts": "1700522958.544079",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "wave::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U05EE11SB6D"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d6qJV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey hey"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230951156135_0ee3fe35f584df31f5be_72.jpg",
+      "first_name": "Jason",
+      "real_name": "Jason",
+      "display_name": "Jason",
+      "team": "T050CSX3EMT",
+      "name": "jason17rosado",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e591409a-48d8-4a57-9c25-01650f55442b",
+    "type": "message",
+    "user": "U057S95RQC9",
+    "text": "Hey all! :wave::slightly_smiling_face:",
+    "ts": "1700523164.036769",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "wave::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U05EE11SB6D"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MA3+M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all! "
+              },
+              {
+                "type": "emoji",
+                "name": "wave",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-28/6255059219110_09fcfa42a8921f231618_72.jpg",
+      "first_name": "Jialing",
+      "real_name": "Jialing Liu",
+      "display_name": "Jialing Liu",
+      "team": "T050CSX3EMT",
+      "name": "jialingl.liu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "12EED4D8-CD4A-4CBC-9A0E-7E436A6E026B",
+    "type": "message",
+    "user": "U056SVBQSES",
+    "text": "Hello everyone! ",
+    "ts": "1700523741.780769",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "wave::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U05EE11SB6D"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "poMTp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello everyone"
+              },
+              {
+                "type": "text",
+                "text": "!"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274449962768_b6d8928e25cd1da2d413_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Pablo (JP) Barragan",
+      "display_name": "JP Barragan",
+      "team": "T050CSX3EMT",
+      "name": "jpbarragann",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

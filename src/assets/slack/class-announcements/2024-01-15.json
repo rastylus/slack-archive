@@ -1,0 +1,123 @@
+[
+  {
+    "client_msg_id": "39c1babf-4cd2-450b-83bd-434dd99b8274",
+    "type": "message",
+    "user": "U057JSST597",
+    "text": "Will the interviews be in a similar schedule as last time, and when will they be starting?",
+    "ts": "1705359284.486969",
+    "thread_ts": "1705100400.953909",
+    "parent_user_id": "U050FMK1S83",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KuMw1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Will the interviews be in a similar schedule as last time, and when will they be starting?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5252453710851_1c8ab4c8f861d9a71de2_72.jpg",
+      "first_name": "Anthony",
+      "real_name": "Anthony Silva",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "antsilva93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b2e43f22-8687-4ba2-bb7d-a639811abde4",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "\u003c!channel\u003e Evening everybody! There will be no attendance code this evening. Best of luck to everyone interviewing!",
+    "ts": "1705359600.274169",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 7,
+        "users": [
+          "U0579KDG6A0",
+          "U057840C37E",
+          "U057UQR6VDW",
+          "U057UDJDKKJ",
+          "U05743K5BHT",
+          "U057UGWMN48",
+          "U057WAMKE5N"
+        ]
+      },
+      {
+        "name": "poohdance",
+        "count": 2,
+        "users": [
+          "U057AEDNKJ8",
+          "U058FPAV532"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mD6v5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " Evening everybody! There will be no attendance code this evening. Best of luck to everyone interviewing!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

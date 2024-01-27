@@ -1,0 +1,411 @@
+[
+  {
+    "client_msg_id": "9e3ad11d-c726-486b-b03a-54108a8699f5",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "I lean towards JavaScript and React even though it's a bit more complicated, because I think it'll be more relevant in the job interviews/apprenticeship. We can probably get started with thymeleaf templates first though and convert later, since a lot of it will be html that we can reuse?",
+    "ts": "1702179172.251369",
+    "thread_ts": "1702155462.479129",
+    "parent_user_id": "U05777BLCPN",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05777BLCPN"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DPSRe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I lean towards JavaScript and React even though it's a bit more complicated, because I think it'll be more relevant in the job interviews/apprenticeship. We can probably get started with thymeleaf templates first though and convert later, since a lot of it will be html that we can reuse?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3a696bf8-7c8a-4ccb-b31f-e584164637bc",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "the MUI link I sent in the larger liftoff group has some template code that I think we can use as a good starting point for sign up / create pages + maybe some others we might want!",
+    "ts": "1702232811.524749",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eEJNw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the MUI link I sent in the larger liftoff group has some template code that I think we can use as a good starting point for sign up / create pages + maybe some others we might want!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "475afee3-7eea-472f-98f6-79f957ba4893",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "I'm going to try to build out our file structure and push that to main so we have a better scaffolding to work off of",
+    "ts": "1702232843.967239",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WwVKG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm going to try to build out our file structure and push that to main so we have a better scaffolding to work off of"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "589fd338-b7ec-4bdf-93e3-0e2fac94f2eb",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "I'll be around for the next hour or so if anyone wants to collab / pair program",
+    "ts": "1702232860.689349",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/lYS9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll be around for the next hour or so if anyone wants to collab / pair program"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "62ff59d5-39a8-44ea-8d0b-7d78c7b472a7",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "Okay, I'm running into a really weird bug on my IntelliJ, but I pushed my changes to the branch 'organize-file-structure'. Can someone check out that branch and see if it looks okay? My intelliJ wasn't recognizing any annotations, but it seems like the project is able to build and run just fine.\n\nI hope to work on this a bit more later tonight too if anyone is around",
+    "ts": "1702238064.502549",
+    "thread_ts": "1702238064.502549",
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U056ZJ34X42",
+        "ts": "1702238363.718219"
+      },
+      {
+        "user": "U056ZJ34X42",
+        "ts": "1702239497.419769"
+      },
+      {
+        "user": "U05777BLCPN",
+        "ts": "1702246256.831819"
+      },
+      {
+        "user": "U056ZJ34X42",
+        "ts": "1702261025.826829"
+      }
+    ],
+    "latest_reply": "1702261025.826829",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0/ofJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay, I'm running into a really weird bug on my IntelliJ, but I pushed my changes to the branch 'organize-file-structure'. Can someone check out that branch and see if it looks okay? My intelliJ wasn't recognizing any annotations, but it seems like the project is able to build and run just fine.\n\nI hope to work on this a bit more later tonight too if anyone is around"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056ZJ34X42",
+      "U05777BLCPN"
+    ]
+  },
+  {
+    "client_msg_id": "97fd5b71-153d-4592-852f-054e32f2049e",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "One more note: I added some configuration in the application.properties file that is specific to the schema in my computer; if anyone has a more built out database and wants to change those access settings, let me know",
+    "ts": "1702238363.718219",
+    "thread_ts": "1702238064.502549",
+    "parent_user_id": "U056ZJ34X42",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qdxCu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "One more note: I added some configuration in the application.properties file that is specific to the schema in my computer; if anyone has a more built out database and wants to change those access settings, let me know"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "95aada20-311a-4364-a215-0dc3ad355df9",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "Alright - fixed my problem and it seems like the code is okay after all.  I need to take a break, but will try to get back on later",
+    "ts": "1702239497.419769",
+    "thread_ts": "1702238064.502549",
+    "parent_user_id": "U056ZJ34X42",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JqJDY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Alright - fixed my problem and it seems like the code is okay after all.  I need to take a break, but will try to get back on later"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "86E06477-13D1-45E8-9757-7514D032106D",
+    "type": "message",
+    "user": "U05777BLCPN",
+    "text": "Sorry just had time to take a look but I think it looks good! Maybe we can add an autogenerated annotation and the nextId int to the movie model? So we can have a key for the objects?",
+    "ts": "1702246256.831819",
+    "thread_ts": "1702238064.502549",
+    "parent_user_id": "U056ZJ34X42",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ybC4R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry just had time to take a look but I think it looks good! Maybe we can add an autogenerated annotation and the nextId int to the movie model? So we can have a key for the objects?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-12/5255179561091_977940a39e063a34a12f_72.png",
+      "first_name": "Ami",
+      "real_name": "Ami Patel",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amitrpatel502",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

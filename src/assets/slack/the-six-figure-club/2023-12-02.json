@@ -1,0 +1,226 @@
+[
+  {
+    "client_msg_id": "a6aff374-ed13-4eb9-bd62-000be539d834",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "Hi all, I need edit access to your project proposal!",
+    "ts": "1701475331.917849",
+    "thread_ts": "1701475331.917849",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U05743K5BHT",
+        "ts": "1701475717.097879"
+      },
+      {
+        "user": "U050FMK1S83",
+        "ts": "1701475762.894319"
+      },
+      {
+        "user": "U05743K5BHT",
+        "ts": "1701475817.749029"
+      }
+    ],
+    "latest_reply": "1701475817.749029",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tw5L1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi all, I need edit access to your project proposal!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U050FMK1S83",
+      "U05743K5BHT"
+    ]
+  },
+  {
+    "client_msg_id": "50663651-336B-43DD-9DC2-27E095BA1857",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "It says anyone with the link should have access. Try this one! \n\n\u003chttps://docs.google.com/document/d/1bz6DbSzhs-JDV2hq1fuccREkl8GfJjdsdNJjTuKqW74/edit|https://docs.google.com/document/d/1bz6DbSzhs-JDV2hq1fuccREkl8GfJjdsdNJjTuKqW74/edit\u003e",
+    "ts": "1701475717.097879",
+    "thread_ts": "1701475331.917849",
+    "parent_user_id": "U050FMK1S83",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "htoSR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It says anyone with the link should have access. Try this one! \n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1bz6DbSzhs-JDV2hq1fuccREkl8GfJjdsdNJjTuKqW74/edit",
+                "text": "https://docs.google.com/document/d/1bz6DbSzhs-JDV2hq1fuccREkl8GfJjdsdNJjTuKqW74/edit"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "12199b8a-f1da-4055-abbe-c2cd81e0f300",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "Yep I can view it, but I can't edit or suggest. So it will need to be shared as a edit link.",
+    "ts": "1701475762.894319",
+    "thread_ts": "1701475331.917849",
+    "parent_user_id": "U050FMK1S83",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DyETO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yep I can view it, but I can't edit or suggest. So it will need to be shared as a edit link."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "EE01D588-BEAC-48BB-AA8F-0A12047A0731",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Sorry I misunderstood! Try again!",
+    "ts": "1701475817.749029",
+    "thread_ts": "1701475331.917849",
+    "parent_user_id": "U050FMK1S83",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 1,
+        "users": [
+          "U050FMK1S83"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9enu7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry I misunderstood! Try again!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

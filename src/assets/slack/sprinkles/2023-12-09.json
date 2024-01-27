@@ -1,0 +1,113 @@
+[
+  {
+    "client_msg_id": "78010215-8b2c-474e-a9bf-72cd69121b8e",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "hi sprinkles! casey and I spent some time talking through project components this morning, and casey got some code written for the user class and the enrollment functionality. I started outlining some TODOs in CourseController and then hit a wall (how do we build the plane while we’re flying it?! my brain!) so I thought I’d hop on the front-end but ran into some issues with it. I thought I’d start fresh with a new React app since we hadn’t touched that yet.",
+    "ts": "1702139475.787469",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056YD04Q30"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iceXm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hi sprinkles! casey and I spent some time talking through project components this morning, and casey got some code written for the user class and the enrollment functionality. I started outlining some TODOs in CourseController and then hit a wall (how do we build the plane while we’re flying it?! my brain!) so I thought I’d hop on the front-end but ran into some issues with it. I thought I’d start fresh with a new React app since we hadn’t touched that yet."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ae797a97-bbf6-4847-9c00-7d93469636ae",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "I haven’t push that new repo yet because I wanted to check with you all before doing that, but I’ve got a basic form for creating an account, and will start making the other components specific to the enrolling in a course workflow if you all are okay with that. I can show you all what I have tomorrow during our meeting and then we can figure out whether we want to write over the existing repo. See you then!",
+    "ts": "1702140477.723679",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U05777MT72P",
+          "U056YD04Q30"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "riIX5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I haven’t push that new repo yet because I wanted to check with you all before doing that, but I’ve got a basic form for creating an account, and will start making the other components specific to the enrolling in a course workflow if you all are okay with that. I can show you all what I have tomorrow during our meeting and then we can figure out whether we want to write over the existing repo. See you then!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

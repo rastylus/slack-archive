@@ -1,0 +1,2133 @@
+[
+  {
+    "client_msg_id": "54803e48-eff0-4be0-8f33-dcc57411c38e",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Hey guys. Just now realized we do not have CRUD fully finished. Working on unenroll right now, currently stuck of course. Unsure on the delete part. Gonna do what I can. Just keeping you informed.",
+    "ts": "1705542373.872709",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wvmvg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys. Just now realized we do not have CRUD fully finished. Working on unenroll right now, currently stuck of course. Unsure on the delete part. Gonna do what I can. Just keeping you informed."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e239824c-2cdb-43f7-b86a-e9e5441d8a8e",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "The delete and update part I'm currently working on with users being able to update their passwords or delete their accounts.",
+    "ts": "1705545093.149589",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U057HGZ7W8Z"
+        ]
+      },
+      {
+        "name": "gratitude-thank-you",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WqtOc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "The delete and update part I'm currently working on with users being able to update their passwords or delete their accounts."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "504c75b5-baa3-4d72-9366-fb6f1b895eb1",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Zach brings the UD",
+    "ts": "1705545906.758889",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "saltbae",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      },
+      {
+        "name": "laughing",
+        "count": 1,
+        "users": [
+          "U05777MT72P"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jgPLm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Zach brings the UD"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "558c6aef-09a4-430e-9bda-3966b611ef75",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Okay thank you Zach! I'm working on unenroll for update but so far not getting it to work.",
+    "ts": "1705546301.856469",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CmRZL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay thank you Zach! I'm working on unenroll for update but so far not getting it to work."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "87698d72-9c4c-447c-af8f-f294be3b6888",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "In hindsight, we probably all should've made our spring.datasource.username and password the same :sweat_smile:. Every time we all push to main, it changes both fields :joy:",
+    "ts": "1705549223.739189",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dknLO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "In hindsight, we probably all should've made our spring.datasource.username and password the same "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ". Every time we all push to main, it changes both fields "
+              },
+              {
+                "type": "emoji",
+                "name": "joy",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6fc3ae33-4a12-425c-a51a-e24fb677b7d6",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "I know! I've had this problem every time :upside_down_face:",
+    "ts": "1705549295.835879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pNLK+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I know! I've had this problem every time "
+              },
+              {
+                "type": "emoji",
+                "name": "upside_down_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "aa73e532-10a7-4826-b635-97862ff64e98",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "Change password is officially working! It's nothing special -- just a button on the same screen as the user progress currently. Hoping that delete user goes as smoothly.",
+    "ts": "1705550154.350569",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "saltbae",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JT3jm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Change password is officially working! It's nothing special -- just a button on the same screen as the user progress currently. Hoping that delete user goes as smoothly."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a6e59e4c-835f-4a84-8043-12f9722d42a3",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "\u003c@U05777MT72P\u003e Okay, sooooo I thought I was pulling your changes into my branch to test, and apparently I was merging them into yours. SO I created a backup branch that goes back to your commit without any of my changes: \u003chttps://github.com/Moerfiane/liftoff-sprinkles-ui/tree/zach-course-progression-update-backup\u003e",
+    "ts": "1705552561.846339",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U05777MT72P"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "to5dC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05777MT72P"
+              },
+              {
+                "type": "text",
+                "text": " Okay, sooooo I thought I was pulling your changes into my branch to test, and apparently I was merging them into yours. SO I created a backup branch that goes back to your commit without any of my changes: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/Moerfiane/liftoff-sprinkles-ui/tree/zach-course-progression-update-backup",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "89407e40-7876-4870-8248-11277eda1f08",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "so I was thinking we could close that pull request and you could submit another, but I wanted you to take a look first.",
+    "ts": "1705552590.031229",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rgGk2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so I was thinking we could close that pull request and you could submit another, but I wanted you to take a look first."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d777c73f-ecd2-4e3f-a34d-9cdd6b7c5106",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Or you could push without my changes from your local copy - might be force? - to update the PR",
+    "ts": "1705552633.708969",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Gl8G3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Or you could push without my changes from your local copy - might be force? - to update the PR"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "75209a77-3bb1-4cc6-a9ee-cdcc497473da",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "Crisis averted  \u003c@U057HGZ7W8Z\u003e :sweat_smile:. I went ahead and went the\n```git push origin \u003cyour_branch_name\u003e --force```\nroute.",
+    "ts": "1705555776.762889",
+    "edited": {
+      "user": "U05777MT72P",
+      "ts": "1705555809.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YzTY9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Crisis averted  "
+              },
+              {
+                "type": "user",
+                "user_id": "U057HGZ7W8Z"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ". I went ahead and went the\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"git push origin \u003cyour_branch_name\u003e --force\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "route."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a6199f99-e3f3-4be8-bb5f-12e25aec2f75",
+    "type": "message",
+    "user": "U056YD04Q30",
+    "text": "Hi feedback form is completed pls check let me know if changes.",
+    "ts": "1705564611.175859",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U05777MT72P",
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UMpEC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi feedback form is completed pls check let me know if changes."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240107488693_9bf114e71863cebbf28e_72.jpg",
+      "first_name": "Sukanya",
+      "real_name": "Sukanya Shanmugam",
+      "display_name": "Sukanya Venkatesh",
+      "team": "T050CSX3EMT",
+      "name": "sukanya.s1793",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A118299D-5168-4BF0-A1F0-067F5AC4CCA9",
+    "type": "message",
+    "user": "U056YD04Q30",
+    "text": "Hi good morning if you guys are available we can have a call and walkthrough to each other code. ",
+    "ts": "1705594806.004719",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "16zmb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi good morning if you guys are available we can have a call and walkthrough to each other code. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240107488693_9bf114e71863cebbf28e_72.jpg",
+      "first_name": "Sukanya",
+      "real_name": "Sukanya Shanmugam",
+      "display_name": "Sukanya Venkatesh",
+      "team": "T050CSX3EMT",
+      "name": "sukanya.s1793",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ba031d3d-12c5-474c-95c1-0a84120487ff",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "I'm available whenever everyone else is. I need to pull recent code from main into my branch still though just waiting to make sure everyones code is pushed into main and working.",
+    "ts": "1705594891.471079",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7M4Sz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm available whenever everyone else is. I need to pull recent code from main into my branch still though just waiting to make sure everyones code is pushed into main and working."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0060182a-55ea-4886-a87e-ad27d78ea27f",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Hi all, I’m available as well, might need to hop on a call sporadically",
+    "ts": "1705596250.442699",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "F1BKe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi all, I’m available as well, might need to hop on a call sporadically"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a1ce6bd7-2ed3-4c3f-a540-0ca432adcdfc",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Sorry, might get called away sporadically, but otherwise available.",
+    "ts": "1705596272.077579",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fjfyM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry, might get called away sporadically, but otherwise available."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "71fe6581-7c1e-4c48-a8ef-f4136b765a97",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Okay I pulled the main code into my code on front and back end and it seems like everything is working okay for me I believe.",
+    "ts": "1705598600.300829",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DNt2B",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay I pulled the main code into my code on front and back end and it seems like everything is working okay for me I believe."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1234efd4-3385-4a39-9171-fb4c02257840",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "nvm stuck in a loop now for some reason",
+    "ts": "1705598815.178239",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HDNFb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "nvm stuck in a loop now for some reason"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ee947687-fc4e-49ae-8fd8-05bc29516c31",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "i’m working on main to troubleshoot",
+    "ts": "1705599174.953309",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Cf56b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i’m working on main to troubleshoot"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "63219366-dce3-48a5-8056-a0103a9c0813",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "okay I got out of it on my end but not sure what was going on",
+    "ts": "1705599200.397589",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2wOmH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay I got out of it on my end but not sure what was going on"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9e840f17-1523-438f-b6e1-7897bedbff1d",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "\u003c@U056YD04Q30\u003e \u003c@U05777MT72P\u003e \u003c@U057WAMKE5N\u003e Everyone’s features I’ve seen so far are working on main! I don’t see the course feedback or edits to user profile yet, I think those features are still in branches?",
+    "ts": "1705602878.016549",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DZBCU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056YD04Q30"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U05777MT72P"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U057WAMKE5N"
+              },
+              {
+                "type": "text",
+                "text": " Everyone’s features I’ve seen so far are working on main! I don’t see the course feedback or edits to user profile yet, I think those features are still in branches?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6a9d7092-893c-4976-aa3a-73f78df7e1e8",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "Getting a 500 error when creating courses using latest changes from main:",
+    "ts": "1705603767.129149",
+    "files": [
+      {
+        "id": "F06EXHPDZFT",
+        "created": 1705603764,
+        "timestamp": 1705603764,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U05777MT72P",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 10012,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06EXHPDZFT/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06EXHPDZFT/download/image.png",
+        "original_h": 63,
+        "original_w": 816,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EXHPDZFT-7f9b9a3ad8/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EXHPDZFT-7f9b9a3ad8/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EXHPDZFT-7f9b9a3ad8/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EXHPDZFT-7f9b9a3ad8/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 28,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EXHPDZFT-7f9b9a3ad8/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 37,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06EXHPDZFT-7f9b9a3ad8/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 56,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05777MT72P/F06EXHPDZFT/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06EXHPDZFT-564f9133a7",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rXP/W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Getting a 500 error when creating courses using latest changes from main:"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3637ffa0-db69-4cab-847c-e24ab8f74de1",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "Already tried dropping the schema to see if that was causing the issue.",
+    "ts": "1705603826.380009",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+mk/8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Already tried dropping the schema to see if that was causing the issue."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1043d6e6-da5f-4a08-8ea3-271cce220859",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Did you do a fresh pull on front and back?",
+    "ts": "1705604305.697509",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5+YxO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Did you do a fresh pull on front and back?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0c34eb75-4de1-4b11-9ad7-65588788c9b8",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "I did. However, when I create a course it's still showing and letting me enroll successfully. It seems to be working despite the error.",
+    "ts": "1705604476.138089",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QeGNT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I did. However, when I create a course it's still showing and letting me enroll successfully. It seems to be working despite the error."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ab38df0e-45e7-420b-b32a-6fe381d50b2d",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Hmm, okay, so functionality is working you're just getting that unexpected end of JSON?",
+    "ts": "1705604816.964919",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9nAdS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hmm, okay, so functionality is working you're just getting that unexpected end of JSON?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d50e29b5-6f68-4615-834f-47f1073654fa",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "\u003c@U05777MT72P\u003e, didn’t see you PR on UI, but merged on backend.",
+    "ts": "1705607722.431759",
+    "thread_ts": "1705607722.431759",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05777MT72P",
+        "ts": "1705614860.613879"
+      }
+    ],
+    "latest_reply": "1705614860.613879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FlPnf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U05777MT72P"
+              },
+              {
+                "type": "text",
+                "text": ", didn’t see you PR on UI, but merged on backend."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05777MT72P"
+    ]
+  },
+  {
+    "client_msg_id": "dcf8ee74-6230-43fc-b09b-9c1c4b143965",
+    "type": "message",
+    "user": "U05777MT72P",
+    "text": "It's up now -- sorry for the delay!",
+    "ts": "1705614860.613879",
+    "thread_ts": "1705607722.431759",
+    "parent_user_id": "U057HGZ7W8Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZCnPL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It's up now -- sorry for the delay!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245397981234_445be853460b99bbc11a_72.png",
+      "first_name": "Zach",
+      "real_name": "Zach Henderson",
+      "display_name": "Zach Henderson",
+      "team": "T050CSX3EMT",
+      "name": "mzachhenderson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9dfe42e6-56bb-4ea7-bc27-ecedc08578ed",
+    "type": "message",
+    "user": "U056YD04Q30",
+    "text": "i  made some changes in feedback form to view it after the course completed. Shall i push the changes in main or leave it ?",
+    "ts": "1705618851.679329",
+    "files": [
+      {
+        "id": "F06F938K4E4",
+        "created": 1705618840,
+        "timestamp": 1705618840,
+        "name": "Screenshot 2024-01-18 at 4.58.34 PM.png",
+        "title": "Screenshot 2024-01-18 at 4.58.34 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056YD04Q30",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 161041,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06F938K4E4/screenshot_2024-01-18_at_4.58.34___pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06F938K4E4/download/screenshot_2024-01-18_at_4.58.34___pm.png",
+        "original_h": 1396,
+        "original_w": 2434,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06F938K4E4-abfc54df94/screenshot_2024-01-18_at_4.58.34___pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06F938K4E4-abfc54df94/screenshot_2024-01-18_at_4.58.34___pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06F938K4E4-abfc54df94/screenshot_2024-01-18_at_4.58.34___pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06F938K4E4-abfc54df94/screenshot_2024-01-18_at_4.58.34___pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 206,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06F938K4E4-abfc54df94/screenshot_2024-01-18_at_4.58.34___pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 275,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06F938K4E4-abfc54df94/screenshot_2024-01-18_at_4.58.34___pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 413,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06F938K4E4-abfc54df94/screenshot_2024-01-18_at_4.58.34___pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 551,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06F938K4E4-abfc54df94/screenshot_2024-01-18_at_4.58.34___pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 587,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056YD04Q30/F06F938K4E4/screenshot_2024-01-18_at_4.58.34___pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06F938K4E4-9a0934f26d",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ldv4i",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i  made some changes in feedback form to view it after the course completed. Shall i push the changes in main or leave it ?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240107488693_9bf114e71863cebbf28e_72.jpg",
+      "first_name": "Sukanya",
+      "real_name": "Sukanya Shanmugam",
+      "display_name": "Sukanya Venkatesh",
+      "team": "T050CSX3EMT",
+      "name": "sukanya.s1793",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "33412815-4b81-4604-8484-0b62ea7f3e24",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Looks fine to me.",
+    "ts": "1705619276.428349",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pcXgc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Looks fine to me."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e5e3d699-c797-4fa3-bfd5-d3de0b884e35",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Maybe create a pull request and everyone can look over the code to see if it might break something?",
+    "ts": "1705619306.244889",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nsVBg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Maybe create a pull request and everyone can look over the code to see if it might break something?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "85450B0A-1CD8-4298-AD73-74B118DBD5D7",
+    "type": "message",
+    "user": "U056YD04Q30",
+    "text": "Ok ",
+    "ts": "1705619319.975039",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o5RWy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240107488693_9bf114e71863cebbf28e_72.jpg",
+      "first_name": "Sukanya",
+      "real_name": "Sukanya Shanmugam",
+      "display_name": "Sukanya Venkatesh",
+      "team": "T050CSX3EMT",
+      "name": "sukanya.s1793",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "14c5d000-bfaf-4631-9b22-fb82c477d94c",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "I’m fine if you want to push to main! I’m probably going to demo of my local repo tonight, but I’d definitely like to be able to keep tinkering with the code, and we might want to wrap up any features if (IT’S NOT GOING TO HAPPEN BUT JUST IN CASE) someone doesn’t pass demo tonight",
+    "ts": "1705620193.683859",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "crossed_fingers",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UA4hw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m fine if you want to push to main! I’m probably going to demo of my local repo tonight, but I’d definitely like to be able to keep tinkering with the code, and we might want to wrap up any features if (IT’S NOT GOING TO HAPPEN BUT JUST IN CASE) someone doesn’t pass demo tonight"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "09a470fa-0cc4-4fab-b05a-c5be105fef7f",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "\u003chttps://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy.gif\u003e",
+    "ts": "1705620241.160719",
+    "attachments": [
+      {
+        "fallback": "480x375px image",
+        "id": 1,
+        "image_url": "https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy.gif",
+        "from_url": "https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy.gif",
+        "original_url": "https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy.gif",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6eDBR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://media.giphy.com/media/l4Jz3a8jO92crUlWM/giphy.gif",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4d0c644b-8578-439e-b133-054d908d88d0",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Good luck tonight guys!",
+    "ts": "1705620426.993169",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "saltbae",
+        "count": 2,
+        "users": [
+          "U05777MT72P",
+          "U056YD04Q30"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Y2RNv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good luck tonight guys!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d4f8c135-1763-423b-847b-4ce219d6e02f",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "You too!!!",
+    "ts": "1705620440.366919",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "398xM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You too!!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f3309e75-57d2-4e50-b896-d9f7a4055eae",
+    "type": "message",
+    "user": "U056YD04Q30",
+    "text": "All the best !!",
+    "ts": "1705620758.269549",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "people_hugging",
+        "count": 1,
+        "users": [
+          "U057HGZ7W8Z"
+        ]
+      },
+      {
+        "name": "saltbae",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HpAj1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "All the best !!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240107488693_9bf114e71863cebbf28e_72.jpg",
+      "first_name": "Sukanya",
+      "real_name": "Sukanya Shanmugam",
+      "display_name": "Sukanya Venkatesh",
+      "team": "T050CSX3EMT",
+      "name": "sukanya.s1793",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "146c1552-ae32-4308-aef7-a034f3d99753",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "I’m getting “last day of school” vibes",
+    "ts": "1705620827.015939",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "cry",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      },
+      {
+        "name": "partying_face",
+        "count": 1,
+        "users": [
+          "U05777MT72P"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XLnfQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m getting “last day of school” vibes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

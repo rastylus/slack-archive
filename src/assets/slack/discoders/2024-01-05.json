@@ -1,0 +1,231 @@
+[
+  {
+    "client_msg_id": "5feefbbf-2958-4f7d-94ae-76be50536907",
+    "type": "message",
+    "user": "U057UDJDKKJ",
+    "text": "\u003c@U055RLYGGDR\u003e\nI did a pull request and there are conflicts\ndo i close the pull request? resolve conflicts?",
+    "ts": "1704480022.647189",
+    "files": [
+      {
+        "id": "F06D1ERULBT",
+        "created": 1704480007,
+        "timestamp": 1704480007,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057UDJDKKJ",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 42325,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06D1ERULBT/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06D1ERULBT/download/image.png",
+        "original_h": 425,
+        "original_w": 1285,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D1ERULBT-935c95350f/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D1ERULBT-935c95350f/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D1ERULBT-935c95350f/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D1ERULBT-935c95350f/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 119,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D1ERULBT-935c95350f/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 159,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D1ERULBT-935c95350f/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 238,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D1ERULBT-935c95350f/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 318,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06D1ERULBT-935c95350f/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 339,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057UDJDKKJ/F06D1ERULBT/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06D1ERULBT-6b3ee0a66d",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WbOs/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U055RLYGGDR"
+              },
+              {
+                "type": "text",
+                "text": "\nI did a pull request and there are conflicts\ndo i close the pull request? resolve conflicts?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245349121076_71afb28372a000533ca2_72.jpg",
+      "first_name": "Jenna",
+      "real_name": "Jenna Tan",
+      "display_name": "Jenna Tan (Philly)",
+      "team": "T050CSX3EMT",
+      "name": "jmt9088",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "80edd7b4-6c3e-45e4-83d9-cc3a8b50f3a3",
+    "type": "message",
+    "user": "U055RLYGGDR",
+    "text": "You should ignore package-lock.json after this",
+    "ts": "1704482816.190529",
+    "edited": {
+      "user": "U055RLYGGDR",
+      "ts": "1704482835.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ucraN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You should ignore package-lock.json after this"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181298634727_0020b5616f863c29ba99_72.png",
+      "first_name": "Aaron",
+      "real_name": "Aaron Campf",
+      "display_name": "TA - Aaron Campf",
+      "team": "T050CSX3EMT",
+      "name": "aaroncampf",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "685fde87-9d9e-42b4-acbb-d8264431e7bf",
+    "type": "message",
+    "user": "U055RLYGGDR",
+    "text": "You need to resolve the conflicts before it will merge",
+    "ts": "1704482845.255089",
+    "edited": {
+      "user": "U055RLYGGDR",
+      "ts": "1704482858.000000"
+    },
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057UDJDKKJ"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U056K1UHEGP"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TG09U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You need to resolve the conflicts before it will merge"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181298634727_0020b5616f863c29ba99_72.png",
+      "first_name": "Aaron",
+      "real_name": "Aaron Campf",
+      "display_name": "TA - Aaron Campf",
+      "team": "T050CSX3EMT",
+      "name": "aaroncampf",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

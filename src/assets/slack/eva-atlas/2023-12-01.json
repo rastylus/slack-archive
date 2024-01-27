@@ -1,0 +1,382 @@
+[
+  {
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "has renamed the channel from \"eva-group-1-atlas\" to \"eva-atlas\"",
+    "ts": "1701392384.315709",
+    "subtype": "channel_name",
+    "name": "eva-atlas",
+    "old_name": "eva-group-1-atlas",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f70fe3da-dee3-4994-91a1-dc07361f205a",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "12/2/2023 - Project Meeting\n3:00 CST\n4:00 EST",
+    "ts": "1701398108.588619",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cEVOs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "12/2/2023 - Project Meeting\n3:00 CST\n4:00 EST"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "487b6b07-89b9-4bf8-b515-f81afb53f67b",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "Hey \u003c@U0625KF6RLH\u003e; quick question one of your comments from our proposal.\n\nRegarding CRUD operations: I think there will many individual persistent entities, do we need to have one person be responsible for all of them or can we delegate them out? For example, I could be handling Users/Venues, while Madeline handles Reviews/Comments, while Landon handles Itineraries, and Devon handles individual Stops?",
+    "ts": "1701459939.425399",
+    "thread_ts": "1701459939.425399",
+    "edited": {
+      "user": "U057UGWMN48",
+      "ts": "1701459956.000000"
+    },
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U066ED0A4DU",
+        "ts": "1701460767.055059"
+      },
+      {
+        "user": "U057UGWMN48",
+        "ts": "1701461809.225919"
+      },
+      {
+        "user": "U066ED0A4DU",
+        "ts": "1701462734.538099"
+      },
+      {
+        "user": "U057UGWMN48",
+        "ts": "1701464162.905509"
+      }
+    ],
+    "latest_reply": "1701464162.905509",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Be7Z2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey "
+              },
+              {
+                "type": "user",
+                "user_id": "U0625KF6RLH"
+              },
+              {
+                "type": "text",
+                "text": "; quick question one of your comments from our proposal.\n\nRegarding CRUD operations: I think there will many individual persistent entities, do we need to have one person be responsible for all of them or can we delegate them out? For example, I could be handling Users/Venues, while Madeline handles Reviews/Comments, while Landon handles Itineraries, and Devon handles individual Stops?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U057UGWMN48",
+      "U066ED0A4DU"
+    ]
+  },
+  {
+    "type": "message",
+    "user": "U066ED0A4DU",
+    "text": "\u003c@U066ED0A4DU\u003e has joined the channel",
+    "ts": "1701460685.056799",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-20/6222153280613_25c32eb42d9b05bf45f0_72.png",
+      "first_name": "Lexi",
+      "real_name": "Lexi B",
+      "display_name": "Lexi B - LC Staff",
+      "team": "T050CSX3EMT",
+      "name": "lexi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5586b0c7-54dd-4921-8490-918a30786eb1",
+    "type": "message",
+    "user": "U066ED0A4DU",
+    "text": "Hi Alex! Wanted to seek some clarification on your message. Are you saying that each of you would be responsible for full CRUD operations in each of the different areas of the project?",
+    "ts": "1701460767.055059",
+    "thread_ts": "1701459939.425399",
+    "parent_user_id": "U057UGWMN48",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GaOrD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Alex! Wanted to seek some clarification on your message. Are you saying that each of you would be responsible for full CRUD operations in each of the different areas of the project?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-20/6222153280613_25c32eb42d9b05bf45f0_72.png",
+      "first_name": "Lexi",
+      "real_name": "Lexi B",
+      "display_name": "Lexi B - LC Staff",
+      "team": "T050CSX3EMT",
+      "name": "lexi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "89eb65b8-e5b8-4dbf-96c5-f0bf6122d3de",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "Hey Lexi! Yes, my apologies I my wording was confusing above, and potentially even different portions of CRUD in those different areas.\n\nFor example, if I am consuming API data from Google Maps, I may store something like the City, State in a Cities table. If Madeline was working on the front end and building a feature for users to search for a specific city in our database to find a tour in that city, she would probably be querying that table to return results to the User.\n\nSo in that instance, she isn't handling full CRUD there but rather a portion of it.",
+    "ts": "1701461809.225919",
+    "thread_ts": "1701459939.425399",
+    "parent_user_id": "U057UGWMN48",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PSWzG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey Lexi! Yes, my apologies I my wording was confusing above, and potentially even different portions of CRUD in those different areas.\n\nFor example, if I am consuming API data from Google Maps, I may store something like the City, State in a Cities table. If Madeline was working on the front end and building a feature for users to search for a specific city in our database to find a tour in that city, she would probably be querying that table to return results to the User.\n\nSo in that instance, she isn't handling full CRUD there but rather a portion of it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ce402907-5850-4e81-ab38-ab5f33cbe53d",
+    "type": "message",
+    "user": "U066ED0A4DU",
+    "text": "Gotcha, in your example, it sounds more like Madeline would be creating something more what we consider to be a search feature than a part of CRUD operations.\n\nThat's an instance where someone of your work will likely overlap, but one person should be in charge of implementing the feature. I've talked with our Talent Management team and we agreed that we think that 2 group members could share CRUD operations as part of the project, but that to split it into anymore granularity than that would split the work for the feature a little too much.\n\nDoes that help answer your question?\n\nIf it is the case that you would each be managing CRUD operations for separate parts of the project, each of you could claim CRUD as a project feature, but that is not currently reflected in the project proposal.",
+    "ts": "1701462734.538099",
+    "thread_ts": "1701459939.425399",
+    "parent_user_id": "U057UGWMN48",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pQroX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Gotcha, in your example, it sounds more like Madeline would be creating something more what we consider to be a search feature than a part of CRUD operations.\n\nThat's an instance where someone of your work will likely overlap, but one person should be in charge of implementing the feature. I've talked with our Talent Management team and we agreed that we think that 2 group members could share CRUD operations as part of the project, but that to split it into anymore granularity than that would split the work for the feature a little too much.\n\nDoes that help answer your question?\n\nIf it is the case that you would each be managing CRUD operations for separate parts of the project, each of you could claim CRUD as a project feature, but that is not currently reflected in the project proposal."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-20/6222153280613_25c32eb42d9b05bf45f0_72.png",
+      "first_name": "Lexi",
+      "real_name": "Lexi B",
+      "display_name": "Lexi B - LC Staff",
+      "team": "T050CSX3EMT",
+      "name": "lexi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0e15b89d-d392-4b1f-a89d-b398756d6b4f",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "I think that clarifies the issue a bit. So we can all individually implement a full CRUD feature for a specific part of the project and get credit, but if we collaborate on a specific part of the project and split CRUD for that part we need to limit it to two people.\n\nI guess we were a bit vague on workload distribution because while we agree on the concept of the project and the larger ideas of functionality, we haven't done enough discovery to more narrowly define the scope of each member's contributions to the project.\n\nWe will correct that.\n\nThank you, Lexi!",
+    "ts": "1701464162.905509",
+    "thread_ts": "1701459939.425399",
+    "parent_user_id": "U057UGWMN48",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4tQJ0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think that clarifies the issue a bit. So we can all individually implement a full CRUD feature for a specific part of the project and get credit, but if we collaborate on a specific part of the project and split CRUD for that part we need to limit it to two people.\n\nI guess we were a bit vague on workload distribution because while we agree on the concept of the project and the larger ideas of functionality, we haven't done enough discovery to more narrowly define the scope of each member's contributions to the project.\n\nWe will correct that.\n\nThank you, Lexi!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

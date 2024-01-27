@@ -1,0 +1,893 @@
+[
+  {
+    "client_msg_id": "d432975d-5eab-4d9c-98b7-edf2f86e71cf",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "Hey, \u003c@U056K1WRCCX\u003e \u003c@U057C9DPMC3\u003e \u003c@U05765HGT46\u003e ! I hope you're enjoying this Friday! In addition to the question above, I have one about our project. I am working on one of the forms (edit vacation) and am drawing a blank on if we have a relevant class example that I can use to set this one up. Does anyone have any memory of how to edit records using a form or know where in the book to look?",
+    "ts": "1703877870.143579",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MAvv2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey, "
+              },
+              {
+                "type": "user",
+                "user_id": "U056K1WRCCX"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U057C9DPMC3"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U05765HGT46"
+              },
+              {
+                "type": "text",
+                "text": " ! I hope you're enjoying this Friday! In addition to the question above, I have one about our project. I am working on one of the forms (edit vacation) and am drawing a blank on if we have a relevant class example that I can use to set this one up. Does anyone have any memory of how to edit records using a form or know where in the book to look?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6C276D25-D7FE-41B2-9FEF-08800F1DE752",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "Maybe something like this: \u003chttps://stackoverflow.com/questions/48430762/edit-mysql-records-using-jsp-form|https://stackoverflow.com/questions/48430762/edit-mysql-records-using-jsp-form\u003e",
+    "ts": "1703877972.775609",
+    "attachments": [
+      {
+        "fallback": "Stack Overflow: Edit MYSQL records using jsp form",
+        "id": 1,
+        "title": "Edit MYSQL records using jsp form",
+        "title_link": "https://stackoverflow.com/questions/48430762/edit-mysql-records-using-jsp-form",
+        "text": "I have an index page (index.jsp) that prints out the ID number of people stored in newtable. This works ok. \n\nindex.jsp\n\n try {\n out.println(\"Connection Successful...\");\n mystmt = myConn.",
+        "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+        "service_name": "Stack Overflow",
+        "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+        "from_url": "https://stackoverflow.com/questions/48430762/edit-mysql-records-using-jsp-form",
+        "original_url": "https://stackoverflow.com/questions/48430762/edit-mysql-records-using-jsp-form",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t+YHt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Maybe something like this: "
+              },
+              {
+                "type": "link",
+                "url": "https://stackoverflow.com/questions/48430762/edit-mysql-records-using-jsp-form",
+                "text": "https://stackoverflow.com/questions/48430762/edit-mysql-records-using-jsp-form"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "A91895B4-4803-4CCD-9290-3629DA54FC4A",
+    "type": "message",
+    "user": "U05765HGT46",
+    "text": "I don’t remember anything we’ve done so far that would be similar.",
+    "ts": "1703877996.656499",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vSJET",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I "
+              },
+              {
+                "type": "text",
+                "text": "don’t remember"
+              },
+              {
+                "type": "text",
+                "text": " anything "
+              },
+              {
+                "type": "text",
+                "text": "we’ve"
+              },
+              {
+                "type": "text",
+                "text": " done so far that would be similar."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6fd1b27eb9c4c3d9b7c634b20363fca3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "Pj",
+      "real_name": "Pj Elliott",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "pjelliott11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d7dd2c26-d58d-4ba5-b97e-b164b1b14a9d",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "I'll take a look at that! And because CRUD is one of the requirements, I'll try asking in the big group if anyone has any suggestions (maybe someone else ran into the same issue) Worst case I can alter my approach and remove the edit functionality feature since we have a delete button (so users can just delete and reenter a vacation if needed).",
+    "ts": "1703878133.537739",
+    "edited": {
+      "user": "U05722VQ4S0",
+      "ts": "1703878153.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uknxA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'll take a look at that! And because CRUD is one of the requirements, I'll try asking in the big group if anyone has any suggestions (maybe someone else ran into the same issue) Worst case I can alter my approach and remove the edit functionality feature since we have a delete button (so users can just delete and reenter a vacation if needed)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5a9230ba-42fd-4437-9d3a-e18dd96eaac1",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "i believe update is essentially edit for CRUD",
+    "ts": "1703878180.071919",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qvo9g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i believe update is essentially edit for CRUD"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4630bd19-afb3-48e0-ac78-4b2bc2a57746",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "I got it!! I forgot about the .save() function",
+    "ts": "1703881249.509909",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B2ipJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I got it!! I forgot about the .save() function"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "273ddbbe-e434-4a0d-b6ca-90b5fc0cb192",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "also before we keep progressing, ive been (professional) procrastinating working on the react, because it kept puzzling my mind how we are going to get react AND Thymeleaf to work together to create the front-end, but i think I might have something figured out",
+    "ts": "1703888647.360519",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9NWim",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also before we keep progressing, ive been (professional) procrastinating working on the react, because it kept puzzling my mind how we are going to get react AND Thymeleaf to work together to create the front-end, but i think I might have something figured out"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0e6247e0-6650-4b4d-afdb-5b701e39a4d9",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "If i can set it up tonight, we wont launch the website using the Gradle \"bootRun\", instead it will be launched using npm start with React",
+    "ts": "1703888703.267319",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pp71b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If i can set it up tonight, we wont launch the website using the Gradle \"bootRun\", instead it will be launched using npm start with React"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "af5d42e0-0777-4dea-85b6-015caee30771",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "That should be the way we try to think about making the Front-end, because stuff like the banner can be made easily in React since the banner is mostly the same in every page",
+    "ts": "1703888767.979909",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "perM1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That should be the way we try to think about making the Front-end, because stuff like the banner can be made easily in React since the banner is mostly the same in every page"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d9ce2e2b-0621-4411-93d3-e86714ac18a8",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "I think we have to use the templates to create the dynamic pages where the data loops through (th:each) on the page refresh, but then we import that into the React app using \"import (objectName) from (../templates/templateName.html)\"",
+    "ts": "1703888941.044659",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05722VQ4S0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vZONA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think we have to use the templates to create the dynamic pages where the data loops through (th:each) on the page refresh, but then we import that into the React app using \"import (objectName) from (../templates/templateName.html)\""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "15f1be5d-3ca3-43c9-b19f-5b0f53fe8230",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "also, anything done for the front end should be done it visual studio code, so basically anything in the templates and react, IntelliJ should be mainly used for the back-end stuff. I think it would be a good idea open both IDE's when working on the projects out of habit so that it isnt annoying when switching front to back and such",
+    "ts": "1703889181.775029",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9iJb/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also, anything done for the front end should be done it visual studio code, so basically anything in the templates and react, IntelliJ should be mainly used for the back-end stuff. I think it would be a good idea open both IDE's when working on the projects out of habit so that it isnt annoying when switching front to back and such"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9799b7c3-8b3b-412c-bd7e-3bc596d81dda",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "gonna work as much as i can on it tonight, hopefully by tonight i should have an idea about what im going to work on and such",
+    "ts": "1703889211.925859",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ilNeG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "gonna work as much as i can on it tonight, hopefully by tonight i should have an idea about what im going to work on and such"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e8884444-61e6-4909-a0fd-ac819783c958",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "also development branch is missing the React folder atm, idk when it got deleted or if it did. Im going to try to update the .gitignore files too so that we might stop getting so many errors when changings branches and such",
+    "ts": "1703889321.978969",
+    "edited": {
+      "user": "U057C9DPMC3",
+      "ts": "1703889539.000000"
+    },
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05722VQ4S0"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05765HGT46"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sdJ00",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also development branch is missing the React folder atm, idk when it got deleted or if it did. Im going to try to update the .gitignore files too so that we might stop getting so many errors when changings branches and such"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "57b612b2-0149-4ff0-a65d-9934606a702d",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "Sounds good!! Excited to see how everything works with React. I think most of my stuff has been back-end so far, so hopefully everything syncs up all right",
+    "ts": "1703890378.915269",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jUD0w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sounds good!! Excited to see how everything works with React. I think most of my stuff has been back-end so far, so hopefully everything syncs up all right"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1e6233f6-e7e4-4695-8641-520f3671b435",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "yeah, I would like to get some front-end done today on my end. also idk what i did but i tried to merge development branch into my josh-branch and somehow the development branch got updated? and whats weird is that nothing got deleted or anything, but the nomad-nirvana-ui react folder is back now and it added some useless files but i dont think anything got messed up or any progress was lost.",
+    "ts": "1703891694.241459",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "etQ6K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yeah, I would like to get some front-end done today on my end. also idk what i did but i tried to merge development branch into my josh-branch and somehow the development branch got updated? and whats weird is that nothing got deleted or anything, but the nomad-nirvana-ui react folder is back now and it added some useless files but i dont think anything got messed up or any progress was lost."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "55e7ac54-c62b-4e81-8c6e-017cb38132c0",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "also changed the .gitignores so now they should be less annoying about switching branches",
+    "ts": "1703891853.255399",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1rpHB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also changed the .gitignores so now they should be less annoying about switching branches"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2249a8c3-859d-4546-90a4-2d5826885f34",
+    "type": "message",
+    "user": "U057C9DPMC3",
+    "text": "next time any of you try to switch branches and it gives you an \"unsaved files\" thing after you pull the changes from dev-branch, let me know which files they are so i can add them to the dev .gitignore files",
+    "ts": "1703891903.479109",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05722VQ4S0"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05765HGT46"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/RwMZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "next time any of you try to switch branches and it gives you an \"unsaved files\" thing after you pull the changes from dev-branch, let me know which files they are so i can add them to the dev .gitignore files"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/818e10bce454cc2ce7d15150c511ad64.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Josh",
+      "real_name": "Josh Miller",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jmiller20twenty",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

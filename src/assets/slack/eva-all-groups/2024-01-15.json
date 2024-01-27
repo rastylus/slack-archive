@@ -1,0 +1,81 @@
+[
+  {
+    "client_msg_id": "CCAE4978-3AC6-4354-B73B-802D807BADFC",
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "Hello Team. Good luck everyone on the interview tonight. If you need, I can open our studio room later. Please let me know ",
+    "ts": "1705361784.005379",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U057UQR6VDW",
+          "U057UGWMN48"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U0574U0BKQA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XfSHK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Team. Good luck everyone on the interview tonight"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " If you need"
+              },
+              {
+                "type": "text",
+                "text": ","
+              },
+              {
+                "type": "text",
+                "text": " I can open our studio room later. Please let me know "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

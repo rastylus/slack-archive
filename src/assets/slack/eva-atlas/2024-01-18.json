@@ -1,0 +1,561 @@
+[
+  {
+    "client_msg_id": "D9B6E6BD-6B92-4513-B7FB-7E0E3AF72B10",
+    "type": "message",
+    "user": "U0576LJR97D",
+    "text": "Yea I’ll definitely try to tinker with this idea as well and see if it works. Thanks a ton for looking into it",
+    "ts": "1705536257.921719",
+    "thread_ts": "1705528788.990719",
+    "parent_user_id": "U0576LJR97D",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057MA0AHEG"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vIXw8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yea "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " definitely try to tinker with this idea as well and see if it works"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Thanks a ton for looking into it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/0506c54e2a1afb561a10fd6f6b340f65.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Madeline",
+      "real_name": "Madeline Lora",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "madelinelora95",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ed1a2fb5-09bf-4ced-81c4-d51f6129e629",
+    "type": "message",
+    "user": "U0574U0BKQA",
+    "text": "I'm officially done with my work week.\n\nI'll be chilling in the Discord voice chat tonight while I code",
+    "ts": "1705537195.668709",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l5Baa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm officially done with my work week.\n\nI'll be chilling in the Discord voice chat tonight while I code"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245917112390_a678285ea0ed240e1e11_72.jpg",
+      "first_name": "Devon",
+      "real_name": "Devon Harris",
+      "display_name": "Devon H. (Philly)",
+      "team": "T050CSX3EMT",
+      "name": "devharris93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "01f8828c-6d91-4cdf-8418-44a167b9cc9a",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "Im home and i pulled down your branch. Trying a little rework right now. I would say to test the tourcategory and city first to see if they get added because messing with the Set\u0026lt;\u0026gt; of objects might be tricky and we can always cut that part if needed. I did however notice when you were choosing states you have the user filling out a text field. I reworked my stop creation pages dropdown box to work for yours as well. I have the template here on my local copy of your branch",
+    "ts": "1705542427.553509",
+    "thread_ts": "1705528788.990719",
+    "parent_user_id": "U0576LJR97D",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TPihV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Im home and i pulled down your branch. Trying a little rework right now. I would say to test the tourcategory and city first to see if they get added because messing with the Set\u003c\u003e of objects might be tricky and we can always cut that part if needed. I did however notice when you were choosing states you have the user filling out a text field. I reworked my stop creation pages dropdown box to work for yours as well. I have the template here on my local copy of your branch"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "095666c9-9c9a-497f-bb96-0dc015f869ed",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "Ill hop in discord for a bit.",
+    "ts": "1705542437.214029",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3hmRT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ill hop in discord for a bit."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bf666ca6-70f2-4f0e-8236-5f7adb265563",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "I was able to fix the tour-creation branch. Just needed one line to close out the session. That has since been pushed to github now. Im going to lay down, but I plan to work on my slide deck and development plan for a while tomorrow and then I can try to help more with you branch \u003c@U0576LJR97D\u003e. Just ping me in chat and I can hop in a discord call if needed. Were almost there guys, we got this!",
+    "ts": "1705564470.111139",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U0574U0BKQA"
+        ]
+      },
+      {
+        "name": "blush",
+        "count": 1,
+        "users": [
+          "U0576LJR97D"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2vs3F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was able to fix the tour-creation branch. Just needed one line to close out the session. That has since been pushed to github now. Im going to lay down, but I plan to work on my slide deck and development plan for a while tomorrow and then I can try to help more with you branch "
+              },
+              {
+                "type": "user",
+                "user_id": "U0576LJR97D"
+              },
+              {
+                "type": "text",
+                "text": ". Just ping me in chat and I can hop in a discord call if needed. Were almost there guys, we got this!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e4f85dd0-2110-4d59-8da8-502def5b40ff",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "Ill hop in discord if you guys want to talk to before or after demos.",
+    "ts": "1705619799.288399",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5OZo7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ill hop in discord if you guys want to talk to before or after demos."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "31e066d2-b71a-4b3f-ba82-8ca7b204f170",
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "I can also open zoom for you",
+    "ts": "1705620067.881909",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057MA0AHEG"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OHaVQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can also open zoom for you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5c15e321-039f-4dd1-8b07-ef27fd63ec42",
+    "type": "message",
+    "user": "U0574U0BKQA",
+    "text": "Hope you're all fairing better than I.\n\nI'm shooting a buzzer beater to finish the slide presentation and survey before class starts :joy:",
+    "ts": "1705620274.301599",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wAHP8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hope you're all fairing better than I.\n\nI'm shooting a buzzer beater to finish the slide presentation and survey before class starts "
+              },
+              {
+                "type": "emoji",
+                "name": "joy",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245917112390_a678285ea0ed240e1e11_72.jpg",
+      "first_name": "Devon",
+      "real_name": "Devon Harris",
+      "display_name": "Devon H. (Philly)",
+      "team": "T050CSX3EMT",
+      "name": "devharris93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a2b5adc5-9981-4e33-8f74-5fe274ecaa79",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "\u003c@U0574U0BKQA\u003e I think they just need to be done before midnight so don't stress too hard. I'm sure you can get it done by the end of the night if you don't have any other commitments currently.",
+    "ts": "1705620457.798309",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U0625KF6RLH"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U0574U0BKQA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GB57X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0574U0BKQA"
+              },
+              {
+                "type": "text",
+                "text": " I think they just need to be done before midnight so don't stress too hard. I'm sure you can get it done by the end of the night if you don't have any other commitments currently."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "47d12303-eb68-40c8-ac4c-a0489ea9d731",
+    "type": "message",
+    "user": "U0574U0BKQA",
+    "text": "Thanks \u003c@U057UGWMN48\u003e, and gl all",
+    "ts": "1705621134.072119",
+    "edited": {
+      "user": "U0574U0BKQA",
+      "ts": "1705621155.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ehEkP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "U057UGWMN48"
+              },
+              {
+                "type": "text",
+                "text": ", and gl all"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245917112390_a678285ea0ed240e1e11_72.jpg",
+      "first_name": "Devon",
+      "real_name": "Devon Harris",
+      "display_name": "Devon H. (Philly)",
+      "team": "T050CSX3EMT",
+      "name": "devharris93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

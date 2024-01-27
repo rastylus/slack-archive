@@ -1,0 +1,211 @@
+[
+  {
+    "client_msg_id": "f41262d4-5725-4992-b8f2-40bc8ad09f3d",
+    "type": "message",
+    "user": "U055RLVGECB",
+    "text": "Evening all! Tonight will be all project work!\n\n5-minute meetings will go in this order:\n1. 404-found\n2. NCJS\n3. Lambros",
+    "ts": "1702341434.453399",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HZmVX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Evening all! Tonight will be all project work!\n\n5-minute meetings will go in this order:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"404-found\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"NCJS\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Lambros\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5199690404373_f5b2dee4a67558ffd533_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Mitchell",
+      "display_name": "TA - Ariel (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "ariel.l.makowski",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eed68123-956c-4b37-bd92-f66691fbe568",
+    "type": "message",
+    "user": "U057T1QUHB3",
+    "text": "Do we have an attendance code?",
+    "ts": "1702341672.380749",
+    "thread_ts": "1702341672.380749",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U055RLVGECB",
+        "ts": "1702341809.076849"
+      }
+    ],
+    "latest_reply": "1702341809.076849",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eLGqk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do we have an attendance code?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5270909622532_a6e020cc585a007f7a3d_72.png",
+      "first_name": "Cheri",
+      "real_name": "Cheri Hutchinson",
+      "display_name": "Cheri Hutchinson",
+      "team": "T050CSX3EMT",
+      "name": "cheribird",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U055RLVGECB"
+    ]
+  },
+  {
+    "client_msg_id": "93926029-ec3c-4541-a912-95cc42ec0dd4",
+    "type": "message",
+    "user": "U055RLVGECB",
+    "text": "10 minute music break! Vibes: folky/bluesy/pop-y female voices",
+    "ts": "1702341739.078589",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4+eTS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "10 minute music break! Vibes: folky/bluesy/pop-y female voices"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5199690404373_f5b2dee4a67558ffd533_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Mitchell",
+      "display_name": "TA - Ariel (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "ariel.l.makowski",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E5E4CFE5-7BDC-45D2-9CD7-EA6B4BAB3547",
+    "type": "message",
+    "user": "U055RLVGECB",
+    "text": "Yup! I’ll share as usual in zoom chat",
+    "ts": "1702341809.076849",
+    "thread_ts": "1702341672.380749",
+    "parent_user_id": "U057T1QUHB3",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dDc1c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yup! "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " share as usual in zoom chat"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5199690404373_f5b2dee4a67558ffd533_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Mitchell",
+      "display_name": "TA - Ariel (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "ariel.l.makowski",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

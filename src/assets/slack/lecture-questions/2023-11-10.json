@@ -1,0 +1,242 @@
+[
+  {
+    "client_msg_id": "c70ef507-ad5b-4cf3-8624-bd2ad3fba533",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "what's the name of this tool Carrie is using?",
+    "ts": "1699574741.461909",
+    "thread_ts": "1699574741.461909",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U0574U0BKQA",
+        "ts": "1699574783.649889"
+      },
+      {
+        "user": "U05743K5BHT",
+        "ts": "1699575105.670879"
+      }
+    ],
+    "latest_reply": "1699575105.670879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TssN7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what's the name of this tool Carrie is using?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05743K5BHT",
+      "U0574U0BKQA"
+    ]
+  },
+  {
+    "client_msg_id": "3812a06f-96c7-4755-a543-364fc8806f11",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "for querying API's easily",
+    "ts": "1699574749.639519",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tnra5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "for querying API's easily"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f99b73e5-3f07-4ec0-bbd8-d095748ab2ea",
+    "type": "message",
+    "user": "U0574U0BKQA",
+    "text": "It's called Postman",
+    "ts": "1699574783.649889",
+    "thread_ts": "1699574741.461909",
+    "parent_user_id": "U056ZJ34X42",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 4,
+        "users": [
+          "U056ZJ34X42",
+          "U0579KDG6A0",
+          "U05B3S71CJD",
+          "U055N4UL5DL"
+        ]
+      },
+      {
+        "name": "point_up::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U050FPSA3DH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "17iHd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It's called Postman"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245917112390_a678285ea0ed240e1e11_72.jpg",
+      "first_name": "Devon",
+      "real_name": "Devon Harris",
+      "display_name": "Devon H. (Philly)",
+      "team": "T050CSX3EMT",
+      "name": "devharris93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "db55de03-b800-4784-a885-6108b606de86",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Instructions for the installation are included in Studio for tonight!",
+    "ts": "1699575105.670879",
+    "thread_ts": "1699574741.461909",
+    "parent_user_id": "U056ZJ34X42",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 2,
+        "users": [
+          "U056ZJ34X42",
+          "U057V3BHX9N"
+        ]
+      },
+      {
+        "name": "point_up::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U050FPSA3DH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TI9v/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Instructions for the installation are included in Studio for tonight!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

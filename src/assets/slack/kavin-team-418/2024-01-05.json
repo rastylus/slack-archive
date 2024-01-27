@@ -1,0 +1,244 @@
+[
+  {
+    "client_msg_id": "4cb5faba-4514-4761-ac1f-0672149ee651",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "\u003c@U056FFS0C64\u003e Hey Kavin,\n\nWe hopped off for the night - just doing some solo touches but otherwise trucking forward with the plan, let us know if you need us to jump on for anything",
+    "ts": "1704417873.663179",
+    "thread_ts": "1704417873.663179",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056FFS0C64",
+        "ts": "1704417939.962949"
+      }
+    ],
+    "latest_reply": "1704417939.962949",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8OuQa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056FFS0C64"
+              },
+              {
+                "type": "text",
+                "text": " Hey Kavin,\n\nWe hopped off for the night - just doing some solo touches but otherwise trucking forward with the plan, let us know if you need us to jump on for anything"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056FFS0C64"
+    ]
+  },
+  {
+    "client_msg_id": "158b8e88-9cab-4586-a048-b92648ae5c06",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Awesome. No worries at all. I see you guys are very active with your project. Keep it up!",
+    "ts": "1704417939.962949",
+    "thread_ts": "1704417873.663179",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sPt7i",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome. No worries at all. I see you guys are very active with your project. Keep it up!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "158b8e88-9cab-4586-a048-b92648ae5c06",
+    "type": "message",
+    "user": "U056FFS0C64",
+    "text": "Awesome. No worries at all. I see you guys are very active with your project. Keep it up!",
+    "ts": "1704417939.962949",
+    "thread_ts": "1704417873.663179",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sPt7i",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome. No worries at all. I see you guys are very active with your project. Keep it up!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-16/6212090779940_7d7c4db2fa8230003cae_72.png",
+      "first_name": "Kavin",
+      "real_name": "Kavin Moreno",
+      "display_name": "TA - Kavin",
+      "team": "T050CSX3EMT",
+      "name": "kavinmoreno",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "18E55A07-B610-47F8-AE5F-2BC55C4AD8EC",
+    "type": "message",
+    "user": "U057P8PCXT2",
+    "text": "Hey guys,\n\nCreated baseline user repo/controller/dtos\n\nI changed what i could to match, but I can’t build it at work to check if it’s functional. Will check when i get home - it’s in the liam/backend-test branch if you needed to test anything with that user info",
+    "ts": "1704466914.108819",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057UFP7YLQ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NxV6Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys,\n\nCreated baseline user repo/controller/dtos\n\nI changed what i could to match, but "
+              },
+              {
+                "type": "text",
+                "text": "I can’t"
+              },
+              {
+                "type": "text",
+                "text": " build it at work to check if "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " functional"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Will check when i get home - "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " in the liam/backend-test branch if you needed to test anything with that user info"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-01/5354559996822_a848bfffb1c3c826968b_72.jpg",
+      "first_name": "Liam",
+      "real_name": "Liam Carlson",
+      "display_name": "Liam Carlson",
+      "team": "T050CSX3EMT",
+      "name": "liamcarlson2014",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,31 @@
+18:29:45 From Erin Muzughi To Everyone:
+	https://www.javaguides.net/2020/07/react-js-spring-boot-rest-api-example-tutorial.html
+18:53:27 From Yumi Shiroma (she/her) To Everyone:
+	https://www.baeldung.com/spring-controller-vs-restcontroller
+19:04:28 From Erin Muzughi To Everyone:
+	@GetMapping("detail")
+	    public String displayEventDetails(@RequestParam Integer eventId, Model model) {
+	
+	        Optional<Event> result = eventRepository.findById(eventId);
+	
+	        if (result.isEmpty()) {
+	            model.addAttribute("title", "Invalid Event ID: " + eventId);
+	        } else {
+	            Event event = result.get();
+	            model.addAttribute("title", event.getName() + " Details");
+	            model.addAttribute("event", event);
+	            model.addAttribute("tags", event.getTags());
+	        }
+	
+	        return "events/detail";
+	    }
+19:11:01 From Yumi Shiroma (she/her) To Everyone:
+	https://education.launchcode.org/SQL/chapters/mysql-part-1/queries.html
+19:21:41 From Yumi Shiroma (she/her) To Everyone:
+	https://howtodoinjava.com/spring-mvc/controller-getmapping-postmapping/
+19:28:46 From Erin Muzughi To Everyone:
+	https://www.baeldung.com/spring-response-status
+19:29:20 From Erin Muzughi To Everyone:
+	https://github.com/eugenp/tutorials/blob/master/spring-web-modules/spring-mvc-basics/src/main/java/com/baeldung/web/controller/ResponseStatusRestController.java
+20:00:23 From Erin Muzughi To Everyone:
+	https://www.tutussfunny.com/login-registration-form-using-spring-boot-react/

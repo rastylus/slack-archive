@@ -1,0 +1,64 @@
+[
+  {
+    "client_msg_id": "49c711fa-a0b5-4d06-acfd-31f8c472910d",
+    "type": "message",
+    "user": "U057A8JEJAG",
+    "text": "\u003chttps://www.w3schools.com/react/default.asp\u003e",
+    "ts": "1702602651.929179",
+    "attachments": [
+      {
+        "fallback": "React Tutorial",
+        "id": 1,
+        "title": "React Tutorial",
+        "title_link": "https://www.w3schools.com/react/default.asp",
+        "text": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+        "image_url": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
+        "service_name": "w3schools.com",
+        "service_icon": "https://www.w3schools.com/apple-touch-icon.png",
+        "from_url": "https://www.w3schools.com/react/default.asp",
+        "original_url": "https://www.w3schools.com/react/default.asp",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gO5C+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.w3schools.com/react/default.asp",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269495337120_481baecdd1c0c2c501ec_72.png",
+      "first_name": "Chad",
+      "real_name": "Chad Harper",
+      "display_name": "Chad Harper",
+      "team": "T050CSX3EMT",
+      "name": "chadharper811",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

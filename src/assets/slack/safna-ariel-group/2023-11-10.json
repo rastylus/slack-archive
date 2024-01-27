@@ -1,0 +1,121 @@
+[
+  {
+    "client_msg_id": "b6dbbdb4-0028-4a8a-bbb2-f675b44563a3",
+    "type": "message",
+    "user": "U055RLVGECB",
+    "text": "Evening! Take a short break and meet in our room at 6:28C/7:28E!",
+    "ts": "1699575830.263709",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+CpWP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Evening! Take a short break and meet in our room at 6:28C/7:28E!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5199690404373_f5b2dee4a67558ffd533_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Mitchell",
+      "display_name": "TA - Ariel (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "ariel.l.makowski",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f885c455-b68c-4fec-9f8a-4e3f2bca535e",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "Hello, everyone! :slightly_smiling_face: I am still a little confused on branches and how to work on code with other people so I was wondering if anyone else is looking to practice that skill before we start Unit 3. I remember the pilot/copilot studio was helpful to practice this, so maybe we could redo that (either during our Catch-up Class or async on our own time)",
+    "ts": "1699647842.909739",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 2,
+        "users": [
+          "U055K78ECLE",
+          "U0574CMJ0MT"
+        ]
+      },
+      {
+        "name": "innocent",
+        "count": 2,
+        "users": [
+          "U057840C37E",
+          "U0574CMJ0MT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PkGtD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello, everyone! "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " I am still a little confused on branches and how to work on code with other people so I was wondering if anyone else is looking to practice that skill before we start Unit 3. I remember the pilot/copilot studio was helpful to practice this, so maybe we could redo that (either during our Catch-up Class or async on our own time)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

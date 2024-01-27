@@ -1,0 +1,56 @@
+[
+  {
+    "type": "message",
+    "user": "USLACKBOT",
+    "text": "\u003c@U056ZSTFDJT\u003e archived the channel \u003chttps://ptwebdevallhu-iu32728.slack.com/archives/C059QLXN60H|#pikacheese\u003e",
+    "ts": "1685123006.361429",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eA0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056ZSTFDJT"
+              },
+              {
+                "type": "text",
+                "text": " archived the channel "
+              },
+              {
+                "type": "link",
+                "url": "https://ptwebdevallhu-iu32728.slack.com/archives/C059QLXN60H",
+                "text": "#pikacheese"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://a.slack-edge.com/80588/img/slackbot_72.png",
+      "first_name": "slackbot",
+      "real_name": "Slackbot",
+      "display_name": "Slackbot",
+      "team": "T050CSX3EMT",
+      "name": "slackbot",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

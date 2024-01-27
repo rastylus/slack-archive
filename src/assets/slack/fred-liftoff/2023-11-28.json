@@ -1,0 +1,238 @@
+[
+  {
+    "client_msg_id": "3451a6bf-0a8a-4da7-8884-2b267ee83c7a",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "\u003chttps://us02web.zoom.us/meeting/register/tZIkduygpjkvEtRM_7oqYN3tbfAk6f-cFpPK\u003e from last week",
+    "ts": "1701132837.514869",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tb3E9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://us02web.zoom.us/meeting/register/tZIkduygpjkvEtRM_7oqYN3tbfAk6f-cFpPK",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": " from last week"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "221d42a6-5a69-404c-b543-17a476a48019",
+    "type": "message",
+    "user": "U05763FB2F4",
+    "text": "\u003cmailto:techdhana33@Gmail.com|techdhana33@Gmail.com\u003e",
+    "ts": "1701135178.004439",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DPjbM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "mailto:techdhana33@Gmail.com",
+                "text": "techdhana33@Gmail.com"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ca89ec5fb6ef1422f53f69d6ef4edc9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Dhana",
+      "real_name": "Dhana P",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "prathi.kamaraju",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "118c068c-9e30-48e9-acf2-65102e5aed46",
+    "type": "message",
+    "user": "U05763FB2F4",
+    "text": "can you send the link to this email",
+    "ts": "1701135191.233029",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "P86Zq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "can you send the link to this email"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2ca89ec5fb6ef1422f53f69d6ef4edc9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Dhana",
+      "real_name": "Dhana P",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "prathi.kamaraju",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9210685c-e29f-4bc2-aa65-8490715d66b5",
+    "type": "message",
+    "user": "U056ZDVQRL3",
+    "text": "can you please verify the perms on our repositories. We can clone the repo, but we are not seeing the initial changes. WE CAN see then on github, but they are not pullin into our local with the clone command.  I ran into a similar issue at work where perms were the root cause so I thought I'd ask...",
+    "ts": "1701137952.852869",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EWgJJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "can you please verify the perms on our repositories. We can clone the repo, but we are not seeing the initial changes. WE CAN see then on github, but they are not pullin into our local with the clone command.  I ran into a similar issue at work where perms were the root cause so I thought I'd ask..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5254288179559_8ccab3e3f6cddd72d402_72.jpg",
+      "first_name": "Christopher",
+      "real_name": "Christopher Deo",
+      "display_name": "Chris",
+      "team": "T050CSX3EMT",
+      "name": "chris",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "AA741DF7-96CF-467C-93FD-8FA84AE74423",
+    "type": "message",
+    "user": "U056FFR2KJ4",
+    "text": "I will hope over",
+    "ts": "1701138124.309629",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JGizn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I will hope over"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5219535207040_bd2448d9a5bf3331f15d_72.png",
+      "first_name": "Fred",
+      "real_name": "Fred Hodgman",
+      "display_name": "TA Fred",
+      "team": "T050CSX3EMT",
+      "name": "fredhodgman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

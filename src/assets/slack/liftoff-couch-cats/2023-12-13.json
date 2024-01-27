@@ -1,0 +1,1680 @@
+[
+  {
+    "client_msg_id": "a0618de0-de2f-40a1-8c43-e179045389ea",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "just submitted a pull request. \u003c@U056Q9W022K\u003e I had to add some code to User to get watchlist-related features to work, which produced a couple merge conflicts. these looked pretty straightforward (mostly just import statements) and I think I was able to resolve them without doing anything to mess with your code, just giving you a heads up in case you want to look it over before merging!",
+    "ts": "1702425940.564449",
+    "thread_ts": "1702425940.564449",
+    "reply_count": 13,
+    "replies": [
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702426077.911219"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702426165.951839"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702426206.615209"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702426226.042519"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702426268.979289"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702426278.893469"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702428101.657599"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702428731.616989"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702428818.617169"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702429093.513459"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702429198.635659"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702429636.075219"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702430195.438779"
+      }
+    ],
+    "latest_reply": "1702430195.438779",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WazGg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "just submitted a pull request. "
+              },
+              {
+                "type": "user",
+                "user_id": "U056Q9W022K"
+              },
+              {
+                "type": "text",
+                "text": " I had to add some code to User to get watchlist-related features to work, which produced a couple merge conflicts. these looked pretty straightforward (mostly just import statements) and I think I was able to resolve them without doing anything to mess with your code, just giving you a heads up in case you want to look it over before merging!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U056Y707Y14"
+    ]
+  },
+  {
+    "client_msg_id": "614fbc5d-e5a7-44a2-9003-1ff450bce2f9",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "ugh wait actually I tried to do the changes myself but I don’t think any of it saved…? sorry, not sure what’s going on there - maybe I don’t have permissions to do that since it’s my PR…?",
+    "ts": "1702426077.911219",
+    "thread_ts": "1702425940.564449",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8Seel",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ugh wait actually I tried to do the changes myself but I don’t think any of it saved…? sorry, not sure what’s going on there - maybe I don’t have permissions to do that since it’s my PR…?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DB806D1C-0A0E-40A2-A9A0-CD717B41800E",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Meaning you couldn’t approve the merge yourself? ",
+    "ts": "1702426165.951839",
+    "thread_ts": "1702425940.564449",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YQ43g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Meaning you "
+              },
+              {
+                "type": "text",
+                "text": "couldn’t"
+              },
+              {
+                "type": "text",
+                "text": " approve the merge yourself? "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0ae0058d-8d12-4f7e-be07-65167de6a35b",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "no, I tried to resolve the merge conflicts and clicked the button to save changes but none of it actually saved and all the conflicts are still there",
+    "ts": "1702426206.615209",
+    "thread_ts": "1702425940.564449",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Wy/x1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no, I tried to resolve the merge conflicts and clicked the button to save changes but none of it actually saved and all the conflicts are still there"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B7A687E8-13D2-4C33-A08F-5EF9758BDA18",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Oh that’s weird",
+    "ts": "1702426226.042519",
+    "thread_ts": "1702425940.564449",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qD0FH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh "
+              },
+              {
+                "type": "text",
+                "text": "that’s"
+              },
+              {
+                "type": "text",
+                "text": " weird"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "883eb539-a577-4f3e-8286-0fa691b11483",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "I’m looking at this now and still seeing that there are merge conflicts that need to be resolved on the command line and I can’t merge the request. is it possible you need to push some files up or something?",
+    "ts": "1702426256.671759",
+    "thread_ts": "1702423704.993079",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Uj9nB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m looking at this now and still seeing that there are merge conflicts that need to be resolved on the command line and I can’t merge the request. is it possible you need to push some files up or something?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C48A9648-6CB2-4547-A66C-AE93AA9E6960",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I can help in about 30ish min!",
+    "ts": "1702426268.979289",
+    "thread_ts": "1702425940.564449",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tvjjZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can help in about 30ish min!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "958e67ca-a5de-4bc4-a5a9-7490d8700745",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "thanks- no rush!",
+    "ts": "1702426278.893469",
+    "thread_ts": "1702425940.564449",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Lj2j7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thanks- no rush!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c540ba5f-2652-4fdf-99ff-cc389c30cc90",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "also, just to make sure I’m looking at the right thing - it’s this? \u003chttps://github.com/corypride/couchCats/pull/11\u003e",
+    "ts": "1702426334.933399",
+    "thread_ts": "1702423704.993079",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "#11 Search Filter page",
+        "id": 1,
+        "title": "#11 Search Filter page",
+        "title_link": "https://github.com/corypride/couchCats/pull/11",
+        "text": "feat: Search Filter page functionality.",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/corypride/couchCats|corypride/couchCats\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1702347089
+      }
+    ],
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yABkr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also, just to make sure I’m looking at the right thing - it’s this? "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/corypride/couchCats/pull/11",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d09b53dd-ef22-49b3-8ffc-a792915938e2",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "That would be the one. It's the same pull request but the changes should have pushed up into it. If not, let me know.",
+    "ts": "1702427062.898929",
+    "thread_ts": "1702423704.993079",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vxZtD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "That would be the one. It's the same pull request but the changes should have pushed up into it. If not, let me know."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1133d3ab-b6bc-418e-be7e-fed0d8414f67",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "that’s really weird, I can click through and see the changes made in that commit but it’s still showing this on the main page for the pull request:",
+    "ts": "1702427613.852009",
+    "thread_ts": "1702423704.993079",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KiNhA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "that’s really weird, I can click through and see the changes made in that commit but it’s still showing this on the main page for the pull request:"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "64ed1856-6e36-43c0-aee3-43aa80dcc518",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "ts": "1702427624.866179",
+    "thread_ts": "1702423704.993079",
+    "parent_user_id": "U057C75RYBB",
+    "files": [
+      {
+        "id": "F069FFRCUUF",
+        "created": 1702427621,
+        "timestamp": 1702427621,
+        "name": "Screen Shot 2023-12-12 at 7.31.14 PM.png",
+        "title": "Screen Shot 2023-12-12 at 7.31.14 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056Y707Y14",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 116509,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F069FFRCUUF/screen_shot_2023-12-12_at_7.31.14_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F069FFRCUUF/download/screen_shot_2023-12-12_at_7.31.14_pm.png",
+        "original_h": 635,
+        "original_w": 927,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F069FFRCUUF-e2aca19d4c/screen_shot_2023-12-12_at_7.31.14_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F069FFRCUUF-e2aca19d4c/screen_shot_2023-12-12_at_7.31.14_pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F069FFRCUUF-e2aca19d4c/screen_shot_2023-12-12_at_7.31.14_pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F069FFRCUUF-e2aca19d4c/screen_shot_2023-12-12_at_7.31.14_pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 247,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F069FFRCUUF-e2aca19d4c/screen_shot_2023-12-12_at_7.31.14_pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 329,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F069FFRCUUF-e2aca19d4c/screen_shot_2023-12-12_at_7.31.14_pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 493,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056Y707Y14/F069FFRCUUF/screen_shot_2023-12-12_at_7.31.14_pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F069FFRCUUF-4bbcb8c6f5",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0b76cbb4-b3e0-470e-8060-0b93435d4893",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "I closed it and sent a new one but apparently there are still conflicts. I'll let you know...",
+    "ts": "1702427884.629539",
+    "thread_ts": "1702423704.993079",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Qojww",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I closed it and sent a new one but apparently there are still conflicts. I'll let you know..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cfd01ad6-185b-49c6-a001-ae7c5ed80030",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "looking now",
+    "ts": "1702428101.657599",
+    "thread_ts": "1702425940.564449",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "meow_party",
+        "count": 1,
+        "users": [
+          "U056Y707Y14"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+ewhJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "looking now"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cb731b00-c9c9-4ad5-8225-4faef06b42a7",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "ugh sorry, git is SUCH a pain",
+    "ts": "1702428267.380459",
+    "thread_ts": "1702423704.993079",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0DQTM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ugh sorry, git is SUCH a pain"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9e1338a8-b0a2-4553-89a3-82e20fbae986",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "was able to resolve and merge. I think while we are doing it, I might as well commit mine because there may be some conflicts and we should probably knock those out.",
+    "ts": "1702428731.616989",
+    "thread_ts": "1702425940.564449",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GWjEz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "was able to resolve and merge. I think while we are doing it, I might as well commit mine because there may be some conflicts and we should probably knock those out."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "779882db-5794-427a-b38f-a7776d273dc1",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "thank you- sounds good!!",
+    "ts": "1702428818.617169",
+    "thread_ts": "1702425940.564449",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aIZh3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you- sounds good!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5ff69f7b-51c9-4a95-98ba-8f18ddcd8e37",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U056Y707Y14\u003e ready for you to resolve, looks like it's just the import statements",
+    "ts": "1702429093.513459",
+    "thread_ts": "1702425940.564449",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2BrnL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056Y707Y14"
+              },
+              {
+                "type": "text",
+                "text": " ready for you to resolve, looks like it's just the import statements"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C91B6638-73B8-4812-98F4-86C8ED6CA586",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "Great!! My laptop just crashed again but I’ll merge as soon as I can get it to turn on :woozy_face: ",
+    "ts": "1702429198.635659",
+    "thread_ts": "1702425940.564449",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8SzOd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Great!! My laptop just crashed again but "
+              },
+              {
+                "type": "text",
+                "text": "I’ll"
+              },
+              {
+                "type": "text",
+                "text": " merge as soon as I can get it to turn on "
+              },
+              {
+                "type": "emoji",
+                "name": "woozy_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1655f091-8f47-47ee-8a6c-14d5b082402d",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "bummer and thank you!",
+    "ts": "1702429636.075219",
+    "thread_ts": "1702425940.564449",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ENQPN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "bummer and thank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cfe0a657-45d7-4289-8759-10bbc7ed480c",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U0578M93BPE\u003e it appears you haven't joined the GitHub Project (different from the  Repo) it is here: \u003chttps://github.com/users/corypride/projects/6\u003e and I detailed out the requirements for the registration page for front end validation on this ticket: \u003chttps://github.com/users/corypride/projects/6?pane=issue\u0026amp;itemId=46575126\u003e",
+    "ts": "1702430073.429359",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LGMrx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U0578M93BPE"
+              },
+              {
+                "type": "text",
+                "text": " it appears you haven't joined the GitHub Project (different from the  Repo) it is here: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/users/corypride/projects/6",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": " and I detailed out the requirements for the registration page for front end validation on this ticket: "
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/users/corypride/projects/6?pane=issue\u0026itemId=46575126",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1b8140fe-5f94-4616-a6f4-2cda969f3f9c",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "looking great, I went ahead and merged it!",
+    "ts": "1702430195.438779",
+    "thread_ts": "1702425940.564449",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "meTQ/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "looking great, I went ahead and merged it!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "962022d9-6c19-49b9-ad96-de8a4f9a5745",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "My branch is ready to be merged. i going to put the stack overflow with the commands I used at the top bar for future issues.",
+    "ts": "1702430990.322899",
+    "thread_ts": "1702430990.322899",
+    "reply_count": 7,
+    "replies": [
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702431314.170709"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702431446.060599"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702431819.930199"
+      },
+      {
+        "user": "U0578M93BPE",
+        "ts": "1702432508.258679"
+      },
+      {
+        "user": "U0578M93BPE",
+        "ts": "1702433049.881309"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702433456.002279"
+      },
+      {
+        "user": "U0578M93BPE",
+        "ts": "1702434288.021689"
+      }
+    ],
+    "latest_reply": "1702434288.021689",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OGy6t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My branch is ready to be merged. i going to put the stack overflow with the commands I used at the top bar for future issues."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Y707Y14",
+      "U0578M93BPE"
+    ]
+  },
+  {
+    "client_msg_id": "c63774fc-9ba9-42d3-ae58-f94f9fca178c",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "great, I’ll check it over and merge now!",
+    "ts": "1702431314.170709",
+    "thread_ts": "1702430990.322899",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "c3YWy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "great, I’ll check it over and merge now!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5c82fcb5-2538-4134-bcba-1a8f863be227",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "not sure this matters but just in case- it looks like you have separate codes for HBO Max and Max in data.txt?",
+    "ts": "1702431446.060599",
+    "thread_ts": "1702430990.322899",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5rQkl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "not sure this matters but just in case- it looks like you have separate codes for HBO Max and Max in data.txt?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "69f5c45c-308d-467f-aec6-a9f100624128",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "ok, I merged it! \u003c@U0578M93BPE\u003e, you might want to pull those changes now to make sure you guys don’t end up having to deal with the same conflicts again next time you commit (at least I think that’s how it works?)",
+    "ts": "1702431819.930199",
+    "thread_ts": "1702430990.322899",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jgjo/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok, I merged it! "
+              },
+              {
+                "type": "user",
+                "user_id": "U0578M93BPE"
+              },
+              {
+                "type": "text",
+                "text": ", you might want to pull those changes now to make sure you guys don’t end up having to deal with the same conflicts again next time you commit (at least I think that’s how it works?)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "abc4c3e6-1f24-4c22-8059-aed8f30c7236",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "yes thank you yUMI",
+    "ts": "1702432508.258679",
+    "thread_ts": "1702430990.322899",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g71PM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes thank you yUMI"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e53c862c-fef9-46f3-912a-4215e19395ee",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "There is no conflict on my branch as you know.",
+    "ts": "1702433049.881309",
+    "thread_ts": "1702430990.322899",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JjAkv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "There is no conflict on my branch as you know."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "982564be-c323-4539-9853-b1fcb16f4c25",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "sorry, I just meant if you and Eric get the files synced up now, github won’t make you deal with the same merge conflicts next time you want to push commits - not sure if I said that clearly!",
+    "ts": "1702433456.002279",
+    "thread_ts": "1702430990.322899",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eKhQ0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "sorry, I just meant if you and Eric get the files synced up now, github won’t make you deal with the same merge conflicts next time you want to push commits - not sure if I said that clearly!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c2851c90-7edc-4333-8d10-928c2dcbac70",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "yes i understand now thank you for your explain more clear",
+    "ts": "1702434288.021689",
+    "thread_ts": "1702430990.322899",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UGl3D",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes i understand now thank you for your explain more clear"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

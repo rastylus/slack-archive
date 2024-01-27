@@ -1,0 +1,474 @@
+[
+  {
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "has renamed the channel from \"eva-group-1\" to \"eva-group-1-atlas\"",
+    "ts": "1700530327.387549",
+    "subtype": "channel_name",
+    "name": "eva-group-1-atlas",
+    "old_name": "eva-group-1",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "30f6f5b0-be29-49b1-9795-f5148793c854",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "ts": "1700530427.045379",
+    "files": [
+      {
+        "id": "F067AEL0ZME",
+        "created": 1700530424,
+        "timestamp": 1700530424,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U057UGWMN48",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 122930,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F067AEL0ZME/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F067AEL0ZME/download/image.png",
+        "original_h": 1006,
+        "original_w": 1920,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F067AEL0ZME-fc59d0a10d/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F067AEL0ZME-fc59d0a10d/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F067AEL0ZME-fc59d0a10d/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F067AEL0ZME-fc59d0a10d/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 189,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F067AEL0ZME-fc59d0a10d/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 252,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F067AEL0ZME-fc59d0a10d/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 377,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F067AEL0ZME-fc59d0a10d/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 503,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F067AEL0ZME-fc59d0a10d/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 537,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U057UGWMN48/F067AEL0ZME/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F067AEL0ZME-8e9f858665",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "24321b6a-c90a-4cbe-83eb-92dc8355eceb",
+    "type": "message",
+    "user": "U0576LJR97D",
+    "text": "Possible project ideas: interactive local artist database OR interactive local golf tournament database. Would also be a good idea to research free API's to determine project topic",
+    "ts": "1700531124.822529",
+    "thread_ts": "1700531124.822529",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057UGWMN48",
+        "ts": "1700598382.720499"
+      }
+    ],
+    "latest_reply": "1700598382.720499",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ovI4Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Possible project ideas: interactive local artist database OR interactive local golf tournament database. Would also be a good idea to research free API's to determine project topic"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/0506c54e2a1afb561a10fd6f6b340f65.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Madeline",
+      "real_name": "Madeline Lora",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "madelinelora95",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057UGWMN48"
+    ]
+  },
+  {
+    "type": "message",
+    "user": "U056FFR4SCQ",
+    "text": "set the channel description: :rocket:",
+    "ts": "1700531439.115609",
+    "subtype": "channel_purpose",
+    "purpose": ":rocket:",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181299206743_62ddf3caae38b0ea6e7f_72.png",
+      "first_name": "Eva",
+      "real_name": "Eva Gaivoronski",
+      "display_name": "TA - Eva Gaivoronski",
+      "team": "T050CSX3EMT",
+      "name": "e.gaivoronskaia",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bbf92cf5-92c6-4e42-a3ad-3af6865f5168",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "Another idea: Budgeting App\n• Set up reoccurring expenses\n• Add expenditures and categorize by label/sub-label\n• Data visualization (charts)\n• Calendar integration\n• Integration w/ Plaid",
+    "ts": "1700531467.475719",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3epSO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Another idea: Budgeting App\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Set up reoccurring expenses\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Add expenditures and categorize by label\\/sub-label\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Data visualization (charts)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Calendar integration\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Integration w\\/ Plaid\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "506b58e4-e564-44b4-bf6a-5e1a57d717b9",
+    "type": "message",
+    "user": "U0574U0BKQA",
+    "text": "Some APIs to research:\n1. \u003chttps://www.artists.bandsintown.com/\u003e\n2. \u003chttps://foursquare.com/\u003e\n3. \u003chttps://opendataphilly.org/categories/arts-culture-history/\u003e",
+    "ts": "1700531909.819419",
+    "thread_ts": "1700531909.819419",
+    "edited": {
+      "user": "U0574U0BKQA",
+      "ts": "1700532523.000000"
+    },
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057UGWMN48",
+        "ts": "1700598868.315559"
+      }
+    ],
+    "latest_reply": "1700598868.315559",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RCuRS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Some APIs to research:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/www.artists.bandsintown.com\\/\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/foursquare.com\\/\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/opendataphilly.org\\/categories\\/arts-culture-history\\/\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5245917112390_a678285ea0ed240e1e11_72.jpg",
+      "first_name": "Devon",
+      "real_name": "Devon Harris",
+      "display_name": "Devon H. (Philly)",
+      "team": "T050CSX3EMT",
+      "name": "devharris93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057UGWMN48"
+    ]
+  },
+  {
+    "client_msg_id": "89bc5071-bb38-497e-876d-392f9ef60ac3",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "Excited to work with you all! Have a great rest of your evening! :slightly_smiling_face:",
+    "ts": "1700533194.085909",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iK8EY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Excited to work with you all! Have a great rest of your evening! "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "137ac4a2-8309-4a03-bf0c-d47a4c328aaf",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "If we include venues as part of this project, it would totally make sense to use the Google Maps API to give routable instructions to a User",
+    "ts": "1700598382.720499",
+    "thread_ts": "1700531124.822529",
+    "parent_user_id": "U0576LJR97D",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f3AFM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If we include venues as part of this project, it would totally make sense to use the Google Maps API to give routable instructions to a User"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e7e4c559-a181-4088-be70-a0c9513aadfd",
+    "type": "message",
+    "user": "U057UGWMN48",
+    "text": "4. Google Maps API",
+    "ts": "1700598868.315559",
+    "thread_ts": "1700531909.819419",
+    "parent_user_id": "U0574U0BKQA",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iVR1c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "4. Google Maps API"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-24/5643584856401_c10b075649ae6d181c41_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Merchant",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "alex.m.merchant92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

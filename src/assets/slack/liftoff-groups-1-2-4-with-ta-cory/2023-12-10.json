@@ -1,0 +1,292 @@
+[
+  {
+    "client_msg_id": "29b7a032-a4c9-43ea-a8a0-7f79dfe7c538",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "\u003c@U055S98U8G2\u003e I am getting a really weird bug in IntelliJ and I can't tell if it's something wrong with the project or not. The project is build and running fine, but IntelliJ does not recognize the annotations. I've invalidated caches and restarted multiple times - I can't tell what's going on (if anything?)\n\nThis is the build.gradle file:\n\n```plugins {\n    id 'java'\n    id 'org.springframework.boot' version '3.2.0'\n    id 'io.spring.dependency-management' version '1.1.4'\n}\n\ngroup = 'com.example'\nversion = '0.0.1-SNAPSHOT'\n\njava {\n    sourceCompatibility = '17'\n}\n\nrepositories {\n    mavenCentral()\n}\n\ndependencies {\n    implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'\n    implementation 'org.springframework.boot:spring-boot-starter-web'\n    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'\n    implementation 'com.mysql:mysql-connector-j'\n    developmentOnly 'org.springframework.boot:spring-boot-devtools'\n    testImplementation('org.springframework.boot:spring-boot-starter-test') {\n       exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'\n    }\n}\n\ntasks.named('test') {\n    useJUnitPlatform()\n}```\n",
+    "ts": "1702238955.994089",
+    "files": [
+      {
+        "id": "F069DA9MD5K",
+        "created": 1702238919,
+        "timestamp": 1702238919,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056ZJ34X42",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 72475,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F069DA9MD5K/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F069DA9MD5K/download/image.png",
+        "original_h": 544,
+        "original_w": 805,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F069DA9MD5K-30a3219413/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F069DA9MD5K-30a3219413/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F069DA9MD5K-30a3219413/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F069DA9MD5K-30a3219413/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 243,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F069DA9MD5K-30a3219413/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 324,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F069DA9MD5K-30a3219413/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 487,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056ZJ34X42/F069DA9MD5K/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F069DA9MD5K-c363aa3cb9",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bBKv5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U055S98U8G2"
+              },
+              {
+                "type": "text",
+                "text": " I am getting a really weird bug in IntelliJ and I can't tell if it's something wrong with the project or not. The project is build and running fine, but IntelliJ does not recognize the annotations. I've invalidated caches and restarted multiple times - I can't tell what's going on (if anything?)\n\nThis is the build.gradle file:\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"plugins {\\n    id 'java'\\n    id 'org.springframework.boot' version '3.2.0'\\n    id 'io.spring.dependency-management' version '1.1.4'\\n}\\n\\ngroup = 'com.example'\\nversion = '0.0.1-SNAPSHOT'\\n\\njava {\\n    sourceCompatibility = '17'\\n}\\n\\nrepositories {\\n    mavenCentral()\\n}\\n\\ndependencies {\\n    implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'\\n    implementation 'org.springframework.boot:spring-boot-starter-web'\\n    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'\\n    implementation 'com.mysql:mysql-connector-j'\\n    developmentOnly 'org.springframework.boot:spring-boot-devtools'\\n    testImplementation('org.springframework.boot:spring-boot-starter-test') {\\n       exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'\\n    }\\n}\\n\\ntasks.named('test') {\\n    useJUnitPlatform()\\n}\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4ac586fa-de5a-4f82-b697-17a33c76ca58",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "Maybe related, but I also can't get the gradle tool window to pop up on the right no matter what I do - I've tried to chatgpt and google the answer but haven't found a solution.",
+    "ts": "1702239160.322479",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eFJ9C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Maybe related, but I also can't get the gradle tool window to pop up on the right no matter what I do - I've tried to chatgpt and google the answer but haven't found a solution."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e1853f31-17a7-4039-aae0-134e7ed3b339",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "Okay, yup - that was the issue: had to click \"Link gradle Project\" after right clicking the gradle.build file. Seems like it is recognizing the annotations now.\n\nAHHHHHHHH can't believe this took an hour and a half to figure out. coding is fun  :upside_down_face:",
+    "ts": "1702239434.297929",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-5",
+        "count": 1,
+        "users": [
+          "U055S98U8G2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zzGaM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay, yup - that was the issue: had to click \"Link gradle Project\" after right clicking the gradle.build file. Seems like it is recognizing the annotations now.\n\nAHHHHHHHH can't believe this took an hour and a half to figure out. coding is fun  "
+              },
+              {
+                "type": "emoji",
+                "name": "upside_down_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "CCCA6F94-9D47-441F-A0E8-7952E577EBE1",
+    "type": "message",
+    "user": "U055S98U8G2",
+    "text": "I don’t see any reason u could not ",
+    "ts": "1702249849.177299",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U056ZJ34X42"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mcAL4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I "
+              },
+              {
+                "type": "text",
+                "text": "don’t"
+              },
+              {
+                "type": "text",
+                "text": " see any reason u could not "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5208942534833_61c4df60725855ac84c1_72.jpg",
+      "first_name": "Cory",
+      "real_name": "Cory Pride",
+      "display_name": "TA-Cory Pride (He/Him)",
+      "team": "T050CSX3EMT",
+      "name": "cory.pride83",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

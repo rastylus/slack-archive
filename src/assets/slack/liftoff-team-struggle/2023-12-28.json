@@ -1,0 +1,64 @@
+[
+  {
+    "client_msg_id": "13E46BB1-9776-4595-A8A6-412027CD7CB6",
+    "type": "message",
+    "user": "U05777BLCPN",
+    "text": "Hey guys I will be out of town all next week, I want to get some work done this weekend. Is anyone able to help with my questions above?\n\n• My origin/main branch isn’t able to run. Is anyone able to run it?\n• I need access to the databases to be able to save user profiles, not sure if we can all access one or if I need to make my own",
+    "ts": "1703806835.547929",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EGsK/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys I will be out of town all next week, I want to get some work done this weekend"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " Is anyone able to help with my questions above?\n"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"My origin\\/main branch \"},{\"type\":\"text\",\"text\":\"is\"},{\"type\":\"text\",\"text\":\"n\\u2019t able to run\"},{\"type\":\"text\",\"text\":\".\"},{\"type\":\"text\",\"text\":\" Is anyone able to run it?\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"I need access to the databases to be able to save user profiles, not sure if we can all access one or if I need to make my own\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-12/5255179561091_977940a39e063a34a12f_72.png",
+      "first_name": "Ami",
+      "real_name": "Ami Patel",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amitrpatel502",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

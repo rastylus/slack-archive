@@ -1,0 +1,432 @@
+[
+  {
+    "client_msg_id": "aaade96b-9cc9-498f-bc3f-79fc13d82bef",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "I’m so sorry about last night, guys, especially \u003c@U05777MT72P\u003e since I think you were leaving time with family to make the meeting. I did some review of the \u003chttps://www.youtube.com/watch?v=V7yTj7ahORU\u0026amp;list=PLvcPeTeqi37S7zRPawIQw6kjYjsJu3B6a\u0026amp;index=19|Class 20 lecture that covers APIs\u003e and outlined some steps we can take to start sending data from our backend to our frontend (relevant info starts about 9:46 - 18:00). After that, she gets into formatting the JSON data, which I think we’ll need to review as well.",
+    "ts": "1703101933.028109",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: Unit 2 Class 20 Lecture — Chapter 20 (Web APIs \u0026 REST)",
+        "id": 1,
+        "author_name": "Code with Carrie",
+        "author_link": "https://www.youtube.com/@CodeWithCarrie",
+        "title": "Unit 2 Class 20 Lecture — Chapter 20 (Web APIs \u0026amp; REST)",
+        "title_link": "https://www.youtube.com/watch?v=V7yTj7ahORU\u0026amp;index=19",
+        "thumb_url": "https://i.ytimg.com/vi/V7yTj7ahORU/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://www.youtube.com/watch?v=V7yTj7ahORU\u0026amp;index=19",
+        "original_url": "https://www.youtube.com/watch?v=V7yTj7ahORU\u0026amp;list=PLvcPeTeqi37S7zRPawIQw6kjYjsJu3B6a\u0026amp;index=19",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U05777MT72P",
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BB/74",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m so sorry about last night, guys, especially "
+              },
+              {
+                "type": "user",
+                "user_id": "U05777MT72P"
+              },
+              {
+                "type": "text",
+                "text": " since I think you were leaving time with family to make the meeting. I did some review of the "
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=V7yTj7ahORU\u0026list=PLvcPeTeqi37S7zRPawIQw6kjYjsJu3B6a\u0026index=19",
+                "text": "Class 20 lecture that covers APIs"
+              },
+              {
+                "type": "text",
+                "text": " and outlined some steps we can take to start sending data from our backend to our frontend (relevant info starts about 9:46 - 18:00). After that, she gets into formatting the JSON data, which I think we’ll need to review as well."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d71fecd7-1dad-44e4-a922-b3c19e29b9b1",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "One of the things that I think might be helpful (but may not be necessary) is to create some dummy data for courses / users and start working with this in the frontend, which will help us see any differences between what we want to be receiving and what we might be sending, and resolve those.",
+    "ts": "1703101964.394569",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9epic",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "One of the things that I think might be helpful (but may not be necessary) is to create some dummy data for courses / users and start working with this in the frontend, which will help us see any differences between what we want to be receiving and what we might be sending, and resolve those."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c9794903-7a13-4df9-bc57-925e05f3525c",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Are we still planning on meeting tonight at 6?",
+    "ts": "1703111909.228959",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v6KT9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Are we still planning on meeting tonight at 6?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "73aa2807-140e-4e92-b986-317ab59613df",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "I'm available to meet!",
+    "ts": "1703114602.295199",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LKCgD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm available to meet!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e0539e50-71bd-40a2-93e5-724fb17b3e12",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Or we can hold off until tomorrow around interviews if it's more convenient. I know our times might be all over the place",
+    "ts": "1703114664.655159",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sByu3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Or we can hold off until tomorrow around interviews if it's more convenient. I know our times might be all over the place"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "30c1f26c-2437-4d10-99da-515575e0e1a9",
+    "type": "message",
+    "user": "U057WAMKE5N",
+    "text": "Okay. It's up to you guys then. I'm available. I've been trying to do some interview prep today but got a pretty bad headache.",
+    "ts": "1703115241.764389",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wzRNB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay. It's up to you guys then. I'm available. I've been trying to do some interview prep today but got a pretty bad headache."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-02/5974241825878_10f39045877522f5f85e_72.jpg",
+      "first_name": "Casey",
+      "real_name": "Casey Roeske",
+      "display_name": "Casey Roeske (She/Her)",
+      "team": "T050CSX3EMT",
+      "name": "caseyroeske22",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ed76609a-50b2-4e7d-b7b7-98efb89c8fa3",
+    "type": "message",
+    "user": "U056YD04Q30",
+    "text": "Hi can we hold off till interview pls even i too got serve headache. Is that works for everyone?",
+    "ts": "1703115413.326039",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MfsY6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi can we hold off till interview pls even i too got serve headache. Is that works for everyone?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240107488693_9bf114e71863cebbf28e_72.jpg",
+      "first_name": "Sukanya",
+      "real_name": "Sukanya Shanmugam",
+      "display_name": "Sukanya Venkatesh",
+      "team": "T050CSX3EMT",
+      "name": "sukanya.s1793",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ccfa777c-0655-47dd-8398-9d6e3c3b3af2",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "They're the worst! Take care and we'll connect tomorrow",
+    "ts": "1703115568.887399",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U056YD04Q30",
+          "U057WAMKE5N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1CIwW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "They're the worst! Take care and we'll connect tomorrow"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "client_msg_id": "89AAC0D8-FDB5-4469-9D6D-4698403E78FA",
+    "type": "message",
+    "user": "U057J8HJZMF",
+    "text": "IT guy at work recommends: \u003chttps://outintech.com/|https://outintech.com/\u003e",
+    "ts": "1701560078.508659",
+    "attachments": [
+      {
+        "fallback": "Out In Tech",
+        "id": 1,
+        "title": "Out In Tech",
+        "title_link": "https://outintech.com/",
+        "text": "Visit the post for more.",
+        "thumb_url": "https://s0.wp.com/i/blank.jpg",
+        "service_name": "outintech.com",
+        "service_icon": "https://149826506.v2.pressablecdn.com/wp-content/uploads/2019/12/favicon.png",
+        "from_url": "https://outintech.com/",
+        "original_url": "https://outintech.com/",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B+cEl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "IT guy at work recommends: "
+              },
+              {
+                "type": "link",
+                "url": "https://outintech.com/",
+                "text": "https://outintech.com/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5240709602357_6b02a0957523bb9ba08f_72.jpg",
+      "first_name": "Nikolai",
+      "real_name": "Nikolai Ptukhin",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "nikolaiptukhin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

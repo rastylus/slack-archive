@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "f48ff8b7-e3f5-4b42-91ff-dc3b34ed978b",
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "Meeting is up again",
+    "ts": "1698715756.799059",
+    "thread_ts": "1698715756.799059",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U059D0BNJ1G",
+        "ts": "1698715862.229679"
+      }
+    ],
+    "latest_reply": "1698715862.229679",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GAzbF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Meeting is up again"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U059D0BNJ1G"
+    ]
+  },
+  {
+    "client_msg_id": "a5477fd8-b070-456c-9a5d-6a63956638e1",
+    "type": "message",
+    "user": "U059D0BNJ1G",
+    "text": "is all good thanks.",
+    "ts": "1698715862.229679",
+    "thread_ts": "1698715756.799059",
+    "parent_user_id": "U056FFMNKJL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BQkA2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "is all good thanks."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-24/5316533015413_e26702333ab28353f335_72.jpg",
+      "first_name": "Jose",
+      "real_name": "Jose Hernandez.",
+      "display_name": "TA - Jose Hernandez",
+      "team": "T050CSX3EMT",
+      "name": "jose_ghj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

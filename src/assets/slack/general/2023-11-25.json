@@ -1,0 +1,160 @@
+[
+  {
+    "client_msg_id": "9f27a294-0e28-4799-a6ac-0194826b94e7",
+    "type": "message",
+    "user": "U0579FH20LU",
+    "text": "Does anyone know how to fork a single branch from a repository? Every time I fork a repository I only get the main branch, but I am trying to get a specific branch. If anyone could help that would be much appreciated!",
+    "ts": "1700873318.982719",
+    "thread_ts": "1700873318.982719",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056FFR2KJ4",
+        "ts": "1700873353.554929"
+      },
+      {
+        "user": "U0579FH20LU",
+        "ts": "1700873616.974409"
+      }
+    ],
+    "latest_reply": "1700873616.974409",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RSqJy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Does anyone know how to fork a single branch from a repository? Every time I fork a repository I only get the main branch, but I am trying to get a specific branch. If anyone could help that would be much appreciated!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230511527527_1227d257a3d21cdc9187_72.webp",
+      "first_name": "Romeo",
+      "real_name": "Romeo Hultquist",
+      "display_name": "Romeo Hultquist",
+      "team": "T050CSX3EMT",
+      "name": "romeoquist",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056FFR2KJ4",
+      "U0579FH20LU"
+    ]
+  },
+  {
+    "client_msg_id": "0E0F4122-4B72-4B1B-AE8A-5D8783847285",
+    "type": "message",
+    "user": "U056FFR2KJ4",
+    "text": "You then switch the branch in intelij ",
+    "ts": "1700873353.554929",
+    "thread_ts": "1700873318.982719",
+    "parent_user_id": "U0579FH20LU",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GiTXO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You then switch the branch in intelij "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5219535207040_bd2448d9a5bf3331f15d_72.png",
+      "first_name": "Fred",
+      "real_name": "Fred Hodgman",
+      "display_name": "TA Fred",
+      "team": "T050CSX3EMT",
+      "name": "fredhodgman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b0d09fdf-39a6-43c1-b825-90d4f4522f40",
+    "type": "message",
+    "user": "U0579FH20LU",
+    "text": "Thank you",
+    "ts": "1700873616.974409",
+    "thread_ts": "1700873318.982719",
+    "parent_user_id": "U0579FH20LU",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ztrU8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230511527527_1227d257a3d21cdc9187_72.webp",
+      "first_name": "Romeo",
+      "real_name": "Romeo Hultquist",
+      "display_name": "Romeo Hultquist",
+      "team": "T050CSX3EMT",
+      "name": "romeoquist",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

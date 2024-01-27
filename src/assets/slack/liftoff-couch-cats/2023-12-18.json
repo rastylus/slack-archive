@@ -1,0 +1,608 @@
+[
+  {
+    "client_msg_id": "2ec4f8af-0f96-48ec-91b6-3c1b440763d3",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U057C75RYBB\u003e I never closed the loop on this but I did merge this yesterday",
+    "ts": "1702919064.344659",
+    "thread_ts": "1702767631.084299",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eaBBp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057C75RYBB"
+              },
+              {
+                "type": "text",
+                "text": " I never closed the loop on this but I did merge this yesterday"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8ce2b6da-4418-4c33-89b5-0bd7bc73a026",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Hey team, I am looking into Security Options, and while I haven't made a definitive decision, *I am currently leaning toward Spring Security for authentication and authorization with JWTs and NOT using Auth0* -- the main reason is that I believe this would largely keep our current structure in place without a lot of rework/refactoring required.\n\nFor context, here is what I understand about Auth0 as of right now/what is still a bit unclear:\n• It gives you and out of the box user login and registration forms so it is my understanding that front end would no longer handle the logic for the forms so that would mean refactoring work Merve already did\n• and it seems that it would require some rework to figure out how to apply custom CSS/styling to the forms which would replace what we currently have\n• I do not understand how it would work with our database yet \u003c@U056Y707Y14\u003e - it’s unclear to me if we still store users in the MySQL database or if they are stored within Auth0; If the latter, I’m not sure how we’d associate a watchlist to a user; Which again, could mean rework for us. \n• I am unclear about paid vs. unpaid or free options and what you get with them so need to research that more, too\n• It does give us the ability to also add on signing up via other services like through your Google or GitHub account which might be a cool feature to have but not really necessary for MVP\nI want to keep doing some research to see if I can uncover some of these unknowns so we can make a more informed final decision but wanted to provide a quick update so you know where I am at on this.",
+    "ts": "1702919596.205139",
+    "thread_ts": "1702919596.205139",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U056Y707Y14",
+        "ts": "1702923497.168479"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702924843.478369"
+      },
+      {
+        "user": "U0578M93BPE",
+        "ts": "1702932974.319149"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702934987.499809"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702935041.259759"
+      }
+    ],
+    "latest_reply": "1702935041.259759",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056Y707Y14"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sO9hw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey team, I am looking into Security Options, and while I haven't made a definitive decision,"
+              },
+              {
+                "type": "text",
+                "text": " I am currently leaning toward Spring Security for authentication and authorization with JWTs and NOT using Auth0",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " -- the main reason is that I believe this would largely keep our current structure in place without a lot of rework/refactoring required.\n\nFor context, here is what I understand about Auth0 as of right now/what is still a bit unclear:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"It gives you and out of the box user login and registration forms so it is my understanding that front end would no longer handle the logic for the forms so that would mean refactoring work Merve already did\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"and it seems that it would require some rework to figure out how to apply custom CSS\\/styling to the forms which would replace what we currently have\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"I do not understand how it would work with our database yet \"},{\"type\":\"user\",\"user_id\":\"U056Y707Y14\"},{\"type\":\"text\",\"text\":\" - it\\u2019s unclear to me if we still store users in the MySQL database or if they are stored within Auth0; If the latter, I\\u2019m not sure how we\\u2019d associate a watchlist to a user; Which again, could mean rework for us. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"I am unclear about paid vs. unpaid or free options and what you get with them so need to research that more, too\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"It does give us the ability to also add on signing up via other services like through your Google or GitHub account which might be a cool feature to have but not really necessary for MVP\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nI want to keep doing some research to see if I can uncover some of these unknowns so we can make a more informed final decision but wanted to provide a quick update so you know where I am at on this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056Q9W022K",
+      "U056Y707Y14",
+      "U0578M93BPE"
+    ]
+  },
+  {
+    "client_msg_id": "fd58df86-98d3-4094-8491-685fcd698823",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U057C75RYBB\u003e super curious if this worked or if this is still a blocker/something you are trying to figure out.",
+    "ts": "1702922451.867599",
+    "thread_ts": "1702615379.601149",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IIdmg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057C75RYBB"
+              },
+              {
+                "type": "text",
+                "text": " super curious if this worked or if this is still a blocker/something you are trying to figure out."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4FB58957-45C9-4913-9F61-5CCF9364F882",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "Spring Security definitely sounds like a good call from what you’ve said here!",
+    "ts": "1702923497.168479",
+    "thread_ts": "1702919596.205139",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uPviM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Spring Security definitely sounds like a good call from what "
+              },
+              {
+                "type": "text",
+                "text": "you’ve"
+              },
+              {
+                "type": "text",
+                "text": " said here!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b57d9da2-1a62-49c3-81da-c2713b6ab529",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "So what I've gathered is there are two key components to security that we will put in place:  *Authorization and authentication.* \n• authentication is the process of verifying who a user is\n• authorization is the process of verifying what they have access to (files, data, pages)\nAnd it seems, regardless, we'll use Spring Security and Auth0 is based on that from an *authorization* perspective (you have to put it in place even to use Auth0), but seems like maybe there are some pluses that Auth0 also provides in addition (that part is still unclear to me). And then offers additional functionality from an *authentication*  standpoint too, like authenticating someone to someone via a different service like Gmail.\n\nI found a series of videos to watch that I think will give me a much clearer picture and I can recap what I find in the next day or two!",
+    "ts": "1702924843.478369",
+    "thread_ts": "1702919596.205139",
+    "edited": {
+      "user": "U056Q9W022K",
+      "ts": "1702924873.000000"
+    },
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1wQkX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "So what I've gathered is there are two key components to security that we will put in place: "
+              },
+              {
+                "type": "text",
+                "text": " Authorization and authentication. ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"authentication is the process of verifying who a user is\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"authorization is the process of verifying what they have access to (files, data, pages)\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nAnd it seems, regardless, we'll use Spring Security and Auth0 is based on that from an "
+              },
+              {
+                "type": "text",
+                "text": "authorization ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "perspective (you have to put it in place even to use Auth0), but seems like maybe there are some pluses that Auth0 also provides in addition (that part is still unclear to me). And then offers additional functionality from an "
+              },
+              {
+                "type": "text",
+                "text": "authentication ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " standpoint too, like authenticating someone to someone via a different service like Gmail.\n\nI found a series of videos to watch that I think will give me a much clearer picture and I can recap what I find in the next day or two!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "030C9594-A691-4A96-93E6-AF948C8E5E3F",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Yep! All my search issues have been resolved.",
+    "ts": "1702931345.204929",
+    "thread_ts": "1702615379.601149",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZOK6W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yep! All my search issues have been resolved."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8ff74169-6a7e-4b49-82de-c406027a8a94",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "I think, it will be much easier to use the JWT as a security option, otherwise we need to find a way how to configure  the Auth0 login page.\nMost probably we need to disable the Auth0 login page from backend  and configure manually the authorization via our login page with a bearer token.",
+    "ts": "1702932974.319149",
+    "thread_ts": "1702919596.205139",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fOg9Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think, it will be much easier to use the JWT as a security option, otherwise we need to find a way how to configure  the Auth0 login page.\nMost probably we need to disable the Auth0 login page from backend  and configure manually the authorization via our login page with a bearer token."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3ba5517a-57d9-429c-92e4-3c7faf8120f8",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "yep, that is what I was thinking, too.",
+    "ts": "1702934987.499809",
+    "thread_ts": "1702919596.205139",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YlBf1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yep, that is what I was thinking, too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9e5b7a04-eb7e-4ac8-8107-b62f2dc36489",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I just wanted to make sure I had the full picture. But my plan is JWT unless something becomes clear we wouldn't have to do all of that!",
+    "ts": "1702935041.259759",
+    "thread_ts": "1702919596.205139",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tPPLc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just wanted to make sure I had the full picture. But my plan is JWT unless something becomes clear we wouldn't have to do all of that!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "22c68289-73de-4f26-9a2e-4e2c8dd84769",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "woo who! I mainly asked because one thing they might ask us tonight is about our blockers and wasn't sure if this was still one. Glad to hear it's working!",
+    "ts": "1702935076.177549",
+    "thread_ts": "1702615379.601149",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LZ1aw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "woo who! I mainly asked because one thing they might ask us tonight is about our blockers and wasn't sure if this was still one. Glad to hear it's working!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

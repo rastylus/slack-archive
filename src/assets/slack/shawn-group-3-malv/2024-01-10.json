@@ -1,0 +1,48 @@
+[
+  {
+    "client_msg_id": "73c02401-22c6-40c4-93ae-0bc675bd3409",
+    "type": "message",
+    "user": "U056YAQ412S",
+    "text": "OK, is there any reason to keep timezone in?  If not I'm taking it out- it is causing problems and could be developed after the project is completed if someone wanted to. I think we are pretty close to an mvp, made a bunch of corrections and very close to running.",
+    "ts": "1704923334.233859",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NH03T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "OK, is there any reason to keep timezone in?  If not I'm taking it out- it is causing problems and could be developed after the project is completed if someone wanted to. I think we are pretty close to an mvp, made a bunch of corrections and very close to running."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228432964807_071cc8b5e96dd5d1765c_72.png",
+      "first_name": "Lori",
+      "real_name": "Lori Kovarik",
+      "display_name": "Lori",
+      "team": "T050CSX3EMT",
+      "name": "kovarik.lori",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

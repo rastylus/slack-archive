@@ -1,0 +1,163 @@
+[
+  {
+    "client_msg_id": "a9ab6027-f6ed-4af5-bb99-5b168994ae64",
+    "type": "message",
+    "user": "U0574JUHBNH",
+    "text": "also, have yall been using the Trello app?",
+    "ts": "1702478714.066139",
+    "thread_ts": "1702478714.066139",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0574FFA3L5",
+        "ts": "1702479873.905939"
+      }
+    ],
+    "latest_reply": "1702479873.905939",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zkfUg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "also, have yall been using the Trello app?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-01/6280497472354_b5d2d071c7d0de3339f3_72.png",
+      "first_name": "Leonard",
+      "real_name": "Leonard Stewart, Jr.",
+      "display_name": "Leonard Stewart, Jr.",
+      "team": "T050CSX3EMT",
+      "name": "leonardjr06",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0574FFA3L5"
+    ]
+  },
+  {
+    "client_msg_id": "de86dc5f-1acb-455c-8d3d-21f63a3fe40c",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "I haven't",
+    "ts": "1702479873.905939",
+    "thread_ts": "1702478714.066139",
+    "parent_user_id": "U0574JUHBNH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KTD/G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I haven't"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "634cc46b-32ac-419e-9cba-13684d862709",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "I updated main. I have the api working. As of right now, it's just a basic search for exercises function. I mapped it to a search button on the homepage. Feel free to mess with how that all works. Figured that was the simplest way to get it all working without having to put in custom url's and all that jazz.",
+    "ts": "1702479964.731679",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U0574JUHBNH",
+          "U056YG34CS2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lhibl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I updated main. I have the api working. As of right now, it's just a basic search for exercises function. I mapped it to a search button on the homepage. Feel free to mess with how that all works. Figured that was the simplest way to get it all working without having to put in custom url's and all that jazz."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

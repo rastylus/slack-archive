@@ -1,0 +1,117 @@
+[
+  {
+    "client_msg_id": "73350e39-6c73-465e-b6d6-9d615f87079d",
+    "type": "message",
+    "user": "U055N4UL5DL",
+    "text": "How did you all feel about the interviews?",
+    "ts": "1703213625.272359",
+    "thread_ts": "1703213625.272359",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U057A523Z6H",
+        "ts": "1703288682.066589"
+      },
+      {
+        "user": "U0574K7SCF5",
+        "ts": "1703391675.227579"
+      },
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1703464678.519689"
+      }
+    ],
+    "latest_reply": "1703464678.519689",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GaRaC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How did you all feel about the interviews?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/dd31a4a84b06d66fa9479b2b404ce2e7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+      "first_name": "TA",
+      "real_name": "TA Shawn (He/His)",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "scooter4356",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U0574K7SCF5",
+      "U0575DF8MA6",
+      "U057A523Z6H"
+    ]
+  },
+  {
+    "client_msg_id": "e89b058d-82de-4a51-9d14-cc2051c4ae29",
+    "type": "message",
+    "user": "U057A523Z6H",
+    "text": "good, I think...",
+    "ts": "1703288682.066589",
+    "thread_ts": "1703213625.272359",
+    "parent_user_id": "U055N4UL5DL",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xnj4s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "good, I think..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5274810745504_2bf9de0981074763978d_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Robinson",
+      "display_name": "Colin Robinson",
+      "team": "T050CSX3EMT",
+      "name": "clnjrobinson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

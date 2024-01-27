@@ -1,0 +1,102 @@
+[
+  {
+    "client_msg_id": "9fd5e21f-a4f2-4d79-8fdc-cbcb66a9dfe0",
+    "type": "message",
+    "user": "U057A8JEJAG",
+    "text": "so i did the merge from main and now none of my stuff is loading... how do i get it to recognize me as logged in? cause it's blocking even my get requests to display even the home page",
+    "ts": "1705374518.893389",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VZhsW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so i did the merge from main and now none of my stuff is loading... how do i get it to recognize me as logged in? cause it's blocking even my get requests to display even the home page"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269495337120_481baecdd1c0c2c501ec_72.png",
+      "first_name": "Chad",
+      "real_name": "Chad Harper",
+      "display_name": "Chad Harper",
+      "team": "T050CSX3EMT",
+      "name": "chadharper811",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "09D571DA-92FF-44F2-B378-8CF4FFDFE34A",
+    "type": "message",
+    "user": "U05794241U4",
+    "text": "My last push has the authentication commented out…, try commented all the authentication part",
+    "ts": "1705374660.983619",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "URtSK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My last push has the authentication commented out"
+              },
+              {
+                "type": "text",
+                "text": "…"
+              },
+              {
+                "type": "text",
+                "text": ", try commented all the authentication part"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230158607095_79d4833f75e0a0c06d85_72.jpg",
+      "first_name": "ronaldgutierrezj",
+      "real_name": "ronaldgutierrezj",
+      "display_name": "Ronald Gutierrez",
+      "team": "T050CSX3EMT",
+      "name": "ronaldgutierrezj",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

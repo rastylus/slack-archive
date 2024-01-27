@@ -1,0 +1,57 @@
+[
+  {
+    "client_msg_id": "c91635dc-2f58-4cbc-ac22-058e3a35613f",
+    "type": "message",
+    "user": "U057HFYT7B3",
+    "text": "Hey guys. Was able to get the connection between the api and database to work. Should be able to add books into the database now. Put up a pull request for those changes on github.",
+    "ts": "1703129153.095369",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U05794241U4"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kJsJm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys. Was able to get the connection between the api and database to work. Should be able to add books into the database now. Put up a pull request for those changes on github."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/7b50144ab2b43edd5307cd9670782471.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Martin",
+      "real_name": "Martin Yap",
+      "display_name": "Martin Yap",
+      "team": "T050CSX3EMT",
+      "name": "myap4133",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

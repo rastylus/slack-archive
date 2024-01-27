@@ -1,0 +1,76 @@
+[
+  {
+    "client_msg_id": "26d088fd-c817-4047-999f-1233b88fe71a",
+    "type": "message",
+    "user": "U057C70P9TK",
+    "text": "i don't think i received one either.",
+    "ts": "1701042320.771369",
+    "thread_ts": "1701042320.771369",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U057UQR6VDW",
+        "ts": "1701111124.955249"
+      },
+      {
+        "user": "U057C70P9TK",
+        "ts": "1701111347.019469"
+      },
+      {
+        "user": "U057UQR6VDW",
+        "ts": "1701111400.815549"
+      },
+      {
+        "user": "U057C70P9TK",
+        "ts": "1701111709.736239"
+      },
+      {
+        "user": "U057UQR6VDW",
+        "ts": "1701111725.880009"
+      }
+    ],
+    "latest_reply": "1701111725.880009",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0IjN1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i don't think i received one either."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5262164183696_ef67fc8e7b8c24210b0b_72.jpg",
+      "first_name": "Joshua",
+      "real_name": "Joshua Allen",
+      "display_name": "Joshua Allen (KCMO)",
+      "team": "T050CSX3EMT",
+      "name": "allenjosh1983",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U057C70P9TK",
+      "U057UQR6VDW"
+    ]
+  }
+]

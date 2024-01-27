@@ -1,0 +1,59 @@
+[
+  {
+    "client_msg_id": "a2a230ae-c4e6-47be-907d-3db3ff5760e3",
+    "type": "message",
+    "user": "U057EEC9J23",
+    "text": "Can we have a discussion before we merge",
+    "ts": "1704233430.646599",
+    "thread_ts": "1704233430.646599",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056YAQ412S",
+        "ts": "1704337362.802169"
+      }
+    ],
+    "latest_reply": "1704337362.802169",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XJwq2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can we have a discussion before we merge"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5252488423895_5337f292839c33bb0b36_72.png",
+      "first_name": "Vinitha",
+      "real_name": "Vinitha Kamesh",
+      "display_name": "Vinitha Kamesh",
+      "team": "T050CSX3EMT",
+      "name": "vinivinitha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056YAQ412S"
+    ]
+  }
+]

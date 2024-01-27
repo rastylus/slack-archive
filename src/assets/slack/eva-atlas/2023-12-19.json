@@ -1,0 +1,249 @@
+[
+  {
+    "client_msg_id": "53f3d138-2bc9-4913-896d-26ad1b6fcbaa",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "\u003chttps://www.youtube.com/watch?v=B5tcZoNyqGI\u003e",
+    "ts": "1702950830.354769",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: Use React and Spring Boot to Build a Simple CRUD App",
+        "id": 1,
+        "author_name": "OktaDev",
+        "author_link": "https://www.youtube.com/@OktaDev",
+        "title": "Use React and Spring Boot to Build a Simple CRUD App",
+        "title_link": "https://www.youtube.com/watch?v=B5tcZoNyqGI",
+        "thumb_url": "https://i.ytimg.com/vi/B5tcZoNyqGI/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://www.youtube.com/watch?v=B5tcZoNyqGI",
+        "original_url": "https://www.youtube.com/watch?v=B5tcZoNyqGI",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nDcwl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=B5tcZoNyqGI",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "25acf266-6403-4d21-82bb-dfbb6cbe942d",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "Good resource for building a CRUD app that uses Spring and React.",
+    "ts": "1702950849.878399",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fZzEe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good resource for building a CRUD app that uses Spring and React."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d140ac92-e93f-4985-831d-beb1c737bbd6",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "\u003chttps://stackoverflow.com/questions/11582894/how-do-i-merge-another-developers-branch-into-mine\u003e",
+    "ts": "1702951183.564399",
+    "attachments": [
+      {
+        "fallback": "Stack Overflow: How do I merge another developer's branch into mine?",
+        "id": 1,
+        "title": "How do I merge another developer's branch into mine?",
+        "title_link": "https://stackoverflow.com/questions/11582894/how-do-i-merge-another-developers-branch-into-mine",
+        "text": "I am relatively new to git. Our organization uses a Fork \u0026amp; Pull Model for managing changes to the master branch. Each developer forks the master and branches from their fork when adding new fea...",
+        "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+        "service_name": "Stack Overflow",
+        "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+        "from_url": "https://stackoverflow.com/questions/11582894/how-do-i-merge-another-developers-branch-into-mine",
+        "original_url": "https://stackoverflow.com/questions/11582894/how-do-i-merge-another-developers-branch-into-mine",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aVVQ1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://stackoverflow.com/questions/11582894/how-do-i-merge-another-developers-branch-into-mine",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c7cbdb1d-570a-4a8a-bef0-531fc63f2312",
+    "type": "message",
+    "user": "U057MA0AHEG",
+    "text": "\u003c@U057UGWMN48\u003e \u003c@U0576LJR97D\u003e \u003c@U0574U0BKQA\u003e Slight hiccup in a couple models from last night. I went to create a stop and got en error about not having the default constructor. The Stop, PasswordResetToken, StopTag, Tag, TagGroup, UserGroup, UserImage, UserReview, and UserTourFavorites classes did not have them based on our repo. Just thought I would give you guys a heads up.",
+    "ts": "1702998833.155079",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U0574U0BKQA",
+          "U057UGWMN48"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Uwrgt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057UGWMN48"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0576LJR97D"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U0574U0BKQA"
+              },
+              {
+                "type": "text",
+                "text": " Slight hiccup in a couple models from last night. I went to create a stop and got en error about not having the default constructor. The Stop, PasswordResetToken, StopTag, Tag, TagGroup, UserGroup, UserImage, UserReview, and UserTourFavorites classes did not have them based on our repo. Just thought I would give you guys a heads up."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-27/6242162479687_44dd2d5e36bd40c0114e_72.jpg",
+      "first_name": "Landon",
+      "real_name": "Landon Hedrick",
+      "display_name": "Landon Hedrick",
+      "team": "T050CSX3EMT",
+      "name": "landon.hedrick05",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "client_msg_id": "aebda50b-5737-45f9-ac42-9132e4abbf44",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "I think this makes sense.",
+    "ts": "1701826056.531989",
+    "thread_ts": "1701805008.463649",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057C70KL57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "upbNo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think this makes sense."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f0302e20-c385-4cbe-9920-fdc06820686d",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "Hey all! Here's a quick Database Design sketch I put together. This is definitely flexible, so if anyone has thoughts or concerns, feel free to share!\n\u003chttps://docs.google.com/document/d/1SNXR9vNKomvhUY2eytid984ECXdonyx7P1MyHtrmSnE/edit\u003e",
+    "ts": "1701827720.430189",
+    "thread_ts": "1701827720.430189",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1701881907.641279"
+      },
+      {
+        "user": "U057SCV767K",
+        "ts": "1701895507.125119"
+      }
+    ],
+    "latest_reply": "1701895507.125119",
+    "files": [
+      {
+        "id": "F0696PMBJ8Z",
+        "created": 1701827738,
+        "timestamp": 1701827738,
+        "name": "Database Design-Liftoff Project ",
+        "title": "Database Design-Liftoff Project",
+        "mimetype": "application/vnd.google-apps.document",
+        "image_exif_rotation": 0,
+        "filetype": "gdoc",
+        "pretty_type": "G Suite Document",
+        "user": "U056WKE4W77",
+        "mode": "external",
+        "editable": false,
+        "is_external": true,
+        "external_type": "gdrive",
+        "size": 56023,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://docs.google.com/document/d/1SNXR9vNKomvhUY2eytid984ECXdonyx7P1MyHtrmSnE/edit",
+        "url_private_download": "",
+        "original_h": 1035,
+        "original_w": 800,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F0696PMBJ8Z-9e5d0025fe/database_design-liftoff_project__64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F0696PMBJ8Z-9e5d0025fe/database_design-liftoff_project__80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F0696PMBJ8Z-9e5d0025fe/database_design-liftoff_project__160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F0696PMBJ8Z-9e5d0025fe/database_design-liftoff_project__360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 278,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F0696PMBJ8Z-9e5d0025fe/database_design-liftoff_project__480.png",
+        "thumb_480_w": 371,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F0696PMBJ8Z-9e5d0025fe/database_design-liftoff_project__720.png",
+        "thumb_720_w": 557,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F0696PMBJ8Z-9e5d0025fe/database_design-liftoff_project__960.png",
+        "thumb_960_w": 742,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F0696PMBJ8Z-9e5d0025fe/database_design-liftoff_project__1024.png",
+        "thumb_1024_w": 791,
+        "thumb_1024_h": 1024,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056WKE4W77/F0696PMBJ8Z/database_design-liftoff_project_",
+        "permalink_public": "",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0571CCLKDL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x3vdz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all! Here's a quick Database Design sketch I put together. This is definitely flexible, so if anyone has thoughts or concerns, feel free to share!\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1SNXR9vNKomvhUY2eytid984ECXdonyx7P1MyHtrmSnE/edit",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U0571CCLKDL",
+      "U057SCV767K"
+    ]
+  },
+  {
+    "client_msg_id": "C18771C7-0C7D-49F0-ACAC-5EF991838D5D",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "Thank you Ryan. I’ll take a look tomorrow.",
+    "ts": "1701830676.325649",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056WKE4W77"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xs69R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you Ryan"
+              },
+              {
+                "type": "text",
+                "text": "."
+              },
+              {
+                "type": "text",
+                "text": " I’ll take a look tomorrow"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "66d5645d-4800-403c-8e4e-713151dcab8f",
+    "type": "message",
+    "user": "U056WKE4W77",
+    "text": "Also seeing a couple different working titles for the project in a couple different places. Want to take a quick poll? Maybe :one: for \"Build-a-Brew\" or :two: for \"Build-a-Beer\"\nObviously, we could always change this, but the idea really strikes me as a winner. Good idea, Marleny!",
+    "ts": "1701831111.589579",
+    "thread_ts": "1701831111.589579",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057SCV767K",
+        "ts": "1701895540.193709"
+      },
+      {
+        "user": "U0571CCLKDL",
+        "ts": "1701908668.411379"
+      }
+    ],
+    "latest_reply": "1701908668.411379",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "two",
+        "count": 2,
+        "users": [
+          "U056WKE4W77",
+          "U057C70KL57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rrvMa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also seeing a couple different working titles for the project in a couple different places. Want to take a quick poll? Maybe "
+              },
+              {
+                "type": "emoji",
+                "name": "one",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " for \"Build-a-Brew\" or "
+              },
+              {
+                "type": "emoji",
+                "name": "two",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " for \"Build-a-Beer\"\nObviously, we could always change this, but the idea really strikes me as a winner. Good idea, Marleny!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2706015c0edd4b1d3bf53c761d8b646b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Coyle",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "rjcoyle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U0571CCLKDL",
+      "U057SCV767K"
+    ]
+  },
+  {
+    "client_msg_id": "CE2738B5-9EA9-4C77-AEA1-FFC07C0F86F1",
+    "type": "message",
+    "user": "U0571CCLKDL",
+    "text": "looks great to me!",
+    "ts": "1701881907.641279",
+    "thread_ts": "1701827720.430189",
+    "parent_user_id": "U056WKE4W77",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "y6eAN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "looks great to me!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5269724460752_0c74359ca3290cb56d02_72.png",
+      "first_name": "Drew",
+      "real_name": "Drew Goga",
+      "display_name": "Drew Goga",
+      "team": "T050CSX3EMT",
+      "name": "d.b.goga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ed5961a2-bb0d-4557-a138-f5fe7ce2f135",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "this looks good thus far. thank you",
+    "ts": "1701895507.125119",
+    "thread_ts": "1701827720.430189",
+    "parent_user_id": "U056WKE4W77",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z419w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this looks good thus far. thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9bf1e117-f787-45ae-a930-56b8aae83255",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "I vote \"Build-a-Beer\"",
+    "ts": "1701895540.193709",
+    "thread_ts": "1701831111.589579",
+    "parent_user_id": "U056WKE4W77",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3eeV9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I vote \"Build-a-Beer\""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7efbd3d1-4b0c-4fc1-8787-85a5a6ff3136",
+    "type": "message",
+    "user": "U057SCV767K",
+    "text": "I am on board",
+    "ts": "1701895624.256899",
+    "thread_ts": "1701805008.463649",
+    "parent_user_id": "U057C70KL57",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ocDmS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I am on board"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-09-06/5859517732019_dff68437f06ec5d68402_72.png",
+      "first_name": "Suburwa",
+      "real_name": "Suburwa King (Philly)",
+      "display_name": "Suburwa King",
+      "team": "T050CSX3EMT",
+      "name": "smarshall84",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

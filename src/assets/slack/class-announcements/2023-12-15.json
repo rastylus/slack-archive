@@ -1,0 +1,115 @@
+[
+  {
+    "client_msg_id": "5cb662b2-7c05-42e4-a9ec-eb5275cea096",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U050FMK1S83\u003e I was trying to find the recording for this first lecture and don't see it, can you link it? I see recordings starting with technical lecture 1 on the 27th.\n\nand the deck actually, too.",
+    "ts": "1702604585.353059",
+    "thread_ts": "1700506628.293939",
+    "edited": {
+      "user": "U056Q9W022K",
+      "ts": "1702604667.000000"
+    },
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rb0aI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U050FMK1S83"
+              },
+              {
+                "type": "text",
+                "text": " I was trying to find the recording for this first lecture and don't see it, can you link it? I see recordings starting with technical lecture 1 on the 27th.\n\nand the deck actually, too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "978c5cba-4165-48a7-9197-acc0af06e274",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "Hi Erin...I have actually been looking for it as well. I'll get back to you on the recording but I'll make sure and get the slides posted in the LiftOff channel.",
+    "ts": "1702655104.082329",
+    "thread_ts": "1700506628.293939",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056Q9W022K"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1Zx5J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Erin...I have actually been looking for it as well. I'll get back to you on the recording but I'll make sure and get the slides posted in the LiftOff channel."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

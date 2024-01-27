@@ -1,0 +1,64 @@
+[
+  {
+    "client_msg_id": "8b90d55e-0837-4458-9a67-f9ca0743a84e",
+    "type": "message",
+    "user": "U057HGZ7W8Z",
+    "text": "Finding lecture really helpful tonight!",
+    "ts": "1704411641.359199",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "blue_heart",
+        "count": 1,
+        "users": [
+          "U0625KF6RLH"
+        ]
+      },
+      {
+        "name": "100",
+        "count": 1,
+        "users": [
+          "U05777MT72P"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "c0UAc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Finding lecture really helpful tonight!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5286778494098_17813e610730af382f33_72.jpg",
+      "first_name": "Madeline",
+      "real_name": "Madeline Wetta",
+      "display_name": "Mad (KC)",
+      "team": "T050CSX3EMT",
+      "name": "moon.madeline",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

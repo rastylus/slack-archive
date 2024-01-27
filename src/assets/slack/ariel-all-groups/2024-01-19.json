@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "24d3c406-f583-4d58-946e-666f17c35efb",
+    "type": "message",
+    "user": "U057046DWH5",
+    "text": "Is there an attendance code for tonight?",
+    "ts": "1705622971.210959",
+    "thread_ts": "1705622971.210959",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U055RLVGECB",
+        "ts": "1705626067.542189"
+      }
+    ],
+    "latest_reply": "1705626067.542189",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EZNb0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is there an attendance code for tonight?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/4cad99f28e807bf78eddb6e6f142057c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Jacob",
+      "real_name": "Jacob Weiler",
+      "display_name": "Jacob Weiler",
+      "team": "T050CSX3EMT",
+      "name": "jweiler94",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U055RLVGECB"
+    ]
+  },
+  {
+    "client_msg_id": "4878a2a0-5ceb-422a-9bce-3c7441c284f3",
+    "type": "message",
+    "user": "U055RLVGECB",
+    "text": "message me",
+    "ts": "1705626067.542189",
+    "thread_ts": "1705622971.210959",
+    "parent_user_id": "U057046DWH5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6hZH3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "message me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5199690404373_f5b2dee4a67558ffd533_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Mitchell",
+      "display_name": "TA - Ariel (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "ariel.l.makowski",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "client_msg_id": "4A81E60C-5DDA-4E00-8E68-C62895AE9738",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I had to wait for gradle to rebuild and then it worked. \n\nI forced it by committing w errors and then closing IntelliJ and reopening the file. ",
+    "ts": "1701651047.676119",
+    "thread_ts": "1701642871.306109",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DAs6s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I had to wait for gradle to rebuild and then it worked. \n\nI forced it by committing w errors and then closing IntelliJ and reopening the file. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "64b5f1f4-2cbb-4cc3-83f0-85adcba1b580",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "You should all be admins now. Yumi I added you last week because I had your username from the collaborator list, but let me know if the invite didn't come through.\n\nMerve, I had thought I found you but it seems maybe you have two GitHub accounts so I removed the one I found and added this one.\n\nEric added you!\n\nI have done no other set up yet except get it started.\n\n\u003c@U055S98U8G2\u003e I also added you to the GitHub Project as well FYI.",
+    "ts": "1701715107.430689",
+    "thread_ts": "1701482078.695939",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MFj4C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You should all be admins now. Yumi I added you last week because I had your username from the collaborator list, but let me know if the invite didn't come through.\n\nMerve, I had thought I found you but it seems maybe you have two GitHub accounts so I removed the one I found and added this one.\n\nEric added you!\n\nI have done no other set up yet except get it started.\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U055S98U8G2"
+              },
+              {
+                "type": "text",
+                "text": " I also added you to the GitHub Project as well FYI."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "75C96DF6-8C7E-44FE-B4B6-57ADA5CB99A4",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "Sorry, just checked my email and GitHub and I’m not seeing an invite (this is a separate thing from the repo, right?)",
+    "ts": "1701716656.792279",
+    "thread_ts": "1701482078.695939",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aZM3a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry, just checked my email and GitHub and "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " not seeing an invite (this is a separate thing from the repo, right?)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e294e942-8310-45b2-bc93-bbea70a1b915",
+    "type": "message",
+    "user": "U0578M93BPE",
+    "text": "Thank you Erin",
+    "ts": "1701716723.395959",
+    "thread_ts": "1701482078.695939",
+    "parent_user_id": "U056Q9W022K",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "20b/2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you Erin"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/169418a96e863138a4a4be5bd9cd9bfe.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "Merve",
+      "real_name": "Merve Dogan",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "mervedogan15011989",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,459 @@
+[
+  {
+    "type": "message",
+    "user": "U055RLYGGDR",
+    "text": "\u003c@U055RLYGGDR\u003e has joined the channel",
+    "ts": "1700075190.293049",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181298634727_0020b5616f863c29ba99_72.png",
+      "first_name": "Aaron",
+      "real_name": "Aaron Campf",
+      "display_name": "TA - Aaron Campf",
+      "team": "T050CSX3EMT",
+      "name": "aaroncampf",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U0578C4TKCK",
+    "text": "\u003c@U0578C4TKCK\u003e has joined the channel",
+    "ts": "1700075462.899179",
+    "subtype": "channel_join",
+    "inviter": "U055RLYGGDR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5232007116311_53d7458c44834e167288_72.png",
+      "first_name": "Andrew",
+      "real_name": "Andrew Lanning - KC - he/him",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "lanningsimulation",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U056Q7CPHEK",
+    "text": "\u003c@U056Q7CPHEK\u003e has joined the channel",
+    "ts": "1700075464.004309",
+    "subtype": "channel_join",
+    "inviter": "U055RLYGGDR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5265210036257_918f91c563e4b193586f_72.jpg",
+      "first_name": "Luke",
+      "real_name": "Luke Sperkowski",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "lukesperk",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U0574GXK1A9",
+    "text": "\u003c@U0574GXK1A9\u003e has joined the channel",
+    "ts": "1700075464.079049",
+    "subtype": "channel_join",
+    "inviter": "U055RLYGGDR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-31/5352874414530_e7a209da9cc15e3491b1_72.png",
+      "first_name": "Muhammad",
+      "real_name": "Muhammad Qayyum",
+      "display_name": "Muhammad Qayyum",
+      "team": "T050CSX3EMT",
+      "name": "msqgrewal123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U056WKD5T7X",
+    "text": "\u003c@U056WKD5T7X\u003e has joined the channel",
+    "ts": "1700075464.147439",
+    "subtype": "channel_join",
+    "inviter": "U055RLYGGDR",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5251175800803_24be41d9e7cd641818e6_72.jpg",
+      "first_name": "Chris",
+      "real_name": "Chris Cablish",
+      "display_name": "Chris",
+      "team": "T050CSX3EMT",
+      "name": "chriscablish",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "D5F7EDAB-039F-44C5-9B29-5A6F2A923498",
+    "type": "message",
+    "user": "U0578C4TKCK",
+    "text": "Hey all!",
+    "ts": "1700086133.329989",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "wave",
+        "count": 1,
+        "users": [
+          "U0574GXK1A9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f/9SR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey all!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5232007116311_53d7458c44834e167288_72.png",
+      "first_name": "Andrew",
+      "real_name": "Andrew Lanning - KC - he/him",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "lanningsimulation",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "907DE9B5-1430-457A-A028-64C4AE8657BD",
+    "type": "message",
+    "user": "U0574GXK1A9",
+    "text": "Hello Everyone!",
+    "ts": "1700087088.768949",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZgJ8Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Everyone"
+              },
+              {
+                "type": "text",
+                "text": "!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-31/5352874414530_e7a209da9cc15e3491b1_72.png",
+      "first_name": "Muhammad",
+      "real_name": "Muhammad Qayyum",
+      "display_name": "Muhammad Qayyum",
+      "team": "T050CSX3EMT",
+      "name": "msqgrewal123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e48e2cbc-93ae-477f-a577-3fdddfbeba60",
+    "type": "message",
+    "user": "U055RLYGGDR",
+    "text": "Hello",
+    "ts": "1700089516.360469",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HnjxV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181298634727_0020b5616f863c29ba99_72.png",
+      "first_name": "Aaron",
+      "real_name": "Aaron Campf",
+      "display_name": "TA - Aaron Campf",
+      "team": "T050CSX3EMT",
+      "name": "aaroncampf",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0b4836dd-bfca-4d2c-a94d-95fab1a06d42",
+    "type": "message",
+    "user": "U0574GXK1A9",
+    "text": "\u003c@U055RLYGGDR\u003e I see two different groups on my channels list. Are we suppose to be using this group for communication or the other one? We have this group with four and the other group with about 20 people. I'm kinda confuse on that:smiling_face_with_tear:",
+    "ts": "1700089849.157269",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "egfq4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U055RLYGGDR"
+              },
+              {
+                "type": "text",
+                "text": " I see two different groups on my channels list. Are we suppose to be using this group for communication or the other one? We have this group with four and the other group with about 20 people. I'm kinda confuse on that"
+              },
+              {
+                "type": "emoji",
+                "name": "smiling_face_with_tear",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-31/5352874414530_e7a209da9cc15e3491b1_72.png",
+      "first_name": "Muhammad",
+      "real_name": "Muhammad Qayyum",
+      "display_name": "Muhammad Qayyum",
+      "team": "T050CSX3EMT",
+      "name": "msqgrewal123",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8f8ca799-fbe1-4009-afcc-a5579345fc78",
+    "type": "message",
+    "user": "U055RLYGGDR",
+    "text": "There is the per group one and the everyone under me one",
+    "ts": "1700090366.191309",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1cE0O",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "There is the per group one and the everyone under me one"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181298634727_0020b5616f863c29ba99_72.png",
+      "first_name": "Aaron",
+      "real_name": "Aaron Campf",
+      "display_name": "TA - Aaron Campf",
+      "team": "T050CSX3EMT",
+      "name": "aaroncampf",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7c2a3708-cfaf-489a-a92f-86a2b1466b30",
+    "type": "message",
+    "user": "U055RLYGGDR",
+    "text": "We are all a bit confused, but we will see how things go",
+    "ts": "1700090378.411069",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U0574GXK1A9",
+          "U0578C4TKCK"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9hC8K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We are all a bit confused, but we will see how things go"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5181298634727_0020b5616f863c29ba99_72.png",
+      "first_name": "Aaron",
+      "real_name": "Aaron Campf",
+      "display_name": "TA - Aaron Campf",
+      "team": "T050CSX3EMT",
+      "name": "aaroncampf",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

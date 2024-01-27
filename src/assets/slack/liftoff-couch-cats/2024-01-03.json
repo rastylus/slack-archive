@@ -1,0 +1,101 @@
+[
+  {
+    "client_msg_id": "8850e966-c79e-484f-aed6-2d4da778dcd7",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "Okay team, new pull request is ready for whoever has time to review. In the request I also provided instructions for how to test each of the methods via Postman.\n\n*Here is the link:* \u003chttps://github.com/corypride/couchCats/pull/37|Pull request #37\u003e",
+    "ts": "1704314246.374199",
+    "thread_ts": "1704314246.374199",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "#37 User authentication",
+        "id": 1,
+        "title": "#37 User authentication",
+        "title_link": "https://github.com/corypride/couchCats/pull/37",
+        "text": "Updates include:\n\n• Finished initial authentication, which includes: adding a logout method and changing the sessionId to null when a user logs out, setting that as the Cookie value and passing that via the header when the user is logged out\n• I also refactored my code to include a UserService class to abstract away details from the UserController and simplify that. I also added an HTTPResponseBuilder class that I can call for generating HTTP responses to simplify that within my methods in the UserService class.\n• Lastly, I updated the getUserDetailsById method using a UserDetailsDTO and noted this for Yumi's review as I am suggesting replacing the method she had in progress.\n\nStill to do on authentication feature:\n\n• Implement session expiration\n• secure storage of session IDs\n• authentication filtering and whitelisting public pages\n• and possibly mechanisms for session revocation (bonus)\n\n*To test these updated methods:*  \nRun this locally, and make sure you have a database set up and running as well.\n\n*Testing the registration in Postman:*  \nUse a Post method  \nMake sure headers are set to \"Content-type\" and Key is set to \"application-json\"  \nPost request should be made to: \u003chttp://localhost:8080/user/register|http://localhost:8080/user/register\u003e  \nSample JSON:  \n{  \n\"firstName\": \"name\",  \n\"lastName\": \"name\",  \n\"email\": \"\u003cmailto:something@gmail.com|something@gmail.com\u003e\",  \n\"password\": \"password12!\"  \n}\n\n*Testing user login in Postman*  \nUse a Post method  \nMake sure headers are set to \"Content-type\" and Key is set to \"application-json\"  \nPost request should be made to: \u003chttp://localhost:8080/user/login|http://localhost:8080/user/login\u003e  \nSample JSON: (make sure to use a user in your own database to verify a true case)  \n{  \n\"email\": \"\u003cmailto:emuzug@gmail.com|emuzug@gmail.com\u003e\",  \n\"password\": \"testing31*\"  \n}  \nReview the following:  \nBody - you should get the appropriate HTTP body depending on if the login was successful or failed. It should fail in the following cases:\n\n1. the email does not exist in the database\n2. the email exists but the password you entered is incorrect / doesn't match the password saved for that user  \n    If successful:  \n    Cookie - you should see that a sessionId was created and passed as a Cookie  \n    Header - you should see that Set Cookie has sessionId={a random alpha numeric value}; Path=/; Secure; HttpOnly  \n    You should also see this sessionId as the value in the database\n\n*Testing user logout in Postman*  \nUse a Get method  \nPost request should be made to: \u003chttp://localhost:8080/user/logout|http://localhost:8080/user/logout\u003e  \nFor this, you will simply pass the Cookie as the key and sessionId as the value via the header - so use the sessionId from the login you completed, and under \"headers\" set the Key as Cookie and the Value as: sessionId={the sessionId you received from the login Post method for this user}  \nYou will receive a Logout Successful and you should now see \"null\" as the value for sessionId in your database.\n\n*Testing get user details Postman*  \nTo test getting user details to ensure you only get the email, first and last name (no password of the user):  \nUse a Get method  \nPost request should be made to: \u003chttp://localhost:8080/user/%7Bid%7D|http://localhost:8080/user/{id}\u003e -- you will have to use an id from a user in your database for this to work  \nThe body should return a JSON that looks like:  \n{  \n\"firstName\": \"name\",  \n\"lastName\": \"name\",  \n\"email\": \"\u003cmailto:something@gmail.com|something@gmail.com\u003e\",  \n}  \n_NOTE: you might see a session ID returned in the header, this is because Postman will automatically pass cookies with requests unless you manage cookies and clear them._",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/corypride/couchCats|corypride/couchCats\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1704314116
+      }
+    ],
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U056Y707Y14",
+        "ts": "1704330351.924699"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704331508.746869"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1704395962.365549"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704397171.382199"
+      }
+    ],
+    "latest_reply": "1704397171.382199",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z1sty",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay team, new pull request is ready for whoever has time to review. In the request I also provided instructions for how to test each of the methods via Postman.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Here is the link: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/corypride/couchCats/pull/37",
+                "text": "Pull request #37"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U056Y707Y14"
+    ]
+  }
+]

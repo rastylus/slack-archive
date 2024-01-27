@@ -1,0 +1,705 @@
+[
+  {
+    "client_msg_id": "fc28f1a5-0499-4d85-857c-dcf991360167",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "I just submitted a pull request for anybody who would like to review it.",
+    "ts": "1704208744.696169",
+    "thread_ts": "1704208744.696169",
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704208983.874799"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704212522.164119"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1704213007.898939"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1704213292.167509"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1704213335.279149"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704213362.887149"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704214247.551419"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704214288.157179"
+      },
+      {
+        "user": "U057C75RYBB",
+        "ts": "1704214450.188099"
+      }
+    ],
+    "latest_reply": "1704214450.188099",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h3Wkm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just submitted a pull request for anybody who would like to review it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U057C75RYBB"
+    ]
+  },
+  {
+    "client_msg_id": "1ace2065-c066-4c85-a779-d5dbe4d3760f",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I also have one open, I wanted Yumi to look but that was at a specific thing that she could look at after it's accepted as well if you have time to review mine, \u003c@U057C75RYBB\u003e.\n\nI can review yours in just a bit!",
+    "ts": "1704208983.874799",
+    "thread_ts": "1704208744.696169",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x+Jlx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I also have one open, I wanted Yumi to look but that was at a specific thing that she could look at after it's accepted as well if you have time to review mine, "
+              },
+              {
+                "type": "user",
+                "user_id": "U057C75RYBB"
+              },
+              {
+                "type": "text",
+                "text": ".\n\nI can review yours in just a bit!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d418a530-616d-43df-883b-5d087d6250c1",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "\u003c@U057C75RYBB\u003e ignore my pull request, I found two issues I am going to fix and then I'll submit again.\n\nSecondly, I was trying to run yours locally to review it since I'm not as close to the code and don't feel I can review from that perspective.\n\nHowever, I am not sure how to review the single movie display page changes because when I pick one or multiple streaming services and then I click the \"Find my movie!\" button from /search, nothing happens. I am mostly 1. making sure that is expected/still in progress and not something that was working for you but is not working for me. and 2. wondering if you have just a sample URL for a single movie display that I can use to review that part?\n\nNo rush on this, I can look again a bit later today!",
+    "ts": "1704212522.164119",
+    "thread_ts": "1704208744.696169",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DSELr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U057C75RYBB"
+              },
+              {
+                "type": "text",
+                "text": " ignore my pull request, I found two issues I am going to fix and then I'll submit again.\n\nSecondly, I was trying to run yours locally to review it since I'm not as close to the code and don't feel I can review from that perspective.\n\nHowever, I am not sure how to review the single movie display page changes because when I pick one or multiple streaming services and then I click the \"Find my movie!\" button from /search, nothing happens. I am mostly 1. making sure that is expected/still in progress and not something that was working for you but is not working for me. and 2. wondering if you have just a sample URL for a single movie display that I can use to review that part?\n\nNo rush on this, I can look again a bit later today!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "01bba086-9a9b-4904-8d4c-67e61f2feb85",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "disregard, I found two issues I am going to fix and then I'll re-submit",
+    "ts": "1704212539.356199",
+    "thread_ts": "1703368924.465509",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xAQJW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "disregard, I found two issues I am going to fix and then I'll re-submit"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b35225c0-5051-4c03-9f1d-690fe7ac1d21",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "It doesn't work when you just select one steaming service?\n\n\n1. So when it comes to the search, I thought I had it where it was all an \"OR\" statement from the API instead of a \"AND\" but it seems to be working as an \"AND\" when it comes to multiple selections. That is a fix I am currently working on. I'll annotate it for future requests. \n2. I'm also implementing a new page to redirect after the click but that is a work in progress. As it stands, hitting the button yields 3 results. That was just so I could get the displays working and make sure I have all the information. The \"MovieDisplay\" component is just a single instance of the movie that I can use throughout the site.\n\nYou can request the pull if you would like me to make those changes before we merge that request.",
+    "ts": "1704213007.898939",
+    "thread_ts": "1704208744.696169",
+    "edited": {
+      "user": "U057C75RYBB",
+      "ts": "1704213197.000000"
+    },
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JK7hi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It doesn't work when you just select one steaming service?\n\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"So when it comes to the search, I thought I had it where it was all an \\\"OR\\\" statement from the API instead of a \\\"AND\\\" but it seems to be working as an \\\"AND\\\" when it comes to multiple selections. That is a fix I am currently working on. I'll annotate it for future requests. \"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n2. I'm also implementing a new page to redirect after the click but that is a work in progress. As it stands, hitting the button yields 3 results. That was just so I could get the displays working and make sure I have all the information. The \"MovieDisplay\" component is just a single instance of the movie that I can use throughout the site.\n\nYou can request the pull if you would like me to make those changes before we merge that request."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "153b65b3-89e9-4298-baaf-d020873aeef6",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "There's a good chance that it's an API key issue. I'm using a .env file for the key so that would have to be made and the same variable name to work.",
+    "ts": "1704213292.167509",
+    "thread_ts": "1704208744.696169",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "isfaU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "There's a good chance that it's an API key issue. I'm using a .env file for the key so that would have to be made and the same variable name to work."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d6cb6b8d-2a82-4bb0-8297-aabdf9bb6296",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "If you want to quick check, you can just directly past your API key into the api key variable i have in there.",
+    "ts": "1704213335.279149",
+    "thread_ts": "1704208744.696169",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vLlB8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you want to quick check, you can just directly past your API key into the api key variable i have in there."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c19972a2-a488-4957-8f08-b32d5aff94f4",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I bet you're right.",
+    "ts": "1704213362.887149",
+    "thread_ts": "1704208744.696169",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f4sqA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I bet you're right."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "af857a83-8e62-4b73-bb7f-37136fdd9691",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "the api key issue was it!",
+    "ts": "1704214247.551419",
+    "thread_ts": "1704208744.696169",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hS4KA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the api key issue was it!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b7201b87-fdb5-41d6-9260-5b2dde74b430",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "so merged your pull request, I figure you can make the above adjustments in your next one.",
+    "ts": "1704214288.157179",
+    "thread_ts": "1704208744.696169",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/o6kB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "so merged your pull request, I figure you can make the above adjustments in your next one."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d4c378f6-dc0d-4fa9-898e-6bd6b2c74c7f",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Thanks!",
+    "ts": "1704214450.188099",
+    "thread_ts": "1704208744.696169",
+    "parent_user_id": "U057C75RYBB",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cSYv0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "FCCAD486-EAEF-4705-BE9A-5979EB4D445E",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "Sorry, was busy w new years stuff for a couple days but free to look at the new version whenever it’s done!",
+    "ts": "1704214772.128059",
+    "thread_ts": "1703368924.465509",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0WWj/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sorry, was busy w new years stuff for a couple days but free to look at the new version whenever "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " done!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "04ae92fe-e977-4ad9-82c9-1da1cb0855c2",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "no problem at all! I realized I should type up some \"how to test\" instructions to make it easier to review, and when I did that, I caught 2 issues so saved some trouble later!\n\nI'll fix tonight and re-submit.",
+    "ts": "1704216656.142799",
+    "thread_ts": "1703368924.465509",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GG+Bs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "no problem at all! I realized I should type up some \"how to test\" instructions to make it easier to review, and when I did that, I caught 2 issues so saved some trouble later!\n\nI'll fix tonight and re-submit."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

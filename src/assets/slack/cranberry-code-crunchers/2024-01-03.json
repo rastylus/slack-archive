@@ -1,0 +1,303 @@
+[
+  {
+    "client_msg_id": "a0814b6e-6394-4f95-ae8c-0f3af42a0e90",
+    "type": "message",
+    "user": "U056ZDW8083",
+    "text": "Did you ever figure out your folder structures? When I changed my org.launchode folder it messed up everything in my code and am having a hard time figuring mine out too",
+    "ts": "1704318929.165399",
+    "thread_ts": "1704143539.853209",
+    "parent_user_id": "U0577EKQS9Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l3oj+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Did you ever figure out your folder structures? When I changed my org.launchode folder it messed up everything in my code and am having a hard time figuring mine out too"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5276126219072_9bf4e4d6843b8b91ecb6_72.png",
+      "first_name": "Mac",
+      "real_name": "Mac Calhoun",
+      "display_name": "Mac (they/them)",
+      "team": "T050CSX3EMT",
+      "name": "mcalhoun133",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "adfa1cf3-4006-4557-ad70-30bb9c0aa867",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "You know I thought it was my folder structure but I checked and it's setup like the main. I think I can't swe anything in our app yet because Noah needs to make a pull request too and then once those changes are accepted we should see something even if it's an error page. I figured we can do that together Thursday to make sure that's done and then agree to accept our PRs too. Also I think your merge conflict will be easy to fix. Do you want me to take a peek at it? I didn't want to mess with it without your consent. I think Git tells you want to fix inside of it.",
+    "ts": "1704321086.890899",
+    "thread_ts": "1704143539.853209",
+    "parent_user_id": "U0577EKQS9Z",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "hugging_face",
+        "count": 1,
+        "users": [
+          "U056ZDW8083"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "69XU6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You know I thought it was my folder structure but I checked and it's setup like the main. I think I can't swe anything in our app yet because Noah needs to make a pull request too and then once those changes are accepted we should see something even if it's an error page. I figured we can do that together Thursday to make sure that's done and then agree to accept our PRs too. Also I think your merge conflict will be easy to fix. Do you want me to take a peek at it? I didn't want to mess with it without your consent. I think Git tells you want to fix inside of it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "88220100-5b65-4241-a2e3-5ae56e73ea14",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "Did we still want to combine repos?",
+    "ts": "1704321161.292389",
+    "thread_ts": "1704143539.853209",
+    "parent_user_id": "U0577EKQS9Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4xiF2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Did we still want to combine repos?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C664BF45-665C-4EEC-A35E-0FF46786CB05",
+    "type": "message",
+    "user": "U056ZDW8083",
+    "text": "I can peek at it but thank you! I’m working on some stuff now. I’m feeling at a wall considering there’s not much I can fix by myself it’s a matter of us all meeting tomorrow. I think that’s a good game plan for our time together though. I would like to combine repos because I think it will make all our lives easier but am open to just leaving it if we think that’s best",
+    "ts": "1704321750.875279",
+    "thread_ts": "1704143539.853209",
+    "parent_user_id": "U0577EKQS9Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PEVdd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can peek at it but thank you! "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " working on some stuff now. "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " feeling at a wall considering "
+              },
+              {
+                "type": "text",
+                "text": "there’s"
+              },
+              {
+                "type": "text",
+                "text": " not much I can fix by myself "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " a matter of us all meeting tomorrow. I think "
+              },
+              {
+                "type": "text",
+                "text": "that’s"
+              },
+              {
+                "type": "text",
+                "text": " a good game plan for our time together though. I would like to combine repos because I think it will make all our lives easier but am open to just leaving it if we think "
+              },
+              {
+                "type": "text",
+                "text": "that’"
+              },
+              {
+                "type": "text",
+                "text": "s best"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5276126219072_9bf4e4d6843b8b91ecb6_72.png",
+      "first_name": "Mac",
+      "real_name": "Mac Calhoun",
+      "display_name": "Mac (they/them)",
+      "team": "T050CSX3EMT",
+      "name": "mcalhoun133",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "76cd5b13-10af-4121-a3d3-60c0aa536dcd",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "Ok NP! I agree tomm will help a lot meeting up. I want one repo for sure! Maybe touch on that again tomm as a reminder? Also I hope you had a good holiday and NYE? How do you feel coming back for class? It feels a little weird. I think we are supposed to hear about our interview scores this week?",
+    "ts": "1704321884.802029",
+    "thread_ts": "1704143539.853209",
+    "edited": {
+      "user": "U0577EKQS9Z",
+      "ts": "1704321912.000000"
+    },
+    "parent_user_id": "U0577EKQS9Z",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ab/RG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok NP! I agree tomm will help a lot meeting up. I want one repo for sure! Maybe touch on that again tomm as a reminder? Also I hope you had a good holiday and NYE? How do you feel coming back for class? It feels a little weird. I think we are supposed to hear about our interview scores this week?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

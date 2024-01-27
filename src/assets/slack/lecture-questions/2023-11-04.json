@@ -1,0 +1,194 @@
+[
+  {
+    "client_msg_id": "f6664024-5f9d-4a8c-b192-8ad84044846d",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "When I add this to my code from the examples in chapter 18 it causes my code to fail when I add an event. Anybody else experience this?\n```package org.launchcode.codingevents.models;\n\nimport jakarta.persistence.GeneratedValue;\nimport jakarta.persistence.GenerationType;\nimport jakarta.persistence.Id;\nimport jakarta.persistence.MappedSuperclass;\n\nimport java.util.Objects;\n\n@MappedSuperclass\npublic abstract class AbstractEntity {\n\n    @Id\n    @GeneratedValue(strategy = GenerationType.IDENTITY)\n    private int id;\n\n    public int getId() {\n        return id;\n    }\n\n    @Override\n    public boolean equals(Object o) {\n        if (this == o) return true;\n        if (o == null || getClass() != o.getClass()) return false;\n        AbstractEntity entity = (AbstractEntity) o;\n        return id == entity.id;\n    }\n\n    @Override\n    public int hashCode() {\n        return Objects.hash(id);\n    }\n\n}```\n",
+    "ts": "1699121106.255079",
+    "thread_ts": "1698692219.436449",
+    "parent_user_id": "U0571RPHQN9",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A2ccF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "When I add this to my code from the examples in chapter 18 it causes my code to fail when I add an event. Anybody else experience this?\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"package org.launchcode.codingevents.models;\\n\\nimport jakarta.persistence.GeneratedValue;\\nimport jakarta.persistence.GenerationType;\\nimport jakarta.persistence.Id;\\nimport jakarta.persistence.MappedSuperclass;\\n\\nimport java.util.Objects;\\n\\n@MappedSuperclass\\npublic abstract class AbstractEntity {\\n\\n    @Id\\n    @GeneratedValue(strategy = GenerationType.IDENTITY)\\n    private int id;\\n\\n    public int getId() {\\n        return id;\\n    }\\n\\n    @Override\\n    public boolean equals(Object o) {\\n        if (this == o) return true;\\n        if (o == null || getClass() != o.getClass()) return false;\\n        AbstractEntity entity = (AbstractEntity) o;\\n        return id == entity.id;\\n    }\\n\\n    @Override\\n    public int hashCode() {\\n        return Objects.hash(id);\\n    }\\n\\n}\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9029280e-b7b2-4fc9-b5d4-e81eb30da1f4",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Anybody else run into problems in Chapter 18 where we go to localhost8080/events/?categoryId=1 to try to sort our events by category? What works for me is if I remove the slash after \"events\" so localhost8080/events?categoryId=1 works for me but the first one does not.",
+    "ts": "1699128571.397289",
+    "thread_ts": "1699128571.397289",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U05743K5BHT",
+        "ts": "1699131169.638399"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1699146459.981999"
+      }
+    ],
+    "latest_reply": "1699146459.981999",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "plus-one",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fY18M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Anybody else run into problems in Chapter 18 where we go to localhost8080/events/?categoryId=1 to try to sort our events by category? What works for me is if I remove the slash after \"events\" so localhost8080/events?categoryId=1 works for me but the first one does not."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U05743K5BHT"
+    ]
+  },
+  {
+    "client_msg_id": "EF4C03E3-2E35-426C-B1CB-663751BE8A1C",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "I believe Carrie answered \u003c@U056SERBK2B\u003e’ question about this in our last lecture. I had the same issue as well. I think she said if you add a “/“ at the start of your routing for all of your controller methods then this should fix that problem",
+    "ts": "1699131169.638399",
+    "thread_ts": "1699128571.397289",
+    "parent_user_id": "U0575U6RCKC",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056Q9W022K"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/iHIH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I believe Carrie answered "
+              },
+              {
+                "type": "user",
+                "user_id": "U056SERBK2B"
+              },
+              {
+                "type": "text",
+                "text": "’ question about this in our last lecture. I had the same issue as well. I think she said if you add a “/“ at the start of your routing for all of your controller methods then this should fix that problem"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

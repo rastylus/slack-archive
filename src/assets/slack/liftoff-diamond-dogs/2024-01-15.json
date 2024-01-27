@@ -1,0 +1,400 @@
+[
+  {
+    "client_msg_id": "fa5766b6-7445-4dc1-8f51-7cf8642f81d8",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "\u003chttps://github.com/corypride/diamonddogs/pull/31\u003e",
+    "ts": "1705326644.443239",
+    "attachments": [
+      {
+        "color": "36a64f",
+        "fallback": "#31 Css style",
+        "id": 1,
+        "title": "#31 Css style",
+        "title_link": "https://github.com/corypride/diamonddogs/pull/31",
+        "text": "styling and alerts merge. We can keep adjusting these, but the base is ready for us to play around with the look.",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "\u003chttps://github.com/corypride/diamonddogs|corypride/diamonddogs\u003e",
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "ts": 1705302116
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eIwq5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/corypride/diamonddogs/pull/31",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a57ddeb5-83f6-41f3-8d56-ae30f0429694",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "This guy’s ready for review. I think I got everything mostly uniform looking and ready for more formatting if we want.",
+    "ts": "1705326716.045749",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R7TTJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This guy’s ready for review. I think I got everything mostly uniform looking and ready for more formatting if we want."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "09c794f8-221b-4362-8491-ff5f7028e8b7",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I just merged the css style branch into main. I did notice that the top left logo wasn't displaying on the plant page and the plant page link from the garden has disappeared. I'll look into fixing that with a new pull request.",
+    "ts": "1705354243.485929",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8kfdy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just merged the css style branch into main. I did notice that the top left logo wasn't displaying on the plant page and the plant page link from the garden has disappeared. I'll look into fixing that with a new pull request."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "36c99df9-f28c-4249-a9c9-62daa887a605",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I updated our ReadMe to more accurately represent our project and it's features. I only have 11 total features listed, fyi. Let me know if I need to include something else.",
+    "ts": "1705355987.289359",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2VI+B",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I updated our ReadMe to more accurately represent our project and it's features. I only have 11 total features listed, fyi. Let me know if I need to include something else."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c6bc50a8-be65-453a-b95a-2febf8dc5fcf",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "I created a new pull request that adds the plant page link to each common name in the garden page. \u003c@U056RCF9G87\u003e the Happy Roots logo appears broken on the plant page. Any ideas where I should look to fix this? The only differences I see when looking at the developer tools and clicking on the logo is that on the plant page it has a \"\u003cdiv class=\"divColor\"\u003e above the nav style. All the other pages don't have a div class at all.",
+    "ts": "1705360248.333319",
+    "thread_ts": "1705360248.333319",
+    "edited": {
+      "user": "U0575U6RCKC",
+      "ts": "1705360301.000000"
+    },
+    "last_read": "1705395773.766269",
+    "subscribed": true,
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056RCF9G87",
+        "ts": "1705395773.766269"
+      }
+    ],
+    "latest_reply": "1705395773.766269",
+    "files": [
+      {
+        "id": "F06DKBLR3M5",
+        "created": 1705360121,
+        "timestamp": 1705360121,
+        "name": "Screen Shot 2024-01-15 at 4.45.42 PM.png",
+        "title": "Screen Shot 2024-01-15 at 4.45.42 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0575U6RCKC",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1203596,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06DKBLR3M5/screen_shot_2024-01-15_at_4.45.42_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06DKBLR3M5/download/screen_shot_2024-01-15_at_4.45.42_pm.png",
+        "original_h": 1440,
+        "original_w": 2560,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBLR3M5-f5f89e3a3f/screen_shot_2024-01-15_at_4.45.42_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBLR3M5-f5f89e3a3f/screen_shot_2024-01-15_at_4.45.42_pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBLR3M5-f5f89e3a3f/screen_shot_2024-01-15_at_4.45.42_pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBLR3M5-f5f89e3a3f/screen_shot_2024-01-15_at_4.45.42_pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 203,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBLR3M5-f5f89e3a3f/screen_shot_2024-01-15_at_4.45.42_pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 270,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBLR3M5-f5f89e3a3f/screen_shot_2024-01-15_at_4.45.42_pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 405,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBLR3M5-f5f89e3a3f/screen_shot_2024-01-15_at_4.45.42_pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 540,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBLR3M5-f5f89e3a3f/screen_shot_2024-01-15_at_4.45.42_pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 576,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0575U6RCKC/F06DKBLR3M5/screen_shot_2024-01-15_at_4.45.42_pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06DKBLR3M5-4ec7affbd0",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F06DKBN219V",
+        "created": 1705360154,
+        "timestamp": 1705360154,
+        "name": "Screen Shot 2024-01-15 at 4.45.19 PM.png",
+        "title": "Screen Shot 2024-01-15 at 4.45.19 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0575U6RCKC",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1216601,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06DKBN219V/screen_shot_2024-01-15_at_4.45.19_pm.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06DKBN219V/download/screen_shot_2024-01-15_at_4.45.19_pm.png",
+        "original_h": 1440,
+        "original_w": 2560,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBN219V-dc375bd47c/screen_shot_2024-01-15_at_4.45.19_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBN219V-dc375bd47c/screen_shot_2024-01-15_at_4.45.19_pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBN219V-dc375bd47c/screen_shot_2024-01-15_at_4.45.19_pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBN219V-dc375bd47c/screen_shot_2024-01-15_at_4.45.19_pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 203,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBN219V-dc375bd47c/screen_shot_2024-01-15_at_4.45.19_pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 270,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBN219V-dc375bd47c/screen_shot_2024-01-15_at_4.45.19_pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 405,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBN219V-dc375bd47c/screen_shot_2024-01-15_at_4.45.19_pm_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 540,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06DKBN219V-dc375bd47c/screen_shot_2024-01-15_at_4.45.19_pm_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 576,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0575U6RCKC/F06DKBN219V/screen_shot_2024-01-15_at_4.45.19_pm.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06DKBN219V-7398b9c730",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6nUOS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I created a new pull request that adds the plant page link to each common name in the garden page. "
+              },
+              {
+                "type": "user",
+                "user_id": "U056RCF9G87"
+              },
+              {
+                "type": "text",
+                "text": " the Happy Roots logo appears broken on the plant page. Any ideas where I should look to fix this? The only differences I see when looking at the developer tools and clicking on the logo is that on the plant page it has a \"\u003cdiv class=\"divColor\"\u003e above the nav style. All the other pages don't have a div class at all."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056RCF9G87"
+    ]
+  }
+]

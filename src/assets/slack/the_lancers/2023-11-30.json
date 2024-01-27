@@ -1,0 +1,322 @@
+[
+  {
+    "client_msg_id": "2ef0a4f7-093a-4b60-bb38-d66d4d0ad6b0",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "I went ahead and setup the main and development branches within our repository and added protection to them so we have to make pull requests before we can push/merge our individual branches into either main or development.",
+    "ts": "1701308530.057219",
+    "thread_ts": "1701308530.057219",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05768C2NP4",
+        "ts": "1701371180.816689"
+      }
+    ],
+    "latest_reply": "1701371180.816689",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TxFPN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I went ahead and setup the main and development branches within our repository and added protection to them so we have to make pull requests before we can push/merge our individual branches into either main or development."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05768C2NP4"
+    ]
+  },
+  {
+    "client_msg_id": "0BAD7280-F024-4300-B34B-841638433B23",
+    "type": "message",
+    "user": "U0574JUHBNH",
+    "text": "Gotcha, I curated a few things in html last night and it’s just sitting in a folder in my desktop ",
+    "ts": "1701351541.761469",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h6jOs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Gotcha, I curated a few things in html last night and "
+              },
+              {
+                "type": "text",
+                "text": "it’s"
+              },
+              {
+                "type": "text",
+                "text": " just sitting in a folder in my desktop "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-01/6280497472354_b5d2d071c7d0de3339f3_72.png",
+      "first_name": "Leonard",
+      "real_name": "Leonard Stewart, Jr.",
+      "display_name": "Leonard Stewart, Jr.",
+      "team": "T050CSX3EMT",
+      "name": "leonardjr06",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e009bc72-cbb4-4562-b177-895156cfbaec",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Thank you so much!",
+    "ts": "1701371180.816689",
+    "thread_ts": "1701308530.057219",
+    "parent_user_id": "U0574FFA3L5",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+mub/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you so much!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9577acfa-ce39-4c73-a549-d4df5cbd65ca",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Hey guys I added some features and ideas to our project proposal to complete the requirements(See bottom of doc with *beta on it). Please feel free to add or edit anything except for the features I included in what I will be responsible for specifically. I think we're allowed to be flexible as we get the ball rolling  but I think this is a great place to get started! Please add/change features you want to be responsible for and assign them to yourself(project guidelines says everyone needs at least 3). Again this is just our pitch and we can rework who does what as the project evolves! I know Launchcode is flexible with due dates but I think it's best if we stay on track with the checkpoints they set for us. See you guys in a few hours! \u003chttps://docs.google.com/document/d/1xuR6Lc10MEo-MzdAzT1G8s30Qhj0A9YcOvEdZ8wPAuw/edit#heading=h.w6tv77xwziho\u003e",
+    "ts": "1701376819.243929",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "crossed_swords",
+        "count": 1,
+        "users": [
+          "U0574FFA3L5"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XoAYS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys I added some features and ideas to our project proposal to complete the requirements(See bottom of doc with *beta on it). Please feel free to add or edit anything except for the features I included in what I will be responsible for specifically. I think we're allowed to be flexible as we get the ball rolling  but I think this is a great place to get started! Please add/change features you want to be responsible for and assign them to yourself(project guidelines says everyone needs at least 3). Again this is just our pitch and we can rework who does what as the project evolves! I know Launchcode is flexible with due dates but I think it's best if we stay on track with the checkpoints they set for us. See you guys in a few hours! "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1xuR6Lc10MEo-MzdAzT1G8s30Qhj0A9YcOvEdZ8wPAuw/edit#heading=h.w6tv77xwziho",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d26d6522-d388-415c-8c8c-cfe303187e62",
+    "type": "message",
+    "user": "U0574FFA3L5",
+    "text": "Awesome, I went ahead and signed up for more of the back-end work. If I'm not mistaken, it seems like Cesar and I are more available during the day on our non-class days and Leonard and Carl are more available at night. So would it make sense for us to sort of divide the workload that way? Basically Cesar and I working on back-end stuff while Carl and Leonard handle the front end?",
+    "ts": "1701381969.772269",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056YG34CS2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "F4d+t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Awesome, I went ahead and signed up for more of the back-end work. If I'm not mistaken, it seems like Cesar and I are more available during the day on our non-class days and Leonard and Carl are more available at night. So would it make sense for us to sort of divide the workload that way? Basically Cesar and I working on back-end stuff while Carl and Leonard handle the front end?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5230928919671_60712260f600412795be_72.png",
+      "first_name": "Cory",
+      "real_name": "Cory Wilkinson",
+      "display_name": "Cory",
+      "team": "T050CSX3EMT",
+      "name": "standardvr",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "06ec69e4-38ff-454c-b257-b10a0a882a84",
+    "type": "message",
+    "user": "U05768C2NP4",
+    "text": "Yeah I don't mind dividing it up that way",
+    "ts": "1701384834.482999",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9cAY7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah I don't mind dividing it up that way"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-12-07/6296271671335_ddb7f93e6782a1c5b089_72.jpg",
+      "first_name": "Cesar",
+      "real_name": "Cesar Rodriguez",
+      "display_name": "Cesar Rodriguez",
+      "team": "T050CSX3EMT",
+      "name": "cesar33rodriguez",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

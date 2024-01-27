@@ -1,0 +1,93 @@
+[
+  {
+    "client_msg_id": "833868c6-957a-433f-b9d6-d18a580b959a",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "Have a great break yall! :santa: See you on 1/4!",
+    "ts": "1703214001.313869",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "christmas_tree",
+        "count": 13,
+        "users": [
+          "U057GPNUCG4",
+          "U057C9DPMC3",
+          "U057GLCQK1A",
+          "U057UQR6VDW",
+          "U057UDJDKKJ",
+          "U0577EKQS9Z",
+          "U057V3BHX9N",
+          "U056TCXP71V",
+          "U0579KDG6A0",
+          "U056SVBQSES",
+          "U05743K5BHT",
+          "U057UGWMN48",
+          "U057J8HJZMF"
+        ]
+      },
+      {
+        "name": "heart",
+        "count": 9,
+        "users": [
+          "U057SCV767K",
+          "U057GGXFWTE",
+          "U056TCXP71V",
+          "U0579KDG6A0",
+          "U057C714BU1",
+          "U057V00Q5EU",
+          "U057ULA7CJC",
+          "U057UGWMN48",
+          "U056Z3RQFJT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FDZxD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Have a great break yall! "
+              },
+              {
+                "type": "emoji",
+                "name": "santa",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " See you on 1/4!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

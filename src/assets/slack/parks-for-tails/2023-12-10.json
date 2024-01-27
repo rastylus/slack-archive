@@ -1,0 +1,271 @@
+[
+  {
+    "client_msg_id": "72DD5EEB-9772-417F-B0A4-D27D992B8DD3",
+    "type": "message",
+    "user": "U057534FBHQ",
+    "text": "Good morning guys. Something just comes up and I won’t able to meet with you today. ",
+    "ts": "1702218650.822919",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sI3p4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good morning guys. Something just comes up and I "
+              },
+              {
+                "type": "text",
+                "text": "won’t"
+              },
+              {
+                "type": "text",
+                "text": " able to meet with you today. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5255734451745_4fe6d453b22fa9553c02_72.png",
+      "first_name": "Abdulrazig",
+      "real_name": "Abdulrazig Mohammed",
+      "display_name": "Abdulrazig Mohammed",
+      "team": "T050CSX3EMT",
+      "name": "abduadam688",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "21652b00-5577-4f5e-8bb9-9b8695497b2c",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "I'm still fighting with IntelliJ. Somehow all my setting are reset and it doesn't understand that our project uses Java. Once I'm less annoyed so the computer can stay in the house and not out a window, I'll be working on this for awhile before I think I'll have much to share.",
+    "ts": "1702238273.167829",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gMJTC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm still fighting with IntelliJ. Somehow all my setting are reset and it doesn't understand that our project uses Java. Once I'm less annoyed so the computer can stay in the house and not out a window, I'll be working on this for awhile before I think I'll have much to share."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f42d2593-690b-4d64-a4da-348ef2b75bb3",
+    "type": "message",
+    "user": "U056Z3RQFJT",
+    "text": "Im working on the Google API integration",
+    "ts": "1702240702.215429",
+    "thread_ts": "1702240702.215429",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U057C73ABDX",
+        "ts": "1702240770.743319"
+      },
+      {
+        "user": "U056Z3RQFJT",
+        "ts": "1702256224.638479"
+      },
+      {
+        "user": "U057C73ABDX",
+        "ts": "1702256365.176739"
+      }
+    ],
+    "latest_reply": "1702256365.176739",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iLsIi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Im working on the Google API integration"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5251578399251_476929090d178895b1c1_72.jpg",
+      "first_name": "Dimitri",
+      "real_name": "Dimitri   Torres",
+      "display_name": "Dimitri Torres",
+      "team": "T050CSX3EMT",
+      "name": "dimitritorres34",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Z3RQFJT",
+      "U057C73ABDX"
+    ]
+  },
+  {
+    "client_msg_id": "fd6046b1-9a49-46f6-ac21-f21974d2b798",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "Is that going well?",
+    "ts": "1702240770.743319",
+    "thread_ts": "1702240702.215429",
+    "parent_user_id": "U056Z3RQFJT",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/kQI8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is that going well?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "faaeb0cc-a7ec-44f4-948d-252b0298db49",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "I've made some progress framing out our Java code (it has folders and (mostly empty) classes!) and setting up the most basic user repository setup.",
+    "ts": "1702247253.999569",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "meow_party",
+        "count": 1,
+        "users": [
+          "U056Z3RQFJT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "spCmS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I've made some progress framing out our Java code (it has folders and (mostly empty) classes!) and setting up the most basic user repository setup."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "client_msg_id": "6e8260f8-a7d9-4ce9-afeb-7541ebf49ae8",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I put in a PR for the CRUD front end. I’m not super thrilled with how it came out but it’s at least working…\n\nI’m gonna tinker with it some more but any feedback/suggestions are more than welcome.",
+    "ts": "1703892168.418679",
+    "thread_ts": "1703892168.418679",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1703947725.003439"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1703978987.719239"
+      }
+    ],
+    "latest_reply": "1703978987.719239",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "foHol",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I put in a PR for the CRUD front end. I’m not super thrilled with how it came out but it’s at least working…\n\nI’m gonna tinker with it some more but any feedback/suggestions are more than welcome."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U057P8PCXT2",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "5c3e69d5-8cb6-4541-9dfb-4cabf7a06db4",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I hope you guys are having a happy holiday season!",
+    "ts": "1703892190.434779",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VrDF2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I hope you guys are having a happy holiday season!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9c6c0a37-e489-4003-bc21-bd4ea0c53208",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Also I was having an issue with my PUT filter requests so I removed setEquipment from the updateFilter put mapping method. Let me know if this messes with what your working on Austin!",
+    "ts": "1703892742.991529",
+    "thread_ts": "1703892742.991529",
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U05744248P7",
+        "ts": "1703907173.342549"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1703909287.804869"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1703978037.008649"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1703979213.655709"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1703983509.400679"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1703983931.539979"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1703983990.805089"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1703984089.404019"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1703984117.043719"
+      }
+    ],
+    "latest_reply": "1703984117.043719",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9ZRYa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also I was having an issue with my PUT filter requests so I removed setEquipment from the updateFilter put mapping method. Let me know if this messes with what your working on Austin!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U05744248P7",
+      "U057P8PCXT2",
+      "U057UFP7YLQ"
+    ]
+  }
+]

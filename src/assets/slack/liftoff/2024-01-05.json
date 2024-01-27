@@ -1,0 +1,69 @@
+[
+  {
+    "client_msg_id": "3537fec1-2078-41e5-91c9-389654be2bad",
+    "type": "message",
+    "user": "U0625KF6RLH",
+    "text": "Lecture recording for tonight on Rescoping and Git Activity: \u003chttps://youtu.be/TaeJam9TS3w\u003e",
+    "ts": "1704418284.778559",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: Liftoff Lecture: Rescoping and Git Activity",
+        "id": 1,
+        "author_name": "LaunchCode Classes",
+        "author_link": "https://www.youtube.com/@launchcodeclasses4988",
+        "title": "Liftoff Lecture: Rescoping and Git Activity",
+        "title_link": "https://youtu.be/TaeJam9TS3w",
+        "thumb_url": "https://i.ytimg.com/vi/TaeJam9TS3w/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://youtu.be/TaeJam9TS3w",
+        "original_url": "https://youtu.be/TaeJam9TS3w",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nQkFp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Lecture recording for tonight on Rescoping and Git Activity: "
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/TaeJam9TS3w",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-19/6068347004260_cd7e855b65583e9c6d43_72.jpg",
+      "first_name": "Melinda",
+      "real_name": "Melinda Stitzel",
+      "display_name": "Liftoff Program Manager - Melinda (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "melinda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "client_msg_id": "eb2507bb-4947-41b5-8e1e-2a6f55d703ee",
+    "type": "message",
+    "user": "U055B8PEEMV",
+    "text": "Off to a good start, I have merged Andrew’s changes into the `master` branch. Please pull down the latest code when you can.",
+    "ts": "1702258230.973279",
+    "edited": {
+      "user": "U055B8PEEMV",
+      "ts": "1702258324.000000"
+    },
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "purple_heart",
+        "count": 2,
+        "users": [
+          "U0579KDG6A0",
+          "U057T2GJHT3"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rhaGN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Off to a good start, I have merged Andrew’s changes into the "
+              },
+              {
+                "type": "text",
+                "text": "master",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " branch. Please pull down the latest code when you can."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5204638969172_2d7d943d02d4d367275b_72.png",
+      "first_name": "TA",
+      "real_name": "TA - Jay",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "jay.lingelbach",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

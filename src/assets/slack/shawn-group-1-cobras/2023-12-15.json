@@ -1,0 +1,549 @@
+[
+  {
+    "client_msg_id": "F889A750-F3F2-4862-85EE-9812BBDEC073",
+    "type": "message",
+    "user": "U057UDD3JV6",
+    "text": "Hey guys! I know we didn’t get project time today, I was wondering if you guys would be able to meet tomorrow or really anytime this weekend? Just so we can see where everyone’s at and address any concerns/questions/ etc :slightly_smiling_face:  ",
+    "ts": "1702605148.735519",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CdIX7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys! I know we "
+              },
+              {
+                "type": "text",
+                "text": "didn’t"
+              },
+              {
+                "type": "text",
+                "text": " get project time today, I was wondering if you guys would be able to meet "
+              },
+              {
+                "type": "text",
+                "text": "tomorrow"
+              },
+              {
+                "type": "text",
+                "text": " or really anytime this weekend? Just so we can see where "
+              },
+              {
+                "type": "text",
+                "text": "everyone’s"
+              },
+              {
+                "type": "text",
+                "text": " at and address any concerns"
+              },
+              {
+                "type": "text",
+                "text": "/"
+              },
+              {
+                "type": "text",
+                "text": "questions/ etc "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "  "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2028ffbf42dbb4064be8191be47a86d2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Taylor",
+      "real_name": "Taylor Richmond",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "taylorr.016",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dea68f01-8ffb-4b26-8274-1820304da59e",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "I can do Sunday evening again if you all are ok with that. I also have some questions before we merge branches about authenticating/storing user data.",
+    "ts": "1702605302.162059",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OWasz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I can do Sunday evening again if you all are ok with that. I also have some questions before we merge branches about authenticating/storing user data."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dadf2b89-1ebc-44bc-a174-88ab94e32d98",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "actually, quick question- \u003c@U057UDD3JV6\u003e  and \u003c@U0575DF8MA6\u003e, did either of you create a User class? If not I will to store usernames, passwords, and account creation info.",
+    "ts": "1702605530.487239",
+    "thread_ts": "1702605530.487239",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U057UDD3JV6",
+        "ts": "1702605776.013979"
+      },
+      {
+        "user": "U0575DF8MA6",
+        "ts": "1702605809.637599"
+      },
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1702605866.717939"
+      }
+    ],
+    "latest_reply": "1702605866.717939",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Cmi6G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "actually, quick question- "
+              },
+              {
+                "type": "user",
+                "user_id": "U057UDD3JV6"
+              },
+              {
+                "type": "text",
+                "text": "  and "
+              },
+              {
+                "type": "user",
+                "user_id": "U0575DF8MA6"
+              },
+              {
+                "type": "text",
+                "text": ", did either of you create a User class? If not I will to store usernames, passwords, and account creation info."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U05750B4K1Q",
+      "U0575DF8MA6",
+      "U057UDD3JV6"
+    ]
+  },
+  {
+    "client_msg_id": "0E0027E3-B27B-4076-9220-4A1F83EF1EC7",
+    "type": "message",
+    "user": "U057UDD3JV6",
+    "text": "I have not! Also Sunday works for me ",
+    "ts": "1702605776.013979",
+    "thread_ts": "1702605530.487239",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "X9NxV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have not! Also Sunday works for me "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2028ffbf42dbb4064be8191be47a86d2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Taylor",
+      "real_name": "Taylor Richmond",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "taylorr.016",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8e9af188-a156-4275-bf85-2a4487ecf204",
+    "type": "message",
+    "user": "U0575DF8MA6",
+    "text": "i didnt create User class. Sunday works for me too.",
+    "ts": "1702605809.637599",
+    "thread_ts": "1702605530.487239",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o9I0r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i didnt create User class. Sunday works for me too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5325195857047_d2e9378316819a3e20d6_72.jpg",
+      "first_name": "Priya",
+      "real_name": "Priya Nallaperumal",
+      "display_name": "Priya Nallaperumal",
+      "team": "T050CSX3EMT",
+      "name": "priyabalan2011",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "caa0fbf1-0222-4636-85fc-c848bf1b1dd7",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "Ok, I will create the User class. Thanks!",
+    "ts": "1702605866.717939",
+    "thread_ts": "1702605530.487239",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0575DF8MA6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z4xJ+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ok, I will create the User class. Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "953e7c7b-c722-4002-af21-1be7d8534abc",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "How does this user class look?",
+    "ts": "1702608072.999399",
+    "thread_ts": "1702608072.999399",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U05750B4K1Q",
+        "ts": "1702608137.652239"
+      }
+    ],
+    "latest_reply": "1702608137.652239",
+    "files": [
+      {
+        "id": "F069V8DD8QP",
+        "created": 1702608062,
+        "timestamp": 1702608062,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U05750B4K1Q",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 99945,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F069V8DD8QP/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F069V8DD8QP/download/image.png",
+        "original_h": 963,
+        "original_w": 693,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F069V8DD8QP-2ecd7d6a63/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F069V8DD8QP-2ecd7d6a63/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F069V8DD8QP-2ecd7d6a63/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F069V8DD8QP-2ecd7d6a63/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 259,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F069V8DD8QP-2ecd7d6a63/image_480.png",
+        "thumb_480_w": 345,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F069V8DD8QP-2ecd7d6a63/image_720.png",
+        "thumb_720_w": 518,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F069V8DD8QP-2ecd7d6a63/image_960.png",
+        "thumb_960_w": 691,
+        "thumb_960_h": 960,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05750B4K1Q/F069V8DD8QP/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F069V8DD8QP-99612764ff",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U057UDD3JV6",
+          "U0575DF8MA6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yTkaW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How does this user class look?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U05750B4K1Q"
+    ]
+  },
+  {
+    "client_msg_id": "a65dfa11-83aa-49e2-87a6-134ec52ff4a5",
+    "type": "message",
+    "user": "U05750B4K1Q",
+    "text": "I'm just going by what the book says right now, but I'm trying to figure out how to connect the react app with this class and user repository.",
+    "ts": "1702608137.652239",
+    "thread_ts": "1702608072.999399",
+    "parent_user_id": "U05750B4K1Q",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NzP2K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm just going by what the book says right now, but I'm trying to figure out how to connect the react app with this class and user repository."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5228895770999_b3341020bffbd3ef7ef8_72.jpg",
+      "first_name": "Brittany",
+      "real_name": "Brittany Robinson",
+      "display_name": "Brittany Robinson",
+      "team": "T050CSX3EMT",
+      "name": "bncopple",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,385 @@
+[
+  {
+    "client_msg_id": "0f20a752-c3ae-439e-9f73-cd1e4876e70d",
+    "type": "message",
+    "user": "U057534FBHQ",
+    "text": "Error starting ApplicationContext. To display the condition evaluation report re-run your application with ‘debug’ enabled.\n2023-11-29T23:53:40.980-03:00 ERROR 1526 --- [  restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   :\n\n***************************\nAPPLICATION FAILED TO START\n*************************** looking for assistance to solve this issue.",
+    "ts": "1701312950.355719",
+    "thread_ts": "1701312950.355719",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U05724ACLVB",
+        "ts": "1701363979.753569"
+      },
+      {
+        "user": "U057534FBHQ",
+        "ts": "1701364042.238379"
+      },
+      {
+        "user": "U057534FBHQ",
+        "ts": "1701364072.782619"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1701364087.007039"
+      },
+      {
+        "user": "U057534FBHQ",
+        "ts": "1701364335.160079"
+      },
+      {
+        "user": "U057534FBHQ",
+        "ts": "1701364396.897139"
+      }
+    ],
+    "latest_reply": "1701364396.897139",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Syk5z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Error starting ApplicationContext. To display the condition evaluation report re-run your application with ‘debug’ enabled.\n2023-11-29T23:53:40.980-03:00 ERROR 1526 --- [  restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   :\n\n***************************\nAPPLICATION FAILED TO START\n*************************** looking for assistance to solve this issue."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5255734451745_4fe6d453b22fa9553c02_72.png",
+      "first_name": "Abdulrazig",
+      "real_name": "Abdulrazig Mohammed",
+      "display_name": "Abdulrazig Mohammed",
+      "team": "T050CSX3EMT",
+      "name": "abduadam688",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U05724ACLVB",
+      "U057534FBHQ"
+    ]
+  },
+  {
+    "client_msg_id": "1b77f4c7-6938-4faf-a879-046b92da3b52",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "What context? Spring Boot or React? I am not knowledgeable enough to be able to tell from what you've shared.",
+    "ts": "1701363979.753569",
+    "thread_ts": "1701312950.355719",
+    "edited": {
+      "user": "U05724ACLVB",
+      "ts": "1701364035.000000"
+    },
+    "parent_user_id": "U057534FBHQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PPvGF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What context? Spring Boot or React? I am not knowledgeable enough to be able to tell from what you've shared."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "361DCC52-2B7A-423F-8822-9665DDBC6133",
+    "type": "message",
+    "user": "U057534FBHQ",
+    "text": "Spring boot ",
+    "ts": "1701364042.238379",
+    "thread_ts": "1701312950.355719",
+    "parent_user_id": "U057534FBHQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bd65g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Spring boot "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5255734451745_4fe6d453b22fa9553c02_72.png",
+      "first_name": "Abdulrazig",
+      "real_name": "Abdulrazig Mohammed",
+      "display_name": "Abdulrazig Mohammed",
+      "team": "T050CSX3EMT",
+      "name": "abduadam688",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "EC2CA731-E158-4EE4-BC59-2B99836EC35C",
+    "type": "message",
+    "user": "U057534FBHQ",
+    "text": "It’s okay I already figured out.. ",
+    "ts": "1701364072.782619",
+    "thread_ts": "1701312950.355719",
+    "parent_user_id": "U057534FBHQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nsWgq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It’s"
+              },
+              {
+                "type": "text",
+                "text": " okay I already figured out.. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5255734451745_4fe6d453b22fa9553c02_72.png",
+      "first_name": "Abdulrazig",
+      "real_name": "Abdulrazig Mohammed",
+      "display_name": "Abdulrazig Mohammed",
+      "team": "T050CSX3EMT",
+      "name": "abduadam688",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3b52fd66-ebc2-4d15-805a-c25a0d490c84",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Oh, good! What was the issue?",
+    "ts": "1701364087.007039",
+    "thread_ts": "1701312950.355719",
+    "parent_user_id": "U057534FBHQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wI4Rm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Oh, good! What was the issue?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7BCA4707-30E6-48DF-922D-682B0F90A17C",
+    "type": "message",
+    "user": "U057534FBHQ",
+    "text": "Dependencies ",
+    "ts": "1701364335.160079",
+    "thread_ts": "1701312950.355719",
+    "parent_user_id": "U057534FBHQ",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4EyP2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Dependencies "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5255734451745_4fe6d453b22fa9553c02_72.png",
+      "first_name": "Abdulrazig",
+      "real_name": "Abdulrazig Mohammed",
+      "display_name": "Abdulrazig Mohammed",
+      "team": "T050CSX3EMT",
+      "name": "abduadam688",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "52D466B8-DE04-4BA5-A66B-30193FCEA6C3",
+    "type": "message",
+    "user": "U057534FBHQ",
+    "text": "I found the solution on stack overflow.",
+    "ts": "1701364396.897139",
+    "thread_ts": "1701312950.355719",
+    "parent_user_id": "U057534FBHQ",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "k6dl1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I found the solution on stack overflow."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5255734451745_4fe6d453b22fa9553c02_72.png",
+      "first_name": "Abdulrazig",
+      "real_name": "Abdulrazig Mohammed",
+      "display_name": "Abdulrazig Mohammed",
+      "team": "T050CSX3EMT",
+      "name": "abduadam688",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

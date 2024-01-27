@@ -1,0 +1,108 @@
+[
+  {
+    "client_msg_id": "6105c8d4-a3eb-453e-9026-fc3a6d273c0a",
+    "type": "message",
+    "user": "U05656EM4EM",
+    "text": "\u003chttps://launchcode.instructure.com/courses/86/assignments/12316\u003e",
+    "ts": "1701391148.709499",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uczJS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://launchcode.instructure.com/courses/86/assignments/12316",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-08/5546028551765_ef5cfd16f93e919dda43_72.jpg",
+      "first_name": "TA",
+      "real_name": "TA Sammie Mendez (she/her)",
+      "display_name": "TA - Sammie",
+      "team": "T050CSX3EMT",
+      "name": "sammierosado",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "504c8c9c-b23f-4c18-a355-3372de9544ac",
+    "type": "message",
+    "user": "U05656EM4EM",
+    "text": "\u003c!channel\u003e\nHello students!\nEveryone has been sent an invite to their GitHub Projects board.\nPlease check your email to accept invites or go directly there by checking your respective channels for the bookmarked link.\nYou can start creating and adding ticket work.\nA good place to start is listing ideas for features that you might want to include in your project or MVP.\nDM me if you have questions\n:meow_party: happy friday",
+    "ts": "1701466572.505879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iC522",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\nHello students!\nEveryone has been sent an invite to their GitHub Projects board.\nPlease check your email to accept invites or go directly there by checking your respective channels for the bookmarked link.\nYou can start creating and adding ticket work.\nA good place to start is listing ideas for features that you might want to include in your project or MVP.\nDM me if you have questions\n"
+              },
+              {
+                "type": "emoji",
+                "name": "meow_party",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " happy friday"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-08/5546028551765_ef5cfd16f93e919dda43_72.jpg",
+      "first_name": "TA",
+      "real_name": "TA Sammie Mendez (she/her)",
+      "display_name": "TA - Sammie",
+      "team": "T050CSX3EMT",
+      "name": "sammierosado",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

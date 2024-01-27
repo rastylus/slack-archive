@@ -1,0 +1,65 @@
+[
+  {
+    "client_msg_id": "8f416853-d2d9-43f8-a120-ccf64a584f96",
+    "type": "message",
+    "user": "U057EEC9J23",
+    "text": "checked in list and search feature. \u003c@U056YAQ412S\u003e can you add the list (/list) and search (/search) link to the navigation bar. List lists tutors and subjects so I placed it directly in templates folder. Search.html is also in templates folder",
+    "ts": "1704831872.843039",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056YAQ412S"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VoXwf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "checked in list and search feature. "
+              },
+              {
+                "type": "user",
+                "user_id": "U056YAQ412S"
+              },
+              {
+                "type": "text",
+                "text": " can you add the list (/list) and search (/search) link to the navigation bar. List lists tutors and subjects so I placed it directly in templates folder. Search.html is also in templates folder"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5252488423895_5337f292839c33bb0b36_72.png",
+      "first_name": "Vinitha",
+      "real_name": "Vinitha Kamesh",
+      "display_name": "Vinitha Kamesh",
+      "team": "T050CSX3EMT",
+      "name": "vinivinitha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

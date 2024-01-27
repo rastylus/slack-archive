@@ -1,0 +1,57 @@
+[
+  {
+    "client_msg_id": "7bc88330-2845-4bd4-8c5c-14524da9dcfa",
+    "type": "message",
+    "user": "U0577EKQS9Z",
+    "text": "Hey guys! Tonight in between interviews let's discuss rescoping the User Authentication feature I have. I coded a lot on this already but the dependencies are not working in main since this feature was merged. Let's figure out what bare bones looks like to us for this feature because I think Spring Security needs to be scrapped.",
+    "ts": "1705346703.913129",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056ZDW8083"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Itnc8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys! Tonight in between interviews let's discuss rescoping the User Authentication feature I have. I coded a lot on this already but the dependencies are not working in main since this feature was merged. Let's figure out what bare bones looks like to us for this feature because I think Spring Security needs to be scrapped."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-29/5351871369329_4123daf508e28b869d31_72.jpg",
+      "first_name": "Sabriya",
+      "real_name": "Sabriya Sowers",
+      "display_name": "Sabriya Sowers (Sah-Bree-Yah)",
+      "team": "T050CSX3EMT",
+      "name": "sabriyasowers",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

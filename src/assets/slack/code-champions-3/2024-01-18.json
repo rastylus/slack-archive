@@ -1,0 +1,1473 @@
+[
+  {
+    "client_msg_id": "44e6f6d0-3fc0-4d9a-973c-c9d9715d5fcf",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "*Agenda (that's all I can think of for now, feel free to add extras pls)* \n\n1) Front-end and back-end both on MVC?\n2) Existing features + what we can add in a short time\n(e.g. Missing \"delete\" of Full CRUD, activities, API);\n3) Help each other?\n4) Merge the branches;\n5) Styling?\n(p.s. I have another mtg for work from 8pm. Sorry in advance if I will have to leave early.:sob:)",
+    "ts": "1705536977.355609",
+    "edited": {
+      "user": "U057GPNUCG4",
+      "ts": "1705537665.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bSqai",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Agenda (that's all I can think of for now, feel free to add extras pls) ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n1) Front-end and back-end both on MVC?\n2) Existing features + what we can add in a short time\n(e.g. Missing \"delete\" of Full CRUD, activities, API);\n3) Help each other?\n4) Merge the branches;\n5) Styling?\n(p.s. I have another mtg for work from 8pm. Sorry in advance if I will have to leave early."
+              },
+              {
+                "type": "emoji",
+                "name": "sob",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "09163c23-2ec2-4d9e-bc59-c0306c19e0d8",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Follow-up:\n\n1. Weather API to be displayed on the homepage (without User login) -Mark\n2. Mobile responsiveness -Mark\n3. Search feature to be moved from React to MVC -Jesse",
+    "ts": "1705539755.797059",
+    "thread_ts": "1705539755.797059",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1705539774.376269"
+      }
+    ],
+    "latest_reply": "1705539774.376269",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "daLNq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Follow-up:\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Weather API to be displayed on the homepage (without User login) -Mark\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Mobile responsiveness -Mark\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Search feature to be moved from React to MVC -Jesse\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057GPNUCG4"
+    ]
+  },
+  {
+    "client_msg_id": "7b60f20d-974b-4db5-ac23-343ad91d4fb0",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Emily Lin is inviting you to a scheduled Zoom meeting.\n\nTopic: Emily Lin's Personal Meeting Room\n\nJoin Zoom Meeting\n\u003chttps://us04web.zoom.us/j/6520029186?pwd=Rg0ANT7lxrrfjHSP2khI4l5xS6bL8T.1\u003e\n\nMeeting ID: \u003ctel:6520029186|652 002 9186\u003e\nPasscode: 1212",
+    "ts": "1705539758.552139",
+    "thread_ts": "1705539758.552139",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1705539825.969209"
+      }
+    ],
+    "latest_reply": "1705539825.969209",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QYFEl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Emily Lin is inviting you to a scheduled Zoom meeting.\n\nTopic: Emily Lin's Personal Meeting Room\n\nJoin Zoom Meeting\n"
+              },
+              {
+                "type": "link",
+                "url": "https://us04web.zoom.us/j/6520029186?pwd=Rg0ANT7lxrrfjHSP2khI4l5xS6bL8T.1",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\nMeeting ID: "
+              },
+              {
+                "type": "link",
+                "url": "tel:6520029186",
+                "text": "652 002 9186"
+              },
+              {
+                "type": "text",
+                "text": "\nPasscode: 1212"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057GPNUCG4"
+    ]
+  },
+  {
+    "client_msg_id": "a8d3da38-fdd8-48a4-b991-f8624ad58a5f",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "ignore this pls, mtg notes WIP",
+    "ts": "1705539774.376269",
+    "thread_ts": "1705539755.797059",
+    "parent_user_id": "U057GPNUCG4",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RYzvc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ignore this pls, mtg notes WIP"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "613e0761-1955-4ffc-89bd-e7473fddfb81",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Sry cant start yet. Free account's drama:rolling_on_the_floor_laughing:",
+    "ts": "1705539825.969209",
+    "thread_ts": "1705539758.552139",
+    "parent_user_id": "U057GPNUCG4",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x/A5o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sry cant start yet. Free account's drama"
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "channel": "C066JA485SR",
+    "user": "USLACKBOT",
+    "ts": "1705539857.270659",
+    "subtype": "huddle_thread",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UoEcF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "A huddle started"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "permalink": "https://ptwebdevallhu-iu32728.slack.com/call/R06E78J6K8W",
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://a.slack-edge.com/80588/img/slackbot_72.png",
+      "first_name": "slackbot",
+      "real_name": "Slackbot",
+      "display_name": "Slackbot",
+      "team": "T050CSX3EMT",
+      "name": "slackbot",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "74e308d2-0c1b-40f7-bfd4-e86fded97eaf",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "only two people can join a huddle",
+    "ts": "1705540023.726619",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kGiy6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "only two people can join a huddle"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "89b77694-b1ef-4744-81ee-d194c4da0742",
+    "type": "message",
+    "user": "U05722MU892",
+    "text": "Here's a meeting i just started on zoom:\n\n\u003chttps://us05web.zoom.us/j/81972148610?pwd=I8cKa7XCubAA3QpzDtxbb1RWOjbZqk.1\u003e",
+    "ts": "1705540028.379409",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iYhB5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Here's a meeting i just started on zoom:\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://us05web.zoom.us/j/81972148610?pwd=I8cKa7XCubAA3QpzDtxbb1RWOjbZqk.1",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-12/5252773260102_2c2e691a65890c6ba835_72.png",
+      "first_name": "Mark",
+      "real_name": "Mark Atkins",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "orthomark",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "802d8359-19ac-40cf-9064-72bd851e1c23",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi Dale, pls jump in Mark's link if you can: \u003chttps://us05web.zoom.us/j/81972148610?pwd=I8cKa7XCubAA3QpzDtxbb1RWOjbZqk.1\u003e",
+    "ts": "1705540123.591719",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "D+Lz/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Dale, pls jump in Mark's link if you can: "
+              },
+              {
+                "type": "link",
+                "url": "https://us05web.zoom.us/j/81972148610?pwd=I8cKa7XCubAA3QpzDtxbb1RWOjbZqk.1",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0f546541-2f4f-4e4e-867b-13f76bbfeb01",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi Dale \u003c@U0571TCPNAH\u003e, sorry to interrupt you. May I ask if you successfully run the React + MVC for the activities? How does it work? Sorry I dont have experience re it...",
+    "ts": "1705540966.878439",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ABbU4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Dale "
+              },
+              {
+                "type": "user",
+                "user_id": "U0571TCPNAH"
+              },
+              {
+                "type": "text",
+                "text": ", sorry to interrupt you. May I ask if you successfully run the React + MVC for the activities? How does it work? Sorry I dont have experience re it..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "BA7A61C8-4180-4AC5-9420-D2A09B51BB74",
+    "type": "message",
+    "user": "U0571TCPNAH",
+    "text": "Hi \u003c@U057GPNUCG4\u003e I was able to run plain React successfully on my end. The activities table work I did was backend using Java/Spring Boot.",
+    "ts": "1705542057.152649",
+    "thread_ts": "1705542057.152649",
+    "reply_count": 8,
+    "replies": [
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1705542860.955979"
+      },
+      {
+        "user": "U0571TCPNAH",
+        "ts": "1705591900.510469"
+      },
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1705592214.769329"
+      },
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1705599501.572189"
+      },
+      {
+        "user": "U0571TCPNAH",
+        "ts": "1705602081.506329"
+      },
+      {
+        "user": "U0571TCPNAH",
+        "ts": "1705602103.252129"
+      },
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1705602273.411889"
+      },
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1705602543.197909"
+      }
+    ],
+    "latest_reply": "1705602543.197909",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "r9UQH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi "
+              },
+              {
+                "type": "user",
+                "user_id": "U057GPNUCG4"
+              },
+              {
+                "type": "text",
+                "text": " I was able to run plain React successfully on my end. The activities table work I did was backend using Java/Spring Boot."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/10082ef870827e50ef3fd7f79fc2b522.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Dale",
+      "real_name": "Dale",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "dmcclure623",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U0571TCPNAH",
+      "U057GPNUCG4"
+    ]
+  },
+  {
+    "client_msg_id": "9a6aa005-e379-4c2e-8e08-1b1849b47617",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi Dale, thank you! We just finished the mtg. The main challenge is that we gotta put all the pieces together and let it run as one project. Would you have some time tonight or tmr? I'd like to work with you and see how we can transfer the front-end part of Activities from React to MVC",
+    "ts": "1705542860.955979",
+    "thread_ts": "1705542057.152649",
+    "parent_user_id": "U0571TCPNAH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v9UpH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Dale, thank you! We just finished the mtg. The main challenge is that we gotta put all the pieces together and let it run as one project. Would you have some time tonight or tmr? I'd like to work with you and see how we can transfer the front-end part of Activities from React to MVC"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "188c33ca-b998-4bb6-a2c4-1733aec39d2e",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi guys, thank you for your time tonight!! Each of us has done lots of work and now the main challenge is to put all the pieces together. We can make it!:muscle:\n\nHere are the 9 features we are having-\n\n1 User registration (logic done, no styling)\n\n2 User login (logic done, no styling)\n\n3 user profile (logic done, no styling. Emily hasn't added the group selection.)\n\n4 Leaving comments (logic done on a test page, no styling, no \"delete\" function)\n\n5 Searching (Done on React but needs to be moved from React to MVC -Jesse's working on it)\n\n6 Mobile Responsiveness (to be added on MVC CSS file by Mark)\n\n7 API to be displayed on homepage (it's done on React but needs to be connected with MVC. Mark is working on it. )\n\n8-9 Activities (full CRUD) (Dale has done the display page on React and the logic in controller Spring boot. Emily can try to help with the transfer from React to MVC for the view)",
+    "ts": "1705543429.434999",
+    "edited": {
+      "user": "U057GPNUCG4",
+      "ts": "1705543674.000000"
+    },
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o0GX7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi guys, thank you for your time tonight!! Each of us has done lots of work and now the main challenge is to put all the pieces together. We can make it!"
+              },
+              {
+                "type": "emoji",
+                "name": "muscle",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nHere are the 9 features we are having-\n\n1 User registration (logic done, no styling)\n\n2 User login (logic done, no styling)\n\n3 user profile (logic done, no styling. Emily hasn't added the group selection.)\n\n4 Leaving comments (logic done on a test page, no styling, no \"delete\" function)\n\n5 Searching (Done on React but needs to be moved from React to MVC -Jesse's working on it)\n\n6 Mobile Responsiveness (to be added on MVC CSS file by Mark)\n\n7 API to be displayed on homepage (it's done on React but needs to be connected with MVC. Mark is working on it. )\n\n8-9 Activities (full CRUD) (Dale has done the display page on React and the logic in controller Spring boot. Emily can try to help with the transfer from React to MVC for the view)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d651dffc-6cde-4d54-a57c-a5765c0e9cb1",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "I was able to merge the pull requests",
+    "ts": "1705545465.245509",
+    "thread_ts": "1705545465.245509",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1705549196.292909"
+      }
+    ],
+    "latest_reply": "1705549196.292909",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "meow_party",
+        "count": 1,
+        "users": [
+          "U055B8PEEMV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bpVX7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I was able to merge the pull requests"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057GPNUCG4"
+    ]
+  },
+  {
+    "client_msg_id": "00c42e68-c365-4093-8926-d7dc0f9f4b10",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Sry just came out of work. Thank you for approving for the team! I hope they work well on your local machine?",
+    "ts": "1705549196.292909",
+    "thread_ts": "1705545465.245509",
+    "parent_user_id": "U0577402D4J",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NMyaI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sry just came out of work. Thank you for approving for the team! I hope they work well on your local machine?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "C372597B-624C-4125-86FE-E965322D5CBA",
+    "type": "message",
+    "user": "U0571TCPNAH",
+    "text": "I’m available from 12 to 3pm",
+    "ts": "1705591900.510469",
+    "thread_ts": "1705542057.152649",
+    "parent_user_id": "U0571TCPNAH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7axfF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " available from 12 to 3pm"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/10082ef870827e50ef3fd7f79fc2b522.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Dale",
+      "real_name": "Dale",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "dmcclure623",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e80be4e8-93ae-490f-89f4-b65157280088",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Morning Dale, perfect! Would you please help with the \"details\" page of each individual activity when you are available? Templates of the Full CRUD are almost done. I still have a small bug:face_exhaling: (which doesn't impact on the operation). I'll commit by noon so you can look at the codes",
+    "ts": "1705592214.769329",
+    "thread_ts": "1705542057.152649",
+    "parent_user_id": "U0571TCPNAH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VLVWL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Morning Dale, perfect! Would you please help with the \"details\" page of each individual activity when you are available? Templates of the Full CRUD are almost done. I still have a small bug"
+              },
+              {
+                "type": "emoji",
+                "name": "face_exhaling",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " (which doesn't impact on the operation). I'll commit by noon so you can look at the codes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cf37a818-fbd8-431b-b31d-86a56cb0b9b8",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi Dale, the small bug is still there but the activity detail page is functional now. I've also added the leaving comment function on each page. If you have some time this afternoon, it would be great if you could explore ways to connect with an external API. I currently dont have any idea how to do it :rolling_on_the_floor_laughing:but yst Mark mentioned he's been working on it. Thank you!! Good luck to us. :smile::muscle:",
+    "ts": "1705599501.572189",
+    "thread_ts": "1705542057.152649",
+    "parent_user_id": "U0571TCPNAH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ezxcc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Dale, the small bug is still there but the activity detail page is functional now. I've also added the leaving comment function on each page. If you have some time this afternoon, it would be great if you could explore ways to connect with an external API. I currently dont have any idea how to do it "
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "but yst Mark mentioned he's been working on it. Thank you!! Good luck to us. "
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "muscle",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F17DD12D-59FB-44AF-937B-260177422FC1",
+    "type": "message",
+    "user": "U0571TCPNAH",
+    "text": "Could you clarify what bug you’re referring to?Which API did you have in mind?",
+    "ts": "1705602081.506329",
+    "thread_ts": "1705542057.152649",
+    "parent_user_id": "U0571TCPNAH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BW0ln",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Could you clarify what bug "
+              },
+              {
+                "type": "text",
+                "text": "you’re"
+              },
+              {
+                "type": "text",
+                "text": " referring to?Which API did you have in mind?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/10082ef870827e50ef3fd7f79fc2b522.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Dale",
+      "real_name": "Dale",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "dmcclure623",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8FCAE571-89EA-41D5-9438-C923F022C2A3",
+    "type": "message",
+    "user": "U0571TCPNAH",
+    "text": "I’m in a work meeting right now, but should have time in an hour",
+    "ts": "1705602103.252129",
+    "thread_ts": "1705542057.152649",
+    "parent_user_id": "U0571TCPNAH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "i8qfX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " in a work meeting right now, but should have time in an hour"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/10082ef870827e50ef3fd7f79fc2b522.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Dale",
+      "real_name": "Dale",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "dmcclure623",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bd62e9a0-9c84-4b4d-90a1-82b70c76a499",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "It's a small bug that the data of ActivityType can't be displayed on the master list. All else are fine tho.\n\nMark mentioned a weather APP yst. Here's the instructions I found so far-\u003chttps://openweathermap.org/appid\u003e",
+    "ts": "1705602273.411889",
+    "thread_ts": "1705542057.152649",
+    "attachments": [
+      {
+        "fallback": "How to start to work with Openweather API - OpenWeatherMap",
+        "id": 1,
+        "title": "How to start to work with Openweather API - OpenWeatherMap",
+        "title_link": "https://openweathermap.org/appid",
+        "text": "It is quite easy to work with Openweather API. Just sign up to get your API key and then call any weather API. And mind using API key in every API call whatever account you choose from Free to Enterprise.",
+        "service_name": "openweathermap.org",
+        "service_icon": "https://openweathermap.org/themes/openweathermap/assets/vendor/owm/img/icons/favicon.ico",
+        "from_url": "https://openweathermap.org/appid",
+        "original_url": "https://openweathermap.org/appid",
+        "blocks": null
+      }
+    ],
+    "parent_user_id": "U0571TCPNAH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fIYdT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It's a small bug that the data of ActivityType can't be displayed on the master list. All else are fine tho.\n\nMark mentioned a weather APP yst. Here's the instructions I found so far-"
+              },
+              {
+                "type": "link",
+                "url": "https://openweathermap.org/appid",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9952fa48-9215-4b77-8241-fe7f1091e17b",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Yst in the mtg we were saying to display the weather API on the homepage without user login.\n\nI wonder which way is easier:\n1) add the API in Spring Boot directly;\n2) add the API in React, display on the homepage and connect with Spring Boot\n\nI am still finishing the activity part, probably wouldn't have time to look up details:sob:. But I will be here for discussion!",
+    "ts": "1705602543.197909",
+    "thread_ts": "1705542057.152649",
+    "parent_user_id": "U0571TCPNAH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NNErc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yst in the mtg we were saying to display the weather API on the homepage without user login.\n\nI wonder which way is easier:\n1) add the API in Spring Boot directly;\n2) add the API in React, display on the homepage and connect with Spring Boot\n\nI am still finishing the activity part, probably wouldn't have time to look up details"
+              },
+              {
+                "type": "emoji",
+                "name": "sob",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ". But I will be here for discussion!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "afa58048-239c-4da2-a2d1-f51782997d48",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi guys, based on Jesse's models and Dale's ActivityController, I developed the activities' full CRUD on MVC and merged with the leaving comments feature. I added lots of commits for your reference. And just submitted a pull request.\n\nPlease note:\n1. Due to the limit time:rolling_on_the_floor_laughing:, you will have to manually input data in the tables of Operator and ActivityType in mySQL for now. I haven't created the \"add\" feature for those two classes. \n2. Unfortunately the data of \"ActivityType\" is not displayed on the page and Idk why.\n3. I initially set up @Valid to Operator and ActivityType. However, probably since they are both \u003cList\u003e, my codes were broken while I tried to do the binding.  I removed the validation and it works:rolling_on_the_floor_laughing:. I will look up the reason or ask TAs.  \nLet me know if you have any ideas re the bugs pls. My eyes hurt:rolling_on_the_floor_laughing:.\n\nAny questions please let me know. Good luck to us!:rocket:",
+    "ts": "1705608102.185059",
+    "edited": {
+      "user": "U057GPNUCG4",
+      "ts": "1705608686.000000"
+    },
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05722MU892"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AvmHp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi guys, based on Jesse's models and Dale's ActivityController, I developed the activities' full CRUD on MVC and merged with the leaving comments feature. I added lots of commits for your reference. And just submitted a pull request.\n\nPlease note:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Due to the limit time\"},{\"type\":\"emoji\",\"name\":\"rolling_on_the_floor_laughing\",\"unicode\":\"1f923\"},{\"type\":\"text\",\"text\":\", you will have to manually input data in the tables of Operator and ActivityType in mySQL for now. I haven't created the \\\"add\\\" feature for those two classes. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Unfortunately the data of \\\"ActivityType\\\" is not displayed on the page and Idk why.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"I initially set up @Valid to Operator and ActivityType. However, probably since they are both \u003cList\u003e, my codes were broken while I tried to do the binding.  I removed the validation and it works\"},{\"type\":\"emoji\",\"name\":\"rolling_on_the_floor_laughing\",\"unicode\":\"1f923\"},{\"type\":\"text\",\"text\":\". I will look up the reason or ask TAs.  \"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nLet me know if you have any ideas re the bugs pls. My eyes hurt"
+              },
+              {
+                "type": "emoji",
+                "name": "rolling_on_the_floor_laughing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ".\n\nAny questions please let me know. Good luck to us!"
+              },
+              {
+                "type": "emoji",
+                "name": "rocket",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "EDD2F3DC-41F2-4B3D-BD0C-615E33372DF4",
+    "type": "message",
+    "user": "U0571TCPNAH",
+    "text": "Hey guys, I’m still making my changes. Unfortunately with my work schedule I couldn’t get to it earlier. ",
+    "ts": "1705620990.053579",
+    "thread_ts": "1705620990.053579",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1705621395.334819"
+      }
+    ],
+    "latest_reply": "1705621395.334819",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3mVrS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey guys, I’m still making my changes. Unfortunately with my work schedule I couldn’t get to it earlier. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/10082ef870827e50ef3fd7f79fc2b522.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+      "first_name": "Dale",
+      "real_name": "Dale",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "dmcclure623",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U057GPNUCG4"
+    ]
+  },
+  {
+    "client_msg_id": "5ba4aa35-1bc7-4675-af1f-e102d92a2a28",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "Hi Dale, I plan to keep upgrading the project after today. Welcome to join!:smile:",
+    "ts": "1705621395.334819",
+    "thread_ts": "1705620990.053579",
+    "parent_user_id": "U0571TCPNAH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2p1Of",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Dale, I plan to keep upgrading the project after today. Welcome to join!"
+              },
+              {
+                "type": "emoji",
+                "name": "smile",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

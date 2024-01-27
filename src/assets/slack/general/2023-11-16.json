@@ -1,0 +1,202 @@
+[
+  {
+    "client_msg_id": "147a9ed5-8f73-4e4b-a0ea-4922f0436f56",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "\u003c@U050FMK1S83\u003e, is there a link to the text we'll be using? I've found _a_ text, but I'm reasonably certain it will be updated (old interface, some old information).",
+    "ts": "1700132363.804389",
+    "thread_ts": "1700132363.804389",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U050FMK1S83",
+        "ts": "1700149790.959349"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1700150849.928889"
+      }
+    ],
+    "latest_reply": "1700150849.928889",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CNwto",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U050FMK1S83"
+              },
+              {
+                "type": "text",
+                "text": ", is there a link to the text we'll be using? I've found "
+              },
+              {
+                "type": "text",
+                "text": "a",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " text, but I'm reasonably certain it will be updated (old interface, some old information)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U050FMK1S83",
+      "U05724ACLVB"
+    ]
+  },
+  {
+    "client_msg_id": "f06a37d7-39dc-463f-b361-0955bd952216",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "Yeah so that is likely the old Liftoff curriculum. No prior reading is necessary, we will be rolling out things on Monday.",
+    "ts": "1700149790.959349",
+    "thread_ts": "1700132363.804389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U0579KDG6A0",
+          "U057UDJDKKJ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jjZL0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yeah so that is likely the old Liftoff curriculum. No prior reading is necessary, we will be rolling out things on Monday."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "63f0af49-2175-4df7-888d-19c5c581e4b0",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Thanks, as always, Colin!",
+    "ts": "1700150849.928889",
+    "thread_ts": "1700132363.804389",
+    "parent_user_id": "U05724ACLVB",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "100",
+        "count": 2,
+        "users": [
+          "U050FMK1S83",
+          "U0579KDG6A0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nA0M+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks, as always, Colin!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

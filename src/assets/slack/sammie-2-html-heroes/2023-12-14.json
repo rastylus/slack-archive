@@ -1,0 +1,374 @@
+[
+  {
+    "client_msg_id": "49c138c0-cdb6-455b-8535-3f4b7d76d09c",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "Hi all.. Good Morning...The create part of CRUD operations work but the displaying of the details need work.. Can i create a PR request for that now?",
+    "ts": "1702571246.224739",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WepYO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi all.. Good Morning...The create part of CRUD operations work but the displaying of the details need work.. Can i create a PR request for that now?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c5f8e5dd-522a-45ef-b682-3602f2158ae2",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "These are the two pages. Create Itinerary page and Display Itineraries page",
+    "ts": "1702571510.742019",
+    "files": [
+      {
+        "id": "F06A6TAMRDG",
+        "created": 1702571427,
+        "timestamp": 1702571427,
+        "name": "createpage.png",
+        "title": "createpage.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0574PXBWRG",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 24277,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06A6TAMRDG/createpage.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06A6TAMRDG/download/createpage.png",
+        "original_h": 867,
+        "original_w": 1905,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A6TAMRDG-6f6056dcd4/createpage_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A6TAMRDG-6f6056dcd4/createpage_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A6TAMRDG-6f6056dcd4/createpage_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A6TAMRDG-6f6056dcd4/createpage_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 164,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A6TAMRDG-6f6056dcd4/createpage_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 218,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A6TAMRDG-6f6056dcd4/createpage_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 328,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A6TAMRDG-6f6056dcd4/createpage_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 437,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A6TAMRDG-6f6056dcd4/createpage_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 466,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0574PXBWRG/F06A6TAMRDG/createpage.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06A6TAMRDG-e3b6c99f84",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F06A3VDG58D",
+        "created": 1702571454,
+        "timestamp": 1702571454,
+        "name": "display itineraries page.png",
+        "title": "display itineraries page.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0574PXBWRG",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 32351,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06A3VDG58D/display_itineraries_page.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06A3VDG58D/download/display_itineraries_page.png",
+        "original_h": 867,
+        "original_w": 1905,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A3VDG58D-d2541e318e/display_itineraries_page_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A3VDG58D-d2541e318e/display_itineraries_page_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A3VDG58D-d2541e318e/display_itineraries_page_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A3VDG58D-d2541e318e/display_itineraries_page_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 164,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A3VDG58D-d2541e318e/display_itineraries_page_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 218,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A3VDG58D-d2541e318e/display_itineraries_page_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 328,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A3VDG58D-d2541e318e/display_itineraries_page_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 437,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A3VDG58D-d2541e318e/display_itineraries_page_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 466,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0574PXBWRG/F06A3VDG58D/display_itineraries_page.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06A3VDG58D-881b6a3a75",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wUkAT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "These are the two pages. Create Itinerary page and Display Itineraries page"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "afca9273-c695-4dc8-ba27-66d1e7d11fad",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "I think the below view works better..",
+    "ts": "1702577905.921189",
+    "files": [
+      {
+        "id": "F06A101V5QE",
+        "created": 1702577896,
+        "timestamp": 1702577896,
+        "name": "itinerariesDisplay.png",
+        "title": "itinerariesDisplay.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U0574PXBWRG",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 31379,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06A101V5QE/itinerariesdisplay.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06A101V5QE/download/itinerariesdisplay.png",
+        "original_h": 867,
+        "original_w": 1905,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A101V5QE-773df18f92/itinerariesdisplay_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A101V5QE-773df18f92/itinerariesdisplay_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A101V5QE-773df18f92/itinerariesdisplay_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A101V5QE-773df18f92/itinerariesdisplay_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 164,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A101V5QE-773df18f92/itinerariesdisplay_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 218,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A101V5QE-773df18f92/itinerariesdisplay_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 328,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A101V5QE-773df18f92/itinerariesdisplay_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 437,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06A101V5QE-773df18f92/itinerariesdisplay_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 466,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U0574PXBWRG/F06A101V5QE/itinerariesdisplay.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06A101V5QE-0b3c56a288",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7BkB7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think the below view works better.."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "89852730-fe01-427a-a69a-986cca5f5239",
+    "type": "message",
+    "user": "U0574PXBWRG",
+    "text": "I have created a PR.. Please feel free to review and approve!",
+    "ts": "1702581796.136869",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "475Pu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I have created a PR.. Please feel free to review and approve!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5245294990548_411bf787f4776545438e_72.png",
+      "first_name": "Suganthi",
+      "real_name": "Suganthi Ramprasath",
+      "display_name": "Suganthi Ramprasath",
+      "team": "T050CSX3EMT",
+      "name": "suganthisomalinga",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

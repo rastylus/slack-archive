@@ -1,0 +1,214 @@
+[
+  {
+    "client_msg_id": "0d0083df-dd20-46a2-971e-d8cfb6bfad7e",
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "Hi, all, please dedicate this time to working with team members and finishing your goals. Feel free to contact me about any concerns or questions. Check out the links below on debugging.",
+    "ts": "1705016994.611549",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05743K5BHT"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05722VQ4S0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "i9qDw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi, all, please dedicate this time to working with team members and finishing your goals. Feel free to contact me about any concerns or questions. Check out the links below on debugging."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "086debf3-e58e-4eff-abf2-fd206bb1db0a",
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "\u003chttps://www.freecodecamp.org/news/rubber-duck-debugging/\u003e",
+    "ts": "1705016997.364659",
+    "attachments": [
+      {
+        "fallback": "freeCodeCamp.org: Rubber Duck Debugging",
+        "id": 1,
+        "title": "Rubber Duck Debugging",
+        "title_link": "https://www.freecodecamp.org/news/rubber-duck-debugging/",
+        "text": "As a software developer, you’ve probably been in a situation where your code is not working as expected. This could happen because you made a typo, you weren't paying enough attention, or you weren't sure how something worked. When your code doesn't work, it's frustrating – but the only thing",
+        "image_url": "https://www.freecodecamp.org/news/content/images/2022/04/duck-meet-gd27f1e256_1280.jpg",
+        "service_name": "freeCodeCamp.org",
+        "service_icon": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+        "from_url": "https://www.freecodecamp.org/news/rubber-duck-debugging/",
+        "original_url": "https://www.freecodecamp.org/news/rubber-duck-debugging/",
+        "fields": [
+          {
+            "title": "Written by",
+            "value": "Kolade Chris",
+            "short": true
+          },
+          {
+            "title": "Filed under",
+            "value": "Debugging",
+            "short": true
+          }
+        ],
+        "blocks": null,
+        "ts": 1650390941
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7aeqL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.freecodecamp.org/news/rubber-duck-debugging/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ba10eeb7-76ac-45df-938b-6469a9b48168",
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "\u003chttps://careerfoundry.com/en/blog/web-development/rubber-duck-debugging/\u003e",
+    "ts": "1705017010.856929",
+    "attachments": [
+      {
+        "fallback": "CareerFoundry: Rubber Duck Debugging: A Simple 2023 Beginner's Guide",
+        "id": 1,
+        "title": "Rubber Duck Debugging: A Simple 2023 Beginner's Guide",
+        "title_link": "https://careerfoundry.com/en/blog/web-development/rubber-duck-debugging/",
+        "text": "You've probably been rubber duck debugging already without even knowing it. This guide will show you why the duck is a coder's best friend.",
+        "image_url": "https://d3mm2s9r15iqcv.cloudfront.net/en/wp-content/uploads/2022/11/so-many-rubber-duck-debugging-possibilities.jpeg",
+        "service_name": "CareerFoundry",
+        "service_icon": "https://careerfoundry.com/favicon.ico",
+        "from_url": "https://careerfoundry.com/en/blog/web-development/rubber-duck-debugging/",
+        "original_url": "https://careerfoundry.com/en/blog/web-development/rubber-duck-debugging/",
+        "fields": [
+          {
+            "title": "Written by",
+            "value": "Agnes Nduta",
+            "short": true
+          },
+          {
+            "title": "Time to read",
+            "value": "6 minutes",
+            "short": true
+          }
+        ],
+        "blocks": null,
+        "ts": 1667481053
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6TH+q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://careerfoundry.com/en/blog/web-development/rubber-duck-debugging/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

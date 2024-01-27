@@ -1,0 +1,114 @@
+[
+  {
+    "client_msg_id": "3C54F286-B0D2-4880-8B37-348498888510",
+    "type": "message",
+    "user": "U0575U6RCKC",
+    "text": "Sounds good! We don’t have to make it super long.",
+    "ts": "1702514357.296729",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IdM7G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Sounds good! We don’t have to make it super long"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5246440369620_0a7d056fd30464ae1aad_72.jpg",
+      "first_name": "Collin",
+      "real_name": "Collin Hayes",
+      "display_name": "Collin Hayes (Kansas City)",
+      "team": "T050CSX3EMT",
+      "name": "collinaustin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5A616490-A457-4036-B638-A7BCAA2E5F9E",
+    "type": "message",
+    "user": "U056RCF9G87",
+    "text": "Just a heads up that I’m not sure if I’ll make it to class tonight and wanted to give an update for project check in just in case I don’t. \n\nDatabase is essentially ready to go aside from some tweaks to the models depending on what we’ll need to save from the api. But the get and post requests are working and talking to front end. I also still need to figure out which join columns we’ll want connected. I should have more done this weekend as far as component rendering goes and will probably another update before Monday.",
+    "ts": "1702586672.918149",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U0575U6RCKC"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U05756M4E1H"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8ronf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just a heads up that I’m not sure if I’ll make it to class tonight and wanted to give an update for project check in just in case I don’t. \n\nDatabase is essentially ready to go aside from some tweaks to the models depending on what we’ll need to save from the api. But the get and post requests are working and talking to front end. I also still need to figure out which join columns we’ll want connected. I should have more done this weekend as far as component rendering goes and will probably another update before Monday."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-21/6074806377523_e16d031b6b05bb1667f6_72.png",
+      "first_name": "Ryan",
+      "real_name": "Ryan Riggs",
+      "display_name": "Ryan Riggs",
+      "team": "T050CSX3EMT",
+      "name": "ryan.p.riggs",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

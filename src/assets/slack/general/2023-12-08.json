@@ -1,0 +1,125 @@
+[
+  {
+    "client_msg_id": "63BD4E1B-E9FD-409E-B5B0-0A552DC3B6D1",
+    "type": "message",
+    "user": "U056Q4RGKB9",
+    "text": "Good morning, I was curious if anyone knows any resources we could utilize to prepare for the upcoming technical interview(s)?",
+    "ts": "1702040207.016279",
+    "thread_ts": "1702040207.016279",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702047744.593299"
+      },
+      {
+        "user": "U056Z2CTTGX",
+        "ts": "1702231593.801089"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1702276362.729749"
+      }
+    ],
+    "latest_reply": "1702276362.729749",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "w/obn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good morning, I was curious if anyone knows any resources we could utilize to prepare for the upcoming technical interview(s)?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/7ce143e46861ef03027a9a5392b5d72b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "Braden",
+      "real_name": "Braden Evans",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "bradene0",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U056Q9W022K",
+      "U056Z2CTTGX",
+      "U065L4THRPF"
+    ]
+  },
+  {
+    "client_msg_id": "1979ebf8-0421-45f1-9fa3-3f00ee564c71",
+    "type": "message",
+    "user": "U056Q9W022K",
+    "text": "I'm curious what \u003c@U065L4THRPF\u003e would recommend. I've had some software dev friends/colleagues recommend starting with \"easy\" exercises in Leet Code but wonder if you would agree/recommend something else.",
+    "ts": "1702047744.593299",
+    "thread_ts": "1702040207.016279",
+    "parent_user_id": "U056Q4RGKB9",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dmpbd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I'm curious what "
+              },
+              {
+                "type": "user",
+                "user_id": "U065L4THRPF"
+              },
+              {
+                "type": "text",
+                "text": " would recommend. I've had some software dev friends/colleagues recommend starting with \"easy\" exercises in Leet Code but wonder if you would agree/recommend something else."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-18/5313581523280_e6c244d910e46b3ed94c_72.png",
+      "first_name": "Erin",
+      "real_name": "Erin Muzughi",
+      "display_name": "Erin Muzughi (STL)",
+      "team": "T050CSX3EMT",
+      "name": "erinmuzughi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "client_msg_id": "04bec252-9159-400a-a3fa-ef155f7735ee",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "Hey, team \u003c@U057C9DPMC3\u003e \u003c@U056K1WRCCX\u003e \u003c@U05765HGT46\u003e! :slightly_smiling_face: I made some progress on our project that I wanted to share. I added a basic navbar (we can make it pretty once it gets added to the development branch) as well as the basic functionality of an \"add vacation\" form. For the index page, I have each entry being added into a table for now and we can update that once we get a little further along with getting the database set up (I think the idea was for a dashboard to populate with vacation data when a vacation is selected from the dropdown). Is anyone else making edits right now, or is it okay for me to start a pull request to the development branch? I pushed my code if anyone wants to review it first",
+    "ts": "1703445140.513619",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ff7eO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey, team "
+              },
+              {
+                "type": "user",
+                "user_id": "U057C9DPMC3"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U056K1WRCCX"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U05765HGT46"
+              },
+              {
+                "type": "text",
+                "text": "! "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " I made some progress on our project that I wanted to share. I added a basic navbar (we can make it pretty once it gets added to the development branch) as well as the basic functionality of an \"add vacation\" form. For the index page, I have each entry being added into a table for now and we can update that once we get a little further along with getting the database set up (I think the idea was for a dashboard to populate with vacation data when a vacation is selected from the dropdown). Is anyone else making edits right now, or is it okay for me to start a pull request to the development branch? I pushed my code if anyone wants to review it first"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5e9f663c-458a-4b7f-8e9c-ee5bc7d20915",
+    "type": "message",
+    "user": "U05722VQ4S0",
+    "text": "Also, Happy Holidays to those who celebrate!",
+    "ts": "1703445171.725439",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FeALv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also, Happy Holidays to those who celebrate!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-09/5235283814837_afaed668bc73779a6549_72.jpg",
+      "first_name": "Emily",
+      "real_name": "Emily C",
+      "display_name": "Emily",
+      "team": "T050CSX3EMT",
+      "name": "emily.coblesps",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

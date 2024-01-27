@@ -1,0 +1,138 @@
+[
+  {
+    "client_msg_id": "b9e00225-c164-48bf-839a-1ab5831ada56",
+    "type": "message",
+    "user": "U05EE11SB6D",
+    "text": "Hey everyone! We will start at 6:55, take a break!",
+    "ts": "1701996195.050299",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Qh3QY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey everyone! We will start at 6:55, take a break!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-26/5497688141409_c96e793d333a11ff6168_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Jove",
+      "display_name": "TA - Alex Jove",
+      "team": "T050CSX3EMT",
+      "name": "alexjmints",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c06963c5-cd61-47ee-a56e-b7d4faf97ddd",
+    "type": "message",
+    "user": "U05EE11SB6D",
+    "text": "If you would like an example for connecting front and back ends, I made a tutorial a while back that I can share. I am using a React framework (Nextjs) and springboot. Hope this is helpful! \u003chttps://youtu.be/-btn5Po49wg?si=SzWOp57gq_dnL7-0|https://youtu.be/-btn5Po49wg?si=SzWOp57gq_dnL7-0\u003e",
+    "ts": "1702047778.687869",
+    "thread_ts": "1702047778.687869",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: Next, SpringBoot, MySql, basic CRUD application - Code along",
+        "id": 1,
+        "author_name": "CodeMints",
+        "author_link": "https://www.youtube.com/@ajmints",
+        "title": "Next, SpringBoot, MySql, basic CRUD application - Code along",
+        "title_link": "https://youtu.be/-btn5Po49wg?si=SzWOp57gq_dnL7-0",
+        "thumb_url": "https://i.ytimg.com/vi/-btn5Po49wg/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://youtu.be/-btn5Po49wg?si=SzWOp57gq_dnL7-0",
+        "original_url": "https://youtu.be/-btn5Po49wg?si=SzWOp57gq_dnL7-0",
+        "blocks": null
+      }
+    ],
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U056SVBQSES",
+        "ts": "1702248877.305309"
+      }
+    ],
+    "latest_reply": "1702248877.305309",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 4,
+        "users": [
+          "U056SVBQSES",
+          "U057S95RQC9",
+          "U0571CCLKDL",
+          "U056WKE4W77"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rd4yY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you would like an example for connecting front and back ends, I made a tutorial a while back that I can share. I am using a React framework (Nextjs) and springboot. Hope this is helpful! "
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/-btn5Po49wg?si=SzWOp57gq_dnL7-0",
+                "text": "https://youtu.be/-btn5Po49wg?si=SzWOp57gq_dnL7-0"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-06-26/5497688141409_c96e793d333a11ff6168_72.jpg",
+      "first_name": "Alex",
+      "real_name": "Alex Jove",
+      "display_name": "TA - Alex Jove",
+      "team": "T050CSX3EMT",
+      "name": "alexjmints",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056SVBQSES"
+    ]
+  }
+]

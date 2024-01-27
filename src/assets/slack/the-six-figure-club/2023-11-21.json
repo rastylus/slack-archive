@@ -1,0 +1,611 @@
+[
+  {
+    "client_msg_id": "d08aa445-b798-4d80-82cd-0e4a689e1e78",
+    "type": "message",
+    "user": "U05775TUWQ4",
+    "text": "Hi, Do we have any link to join the group?",
+    "ts": "1700526390.099879",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PKeW4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi, Do we have any link to join the group?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3144e3f86e67bf971fab36af5c233335.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "Pradeepa",
+      "real_name": "Pradeepa Senthilrajan",
+      "display_name": "Pradeepa Senthilrajan",
+      "team": "T050CSX3EMT",
+      "name": "pradeepa.senthil",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "54b8f83c-91e0-4e6e-aeb3-f669c7a58301",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Just so we have the permanent links!\n\n\u003chttps://www.figma.com/\u003e\n\u003chttps://trello.com/\u003e\n\u003chttps://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow\u003e",
+    "ts": "1700528756.268159",
+    "attachments": [
+      {
+        "fallback": "Figma: Figma: The Collaborative Interface Design Tool",
+        "id": 1,
+        "title": "Figma: The Collaborative Interface Design Tool",
+        "title_link": "https://www.figma.com/",
+        "text": "Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single platform.",
+        "image_url": "https://cdn.sanity.io/images/599r6htc/localized/a9afeb156fd9d624032026ba5dded124f3265a42-2400x1260.png?w=1200\u0026q=70\u0026fit=max\u0026auto=format",
+        "service_name": "Figma",
+        "service_icon": "https://static.figma.com/app/icon/1/touch-76.png",
+        "from_url": "https://www.figma.com/",
+        "original_url": "https://www.figma.com/",
+        "blocks": null
+      },
+      {
+        "fallback": "Manage Your Team’s Projects From Anywhere | Trello",
+        "id": 2,
+        "title": "Manage Your Team’s Projects From Anywhere | Trello",
+        "title_link": "https://trello.com/",
+        "text": "Make the impossible, possible with Trello. The ultimate teamwork project management tool. Start up a board in seconds, automate tedious tasks, and collaborate anywhere, even on mobile.",
+        "service_name": "trello.com",
+        "service_icon": "https://bxp-content-static.prod.public.atl-paas.net/img/favicon.ico",
+        "from_url": "https://trello.com/",
+        "original_url": "https://trello.com/",
+        "blocks": null
+      },
+      {
+        "fallback": "Atlassian: Gitflow Workflow | Atlassian Git Tutorial",
+        "id": 3,
+        "title": "Gitflow Workflow | Atlassian Git Tutorial",
+        "title_link": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+        "text": "A deep dive into the Gitflow Workflow. Learn if this Git workflow is right for you and your team with this comprehensive tutorial.",
+        "service_name": "Atlassian",
+        "service_icon": "https://www.atlassian.com/favicon-16x16.png",
+        "from_url": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+        "original_url": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "gratitude-thank-you",
+        "count": 1,
+        "users": [
+          "U05776GF9CL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EukCF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Just so we have the permanent links!\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.figma.com/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://trello.com/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cc78cdd1-096a-41d0-990b-eb1eca4ac4ca",
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "Join Zoom Meeting\n\u003chttps://us05web.zoom.us/j/81316322037?pwd=bM6YZOuMyHUK0HaaNc2k3ghHec1y3x.1\u003e",
+    "ts": "1700529072.681199",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/MDii",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Join Zoom Meeting\n"
+              },
+              {
+                "type": "link",
+                "url": "https://us05web.zoom.us/j/81316322037?pwd=bM6YZOuMyHUK0HaaNc2k3ghHec1y3x.1",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e1bfa6a8-c43a-4be6-9398-60afbe9042b5",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "\u003chttps://docs.google.com/document/d/1yKqORdptc1SeEfqUR1d4gP45R5F5ZMeOm1GTh8TYl_E/edit?usp=sharing\u003e",
+    "ts": "1700529440.142669",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ug+Pq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1yKqORdptc1SeEfqUR1d4gP45R5F5ZMeOm1GTh8TYl_E/edit?usp=sharing",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0f1148ac-f0c3-4a48-ab2d-a532a535ab0f",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "\u003c@U056FFMNKJL\u003e are we submitting anything tonight on canvas aside from attendance?",
+    "ts": "1700530951.544199",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9S/Wn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056FFMNKJL"
+              },
+              {
+                "type": "text",
+                "text": " are we submitting anything tonight on canvas aside from attendance?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6067fec5-5757-4722-9da0-58cdab9ea7e5",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Since you said the form would be finished for next class?",
+    "ts": "1700530978.890759",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E6V3z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Since you said the form would be finished for next class?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2ccd5745-a6de-481b-aadd-fa16613daaa3",
+    "type": "message",
+    "user": "U056FFMNKJL",
+    "text": "Feel free to work on the Group Expectations worksheet tonight if you have time, however, it will need to be turned in on Canvas by end of Class 2. Just the attendance code is required today.",
+    "ts": "1700531112.810759",
+    "edited": {
+      "user": "U056FFMNKJL",
+      "ts": "1700531199.000000"
+    },
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05743K5BHT"
+        ]
+      },
+      {
+        "name": "innocent",
+        "count": 1,
+        "users": [
+          "U057840C37E"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4giBh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Feel free to work on the Group Expectations worksheet tonight if you have time, however, it will need to be turned in on Canvas by end of Class 2. Just the attendance code is required today."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-01/5192895117237_f7b616b1c4ebfc83dbdf_72.png",
+      "first_name": "Lynda",
+      "real_name": "Lynda Labranche",
+      "display_name": "TA Lynda Labranche",
+      "team": "T050CSX3EMT",
+      "name": "califlor.lyn0711",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "85d60471-33a5-4a02-91ca-9151194508a4",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "You guys should see the new link for our permanent studio group zoom in the bookmarks section of this channel now.",
+    "ts": "1700531234.408509",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ppPIe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "You guys should see the new link for our permanent studio group zoom in the bookmarks section of this channel now."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "053915be-2c64-4d61-aff9-22969a4a7656",
+    "type": "message",
+    "user": "U057840C37E",
+    "text": ":+1:",
+    "ts": "1700531251.531949",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qF+xl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/35fb2cbc48d233b406268d0e2a7797d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+      "first_name": "Rina",
+      "real_name": "Rina Shovik",
+      "display_name": "Rina Shovik-(STL)",
+      "team": "T050CSX3EMT",
+      "name": "rinashovik",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a9138ff6-df27-4116-aa74-47e43aae5f13",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Join up Rina! Let’s knock this thing out! Unless you don’t have time we can always reschedule",
+    "ts": "1700531283.888959",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J+8XJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Join up Rina! Let’s knock this thing out! Unless you don’t have time we can always reschedule"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "faff9517-6580-41d5-b07c-d0f0b2bda50f",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "\u003chttps://docs.google.com/document/d/1yKqORdptc1SeEfqUR1d4gP45R5F5ZMeOm1GTh8TYl_E/edit?usp=sharing\u003e",
+    "ts": "1700532426.490919",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ug+Pq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1yKqORdptc1SeEfqUR1d4gP45R5F5ZMeOm1GTh8TYl_E/edit?usp=sharing",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

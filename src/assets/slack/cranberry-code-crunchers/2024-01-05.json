@@ -1,0 +1,140 @@
+[
+  {
+    "client_msg_id": "f8ec5379-4e7b-4f89-86bd-f370fc39719a",
+    "type": "message",
+    "user": "U056WKD8RRT",
+    "ts": "1704422432.381789",
+    "files": [
+      {
+        "id": "F06C4FGHK2T",
+        "created": 1704422424,
+        "timestamp": 1704422424,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056WKD8RRT",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1493674,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06C4FGHK2T/image.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06C4FGHK2T/download/image.png",
+        "original_h": 2240,
+        "original_w": 3584,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06C4FGHK2T-f2060df9fa/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06C4FGHK2T-f2060df9fa/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06C4FGHK2T-f2060df9fa/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06C4FGHK2T-f2060df9fa/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 225,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06C4FGHK2T-f2060df9fa/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 300,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06C4FGHK2T-f2060df9fa/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 450,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F06C4FGHK2T-f2060df9fa/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 600,
+        "thumb_1024": "https://files.slack.com/files-tmb/T050CSX3EMT-F06C4FGHK2T-f2060df9fa/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 640,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056WKD8RRT/F06C4FGHK2T/image.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06C4FGHK2T-93e5e3c0ec",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5258951854693_c258a719a5ff97defcfb_72.png",
+      "first_name": "Noah",
+      "real_name": "Noah Brandwein",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "noah.brandwein98",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "20475570-1aba-42a5-8683-b99e1da75baa",
+    "type": "message",
+    "user": "U056WKD8RRT",
+    "text": "And then whenever i do npm run dev i get a blank white webpage and an error stating this.\n\nSyntaxError: Importing binding name 'default' cannot be resolved by star export entries.",
+    "ts": "1704422503.118569",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OJXqM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "And then whenever i do npm run dev i get a blank white webpage and an error stating this.\n\nSyntaxError: Importing binding name 'default' cannot be resolved by star export entries."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-14/5258951854693_c258a719a5ff97defcfb_72.png",
+      "first_name": "Noah",
+      "real_name": "Noah Brandwein",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "noah.brandwein98",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,1250 @@
+[
+  {
+    "client_msg_id": "04cb4d13-557b-4658-9664-1403d528a42a",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "Here is the recording for lecture! Please give awhile for processing.\n\n\u003chttps://youtu.be/vXGMRb8QQqc\u003e",
+    "ts": "1701133608.799969",
+    "thread_ts": "1701133608.799969",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: Technical Lecture 1 Liftoff",
+        "id": 1,
+        "author_name": "Colin Brock",
+        "author_link": "https://www.youtube.com/@Lunchb0xSH",
+        "title": "Technical Lecture 1 Liftoff",
+        "title_link": "https://youtu.be/vXGMRb8QQqc",
+        "thumb_url": "https://i.ytimg.com/vi/vXGMRb8QQqc/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://youtu.be/vXGMRb8QQqc",
+        "original_url": "https://youtu.be/vXGMRb8QQqc",
+        "blocks": null
+      }
+    ],
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U057C70KL57",
+        "ts": "1701180917.751759"
+      },
+      {
+        "user": "U05724ACLVB",
+        "ts": "1701190210.156439"
+      },
+      {
+        "user": "U065L4THRPF",
+        "ts": "1701369900.438599"
+      }
+    ],
+    "latest_reply": "1701369900.438599",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "keodd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Here is the recording for lecture! Please give awhile for processing.\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/vXGMRb8QQqc",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U05724ACLVB",
+      "U057C70KL57",
+      "U065L4THRPF"
+    ]
+  },
+  {
+    "client_msg_id": "41cd6355-7efe-4ac5-990c-1a253e1b6ffd",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "\u003c!channel\u003e Have a great evening everybody! One more announcement - our graduation date has been altered slightly! *Graduation will take place on Monday, February 5th, 2024 at 6pm! Mark your calendars!*",
+    "ts": "1701138600.487709",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 10,
+        "users": [
+          "U0574GXK1A9",
+          "U0574J9Q03V",
+          "U0579KDG6A0",
+          "U057HMJ9QTB",
+          "U057UDJDKKJ",
+          "U056YHP3GEA",
+          "U057ULA7CJC",
+          "U057C70P9TK",
+          "U056VF0MDPH",
+          "U057V00Q5EU"
+        ]
+      },
+      {
+        "name": "heart",
+        "count": 5,
+        "users": [
+          "U056K1U9R1V",
+          "U05763FB2F4",
+          "U057UDJDKKJ",
+          "U057J8HJZMF",
+          "U057SCV767K"
+        ]
+      },
+      {
+        "name": "raised_hands::skin-tone-3",
+        "count": 2,
+        "users": [
+          "U056K1UHEGP",
+          "U057C70KL57"
+        ]
+      },
+      {
+        "name": "raised_hands::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05722VQ4S0"
+        ]
+      },
+      {
+        "name": "raised_hands::skin-tone-5",
+        "count": 1,
+        "users": [
+          "U05725VUBJR"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K8jbO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " Have a great evening everybody! One more announcement - our graduation date has been altered slightly! "
+              },
+              {
+                "type": "text",
+                "text": "Graduation will take place on Monday, February 5th, 2024 at 6pm! Mark your calendars!",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "70499e0d-4ba6-4bec-8f8d-41804e2c9c5b",
+    "type": "message",
+    "user": "U057C70KL57",
+    "text": "Hi Colin! Apologies if you have answered this before but will the slides be provided for this lecture?",
+    "ts": "1701180917.751759",
+    "thread_ts": "1701133608.799969",
+    "parent_user_id": "U050FMK1S83",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "plus-one",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M6TT1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Colin! Apologies if you have answered this before but will the slides be provided for this lecture?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/709715b54f3b10c6517b041e725e1ad7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Marleny",
+      "real_name": "Marleny Arrue",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "amarleny",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "af65d88e-25f1-4871-a66d-7694474dc7cd",
+    "type": "message",
+    "user": "U05724ACLVB",
+    "text": "Yes, the slide deck would be great.",
+    "ts": "1701190210.156439",
+    "thread_ts": "1701133608.799969",
+    "parent_user_id": "U050FMK1S83",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oqntk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Yes, the slide deck would be great."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-15/6186218245879_947a811e0c3bff56e169_72.jpg",
+      "first_name": "Tracy",
+      "real_name": "Tracy H.",
+      "display_name": "Tracy H. (KC)",
+      "team": "T050CSX3EMT",
+      "name": "tracy-launchcode",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9743e0a8-23a8-47c0-aed9-67fb903fa207",
+    "type": "message",
+    "user": "U0625KF6RLH",
+    "text": "\u003c!channel\u003e \u003chttps://launchcode.instructure.com/courses/86/assignments/12432|The assignment connected to project proposals is now published on Canvas and can be located here\u003e. It will lead you to a google form to submit a link to your Google doc. Full-time LaunchCode staff will be reviewing these and submitting grades as we go through them. There are many of you, and few of us, so it may take a while. :slightly_smiling_face: As a reminder, these are due Thursday!\n\nAdditionally, you will start noticing specific submission assignments for other components of class such as resume and ready for placement survey. Hopefully this will make it easier for you to stay organized and stay vigilant about deadlines.",
+    "ts": "1701211019.108909",
+    "thread_ts": "1701211019.108909",
+    "reply_count": 17,
+    "replies": [
+      {
+        "user": "U0577402D4J",
+        "ts": "1701211539.165059"
+      },
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1701211651.689059"
+      },
+      {
+        "user": "U0625KF6RLH",
+        "ts": "1701211672.536979"
+      },
+      {
+        "user": "U0577402D4J",
+        "ts": "1701211729.649779"
+      },
+      {
+        "user": "U066ED0A4DU",
+        "ts": "1701211780.164089"
+      },
+      {
+        "user": "U066ED0A4DU",
+        "ts": "1701211782.378079"
+      },
+      {
+        "user": "U057GPNUCG4",
+        "ts": "1701211823.234139"
+      },
+      {
+        "user": "U05725VUBJR",
+        "ts": "1701211827.108099"
+      },
+      {
+        "user": "U066ED0A4DU",
+        "ts": "1701211828.694289"
+      },
+      {
+        "user": "U056ZJ34X42",
+        "ts": "1701212210.737299"
+      },
+      {
+        "user": "U055RLVGECB",
+        "ts": "1701213009.912709"
+      },
+      {
+        "user": "U05743K5BHT",
+        "ts": "1701214029.022389"
+      },
+      {
+        "user": "U05743K5BHT",
+        "ts": "1701214226.145209"
+      },
+      {
+        "user": "U056Z2CTTGX",
+        "ts": "1701214262.518509"
+      },
+      {
+        "user": "U057C70KL57",
+        "ts": "1701230248.769149"
+      },
+      {
+        "user": "U0625KF6RLH",
+        "ts": "1701277268.269129"
+      },
+      {
+        "user": "U0625KF6RLH",
+        "ts": "1701277424.089519"
+      }
+    ],
+    "latest_reply": "1701277424.089519",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "space_invader",
+        "count": 1,
+        "users": [
+          "U05725VUBJR"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U056VF0MDPH",
+          "U057J8HJZMF",
+          "U057ULA7CJC"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WRyA6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "https://launchcode.instructure.com/courses/86/assignments/12432",
+                "text": "The assignment connected to project proposals is now published on Canvas and can be located here"
+              },
+              {
+                "type": "text",
+                "text": ". It will lead you to a google form to submit a link to your Google doc. Full-time LaunchCode staff will be reviewing these and submitting grades as we go through them. There are many of you, and few of us, so it may take a while. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " As a reminder, these are due Thursday!\n\nAdditionally, you will start noticing specific submission assignments for other components of class such as resume and ready for placement survey. Hopefully this will make it easier for you to stay organized and stay vigilant about deadlines."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-19/6068347004260_cd7e855b65583e9c6d43_72.jpg",
+      "first_name": "Melinda",
+      "real_name": "Melinda Stitzel",
+      "display_name": "Liftoff Program Manager - Melinda (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "melinda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 10,
+    "reply_users": [
+      "U055RLVGECB",
+      "U056Z2CTTGX",
+      "U056ZJ34X42",
+      "U05725VUBJR",
+      "U05743K5BHT",
+      "U0577402D4J",
+      "U057C70KL57",
+      "U057GPNUCG4",
+      "U0625KF6RLH",
+      "U066ED0A4DU"
+    ]
+  },
+  {
+    "client_msg_id": "3d13e0fe-86b5-482b-b094-ee1a1620dc7d",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "I do not have access to this form.",
+    "ts": "1701211539.165059",
+    "thread_ts": "1701211019.108909",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U057V3BHX9N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0Kfmj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I do not have access to this form."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9dca4736-e1b8-471d-ac32-dd6c1c0e0beb",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "+1",
+    "ts": "1701211651.689059",
+    "thread_ts": "1701211019.108909",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SJ1ap",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "+1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cff176df-e0b7-4cd3-93cf-cd39dcba61ad",
+    "type": "message",
+    "user": "U0625KF6RLH",
+    "text": "To the google form or the canvas submission itself?",
+    "ts": "1701211672.536979",
+    "thread_ts": "1701211019.108909",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jqKWY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "To the google form or the canvas submission itself?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-19/6068347004260_cd7e855b65583e9c6d43_72.jpg",
+      "first_name": "Melinda",
+      "real_name": "Melinda Stitzel",
+      "display_name": "Liftoff Program Manager - Melinda (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "melinda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "05515119-c81a-4ac9-91a1-cf46991e70f4",
+    "type": "message",
+    "user": "U0577402D4J",
+    "text": "canvas submission it says I do not have access to view this resource",
+    "ts": "1701211729.649779",
+    "thread_ts": "1701211019.108909",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mmU3/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "canvas submission it says I do not have access to view this resource"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/bd77f8cc9f36b0abf9bfda90b1379be0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "Jesse",
+      "real_name": "Jesse Lawson",
+      "display_name": "Jesse Lawson",
+      "team": "T050CSX3EMT",
+      "name": "lawsojes",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "291dcc82-ab18-439b-8d5a-8c12c5377434",
+    "type": "message",
+    "user": "U066ED0A4DU",
+    "text": "It looks like Canvas decided to fight me today. If you refresh, you should be able to see it now!",
+    "ts": "1701211780.164089",
+    "thread_ts": "1701211019.108909",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 1,
+        "users": [
+          "U05725VUBJR"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q49OV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It looks like Canvas decided to fight me today. If you refresh, you should be able to see it now!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-20/6222153280613_25c32eb42d9b05bf45f0_72.png",
+      "first_name": "Lexi",
+      "real_name": "Lexi B",
+      "display_name": "Lexi B - LC Staff",
+      "team": "T050CSX3EMT",
+      "name": "lexi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "55a7819b-9667-468b-a8ad-03d0c419bf42",
+    "type": "message",
+    "user": "U066ED0A4DU",
+    "text": "My bad, yall",
+    "ts": "1701211782.378079",
+    "thread_ts": "1701211019.108909",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A7gcI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My bad, yall"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-20/6222153280613_25c32eb42d9b05bf45f0_72.png",
+      "first_name": "Lexi",
+      "real_name": "Lexi B",
+      "display_name": "Lexi B - LC Staff",
+      "team": "T050CSX3EMT",
+      "name": "lexi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "346ce118-f1e0-4f77-924a-d0f8a4760d9c",
+    "type": "message",
+    "user": "U057GPNUCG4",
+    "text": "It works now. Thanks a lot!",
+    "ts": "1701211823.234139",
+    "thread_ts": "1701211019.108909",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9xV7j",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It works now. Thanks a lot!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5271973805588_0a8fe2f87865098f405e_72.png",
+      "first_name": "Emily",
+      "real_name": "Emily Lin",
+      "display_name": "Emily Lin",
+      "team": "T050CSX3EMT",
+      "name": "emily.zy.lin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "31d33991-57a8-42f3-a7e9-897ebb631851",
+    "type": "message",
+    "user": "U05725VUBJR",
+    "text": "Thank you it's there :heart:",
+    "ts": "1701211827.108099",
+    "thread_ts": "1701211019.108909",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BHxuJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you it's there "
+              },
+              {
+                "type": "emoji",
+                "name": "heart",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-10-09/6026295546065_d15fff6d8b7e1d918b05_72.jpg",
+      "first_name": "Maurice",
+      "real_name": "Maurice Kratz",
+      "display_name": "Maurice",
+      "team": "T050CSX3EMT",
+      "name": "kratz.maurice",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "dfc66b49-9303-42c7-b446-b8a37823c995",
+    "type": "message",
+    "user": "U066ED0A4DU",
+    "text": "Ayyy, we love to see it",
+    "ts": "1701211828.694289",
+    "thread_ts": "1701211019.108909",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YSIDH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Ayyy, we love to see it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-20/6222153280613_25c32eb42d9b05bf45f0_72.png",
+      "first_name": "Lexi",
+      "real_name": "Lexi B",
+      "display_name": "Lexi B - LC Staff",
+      "team": "T050CSX3EMT",
+      "name": "lexi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fcee3325-07c7-42d0-aab4-dbfe7eba0ca5",
+    "type": "message",
+    "user": "U056ZJ34X42",
+    "text": "Is there a project proposal template or example that we can use? I'm not sure what exactly we're being asked to include in the proposal.",
+    "ts": "1701212210.737299",
+    "thread_ts": "1701211019.108909",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WkwoD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Is there a project proposal template or example that we can use? I'm not sure what exactly we're being asked to include in the proposal."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5264815335057_f7b030531ec80b16ffeb_72.jpg",
+      "first_name": "Gabe",
+      "real_name": "Gabe Breternitz",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "gabrielbreternitz",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2323E012-82D4-4311-B9AF-396B2118F866",
+    "type": "message",
+    "user": "U055RLVGECB",
+    "text": "\u003c@U056ZJ34X42\u003e \u003chttps://launchcode.instructure.com/courses/86/pages/project-proposal-template|https://launchcode.instructure.com/courses/86/pages/project-proposal-template\u003e",
+    "ts": "1701213009.912709",
+    "thread_ts": "1701211019.108909",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U0625KF6RLH"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056ZJ34X42"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-4",
+        "count": 1,
+        "users": [
+          "U0577EKQS9Z"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bOm7X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U056ZJ34X42"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "https://launchcode.instructure.com/courses/86/pages/project-proposal-template",
+                "text": "https://launchcode.instructure.com/courses/86/pages/project-proposal-template"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-02/5199690404373_f5b2dee4a67558ffd533_72.png",
+      "first_name": "Ariel",
+      "real_name": "Ariel Mitchell",
+      "display_name": "TA - Ariel (she/her)",
+      "team": "T050CSX3EMT",
+      "name": "ariel.l.makowski",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "F3C25BD8-B08E-49DC-BB63-24D19996353D",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "How will these submissions be graded? Say my group fills out the form just to meet the minimum requirements for our MVP. However, plan to add more features down the line if time allows for it?",
+    "ts": "1701214029.022389",
+    "thread_ts": "1701211019.108909",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CnWRw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How will these submissions be graded? Say my group fills out the form just to meet the minimum requirements for our MVP. However, plan to add more features down the line if time allows for it?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E1AAA882-18DE-467D-887C-ABA284D4C57A",
+    "type": "message",
+    "user": "U05743K5BHT",
+    "text": "Same question applies to the resumes that we will be filling out and submitting soon too? If we plan to add more features to the project later on before the deadline after all the base requirements have been met, then our finished project won’t reflect the same as what was submitted",
+    "ts": "1701214226.145209",
+    "thread_ts": "1701211019.108909",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XZV/0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Same question"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "applies to the resumes that we will be filling out and submitting soon too? If we plan to add more features to the project later on before the deadline after all the base requirements have been met, then our finished project "
+              },
+              {
+                "type": "text",
+                "text": "won’t"
+              },
+              {
+                "type": "text",
+                "text": " reflect the same as what was submitted"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2024-01-13/6469568098355_1fe2c85123c428eb22c8_72.png",
+      "first_name": "Jake",
+      "real_name": "Jake Willman",
+      "display_name": "Jake Willman - (STL)",
+      "team": "T050CSX3EMT",
+      "name": "jakenwillman",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4d54adb0-815e-44f7-a3ac-96cd5bc0ba4f",
+    "type": "message",
+    "user": "U056Z2CTTGX",
+    "text": "What happens if we submit our project proposal form and whoever is grading it thinks there needs to be revisions?",
+    "ts": "1701214262.518509",
+    "thread_ts": "1701211019.108909",
+    "parent_user_id": "U0625KF6RLH",
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "plus-one",
+        "count": 1,
+        "users": [
+          "U05724ACLVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ceh3r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What happens if we submit our project proposal form and whoever is grading it thinks there needs to be revisions?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/aeadc1b380591694fd175c6730be69b5.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "Mark",
+      "real_name": "Mark Watson",
+      "display_name": "Mark Watson",
+      "team": "T050CSX3EMT",
+      "name": "slybalto",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

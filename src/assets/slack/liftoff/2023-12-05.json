@@ -1,0 +1,115 @@
+[
+  {
+    "type": "message",
+    "user": "U066ED0A4DU",
+    "text": "set the channel description: Resources related to liftoff curriculum will go here!\n\nLink to Canvas Pages: \u003chttps://launchcode.instructure.com/courses/86/pages\u003e",
+    "ts": "1701736723.184529",
+    "subtype": "channel_purpose",
+    "purpose": "Resources related to liftoff curriculum will go here!\n\nLink to Canvas Pages: \u003chttps://launchcode.instructure.com/courses/86/pages\u003e",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-20/6222153280613_25c32eb42d9b05bf45f0_72.png",
+      "first_name": "Lexi",
+      "real_name": "Lexi B",
+      "display_name": "Lexi B - LC Staff",
+      "team": "T050CSX3EMT",
+      "name": "lexi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8c9422fd-1e26-4220-a2d4-22a6b6d58b4b",
+    "type": "message",
+    "user": "U050FMK1S83",
+    "text": "Unit 3 Lecture 4 Recording (Leave time for processing): \u003chttps://youtu.be/SsdpFou9aXg\u003e",
+    "ts": "1701737633.166409",
+    "attachments": [
+      {
+        "fallback": "YouTube Video: LiftOff Technical Lecture 2",
+        "id": 1,
+        "author_name": "Colin Brock",
+        "author_link": "https://www.youtube.com/@Lunchb0xSH",
+        "title": "LiftOff Technical Lecture 2",
+        "title_link": "https://youtu.be/SsdpFou9aXg",
+        "thumb_url": "https://i.ytimg.com/vi/SsdpFou9aXg/hqdefault.jpg",
+        "service_name": "YouTube",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "from_url": "https://youtu.be/SsdpFou9aXg",
+        "original_url": "https://youtu.be/SsdpFou9aXg",
+        "blocks": null
+      }
+    ],
+    "team": "T050CSX3EMT",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U0625KF6RLH"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U056WKE4W77"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LmYw4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Unit 3 Lecture 4 Recording (Leave time for processing): "
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/SsdpFou9aXg",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-04-25/5153010295655_63fc6b08704eb934e2d2_72.png",
+      "first_name": "Colin",
+      "real_name": "Colin Brock",
+      "display_name": "CEM - Colin Brock",
+      "team": "T050CSX3EMT",
+      "name": "colin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

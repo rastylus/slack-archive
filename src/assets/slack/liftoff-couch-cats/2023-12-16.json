@@ -1,0 +1,63 @@
+[
+  {
+    "client_msg_id": "fc689047-d1ce-447c-8b96-3b25dde9e70c",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "I sent a pull request today for whoever wants to review it.",
+    "ts": "1702767631.084299",
+    "thread_ts": "1702767631.084299",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702837604.730189"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1702919064.344659"
+      }
+    ],
+    "latest_reply": "1702919064.344659",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ahvXn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I sent a pull request today for whoever wants to review it."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U056Q9W022K"
+    ]
+  }
+]

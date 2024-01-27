@@ -1,0 +1,344 @@
+[
+  {
+    "client_msg_id": "408308bf-0f42-40d1-864c-16700d978527",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "Hey team, I know we discussed how to implement react-boostrap and I'd like to push for just doing a npm install react-bootstrap.\nMainly because it would simplify this card components for me. Also just feels like the safer and faster option, being able to just import what we need instead of entire library with the cdn link.\nhowever I don't want it to disrupt any styling that you two may have already applied. So if that is a case, no worries. I just find a work around.\nJust wanted to bring up the subject again.",
+    "ts": "1703445171.953789",
+    "thread_ts": "1703445171.953789",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1703445545.857439"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1703446718.205529"
+      },
+      {
+        "user": "U05744248P7",
+        "ts": "1703450880.752989"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1703451208.247719"
+      },
+      {
+        "user": "U057P8PCXT2",
+        "ts": "1703527496.242519"
+      },
+      {
+        "user": "U057UFP7YLQ",
+        "ts": "1703527581.081169"
+      }
+    ],
+    "latest_reply": "1703527581.081169",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Uujqb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey team, I know we discussed how to implement react-boostrap and I'd like to push for just doing a npm install react-bootstrap.\nMainly because it would simplify this card components for me. Also just feels like the safer and faster option, being able to just import what we need instead of entire library with the cdn link.\nhowever I don't want it to disrupt any styling that you two may have already applied. So if that is a case, no worries. I just find a work around.\nJust wanted to bring up the subject again."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U05744248P7",
+      "U057P8PCXT2",
+      "U057UFP7YLQ"
+    ]
+  },
+  {
+    "client_msg_id": "45EF0C07-0925-4F99-96F9-568D0F6E1DDF",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "I’m ok with whatever you need to do to make it easiest! I just did the way I’ve done it before but I’m all for whatever works best!",
+    "ts": "1703445545.857439",
+    "thread_ts": "1703445171.953789",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "29a8z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I’m ok with whatever you need to do to make it easiest! I just did the way I’ve done it before but I’m all for whatever works best!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "96e66fcd-7c56-4cee-b795-b47b26fad566",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "I just realized Liam added dependencies for what I was talking about. Ignore me!",
+    "ts": "1703446718.205529",
+    "thread_ts": "1703445171.953789",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "81K5I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just realized Liam added dependencies for what I was talking about. Ignore me!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cf9852c5-de5c-40d8-887a-dadd83963107",
+    "type": "message",
+    "user": "U05744248P7",
+    "text": "having some success again!",
+    "ts": "1703450880.752989",
+    "thread_ts": "1703445171.953789",
+    "parent_user_id": "U05744248P7",
+    "files": [
+      {
+        "id": "F06B2CYEF1D",
+        "created": 1703450875,
+        "timestamp": 1703450875,
+        "name": "filtercards.PNG",
+        "title": "filtercards.PNG",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U05744248P7",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 30498,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F06B2CYEF1D/filtercards.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F06B2CYEF1D/download/filtercards.png",
+        "original_h": 890,
+        "original_w": 815,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B2CYEF1D-816d42606f/filtercards_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B2CYEF1D-816d42606f/filtercards_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B2CYEF1D-816d42606f/filtercards_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B2CYEF1D-816d42606f/filtercards_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 330,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B2CYEF1D-816d42606f/filtercards_480.png",
+        "thumb_480_w": 440,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F06B2CYEF1D-816d42606f/filtercards_720.png",
+        "thumb_720_w": 659,
+        "thumb_720_h": 720,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U05744248P7/F06B2CYEF1D/filtercards.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F06B2CYEF1D-7229a0c579",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oxnzd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "having some success again!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-17/5294741459697_8dcb39f91e1c030ce2d4_72.jpg",
+      "first_name": "Austin",
+      "real_name": "Austin Horton",
+      "display_name": "Austin Horton",
+      "team": "T050CSX3EMT",
+      "name": "kenjigw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DEF19115-AC99-4D3E-B121-FBAE0BAFA3C5",
+    "type": "message",
+    "user": "U057UFP7YLQ",
+    "text": "Looks great! Good to know the React Bootstrap components work, I think I may switch my Bootstrap form to a React Bootstrap form. It just seems cleaner (and I’m also having some issues).",
+    "ts": "1703451208.247719",
+    "thread_ts": "1703445171.953789",
+    "parent_user_id": "U05744248P7",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LRM0y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Looks great! Good to know the React Bootstrap components work, I think I may switch my Bootstrap form to a React Bootstrap form. It just seems cleaner (and "
+              },
+              {
+                "type": "text",
+                "text": "I’m"
+              },
+              {
+                "type": "text",
+                "text": " also having some issues)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5236498182470_f0c217e875add374a540_72.jpg",
+      "first_name": "Brittney",
+      "real_name": "Brittney Epperson",
+      "display_name": "Brittney Epperson",
+      "team": "T050CSX3EMT",
+      "name": "beppers87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

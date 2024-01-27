@@ -1,0 +1,196 @@
+[
+  {
+    "client_msg_id": "7C2878EA-D727-45E5-A32C-2CFA0E8F0096",
+    "type": "message",
+    "user": "U057C75RYBB",
+    "text": "Depending on the time tomorrow, I can meet! It’d have to be kind of early because I have a family Christmas at noon.",
+    "ts": "1703290052.420679",
+    "thread_ts": "1703278667.062609",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wmSYt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Depending on the time tomorrow, I can meet! "
+              },
+              {
+                "type": "text",
+                "text": "It’"
+              },
+              {
+                "type": "text",
+                "text": "d have to be kind of early because I have a family Christmas at noon."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-10/5254277748385_e535ef8b9f4420b1cd30_72.jpg",
+      "first_name": "Eric",
+      "real_name": "Eric Davidson",
+      "display_name": "Eric Davidson",
+      "team": "T050CSX3EMT",
+      "name": "edavidson1410",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7468D410-5FB2-452D-99BF-7404D9C90E32",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "I could do that! (But also no rush if the timing is bad, just trying not to vanish over the holidays if you still have questions about this)",
+    "ts": "1703295997.755169",
+    "thread_ts": "1703278667.062609",
+    "parent_user_id": "U056Y707Y14",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1x3fT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I could do that! (But also no rush if the timing is bad, just trying not to vanish over the holidays if you still have questions about this)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2fcacf53-da3b-4d82-81c2-238e6c8c277a",
+    "type": "message",
+    "user": "U056Y707Y14",
+    "text": "just submitted a pull request with some work on back end stuff - includes some annotations that I think may be necessary to get front and back ends to communicate properly and a bunch of documentation on how to access the back end and what kind of data it outputs. no rush to do anything with this, just alerting everyone that it’s there. I’ll keep an eye on my messages for the rest of today, then I’m planning on taking off from the 24th-26th. happy holidays to anyone celebrating!",
+    "ts": "1703368924.465509",
+    "thread_ts": "1703368924.465509",
+    "reply_count": 9,
+    "replies": [
+      {
+        "user": "U056Q9W022K",
+        "ts": "1703388832.338329"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1703701703.659179"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1703732340.947319"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1703819278.411429"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1703819659.815839"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1703961599.683579"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704212539.356199"
+      },
+      {
+        "user": "U056Y707Y14",
+        "ts": "1704214772.128059"
+      },
+      {
+        "user": "U056Q9W022K",
+        "ts": "1704216656.142799"
+      }
+    ],
+    "latest_reply": "1704216656.142799",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cRgWK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "just submitted a pull request with some work on back end stuff - includes some annotations that I think may be necessary to get front and back ends to communicate properly and a bunch of documentation on how to access the back end and what kind of data it outputs. no rush to do anything with this, just alerting everyone that it’s there. I’ll keep an eye on my messages for the rest of today, then I’m planning on taking off from the 24th-26th. happy holidays to anyone celebrating!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-11/5255012140228_f889f2fdfa02904eea11_72.png",
+      "first_name": "Yumi",
+      "real_name": "Yumi Shiroma (she/her) - Philly",
+      "display_name": "",
+      "team": "T050CSX3EMT",
+      "name": "ydshiroma",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056Q9W022K",
+      "U056Y707Y14"
+    ]
+  }
+]

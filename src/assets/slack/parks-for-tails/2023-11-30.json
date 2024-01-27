@@ -1,0 +1,346 @@
+[
+  {
+    "client_msg_id": "87d2a0f4-4212-46ba-a05c-56f3d64acf2d",
+    "type": "message",
+    "user": "U057C73ABDX",
+    "text": "I like the proposed features but I think the list may be far larger than expected. I'm looking at: \u003chttps://agilemodeling.com/artifacts/feature.htm\u003e and also thinking how each part of CRUD is a feature. Based on that, I think most of those items would be several features. For example, connecting to an API would be 1 feature and displaying it properly in the UI would be another one.",
+    "ts": "1701309457.411219",
+    "thread_ts": "1701309457.411219",
+    "attachments": [
+      {
+        "fallback": "The Agile Modeling (AM) Method - Effective Strategies for Modeling and Documentation: Features: An Agile Introduction",
+        "id": 1,
+        "title": "Features: An Agile Introduction",
+        "title_link": "https://agilemodeling.com/artifacts/feature.htm",
+        "text": "Features are small, client-valued functionality expressed in the form Action Subject Object. Features are very small and can be implemented within a few hours.",
+        "image_url": "https://agilemodeling.com/wp-content/uploads/2023/03/logoAgileModeling.png",
+        "service_name": "The Agile Modeling (AM) Method - Effective Strategies for Modeling and Documentation",
+        "from_url": "https://agilemodeling.com/artifacts/feature.htm",
+        "original_url": "https://agilemodeling.com/artifacts/feature.htm",
+        "blocks": null,
+        "ts": 1685046337
+      }
+    ],
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U056ZDVQRL3",
+        "ts": "1701386840.434039"
+      },
+      {
+        "user": "U057C73ABDX",
+        "ts": "1701390566.279549"
+      }
+    ],
+    "latest_reply": "1701390566.279549",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+uHJG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I like the proposed features but I think the list may be far larger than expected. I'm looking at: "
+              },
+              {
+                "type": "link",
+                "url": "https://agilemodeling.com/artifacts/feature.htm",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": " and also thinking how each part of CRUD is a feature. Based on that, I think most of those items would be several features. For example, connecting to an API would be 1 feature and displaying it properly in the UI would be another one."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-14/6217525269600_5a9991438910c150435a_72.png",
+      "first_name": "Jen",
+      "real_name": "Jen Daku",
+      "display_name": "Jen Daku",
+      "team": "T050CSX3EMT",
+      "name": "jmdaku",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U056ZDVQRL3",
+      "U057C73ABDX"
+    ]
+  },
+  {
+    "client_msg_id": "94f88899-0971-4168-8ac0-88682f266d16",
+    "type": "message",
+    "user": "U056ZDVQRL3",
+    "text": "made us a quick mockup logo for our project",
+    "ts": "1701340157.521809",
+    "files": [
+      {
+        "id": "F067X2A2ZRT",
+        "created": 1701340119,
+        "timestamp": 1701340119,
+        "name": "160890287_padded_logo.png",
+        "title": "160890287_padded_logo.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U056ZDVQRL3",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 23602,
+        "url": "",
+        "url_download": "",
+        "url_private": "https://files.slack.com/files-pri/T050CSX3EMT-F067X2A2ZRT/160890287_padded_logo.png",
+        "url_private_download": "https://files.slack.com/files-pri/T050CSX3EMT-F067X2A2ZRT/download/160890287_padded_logo.png",
+        "original_h": 1000,
+        "original_w": 1000,
+        "thumb_64": "https://files.slack.com/files-tmb/T050CSX3EMT-F067X2A2ZRT-42ffd40717/160890287_padded_logo_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T050CSX3EMT-F067X2A2ZRT-42ffd40717/160890287_padded_logo_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T050CSX3EMT-F067X2A2ZRT-42ffd40717/160890287_padded_logo_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T050CSX3EMT-F067X2A2ZRT-42ffd40717/160890287_padded_logo_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T050CSX3EMT-F067X2A2ZRT-42ffd40717/160890287_padded_logo_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T050CSX3EMT-F067X2A2ZRT-42ffd40717/160890287_padded_logo_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T050CSX3EMT-F067X2A2ZRT-42ffd40717/160890287_padded_logo_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 960,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://ptwebdevallhu-iu32728.slack.com/files/U056ZDVQRL3/F067X2A2ZRT/160890287_padded_logo.png",
+        "permalink_public": "https://slack-files.com/T050CSX3EMT-F067X2A2ZRT-93bc070e5e",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U056Z3RQFJT"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h5GTG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "made us a quick mockup logo for our project"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5254288179559_8ccab3e3f6cddd72d402_72.jpg",
+      "first_name": "Christopher",
+      "real_name": "Christopher Deo",
+      "display_name": "Chris",
+      "team": "T050CSX3EMT",
+      "name": "chris",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bdd04c2c-2a1b-41a6-8baf-0a5f8b66331d",
+    "type": "message",
+    "user": "U056ZDVQRL3",
+    "text": "Also bookmarked the repo links",
+    "ts": "1701340379.861699",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ylrVQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Also bookmarked the repo links"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5254288179559_8ccab3e3f6cddd72d402_72.jpg",
+      "first_name": "Christopher",
+      "real_name": "Christopher Deo",
+      "display_name": "Chris",
+      "team": "T050CSX3EMT",
+      "name": "chris",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4ceba5a9-cf80-4aef-8424-65a6ffb922fe",
+    "type": "message",
+    "user": "U056ZDVQRL3",
+    "text": "Bare react app created for front end ui repo.",
+    "ts": "1701341278.291339",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xpbL+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Bare react app created for front end ui repo."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5254288179559_8ccab3e3f6cddd72d402_72.jpg",
+      "first_name": "Christopher",
+      "real_name": "Christopher Deo",
+      "display_name": "Chris",
+      "team": "T050CSX3EMT",
+      "name": "chris",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "56988bd9-65b3-4cc6-962d-4cdeccc46f73",
+    "type": "message",
+    "user": "U056ZDVQRL3",
+    "text": "Keep in mind that's just a list to spark conversation.  I have no allegiance to anything on it. We can add, modify, or remove features based on group consensus.  I made it a list of  12 because Fred said there should be 3 per participant.\n\nAnd you are correct, each function of CRUD can be considered as 1 feature, giving us 4 simple ones.",
+    "ts": "1701386840.434039",
+    "thread_ts": "1701309457.411219",
+    "parent_user_id": "U057C73ABDX",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NRYqf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Keep in mind that's just a list to spark conversation.  I have no allegiance to anything on it. We can add, modify, or remove features based on group consensus.  I made it a list of  12 because Fred said there should be 3 per participant.\n\nAnd you are correct, each function of CRUD can be considered as 1 feature, giving us 4 simple ones."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-05-15/5254288179559_8ccab3e3f6cddd72d402_72.jpg",
+      "first_name": "Christopher",
+      "real_name": "Christopher Deo",
+      "display_name": "Chris",
+      "team": "T050CSX3EMT",
+      "name": "chris",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

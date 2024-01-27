@@ -1,0 +1,48 @@
+[
+  {
+    "client_msg_id": "20972f44-c43b-4a1d-852e-85aa4430f3d1",
+    "type": "message",
+    "user": "U056ZJ0NFNW",
+    "text": "trying to access arraylist of strings \"journals\" in detail.html with \u0026lt;input th:field=\"${event.eventDetails.journals}\" class=\"form-control\"\u0026gt; returns error:\nCaused by: org.hibernate.AnnotationException: Association 'org.launchcode.codingevents.models.EventDetails.journals' targets an unknown entity named 'java.util.ArrayList'\n\nAnyone else have an arraylist of string in a model class you had to access with thymeleaf?",
+    "ts": "1706223283.713619",
+    "team": "T050CSX3EMT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B29Hy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "trying to access arraylist of strings \"journals\" in detail.html with \u003cinput th:field=\"${event.eventDetails.journals}\" class=\"form-control\"\u003e returns error:\nCaused by: org.hibernate.AnnotationException: Association 'org.launchcode.codingevents.models.EventDetails.journals' targets an unknown entity named 'java.util.ArrayList'\n\nAnyone else have an arraylist of string in a model class you had to access with thymeleaf?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T050CSX3EMT",
+    "source_team": "T050CSX3EMT",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-11-24/6232172018727_071484839e0ed1154e71_72.jpg",
+      "first_name": "Samuel",
+      "real_name": "Samuel Carter",
+      "display_name": "Samuel Carter",
+      "team": "T050CSX3EMT",
+      "name": "sdale0321",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]
